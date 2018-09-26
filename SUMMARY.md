@@ -8,11 +8,11 @@
 
 ## 4. What services do Participant nodes provide?
 
-* [4.0 Introduction](4./4.0-introduction.md)
-* [4.1 Supporting biodiversity data mobilization](4./4.1-supporting-biodiversity-data-mobilization.md)
-* [4.2. Supporting biodiversity data management and curation](4./4.2.-supporting-biodiversity-data-management-and-curation.md)
-* [4.3. Supporting biodiversity data analysis and use](4./4.3.-supporting-biodiversity-data-analysis-and-use.md)
-* [4.4. Coordinating the landscape of biodiversity-related initiatives including participating in the G](4./4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.md)
+* [4.0 Introduction](4-what-services-do-participant-nodes-provide/4.0-introduction.md)
+* [4.1 Supporting biodiversity data mobilization](4-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.md)
+* [4.2. Supporting biodiversity data management and curation](4-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.md)
+* [4.3. Supporting biodiversity data analysis and use](4-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.md)
+* [4.4. Coordinating the landscape of biodiversity-related initiatives including participating in the G](4-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.md)
 
 ## 5. What do Participant nodes need to be effective?
 
