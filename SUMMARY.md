@@ -6,7 +6,7 @@
 * [3. Why are Participant nodes needed?](3.-why-are-participant-nodes-needed/README.md)
   * [Box 2. Stakeholders involved in GBIF activities at the Participant level](3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.md)
 
-## 4. 4. What services do Participant nodes provide?
+## 4. What services do Participant nodes provide?
 
 * [4.0 Introduction](4./4.0-introduction.md)
 * [4.1 Supporting biodiversity data mobilization](4./4.1-supporting-biodiversity-data-mobilization.md)
