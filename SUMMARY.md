@@ -6,7 +6,6 @@
 * [3. Why are Participant nodes needed?](3.-why-are-participant-nodes-needed/README.md)
   * [Box 2. Stakeholders involved in GBIF activities at the Participant level](3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.md)
 * [4. What services do Participant nodes provide?](untitled.md)
-* [Untitled](untitled-1.md)
 
 ## 5. What do Participant nodes need to be effective?
 
