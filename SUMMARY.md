@@ -5,7 +5,14 @@
   * [Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant count](2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.md)
 * [3. Why are Participant nodes needed?](3.-why-are-participant-nodes-needed/README.md)
   * [Box 2. Stakeholders involved in GBIF activities at the Participant level](3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.md)
-* [4. What services do Participant nodes provide?](untitled.md)
+
+## 4. 4. What services do Participant nodes provide?
+
+* [4.0 Introduction](4./4.0-introduction.md)
+* [4.1 Supporting biodiversity data mobilization](4./4.1-supporting-biodiversity-data-mobilization.md)
+* [4.2. Supporting biodiversity data management and curation](4./4.2.-supporting-biodiversity-data-management-and-curation.md)
+* [4.3. Supporting biodiversity data analysis and use](4./4.3.-supporting-biodiversity-data-analysis-and-use.md)
+* [4.4. Coordinating the landscape of biodiversity-related initiatives including participating in the G](4./4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.md)
 
 ## 5. What do Participant nodes need to be effective?
 
