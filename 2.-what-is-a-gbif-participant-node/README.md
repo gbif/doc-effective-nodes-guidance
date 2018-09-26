@@ -8,7 +8,7 @@ A Participant node is typically hosted by an existing biodiversity-related insti
 
 A broad range of stakeholders are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers \(see [Box 1](box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.md)\). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network. 
 
-Participant nodes typically have four main functions \(see also [Section 4](../4-what-services-do-participant-nodes-provide/4.0-introduction.md)\):  
+Participant nodes typically have four main functions \(see also [Section 4](../4.-what-services-do-participant-nodes-provide/4.0-introduction.md)\):  
 
 * Promoting and supporting the mobilization of biodiversity data within the country or organization’s scope 
 * Providing expertise on biodiversity data management and improving data quality 
