@@ -1,12 +1,14 @@
 # Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant count
 
-**Key Structures** 
+#### Key Structures 
 
-**Participant**: a country, economy or organization that joins GBIF by signing a [Memorandum of Understanding](https://www.gbif.org/document/80661) and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. Participant node: a coordinating team designated by the Participant to establish, strengthen and expand the collective GBIF activities in the country or organization. 
+**Participant**: a country, economy or organization that joins GBIF by signing a [Memorandum of Understanding](https://www.gbif.org/document/80661) and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. Participant node: a coordinating team designated by the Participant to establish, strengthen and expand the collective GBIF activities in the country or organization.
 
-Biodiversity information facility: Variously described as a ‘BIF’, a system or a network, a broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders.  
+**Participant node**: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.
 
-Key Roles 
+**Biodiversity information facility**: Variously described as a ‘BIF’, a system or a network, the broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders.  
+
+#### Key Roles 
 
 **Delegation**: the team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation. 
 
