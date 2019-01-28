@@ -10,7 +10,7 @@ GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts
 #foo
 
 *Contributors*
-Mélianie Raymond, Kyle Copas](https://orcid.org/0000-0002-6590-599X) and \____ of the GBIF Secretariat contributed to this version of document.
+Mélianie Raymond, [Kyle Copas](https://orcid.org/0000-0002-6590-599X) and \____ of the GBIF Secretariat contributed to this version of document.
 
 *Establishing an Effective GBIF Participant Node* is licensed under [Creative Commons Attribution 4.0 Unported License](https://creativecommons.org/licenses/by/4.0).
 
