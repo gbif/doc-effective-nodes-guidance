@@ -1,6 +1,6 @@
 [[introduction]]
-1. Introduction
----------------
+Introduction
+------------
 
 The conservation and sustainable use of biological resources depend on an understanding of biodiversity and the processes that underlie it. While 250 years of biodiversity research and data collection have generated a wealth of information, it is scattered across a multitude of sources and formats: from museum collection specimens and local government reports to published literature and university researchers’ own computers. On top of these historical resources, today’s technological and scientific advances are generating more data in huge quantities and fresh formats. Mobilizing this information in a structured way while using common standards and common platforms not only contributes to the understanding of biodiversity, but also enables a vast range of uses, creates new research opportunities and supports policymaking at the national and global levels.
 
