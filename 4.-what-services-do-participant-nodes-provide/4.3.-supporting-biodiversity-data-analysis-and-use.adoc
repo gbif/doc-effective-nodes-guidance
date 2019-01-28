@@ -1,0 +1,12 @@
+[[supporting-biodiversity-data-analysis-and-use]]
+4.3. Supporting biodiversity data analysis and use
+--------------------------------------------------
+
+Examples of services include:
+
+* Facilitating access to biodiversity data by promoting the use of the GBIF infrastructure and/or by maintaining a national or thematic biodiversity data portal
+* Acting as a reference institution for biodiversity information
+* Providing support for biodiversity research, through evaluation of data needs and data gaps, encouraging interdisciplinary cooperation between scientists and through capacity development activities
+* Providing support for the compilation, maintenance and publishing of national, sub-national and thematic species inventories and checklists, and the use of these lists to underpin other activities (e.g., conservation work, national reporting)
+* Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, planning, conservation and management
+* Providing support for national reporting on biodiversity, for example under the Convention on Biological Diversity and other multilateral biodiversity-related agreements

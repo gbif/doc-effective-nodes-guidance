@@ -1,0 +1,5 @@
+[[contact-for-further-support]]
+7.5 Contact for further support
+-------------------------------
+
+Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact nodes@gbif.org for further information.

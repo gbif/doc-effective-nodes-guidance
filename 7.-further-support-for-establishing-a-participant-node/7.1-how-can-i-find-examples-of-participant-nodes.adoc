@@ -1,0 +1,16 @@
+[[how-can-i-find-examples-of-participant-nodes]]
+7.1 How can I find examples of Participant nodes?
+-------------------------------------------------
+
+The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Participants’ GBIF-related activities. They include information about:
+
+* The Participant’s membership status and date of joining GBIF
+* The Participant node’s date of establishment, website and contact information
+* An overview of the data published from the country’s institutions, with links to the data publishers and datasets, as well as data published from anywhere in the world about biodiversity located in the country +
+* Information on the node’s history, vision and mission, structure and national funding
+* A list of news items relating to the Participant country and published by the Participant node, as well as links to social media channels operated by the node
+* A list of peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country
+
+https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website.
+
+Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members directly for advice in establishing a node.

@@ -1,0 +1,13 @@
+[[supporting-biodiversity-data-mobilization]]
+4.1 Supporting biodiversity data mobilization
+---------------------------------------------
+
+Examples of services include:
+
+* Organizing biodiversity data within the Participant’s domain to ensure open access to all digitally available biodiversity data
+* Promoting and coordinating national investment in the digitization and mobilization of biodiversity information
+* Providing a technical infrastructure and support to enable biodiversity data to be published on the Internet and through the GBIF network (including collections data, observational data, checklist data and metadata describing data sources)
+* Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers] as a mechanism to gain recognition for sharing of datasets
+* Developing a culture of open access and supporting open data requirements mandated, for example, through grant conditions
+* Maintaining a collaborative framework between data holders and users, for example, through data sharing agreements that enable data sharing to occur according to agreed terms and encourage data reuse
+* Promoting societal engagement in biodiversity issues, for example, by supporting citizen science movements that mobilize observational data
