@@ -1,5 +1,7 @@
 # Establishing an Effective GBIF Participant Node
 
+Generated document (temporary location): [HTML](https://labs.gbif.org/documents/effective-nodes-guidance/) –  [PDF](https://labs.gbif.org/documents/effective-nodes-guidance/index.pdf). [![Build status](https://builds.gbif.org/job/doc-effective-nodes-guidance/badge/icon)](https://builds.gbif.org/job/doc-effective-nodes-guidance/)
+
 __Concepts and general considerations__
 
 
