@@ -4,18 +4,21 @@
 
 Participants in GBIF are countries, international organizations or economies having signed the GBIF https://www.gbif.org/document/80661[Memorandum of Understanding] (MOU). Signatories to this agreement express their commitment to establish a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development.
 
-A GBIF Participant node is the coordinating team designated by a Participant to establish, strengthen and expand the GBIF-related activities of the country or international organization. The broader network of people and institutions coordinated by the node, collectively building an infrastructure for delivering biodiversity information, is sometimes referred to as a biodiversity information facility (see <<box-1,Box 1>>).
+A GBIF Participant node is a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making. For countries, these networks aresometimes referred to as a biodiversity information facility (see <<box-1,Box 1>>).
 
-A Participant node is typically hosted by an existing biodiversity-related institution or institutions in the Participant country, or by Participant organizations. The node manager leads the team and also represents the Participant on the https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF Participant Node Managers Committee].
+A Participant node is typically hosted by an existing biodiversity-related institution or institutions in the Participant country, or by Participant organizations. Two main roles are assigned when a Participant joins GBIF: the Head of Delegation and the node manager. The HoD serves on the GBIF governing board and….
+    Check the guidance on HODs from TH and AMN
 
-A broad range of stakeholders are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers (see <<box-1,Box 1>>). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network.
+The node manager leads the team and also represents the Participant on the https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF Participant Node Managers Committee].
+
+A broad range of stakeholders are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers <<box-1,Box 1>>). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network.
 
 Participant nodes typically have four main functions (see also <<introduction4,Section 4>>):
 
+* Coordinating a community of initiatives relating to biodiversity, including making connections to the international GBIF network
 * Promoting and supporting the mobilization of biodiversity data within the country or organization’s scope
-* Providing expertise on biodiversity data management and improving data quality
-* Encouraging the optimum reuse of available data +
-* Fostering collaboration between existing initiatives relating to biodiversity, including making connections to the international GBIF network
+* Encouraging the reuse of the available data to support biodiversity-related science and support decision-making for sustainable development
+* Providing expertise on biodiversity data management and improving data quality to support users' needs
 
 Participant nodes are thus knowledge hubs both for biodiversity data and broader GBIF-related activities. They not only guide stakeholders to relevant sources of biodiversity information but also to such things as:
 
@@ -24,8 +27,10 @@ Participant nodes are thus knowledge hubs both for biodiversity data and broader
 * Individual experts in different aspects of biodiversity
 * Broader information about the landscape of biodiversity initiatives
 
-Most Participant nodes develop a collaborative framework of policies, agreements and standards, which are adopted by their stakeholders to guide the publication, management and use of biodiversity data.
+Most Participant nodes develop a collaborative framework of policies, agreements, community norms and standards, which are adopted by their stakeholders to guide the publication, management and use of biodiversity data.
 
 The governance structure of each Participant node varies but often takes the form of a board or steering committee. This configuration enables data holders, users and other stakeholders to take collective decisions concerning the publishing and reuse of biodiversity data while providing the node with priorities and guidance on the implementation of its work.
+
+Participant nodes provide the technical expertise to support the publication of biodiversity data of the highest possible quality by data holders. This involves using informatics infrastructure, and many implementation models are available, from using hosted data publication services to maintaining a distributed network of data publishers and a centralized index of the data. The node may also support a range of other information products and services, for example, by maintaining a biodiversity data portal and online tools for data analysis.
 
 Participant nodes maintain an informatics infrastructure to support the publication of biodiversity data by data holders. Many implementation models are available, from using hosted data publication services to maintaining a distributed network of data publishers and a centralized index of the data. The node’s informatics infrastructure may also support a range of other information products and services, for example, by maintaining a biodiversity data portal and online tools for data analysis.

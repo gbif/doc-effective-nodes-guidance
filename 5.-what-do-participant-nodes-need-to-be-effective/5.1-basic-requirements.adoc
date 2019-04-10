@@ -2,14 +2,12 @@
 5.1 Basic requirements
 ----------------------
 
-Capacity, defined as “http://www.oecd.org/development/governance-development/36326495.pdf[the ability of individuals, institutions and societies to perform functions, solve problems and set and achieve objectives in a sustainable manner]”, is a useful way of identifying what a Participant node needs to be effective. The http://links.gbif.org/cef[GBIF capacity enhancement framework] considers capacity on three interlinked dimensions: the enabling environment, the organization and the individual.
-
-The strategy further classifies capacity into two broad types that apply to each of the three dimensions:
+The capacities required by Participant nodes can be broadly divided into two categories (see the http://links.gbif.org/cef[GBIF capacity enhancement framework]):
 
 * *Functional capacities*: relating to organizational and institutional effectiveness
 * T**echnical capacities**: the specific skills, knowledge and competencies that Participants need to mobilize, manage and use biodiversity data
 
-Using this framework, the following basic requirements need to be considered when establishing a Participant node. The lack of any of these requirements will reduce the overall effectiveness of the node.
+The following *basic requirements* need to be considered when establishing a Participant node. The lack of any of these will reduce the overall effectiveness of the node.
 
 [[functional-capacities]]
 Functional capacities
@@ -21,9 +19,9 @@ Planning and Policy Capacity
 
 The ability to formulate strategies, plans and policies based on relevant assessments.
 
-1.  A clear mandate (official; institutional) through which the node is given formal responsibility for promoting, coordinating and facilitating the management and use of biodiversity data among the relevant stakeholder institutions within the Participant’s domain. +
-2.  A governance structure that is representative of the major stakeholders within the Participant's domain. An actively engaged governing body that guides and supports the node’s work helps to ensure that the relevant actors feel ownership of the node’s work.
-3.  A clearly stated long-term purpose with plans for the medium and short term. The node needs a readily understood vision and mission that motivate the node’s team, governance and broader stakeholders. The node needs to be able to formulate a general strategy and regular work plans in line with priorities at the Participant level. These plans should define expectations about what the node will deliver in a given time frame and will help evaluate the node’s performance.
+1.  A *clear mandate* (official; institutional) through which the node is given formal responsibility for promoting, coordinating and facilitating the management and use of biodiversity data among the relevant stakeholder institutions within the Participant’s domain. +
+2.  A *governance structure* that is representative of the major stakeholders within the Participant's domain. An actively engaged governing body that guides and supports the node’s work helps to ensure that the relevant actors feel ownership of the node’s work.
+3.  A clearly stated *long-term purpose* with plans for the medium and short term. The node needs a readily understood vision and mission that motivate the node’s team, governance and broader stakeholders. The node needs to be able to formulate a general strategy and regular work plans in line with priorities at the Participant level. These plans should define expectations about what the node will deliver in a given time frame and will help evaluate the node’s performance.
 
 [[engagement-capacity]]
 Engagement Capacity
@@ -31,8 +29,8 @@ Engagement Capacity
 
 The ability to initiate and sustain partnerships and networks.
 
-1.  A collaborative framework to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see section 6.1). It should include relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them. +
-2.  Communications and outreach plans, tools and materials to support collaborative work between the members of the node’s network and to encourage the ongoing addition of new members. Materials can include a website, newsletters, brochures, mailing lists and use of social media platforms. The https://www.gbif.org/document/80926[GBIF communications strategy] can help identify key messages for relevant audiences, and Participants can coordinate with the Secretariat on communication activities within the wider GBIF network.
+1.  *A collaborative framework* to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see section 6.1). It should include community norms and relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them. +
+2.  *Communications and outreach plans, tools and materials* to support collaborative work between the members of the node’s network and to encourage the ongoing addition of new members. Materials can include a website, newsletters, brochures, mailing lists and use of social media platforms. The https://www.gbif.org/document/80926[GBIF communications strategy] can help identify key messages for relevant audiences, and Participants can coordinate with the Secretariat on communication activities within the wider GBIF network.
 
 [[implementation-and-evaluation-capacity]]
 Implementation and Evaluation Capacity
@@ -40,8 +38,8 @@ Implementation and Evaluation Capacity
 
 The ability to manage, fund, budget, implement and evaluate projects and programmes.
 
-1.  Dedicated staff members to implement the node’s mandate and work plans (see section 6.2). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training. +
-2.  Institutional and financial support, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds.
+1.  *Dedicated staff members* to implement the node’s mandate and work plans (see section 6.2). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training. +
+2.  *Institutional and financial support*, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds.
 
 [[technical-capacities]]
 Technical capacities
@@ -53,8 +51,8 @@ Biodiversity data mobilization
 
 The ability to collect, digitize and publish biodiversity data.
 
-1.  An informatics infrastructure to support the mobilization of biodiversity data. Existing tools, such as the https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)], support a range of implementation models, from using hosted data publication tools to maintaining a distributed network of data publishers and a centralized index of data.
-2.  A programme to encourage and support data holders in mobilizing their data, including, for example, promotion of incentives for data sharing and publication, technical helpdesk assistance, the translation or adaptation of documentation and manuals, the organization of training workshops and an e-learning platform.
+1.  Access to *infrastructure to support the mobilization of biodiversity data*. Existing tools support a range of implementation models, from using hosted data publication tools to maintaining a distributed network of data publishers and a centralized index of data.
+2.  A *programme to encourage and support data holders in mobilizing their data*, including, for example, promotion of incentives for data sharing and publication, technical helpdesk assistance, the translation or adaptation of documentation and manuals, the organization of training workshops and an e-learning platform.
 
 [[biodiversity-data-management-and-curation]]
 Biodiversity data management and curation
@@ -62,7 +60,7 @@ Biodiversity data management and curation
 
 The ability to manage and curate biodiversity data, as a means of continuously improving data quality.
 
-1.  A workflow for contributing to data quality improvement, linked to the processes of endorsing data publishers joining the GBIF network and evaluation of datasets. This can include the use of data quality tools and processes available from the GBIF network (see http://www.gbif.es/BDQ.php[GBIF Spain’s Data Quality Hub]) and guidance and information for data holders on data management techniques.
+1.  A *workflow for contributing to data quality improvement*, linked to the processes of endorsing data publishers joining the GBIF network and evaluation of datasets. This can include the use of data quality tools and processes available from the GBIF network (see http://www.gbif.es/BDQ.php[GBIF Spain’s Data Quality Hub]) and guidance and information for data holders on data management techniques.
 
 [[biodiversity-data-analysis-and-use]]
 Biodiversity data analysis and use
@@ -70,7 +68,9 @@ Biodiversity data analysis and use
 
 The ability to access, analyze and use biodiversity data.
 
-1.  Tools and expertise to generate an agreed set of information products and services including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders.
-2.  A programme to support access and use of biodiversity data available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences.
+1.  *Tools and expertise to generate an agreed set of information products and services* including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders.
+2.  A *programme to support access and use of biodiversity data* available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences.
 
-The situation of each GBIF Participant is unique, with different capacity strengths and challenges on different levels. Gaining access to the advice and experience of the GBIF network can help new Participants to establish effective nodes as efficiently as possible. Projects and partnerships with other Participants and their nodes can be an effective form of capacity development, for which there are many successful https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[examples]. GBIF has a https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[capacity enhancement support programme] that provides co-funding each year to support such projects. Less formal exchanges of ideas and experiences, for example, through regional meetings of GBIF nodes, also offer valuable opportunities to help nodes develop the basic capacity requirements.
+The situation of each GBIF Participant is unique, with different capacity strengths and challenges on different levels. The capacity self-assessment tool for national biodiversity information facilities is designed to assist countries with planning at any stage of development by identifying capacity strengths and needs. The self-assessment questionnaire provides more detail on the capacity requirements for establishing an effective Participant node and we recommend completing it as part of the planning process for a new node, and updating it regularly to track progress.
+
+Gaining access to the advice and experience of the GBIF network can help new Participants to establish effective nodes as efficiently as possible. Projects and partnerships with other Participants and their nodes can be an effective form of capacity development, for which there are many successful examples (e.g. https://www.gbif.org/article/1z8DzePKBe6U0MAoo4QQO2/expanding-local-engagement-and-biodiversity-data-use-through-localized-content[Expanding local engagement and biodiversity data use through localized content]). GBIF has a https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[capacity enhancement support programme] that provides co-funding each year to support such projects. Less formal exchanges of ideas and experiences, for example, through regional meetings of GBIF nodes, also offer valuable opportunities to help nodes develop the basic capacity requirements. See link:../7.-further-support-for-establishing-a-participant-node.md[Section 7]for more detail.

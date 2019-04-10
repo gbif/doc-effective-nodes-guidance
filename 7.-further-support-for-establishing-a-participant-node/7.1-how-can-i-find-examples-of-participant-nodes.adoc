@@ -11,6 +11,10 @@ The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a s
 * A list of news items relating to the Participant country and published by the Participant node, as well as links to social media channels operated by the node
 * A list of peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country
 
+<<<<<<< HEAD:7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.adoc
 https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website.
+=======
+[Information about organization Participants](https://www.gbif.org/the-gbif-network/participant-organisations) currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website.  
+>>>>>>> master:7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.md
 
 Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members directly for advice in establishing a node.

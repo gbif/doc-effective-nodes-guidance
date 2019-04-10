@@ -1,5 +1,5 @@
-[[supporting-biodiversity-data-mobilization]]
-4.1 Supporting biodiversity data mobilization
+[[supporting-biodiversity-data-management-and-curation]]
+4.2 Supporting biodiversity data mobilization
 ---------------------------------------------
 
 Examples of services include:

@@ -1,19 +1,25 @@
-== Concepts and general considerations
+[[establishing-an-effective-gbif-participant-node]]
+Establishing an Effective GBIF Participant Node
+-----------------------------------------------
 
-=== Suggested citation
+Generated document (temporary location): https://labs.gbif.org/documents/effective-nodes-guidance/[HTML] – https://labs.gbif.org/documents/effective-nodes-guidance/index.pdf[PDF]. https://builds.gbif.org/job/doc-effective-nodes-guidance/[image:https://builds.gbif.org/job/doc-effective-nodes-guidance/badge/icon[Build status]]
+
+*Concepts and general considerations*
+
+_Suggested citation_
 GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. Available online at #foo.
 
-=== Persistent URI
+_Persistent URI_
 #foo
 
-=== Contributors
-…
+_Contributors_
+Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas] and ____ of the GBIF Secretariat contributed to this version of document.
 
 _Establishing an Effective GBIF Participant Node_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
 
-=== Document Control
+_Document Control_
 Second (GitHub) edition published, February 2019.
 
 First published, March 2015. Contributors: Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern].
 
-NOTE: Originally based on an earlier publication, _Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_.
+Originally based on an earlier publication, _Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_.
