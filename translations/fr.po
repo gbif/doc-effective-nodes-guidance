@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-15 16:14+0200\n"
-"PO-Revision-Date: 2019-04-15 17:12+0200\n"
+"PO-Revision-Date: 2019-04-15 19:13+0200\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +42,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: README.en.adoc:5
 msgid "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. Available online at #foo."
-msgstr "Secrétariat du GBIF 2015. Mise en place d’un point nodal efficace : concepts et considérations générales. Copenhague. Disponible en ligne : https://www.gbif.org/document/82147"
+msgstr "Secrétariat du GBIF 2015. Mise en place d’un point nodal efficace : concepts et considérations générales. Copenhague. Disponible en ligne : https://www.gbif.org/document/82147."
 
 #. type: Title ===
 #: README.en.adoc:6
@@ -434,37 +434,37 @@ msgstr "Les exemples de services comprennent :"
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:8
 msgid "Organizing biodiversity data within the Participant’s domain to ensure open access to all digitally available biodiversity data"
-msgstr "l’organisation des données sur la biodiversité au niveau du Participant afin de garantir le libre accès à toutes les données sur la biodiversité disponibles sous forme numérique ;"
+msgstr "L’organisation des données sur la biodiversité au niveau du Participant afin de garantir le libre accès à toutes les données sur la biodiversité disponibles sous forme numérique"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:9
 msgid "Promoting and coordinating national investment in the digitization and mobilization of biodiversity information"
-msgstr "la promotion et la coordination de l’investissement national dans la numérisation et la mobilisation des informations sur la biodiversité ;"
+msgstr "La promotion et la coordination de l’investissement national dans la numérisation et la mobilisation des informations sur la biodiversité"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:10
 msgid "Providing a technical infrastructure and support to enable biodiversity data to be published on the Internet and through the GBIF network (including collections data, observational data, checklist data and metadata describing data sources)"
-msgstr "la mise à disposition d’une infrastructure et d’une assistance technique pour permettre aux données sur la biodiversité d’être publiées sur Internet et via le réseau GBIF (y compris les données provenant des collections, des observations, des checklists et les métadonnées décrivant les sources de données) ;"
+msgstr "La mise à disposition d’une infrastructure et d’une assistance technique pour permettre aux données sur la biodiversité d’être publiées sur Internet et via le réseau GBIF (y compris les données provenant des collections, des observations, des checklists et les métadonnées décrivant les sources de données)"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:11
 msgid "Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers] as a mechanism to gain recognition for sharing of datasets"
-msgstr "la promotion des avantages de publier les données, par exemple, par le biais des https://www.gbif.org/data-papers[« data papers (_en anglais_) »] comme mécanisme permettant d’obtenir une reconnaissance pour le partage de jeux de données ;"
+msgstr "La promotion des avantages de publier les données, par exemple, par le biais des https://www.gbif.org/data-papers[« data papers (_en anglais_) »] comme mécanisme permettant d’obtenir une reconnaissance pour le partage de jeux de données"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:12
 msgid "Developing a culture of open access and supporting open data requirements mandated, for example, through grant conditions"
-msgstr "le développement d’une culture favorisant l’accès libre et encourageant les exigences de données ouvertes, par exemple dans le cadre des conditions d’octroi de subventions ;"
+msgstr "Le développement d’une culture favorisant l’accès libre et encourageant les exigences de données ouvertes, par exemple dans le cadre des conditions d’octroi de subventions"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:13
 msgid "Maintaining a collaborative framework between data holders and users, for example, through data sharing agreements that enable data sharing to occur according to agreed terms and encourage data reuse"
-msgstr "le maintien d’un cadre collaboratif entre les détenteurs et les utilisateurs de données, par exemple, au travers d’accords permettant le partage des données selon des conditions préétablies et encourageant la réutilisation des données ;"
+msgstr "Le maintien d’un cadre collaboratif entre les détenteurs et les utilisateurs de données, par exemple, au travers d’accords permettant le partage des données selon des conditions préétablies et encourageant la réutilisation des données"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:13
 msgid "Promoting societal engagement in biodiversity issues, for example, by supporting citizen science movements that mobilize observational data"
-msgstr "la promotion d’un engagement sociétal sur les questions de biodiversité, par exemple en soutenant les mouvements de sciences citoyennes qui mobilisent les données provenant d’observations."
+msgstr "La promotion d’un engagement sociétal sur les questions de biodiversité, par exemple en soutenant les mouvements de sciences citoyennes qui mobilisent les données provenant d’observations"
 
 #. type: Title -
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:3
@@ -475,27 +475,27 @@ msgstr "4.2. Faciliter la gestion et la conservation des données sur la biodive
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:8
 msgid "Increasing the quality of available biodiversity data, for example, through the standardization and documentation of existing data sources with metadata"
-msgstr "l’amélioration de la qualité des données disponibles, par exemple à travers la standardisation et la documentation des sources de données existantes avec des métadonnées ;"
+msgstr "L’amélioration de la qualité des données disponibles, par exemple à travers la standardisation et la documentation des sources de données existantes avec des métadonnées"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:9
 msgid "Assisting data holders with data management, using appropriate tools and practices, for example, through capacity development programmes focused on biodiversity informatics"
-msgstr "l’aide apportée aux détenteurs de données pour gérer leurs données en utilisant des outils et méthodes appropriées, par exemple par le biais de programmes de renforcement des capacités axés sur l’informatique appliquée à la biodiversité ;"
+msgstr "L’aide apportée aux détenteurs de données pour gérer leurs données en utilisant des outils et méthodes appropriées, par exemple par le biais de programmes de renforcement des capacités axés sur l’informatique appliquée à la biodiversité"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:10
 msgid "Acting as a permanent repository for biodiversity data within the Participant’s domain for data holders that do not have the capacity to maintain their own permanent records"
-msgstr "le rôle de répertoire permanent des données sur la biodiversité au niveau du Participant pour les détenteurs de données qui n’ont pas la capacité de maintenir leurs propres archives de manière permanente ;"
+msgstr "Le rôle de répertoire permanent des données sur la biodiversité au niveau du Participant pour les détenteurs de données qui n’ont pas la capacité de maintenir leurs propres archives de manière permanente"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:11
 msgid "Providing endorsement of biodiversity data publishers to be added to the GBIF network"
-msgstr "le fait de valider ceux qui publient des données sur la biodiversité pour qu’ils puissent devenir membres du réseau GBIF ;"
+msgstr "Le fait de valider ceux qui publient des données sur la biodiversité pour qu’ils puissent devenir membres du réseau GBIF"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:11
 msgid "Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types."
-msgstr "la collaboration avec d’autres initiatives de biodiversité afin de garantir une interopérabilité maximale entre les différents types de données sur la biodiversité."
+msgstr "La collaboration avec d’autres initiatives de biodiversité afin de garantir une interopérabilité maximale entre les différents types de données sur la biodiversité."
 
 #. type: Title -
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:3
@@ -506,32 +506,32 @@ msgstr "4.3. Faciliter l’analyse et l’utilisation des données sur la biodiv
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:8
 msgid "Facilitating access to biodiversity data by promoting the use of the GBIF infrastructure and/or by maintaining a national or thematic biodiversity data portal"
-msgstr "la facilitation de l’accès aux données sur la biodiversité en promouvant l’utilisation de l’infrastructure du GBIF et/ou en gérant un portail national ou thématique de données sur la biodiversité ;"
+msgstr "La facilitation de l’accès aux données sur la biodiversité en promouvant l’utilisation de l’infrastructure du GBIF et/ou en gérant un portail national ou thématique de données sur la biodiversité"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:9
 msgid "Acting as a reference institution for biodiversity information"
-msgstr "le rôle d’institution de référence pour la dissémination des informations sur la biodiversité ;"
+msgstr "Le rôle d’institution de référence pour la dissémination des informations sur la biodiversité"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:10
 msgid "Providing support for biodiversity research, through evaluation of data needs and data gaps, encouraging interdisciplinary cooperation between scientists and through capacity development activities"
-msgstr "l’appui à la recherche sur la biodiversité en évaluant les besoins et les lacunes des données, en encourageant une coopération interdisciplinaire entre les scientifiques et en organisant des activités de renforcement des capacités ;"
+msgstr "L’appui à la recherche sur la biodiversité en évaluant les besoins et les lacunes des données, en encourageant une coopération interdisciplinaire entre les scientifiques et en organisant des activités de renforcement des capacités"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:11
 msgid "Providing support for the compilation, maintenance and publishing of national, sub-national and thematic species inventories and checklists, and the use of these lists to underpin other activities (e.g., conservation work, national reporting)"
-msgstr "le soutien à la compilation, la gestion et la publication des inventaires d’espèces et des checklists nationaux, régionaux et thématiques, et l’utilisation de ces listes pour étayer d’autres activités (ex. : travaux de conservation, rapports nationaux) ;"
+msgstr "Le soutien à la compilation, la gestion et la publication des inventaires d’espèces et des checklists nationaux, régionaux et thématiques, et l’utilisation de ces listes pour étayer d’autres activités (ex. : travaux de conservation, rapports nationaux)"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:12
 msgid "Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, planning, conservation and management"
-msgstr "la contribution à l’élaboration de politiques, par exemple en prodiguant des conseils sur la désignation de priorités en matière de recherche sur la biodiversité, et l’aide à la généralisation de l’utilisation des données et des informations sur la biodiversité dans les processus de prise de décision, de planification, de conservation et de gestion ;"
+msgstr "La contribution à l’élaboration de politiques, par exemple en prodiguant des conseils sur la désignation de priorités en matière de recherche sur la biodiversité, et l’aide à la généralisation de l’utilisation des données et des informations sur la biodiversité dans les processus de prise de décision, de planification, de conservation et de gestion"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:12
 msgid "Providing support for national reporting on biodiversity, for example under the Convention on Biological Diversity and other multilateral biodiversity-related agreements"
-msgstr "l’appui à l’élaboration de rapports nationaux sur la biodiversité, par exemple par le biais de la Convention sur la diversité biologique et d’autres accords multilatéraux sur la biodiversité."
+msgstr "L’appui à l’élaboration de rapports nationaux sur la biodiversité, par exemple par le biais de la Convention sur la diversité biologique et d’autres accords multilatéraux sur la biodiversité"
 
 #. type: Title -
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:3
@@ -542,27 +542,27 @@ msgstr "4.4. Coordonner la variété d’initiatives liées à la biodiversité,
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:8
 msgid "Promoting the expansion of GBIF participation to other countries and organizations"
-msgstr "la promotion de l’expansion de la participation au GBIF à d’autres pays et d’autres organisations ;"
+msgstr "La promotion de l’expansion de la participation au GBIF à d’autres pays et d’autres organisations"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:9
 msgid "Taking part in the GBIF Participant Node Managers Committee and regional sub-committees, by providing guidance on and contributing to the implementation of GBIF work programmes in line with Participant priorities"
-msgstr "la participation au Comité des responsables des points nodaux et aux sous-comités régionaux en donnant des orientations et en contribuant à la mise en oeuvre des programmes de travail du GBIF conformément aux priorités des Participants ;"
+msgstr "La participation au Comité des responsables des points nodaux et aux sous-comités régionaux en donnant des orientations et en contribuant à la mise en oeuvre des programmes de travail du GBIF conformément aux priorités des Participants"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:10
 msgid "Benefiting from and contributing to capacity development activities across the network, such as mentoring, training, sharing of expertise through task groups, participation in collaborative projects, testing and advising on new developments from other Participants and the GBIF Secretariat"
-msgstr "la contribution aux activités de renforcement des capacités dans l’ensemble du réseau, telles que le mentorat, la formation, le partage d’expertise par le biais de groupes de travail, la participation à des projets collaboratifs, l’évaluation de développements d’autres Participants et du Secrétariat du GBIF ;"
+msgstr "La contribution aux activités de renforcement des capacités dans l’ensemble du réseau, telles que le mentorat, la formation, le partage d’expertise par le biais de groupes de travail, la participation à des projets collaboratifs, l’évaluation de développements d’autres Participants et du Secrétariat du GBIF"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:11
 msgid "Coordinating communication activities relating to biodiversity information and informatics activities, sharing communications with the wider GBIF community through the Secretariat, and disseminating relevant global information to stakeholder networks within the node’s country or organization"
-msgstr "la coordination des activités de communication relatives aux informations sur la biodiversité et des activités informatiques, le partage des communications avec l’ensemble de la communauté GBIF par le biais du Secrétariat, et la diffusion d’informations mondiales pertinentes auprès des réseaux de parties prenantes du point nodal au sein du pays ou de l’organisation ;"
+msgstr "La coordination des activités de communication relatives aux informations sur la biodiversité et des activités informatiques, le partage des communications avec l’ensemble de la communauté GBIF par le biais du Secrétariat, et la diffusion d’informations mondiales pertinentes auprès des réseaux de parties prenantes du point nodal au sein du pays ou de l’organisation"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:11
 msgid "Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], IPBES capacity building programmes, Encyclopedia of Life, Biodiversity Heritage Library and others, including close liaison or joint working with relevant nodes or focal points for these initiatives"
-msgstr "la promotion des synergies avec les activités nationales et régionales impliquant d’autres initiatives mondiales sur la biodiversité, telles que le http://www.cbd.int/chm/default.shtml[Centre d’échange de la Convention sur la diversité biologique], les programmes de renforcement des capacités de l’IPBES, l’Encyclopedia of Life, la Biodiversity Heritage Library et d’autres, y compris une étroite collaboration ou un travail conjoint avec les points nodaux ou points focaux gérant ces initiatives."
+msgstr "La promotion des synergies avec les activités nationales et régionales impliquant d’autres initiatives mondiales sur la biodiversité, telles que le http://www.cbd.int/chm/default.shtml[Centre d’échange de la Convention sur la diversité biologique], les programmes de renforcement des capacités de l’IPBES, l’Encyclopedia of Life, la Biodiversity Heritage Library et d’autres, y compris une étroite collaboration ou un travail conjoint avec les points nodaux ou points focaux gérant ces initiatives"
 
 #. type: Title -
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:3
@@ -617,7 +617,7 @@ msgstr "Aptitude à formuler des stratégies, des plans et des politiques fondé
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:25
 msgid "A clear mandate (official; institutional) through which the node is given formal responsibility for promoting, coordinating and facilitating the management and use of biodiversity data among the relevant stakeholder institutions within the Participant’s domain. +"
-msgstr "Un *mandat clair* (officiel, institutionnel) dans lequel le point nodal est formellement chargé de promouvoir, coordonner et faciliter la gestion et l’utilisation des données sur la biodiversité auprès des institutions parties prenantes concernées au sein du domaine d’activité du Participant."
+msgstr "Un *mandat clair* (officiel, institutionnel) dans lequel le point nodal est formellement chargé de promouvoir, coordonner et faciliter la gestion et l’utilisation des données sur la biodiversité auprès des institutions parties prenantes concernées au sein du domaine d’activité du Participant"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:26
@@ -643,7 +643,7 @@ msgstr "Aptitude à initier et à maintenir des partenariats et des réseaux."
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:35
 msgid "A collaborative framework to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see section 6.1). It should include relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them. +"
-msgstr "Un *cadre collaboratif* permettant de mettre en place un système d’information sur la biodiversité, défini et préétabli par les parties prenantes et les partenaires concernés au sein du domaine d’activité du Participant. Ce cadre devrait garantir que le point nodal possède un rôle bien défini au sein de l’ensemble des institutions sur la biodiversité, s’appuyant sur des partenariats solides et des services complémentaires (cf. _Section 6.1_). Il doit inclure des accords formels pertinents sur la publication et l’accès aux données. Il doit également s’assurer que le point nodal reconnaît et valorise les organisations et les individus qui en sont membres, qui y contribuent et utilisent ses services afin de consolider ses relations avec eux."
+msgstr "Un *cadre collaboratif* permettant de mettre en place un système d’information sur la biodiversité, défini et préétabli par les parties prenantes et les partenaires concernés au sein du domaine d’activité du Participant. Ce cadre devrait garantir que le point nodal possède un rôle bien défini au sein de l’ensemble des institutions sur la biodiversité, s’appuyant sur des partenariats solides et des services complémentaires (cf. _Section 6.1_). Il doit inclure des accords formels pertinents sur la publication et l’accès aux données. Il doit également s’assurer que le point nodal reconnaît et valorise les organisations et les individus qui en sont membres, qui y contribuent et utilisent ses services afin de consolider ses relations avec eux"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:36
@@ -654,86 +654,86 @@ msgstr "Des *plans, outils et matériaux de communication et de sensibilisation*
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:39
 #, no-wrap
 msgid "Implementation and Evaluation Capacity"
-msgstr ""
+msgstr "Capacité de mise en oeuvre et d’évaluation"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:42
 msgid "The ability to manage, fund, budget, implement and evaluate projects and programmes."
-msgstr ""
+msgstr "Aptitude à gérer, financer, budgéter, mettre en oeuvre et évaluer des projets et des programmes."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:44
 msgid "Dedicated staff members to implement the node’s mandate and work plans (see section 6.2). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training. +"
-msgstr ""
+msgstr "Des *membres du personnel dédiés* pour mettre en oeuvre le mandat et les programmes de travail du point nodal (cf. _Section 6.2_). L’équipe du point nodal aura besoin d’un large éventail de compétences allant de l’informatique appliquée à la biodiversité à la coordination de réseau, soutenues par une formation appropriée"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:45
 msgid "Institutional and financial support, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds."
-msgstr ""
+msgstr "Une *aide institutionnelle et financière* en conformité avec les services devant être fournis par le point nodal pour que le point nodal puisse réaliser ses programmes de travail. L’aide institutionnelle peut comprendre une assistance administrative, des installations hôtes et le soutien politique nécessaire pour permettre l’implication de partenaires clés, susciter l’intérêt, accroître la visibilité et mobiliser des fonds."
 
 #. type: Title ~
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:48
 #, no-wrap
 msgid "Technical capacities"
-msgstr ""
+msgstr "Capacités techniques"
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:52
 #, no-wrap
 msgid "Biodiversity data mobilization"
-msgstr ""
+msgstr "Mobilisation des données sur la biodiversité"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:55
 msgid "The ability to collect, digitize and publish biodiversity data."
-msgstr ""
+msgstr "Aptitude à collecter, numériser et publier les données sur la biodiversité."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:57
 msgid "An informatics infrastructure to support the mobilization of biodiversity data. Existing tools, such as the https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)], support a range of implementation models, from using hosted data publication tools to maintaining a distributed network of data publishers and a centralized index of data."
-msgstr ""
+msgstr "Une *infrastructure informatique aidant à la mobilisation des données sur la biodiversité*. Les outils existants, par example https://www.gbif.org/ipt[l’IPT (Integrated Publishing Toolkit)], viennent en appui de nombreux modèles de mise en oeuvre, allant de l’utilisation d’outils de publication de données hébergés à la gestion d’un réseau décentralisé de personnes publiant les données et un catalogue centralisé des données."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:58
 msgid "A programme to encourage and support data holders in mobilizing their data, including, for example, promotion of incentives for data sharing and publication, technical helpdesk assistance, the translation or adaptation of documentation and manuals, the organization of training workshops and an e-learning platform."
-msgstr ""
+msgstr "Un *programme encourageant et aidant les détenteurs de données à mobiliser leurs données*, comprenant, par exemple, la promotion d’incitations au partage et à la publication de données, une assistance technique, la traduction ou l’adaptation de documents et de manuels, l’organisation d’ateliers de formation et d’une plateforme d’apprentissage électronique."
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:61
 #, no-wrap
 msgid "Biodiversity data management and curation"
-msgstr ""
+msgstr "Gestion et conservation des données sur la biodiversité"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:64
 msgid "The ability to manage and curate biodiversity data, as a means of continuously improving data quality."
-msgstr ""
+msgstr "Aptitude à gérer et à conserver les données sur la biodiversité afin d’améliorer continuellement la qualité des données."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:66
 msgid "A workflow for contributing to data quality improvement, linked to the processes of endorsing data publishers joining the GBIF network and evaluation of datasets. This can include the use of data quality tools and processes available from the GBIF network (see http://www.gbif.es/BDQ.php[GBIF Spain’s Data Quality Hub]) and guidance and information for data holders on data management techniques."
-msgstr ""
+msgstr "Un *flux de travail contribuant à l’amélioration de la qualité des données*, connecté aux processus de validation des personnes publiant des données qui deviennent membres du réseau GBIF et d’évaluation des jeux de données. Cela peut comprendre l’utilisation d’outils et de processus de qualité des données disponibles du réseau GBIF (cf. http://www.gbif.es/BDQ.php[Pôle de qualité des données de GBIF Espagne] (_en anglais_)) ainsi que des conseils et informations sur les techniques de gestion des données à l’attention des détenteurs de données."
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:69
 #, no-wrap
 msgid "Biodiversity data analysis and use"
-msgstr ""
+msgstr "Analyse et utilisation des données sur la biodiversité"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:72
 msgid "The ability to access, analyze and use biodiversity data."
-msgstr ""
+msgstr "Aptitude à accéder, analyser et utiliser les données sur la biodiversité."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:74
 msgid "Tools and expertise to generate an agreed set of information products and services including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders."
-msgstr ""
+msgstr "Des *outils et une expertise pour générer un ensemble de produits et de services d’information* y compris, par exemple, des listes d’espèces nationales, régionales et thématiques, des contributions à l’élaboration de rapports sur le statut de biodiversité, un catalogue de métadonnées, et une analyse des besoins et des lacunes concernant les données sur la biodiversité qui complètent celles générées par d’autres parties prenantes."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:75
 msgid "A programme to support access and use of biodiversity data available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences."
-msgstr ""
+msgstr "Un *programme pour permettre l’accès et l’utilisation des données sur la biodiversité* mises à disposition par le réseau GBIF, susceptible de comprendre un portail national ou thématique de données sur la biodiversité. Ce programme peut inclure notamment l’organisation d’ateliers de formation, la liaison avec des programmes d’éducation nationale, la traduction et l’adaptation de documents, ainsi que des actions visant à accroître la visibilité du réseau lors de conférences scientifiques spécifiques."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:76
@@ -741,77 +741,81 @@ msgid ""
 "The situation of each GBIF Participant is unique, with different capacity strengths and challenges on different levels. Gaining access to the advice and experience of the GBIF network can help new Participants to establish effective nodes as efficiently as possible. Projects and partnerships with other Participants and their nodes can be an effective form of capacity development, for which there are many successful https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[examples]. GBIF has a https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[capacity enhancement support programme] that provides co-funding each year to support such projects. Less formal exchanges of ideas and experiences, for example, through regional meetings of GBIF nodes, also offer valuable opportunities to help "
 "nodes develop the basic capacity requirements."
 msgstr ""
+"La situation de chaque Participant GBIF est unique, chacun d’entre eux possédant différents points forts et devant relever différents défis à différents niveaux. L’accès aux conseils et à l’expérience du réseau GBIF peut aider les nouveaux Participants à établir des points nodaux aussi efficacement que possible. Les projets et partenariats avec d’autres Participants et leurs points nodaux peuvent s’avérer une forme efficace de renforcement des capacités, dont il existe de nombreux https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[exemples] (_en anglais_) de réussite. Le GBIF possède un https://www.gbif.org/programme/82219[programme de soutien au renforcement des capacités] (_en anglais_) qui offre un cofinancement à de tels projets. Les échanges moins formels d’idées et d’expérience, par exemple au "
+"travers des réunions régionales de points nodaux, peuvent également représenter d’excellentes occasions pour aider les points nodaux à mettre en place les exigences fondamentales en matière de capacité."
 
 #. type: Title -
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:3
 #, no-wrap
 msgid "5.2 Characteristics"
-msgstr ""
+msgstr "5.2 Caractéristiques"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:6
 msgid "In addition to the basic requirements, the following four characteristics help Participant nodes to be effective:"
-msgstr ""
+msgstr "En plus des exigences fondamentales, les quatre caractéristiques suivantes contribuent à l’efficacité des points nodaux :"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:8
 #, no-wrap
 msgid "*Neutrality*. Since nodes are established to coordinate, promote and facilitate data sharing activities among multiple institutions, any perceived lack of neutrality will reduce their effectiveness. For example, other biodiversity institutions and potential partners may be reluctant to collaborate if a node institution is directly involved in generating data for its own research purposes, suggesting it is a competitor or guided by vested interests. However, institutions thus engaged may also build a reputation of trust within the community by offering resources and services—including specialized knowledge about data curation—to other institutions with similar aims (e.g., the institutions in the system of nodes that comprise GBIF Germany). The node should be able to work with all relevant stakeholders, independently of any preferences or priorities that are not defined or agreed by the whole community. The institutional location of the node is decisive for its neutrality (see Section 7).\n"
-msgstr ""
+msgstr "*Neutralité*. Les points nodaux étant établis pour coordonner, promouvoir et faciliter les activités de partage de données entre les multiples institutions, tout manque de neutralité réduit leur efficacité. Par exemple, d’autres institutions sur la biodiversité et leurs partenaires potentiels peuvent être réticents à collaborer si une institution nodale est directement impliquée dans la génération de données pour ses propres objectifs de recherche, ce qui suggère qu’elle est leur concurrente ou qu’elle est muée par ses propres intérêts. Par contre, les institutions engagées de cette manière peuvent également se forger une réputation de confiance au sein de la communauté en offrant des ressources et des services, dont des connaissances spécialisées sur la conservation des données, à d’autres institutions ayant des objectifs similaires (ex. : les institutions du système de points nodaux qui constituent GBIF Allemagne). Le point nodal devrait pouvoir travailler avec toutes les parties prenantes concernées, indépendamment de toute préférence ou priorité qui n’est pas définie ou agréée par l’ensemble de la communauté. La position institutionnelle du point nodal joue un rôle décisif dans sa neutralité (cf. _Section 7_).\n"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:9
 #, no-wrap
 msgid "*Leadership and initiative*. Nodes need to be able to stimulate interest and mobilize people and organizations to publish and use biodiversity data. The node should offer an inspiring, well-connected team engaged in similar initiatives elsewhere, and able to convene multiple communities to encourage participation, collaboration and other synergies effectively.\n"
-msgstr ""
+msgstr "*Leadership et initiative*. Les points nodaux doivent être capables de susciter l’intérêt et de mobiliser les personnes et les organisations en vue de la publication et de l’utilisation des données sur la biodiversité. Le point nodal devrait disposer d’une équipe motivante et bien connectée, impliquée dans des initiatives similaires, et capable de rassembler de multiples communautés pour encourager efficacement la participation, la collaboration et d’autres synergies.\n"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:10
 #, no-wrap
 msgid "*A focus on service*. Nodes are established to assist a community of people and institutions, and should therefore seek to serve rather than dictate. As a support facility for the GBIF Participant’s network, the service-oriented approach should permeate all the activities carried out by the node.\n"
-msgstr ""
+msgstr "*Accent mis sur le service*. Les points nodaux sont établis pour aider une communauté de personnes et d’institutions, et devraient par conséquent chercher à offrir leurs services plutôt qu’à dicter la marche à suivre. En tant que mécanisme de soutien du réseau de Participants au GBIF, l’approche axée sur le service devrait être omniprésente dans toutes les activités effectuées par le point nodal.\n"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:10
 #, no-wrap
 msgid "*Adaptability*. Nodes need the ability to respond to change in the typically broad and complex landscape of funders, contributors and partners, to adapt their strategies to maintain their relevance, and to provide continuously stable services to their stakeholders. These qualities can benefit from a focus on periodic evaluation and assessment, as well as by providing ongoing learning opportunities for the node’s staff.\n"
-msgstr ""
+msgstr "Capacité d’adaptation. Les points nodaux ont besoin d’une aptitude à répondre aux changements dans un paysage de bailleurs de fonds, de contributeurs et de partenaires typiquement complexe et large, afin d’adapter leurs stratégies pour rester pertinents, et pour fournir des services continuellement stables à leurs parties prenantes. L’accent sur l’évaluation périodique, ainsi que sur les opportunités d’apprentissage offertes au personnel du point nodal, peut renforcer ces qualités.\n"
 
 #. type: Title -
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:3
 #, no-wrap
 msgid "6.0 Introduction"
-msgstr ""
+msgstr "6.0 Quel est le processus recommandé pour mettre en place un point nodal ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:6
 msgid "Establishing a Participant node involves a number of critical decisions that will impact its effectiveness, which therefore deserve careful consideration from the beginning. These decisions mostly apply to country Participants, although some extend to organizations when there are several networked institutions in which a node could potentially be based. The process is typically influenced by factors specific to the Participant’s context including:"
-msgstr ""
+msgstr "La mise en place d’un point nodal implique un certain nombre de décisions cruciales qui auront un impact sur son efficacité. Il est par conséquent important de soigneusement les examiner dès le départ. Ces décisions s’appliquent principalement aux pays Participants, bien que certaines s’étendent aux organisations lorsqu’il existe plusieurs institutions en réseau pouvant potentiellement accueillir le point nodal. Le processus est typiquement influencé par des facteurs spécifiques au contexte des Participants, qui comprennent :"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:8
 msgid "The institutional landscape at the Participant level: the number and type of institutions involved with biodiversity, roles, social and economic context, research tradition, etc."
-msgstr ""
+msgstr "Le paysage institutionnel au niveau du Participant : le nombre et le type d’institutions impliquées dans la biodiversité, les rôles, le contexte social et économique, la tradition de recherche, etc."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:9
 msgid "The interests, needs, and priorities of the Participant with regard to biodiversity data and information +"
-msgstr ""
+msgstr "Les intérêts, les besoins et les priorités du Participant quant aux données et aux informations sur la biodiversité"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:10
 msgid "The current and potential capacity of the Participant, in terms of funding, infrastructure, staff, etc."
-msgstr ""
+msgstr "La capacité actuelle et potentielle du Participant en termes de financement, d’infrastructure, de personnel, etc."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:12
 msgid "While these factors vary considerably between Participants, lessons from the community can help new GBIF Participants, or those going through strategic changes in their decision-making processes. link:box-3.-a-participatory-approach-to-establishing-a-participant-node.md[Box 3] shows a simplified participatory approach towards making some of the key decisions necessary to establish an effective node."
-msgstr ""
+msgstr "Tandis que ces facteurs varient considérablement d’un Participant à l’autre, les leçons tirées par la communauté peuvent aider les nouveaux Participants au GBIF, ou ceux qui effectuent des changements stratégiques dans leur processus de prise de décision. _L’Encadré 3_ présente une approche participative simplifiée de la prise des décisions fondamentales et nécessaires à la mise en place d’un point nodal efficace."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:14
 msgid "The key recommendation is to start a participatory process at the Participant level, ideally led by the Head of Delegation or the institution that has been given the responsibility to sign the GBIF Memorandum of Understanding. This process should include discussing the long-term vision and mission for the Participant node, and formulating a recommendation for the node’s establishment. It can be useful to begin by envisaging the scope of the biodiversity information facility required by the Participant, rather than looking at the role of the coordinating node in isolation. An effective first step is for the Head of Delegation or lead institution to convene a group of representatives from the Participant’s key biodiversity stakeholder institutions, helping to ensure their ownership of the process from the beginning."
 msgstr ""
+"La principale recommandation est d’initier un processus participatif au niveau du Participant, avec à sa tête, dans l’idéal, le chef de délégation ou l’institution qui est responsable de la signature du Protocole d’accord du GBIF. Ce processus devrait comprendre une discussion de la vision et de la mission à long terme du point nodal, et la formulation d’une recommandation pour la mise en place du point nodal. Il peut être utile de débuter en envisageant la portée du système d’information sur la biodiversité requise par le Participant, plutôt que d’examiner indépendamment le rôle du point nodal coordinateur. Une première étape efficace consiste à ce que le chef de délégation ou l’institution principale convoque un groupe de représentants des principales institutions parties prenantes pour les aider à prendre part au processus dès "
+"le départ."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:16
@@ -825,99 +829,103 @@ msgid ""
 "Many tools exist to support dialogue around the establishment of a Participant node. For example, a preliminary https://www.gbif.org/document/80890[content needs assessment] conducted at the Participant level through a survey, workshop or literature analysis (possibly led by a consultant) can provide valuable information to guide the stakeholder group in formulating their recommendations. This assessment helps ensure that the needs and priorities of a broad stakeholder group are represented in the process. Tools for stakeholder mapping (as in example tools 4 to 6 http://www.fao.org/fileadmin/user_upload/capacity_building/LM4_v2_WEB_Light.pdf[here]) can also shape an understanding how the biodiversity information facility and node will address the Participant’s needs and priorities, and complement other biodiversity-related or "
 "information-related initiatives."
 msgstr ""
+"De nombreux outils existent pour encourager le dialogue sur la mise en place d’un point nodal. Par exemple, une https://www.gbif.org/document/80890[évaluation préliminaire des besoins de contenu] (_en anglais_) effectuée au niveau des Participants par le biais d’une enquête, d’un atelier ou d’une analyse de documentation (pouvant être mené(e) par un consultant) peut fournir de précieuses informations pour guider la formulation de recommandations par le groupe de parties prenantes. Cette évaluation aide à s’assurer que les besoins et les priorités d’un large groupe de parties prenantes sont représentés dans le processus. Des outils permettant d’établir la carte des parties prenantes (tels que les exemples d’outils 4 à 6 http://www.fao.org/fileadmin/user_upload/capacity_building/LM4_v2_WEB_Light.pdf[ici] [_en anglais_]) peuvent "
+"également permettre de comprendre comment le système d’information sur la biodiversité et le point nodal traiteront des besoins et des priorités des Participants, en complément d’autres initiatives relatives à la biodiversité ou aux informations."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:20
 msgid "After defining the scope of a biodiversity information facility and the long-term vision and goals for its coordinating node, stakeholders are ready to discuss implementation plans for the node. These should include aspects such as the collaborative framework, infrastructure requirements, governance structure, funding, membership of governing and/or advisory bodies, the node’s roles and responsibilities, as well as the key decision on where to locate the node."
-msgstr ""
+msgstr "Après avoir défini la portée d’un système d’information sur la biodiversité et la vision et les objectifs à long terme de son point nodal coordinateur, les parties prenantes sont prêtes à discuter des plans de mise en place du point nodal. Ces plans devraient comprendre des aspects tels que le cadre collaboratif, les exigences d’infrastructure, la structure de gouvernance, le financement, l’adhésion aux organes de direction et/ou consultatifs, les rôles et les responsabilités du point nodal, ainsi que la décision cruciale concernant la position du point nodal."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:22
 msgid "The following questions can help the process of establishing a node:"
-msgstr ""
+msgstr "Les questions suivantes peuvent contribuer au processus de mise en place d’un point nodal :"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:24
 msgid "Which of the identified needs should the node address, and which can the members of the wider stakeholder network serve?"
-msgstr ""
+msgstr "Parmi les besoins identifiés, quels sont ceux qui devraient être traités par le point nodal, et ceux dont pourraient se charger les membres du réseau plus large de parties prenantes ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:25
 msgid "Which type of formal agreements (e.g., data sharing/use agreements, a formal mandate for the node) are needed to support effective collaboration between stakeholders?"
-msgstr ""
+msgstr "Quel types d’accords formels (ex. : accords de partage ou d’utilisation de données, mandat formel du point nodal) sont nécessaires pour contribuer à une collaboration efficace entre les parties prenantes ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:26
 msgid "What type of informatics infrastructure provides the ideal model for a Participant biodiversity information facility? Are there intermediate stages in developing this infrastructure that would allow the provision of basic services as early as possible? Should the infrastructure rely on a distributed system, or should the node act as a central hub for the network?"
-msgstr ""
+msgstr "Quel type d’infrastructure informatique constitue le modèle idéal pour un système d’information de participants sur la biodiversité ? Existe-t-il des étapes intermédiaires dans le développement de cette infrastructure permettant la fourniture de services fondamentaux le plus tôt que possible ? L’infrastructure devrait-elle s’appuyer sur un système décentralisé, ou le point nodal devrait-il jouer le rôle de pôle central du réseau ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:27
 msgid "What type of governance structure should the node have? How can this help to create a sense of ownership in the node’s activities for the biodiversity information facility’s key stakeholders?"
-msgstr ""
+msgstr "Quel type de structure de gouvernance devrait avoir le point nodal ? Comment cela peut-il favoriser la création d’un sentiment d’appartenance aux activités du point nodal chez les parties prenantes principales du système d’information sur la biodiversité ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:28
 msgid "Does the node require advisory bodies, like scientific committees?"
-msgstr ""
+msgstr "Le point nodal requiert-il des organes consultatifs tels qu’un comité scientifique ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:29
 msgid "Which institutional location would provide the node with the best combination of neutrality and capacity to support key services?"
-msgstr ""
+msgstr "Quelle est la position institutionnelle susceptible d’octroyer au point nodal la meilleure combinaison de neutralité et de capacité pour assurer ses services principaux ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:30
 msgid "Which institutional location would provide the node with the greatest institutional and financial support, as well as the maximum long-term stability? (See Section 6.1)."
-msgstr ""
+msgstr "Quelle est la position institutionnelle susceptible d’octroyer au point nodal le meilleur soutien institutionnel et financier, ainsi que la stabilité maximale sur le long terme ? (cf. Section 6.1.)"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:32
 msgid "When designing and implementing the process of establishing a node, new Participants are encouraged to seek regular advice and guidance directly from existing Participants and the Secretariat: past experience often helps to identify potential problems and find effective solutions."
-msgstr ""
+msgstr "Lors de la conception et de la réalisation du processus de mise en place d’un point nodal, les nouveaux participants sont encouragés à régulièrement demander des conseils et des orientations aux participants existants et au Secrétariat : les expériences précédentes aident souvent à identifier les problèmes potentiels et à trouver des solutions efficaces."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:34
 msgid "Ideally, the results of this process should form the basis of the recommendations for establishing the Participant node (including formal aspects such as the legal mandate). The group of stakeholders convened to support this process may be encouraged to become the initial members of the node’s network and governing bodies."
-msgstr ""
+msgstr "Dans l’idéal, les résultats de ce processus devraient poser le fondement de recommandations pour la mise en place du point nodal de participants (y compris les aspects formels tels que le mandat légal). Le groupe de parties prenantes convoqué pour apporter leur soutien au processus peut être encouragé à devenir les premiers membres du réseau et des organes de direction du point nodal."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:35
 msgid "Establishing a Participant node and biodiversity information facility is about changing the way individuals and institutions operate and cooperate. There is no single perfect solution, and choices will depend on the circumstances and priorities of each Participant. The more inclusive, transparent and participatory the process is, the greater the chances are that the node will effectively meet the Participant’s biodiversity information needs into the long term."
-msgstr ""
+msgstr "La mise en place d’un point nodal de participants et d’un système d’information sur la biodiversité consiste à changer la manière dont les individus et les institutions fonctionnent et coopèrent. Il n’existe pas de solution unique et parfaite, et les choix effectués dépendent des circonstances et des priorités de chaque participant. Plus le processus est inclusif, transparent et participatif, plus les chances de voir le point nodal répondre efficacement aux besoins d’information sur la biodiversité des Participants dans le long terme sont importantes."
 
 #. type: Title -
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc:3
 #, no-wrap
 msgid "Box 3. A participatory approach to establishing a Participant node"
-msgstr ""
+msgstr "Encadré 3. Une approche participative de la mise en place d’un point nodal"
 
 #. type: Title -
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:3
 #, no-wrap
 msgid "6.1 How should a GBIF Participant select the institutional location for a node?"
-msgstr ""
+msgstr "6.1 Comment un participant au GBIF devrait-il choisir la position institutionnelle d’un point nodal ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:6
 msgid "As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. Table 1 summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to many countries or host institutions."
 msgstr ""
+"Comme mentionné ci-dessus, la position institutionnelle d’un point nodal constitue une décision cruciale qui est susceptible d’avoir un impact à long terme sur son efficacité à coordonner les informations sur la biodiversité d’un pays. Le _Tableau 1_ résume les types d’institutions désignées précédemment comme hôtes des points nodaux, ainsi que certains des avantages et des inconvénients potentiels associés à chaque type d’hôte. Le tableau, axé principalement sur les pays plutôt que sur les organisations, ne fournit pas une recommandation unique quant à la position du point nodal, mais sert de référence lors de l’examen des options. Ces exemples sont généralisés et varieront considérablement en fonction de la situation spécifique du participant. Les potentiels inconvénients dans la colonne de droite sont susceptibles de ne pas "
+"être applicables à de nombreux pays ou institutions hôtes."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:8
 msgid "In addition to choosing the location of the node, Participants need to decide the position of the node team within the host institution: will it be an autonomous body with an independent mandate, a dedicated section or department of the host institution, or a group of staff members sharing their node responsibilities with other functions? New Participants are advised to consult with colleagues in the network and examine https://www.gbif.org/the-gbif-network[the country profiles on GBIF.org] to help identify the most appropriate model for national circumstances."
-msgstr ""
+msgstr "En plus de choisir la position du point nodal, les Participants ont besoin de décider de la position de l’équipe du point nodal au sein de l’institution hôte : sera-t-elle un organe autonome avec un mandat indépendant, une section ou un département dédié de l’institution hôte, ou un groupe de membres du personnel partageant leurs responsabilités envers le point nodal avec leurs autres fonctions ? Les nouveaux Participants sont encouragés à consulter leurs collègues du réseau et à examiner les https://www.gbif.org/the-gbif-network[profils de pays sur GBIF.org] (_en anglais_) pour les aider à identifier le modèle le plus approprié à leur situation nationale."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:10
 msgid "As a final note, some GBIF Participants have chosen to divide their node team among several host institutions. In such cases, Participants are advised to designate one institution to coordinate node activity and act as the main contact point for interactions with the GBIF Secretariat and the global network. Only one representative per Participant may be appointed to the Participant Node Managers Committee"
-msgstr ""
+msgstr "Enfin, certains Participants du GBIF ont choisi de répartir l’équipe de leur point nodal sur plusieurs institutions hôtes. Dans ces cas-là, les Participants sont encouragés à désigner une institution pour coordonner l’activité du point nodal et servir de principal point de contact pour les interactions avec le Secrétariat du GBIF et le réseau mondial. Un seul représentant par Participant est nommé pour faire partie du Comité des responsables des points nodaux"
 
 #. type: Title ^
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:13
 #, no-wrap
 msgid "Table 1: Generalized examples of the types of institutions designated as hosts of GBIF Participant nodes."
-msgstr ""
+msgstr "Tableau 1 : Exemples généralisés des types d’institutions désignées comme hôtes des points nodaux."
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:26
@@ -934,6 +942,14 @@ msgid ""
 "a zoological collection, that it can work with other types of collections),\n"
 "or that it is not competing for digitization funds, etc.\n"
 msgstr ""
+"Tableau\n"
+"|Avantages potentiels | Inconvénients potentiels\n"
+"|===\n"
+"|Collections d’histoire naturelle\n"
+"|\n"
+"|===\n"
+"|Connaissance approfondie des défis et des exigences en matière de numérisation et de gestion des données d’histoire naturelle\n"
+"|Un effort important peut être requis pour démontrer leur neutralité (ex. : s’il s’agit d’une collection zoologique, démontrer qu’elle peut fonctionner avec d’autres types de collections), ou le fait qu’elles ne sont pas en concurrence avec des fonds de numérisation, etc.\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:29
@@ -941,7 +957,7 @@ msgstr ""
 msgid ""
 "May find difficulty in engaging with other communities holding other types\n"
 "      of biodiversity data (e.g., observations, ecological data, etc.)\n"
-msgstr ""
+msgstr "Elles peuvent avoir des difficultés à s’impliquer avec d’autres communautés détentrices d’autres types de données sur la biodiversité (ex. : observations, données écologiques, etc.)\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:35
@@ -953,6 +969,10 @@ msgid ""
 "|Ministries of science, environment, et al.\n"
 "|\n"
 msgstr ""
+"Le point nodal peut avoir des difficultés à répondre aux besoins des parties prenantes (ex. : les décideurs politiques)\n"
+"|===\n"
+"|Ministères des Sciences, de l’Environnement, et coll.\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:38 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:59 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:76 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:106 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:123
@@ -961,6 +981,8 @@ msgid ""
 "|===\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:41
@@ -968,19 +990,19 @@ msgstr ""
 msgid ""
 "Very strong mandate and capacity to influence and support policy and decision\n"
 "      making\n"
-msgstr ""
+msgstr "Mandat robuste et capacité d’influencer et de soutenir l’élaboration de politiques et la prise de décision\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:43
 #, no-wrap
 msgid "Easily aligned with national biodiversity policies, strategies, and programme\n"
-msgstr ""
+msgstr "Facilement alignés sur les politiques, les stratégies et les programmes nationaux de biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:45 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:132
 #, no-wrap
 msgid "|\n"
-msgstr ""
+msgstr "|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:48
@@ -988,13 +1010,13 @@ msgstr ""
 msgid ""
 "Challenges to operate at the technical level and to provide technical\n"
 "      support (e.g., to the scientific community)\n"
-msgstr ""
+msgstr "Difficultés de fonctionner au niveau technique et de fournir une assistance technique (ex. : à la communauté scientifique)\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:50
 #, no-wrap
 msgid "Easily affected by political changes\n"
-msgstr ""
+msgstr "Facilement affectés par les changements politiques\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:56
@@ -1006,24 +1028,28 @@ msgid ""
 "|Biodiversity or biological research institutes\n"
 "|\n"
 msgstr ""
+"Pourraient avoir des difficultés à traiter les besoins d’autres ministères (ex. : des sciences ou de l’environnement)\n"
+"|===\n"
+"|Instituts de biodiversité ou de recherche biologique\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:61
 #, no-wrap
 msgid "High potential for developing capacity in biodiversity informatics easily and quickly\n"
-msgstr ""
+msgstr "Important potentiel de renforcement rapide et facile des capacités en informatique appliquée à la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:63
 #, no-wrap
 msgid "Full knowledge of the biodiversity-research realm\n"
-msgstr ""
+msgstr "Connaissance complète du domaine de la recherche sur la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:65
 #, no-wrap
 msgid "May have a strong and clear institutional mandate\n"
-msgstr ""
+msgstr "Susceptibles d’avoir un mandat institutionnel robuste et clair\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:69 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:85
@@ -1032,7 +1058,7 @@ msgid ""
 "|May not be perceived as neutral by all stakeholders, depending on how\n"
 "    the institute fits within the Participant’s overall institutional landscape\n"
 "    (for example, if there is overlap or competition for resources)\n"
-msgstr ""
+msgstr "Susceptibles de ne pas être perçus comme neutres par toutes les parties prenantes, selon la place de l’institut dans le paysage institutionnel du participant (par exemple, s’il existe un chevauchement ou une concurrence pour les ressources)\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:73
@@ -1042,6 +1068,9 @@ msgid ""
 "|Research councils or science & technology commissions\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Conseils de la recherche ou commissions scientifiques et technologiques\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:79
@@ -1049,13 +1078,13 @@ msgstr ""
 msgid ""
 "Excellent position to use the Participant node to coordinate, promote\n"
 "      and facilitate the mobilization of biodiversity data from research\n"
-msgstr ""
+msgstr "Excellente position pour utiliser le point nodal de participants pour coordonner, promouvoir et faciliter la mobilisation des données sur la biodiversité obtenues à partir de la recherche\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:81
 #, no-wrap
 msgid "Easily aligned with national research policies, strategies, and programmes\n"
-msgstr ""
+msgstr "Facilement alignés sur les politiques, les stratégies et les programmes de recherche nationaux\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:89
@@ -1065,6 +1094,8 @@ msgid ""
 "|Non-governmental organizations\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Organisations non gouvernementales\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:93
@@ -1074,6 +1105,9 @@ msgid ""
 "|Flexibility and autonomy\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Flexibilité et autonomie\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:96
@@ -1081,13 +1115,13 @@ msgstr ""
 msgid ""
 "Potential lack of mandate, difficulty in formally engaging with government\n"
 "      institutions\n"
-msgstr ""
+msgstr "Manque potentiel de mandat, difficulté à s’impliquer de manière formelle avec les institutions gouvernementales\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:98 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:116
 #, no-wrap
 msgid "May become dependent on projects and project-based funding\n"
-msgstr ""
+msgstr "Susceptibles de dépendre de projets et de financements selon les projets\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:103
@@ -1097,6 +1131,9 @@ msgid ""
 "|University departments or faculties\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Départements ou facultés universitaires\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:109
@@ -1104,7 +1141,7 @@ msgstr ""
 msgid ""
 "High potential for developing capacity in biodiversity informatics easily\n"
 "      and quickly\n"
-msgstr ""
+msgstr "Important potentiel de renforcement rapide et facile des capacités en informatique appliquée à la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:112
@@ -1112,7 +1149,7 @@ msgstr ""
 msgid ""
 "Potential for aligning the node’s activities with various biodiversity\n"
 "      research agenda\n"
-msgstr ""
+msgstr "Possibilité d’aligner les activités du point nodal sur une variété de programmes de recherche sur la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:114
@@ -1128,18 +1165,21 @@ msgid ""
 "|National informatics facilities outside the biodiversity/ biological domain\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Installations informatiques nationales exerçant une activité non liée à la biodiversité/la biologie\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:125
 #, no-wrap
 msgid "Strong position of neutrality\n"
-msgstr ""
+msgstr "Forte position de neutralité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:127
 #, no-wrap
 msgid "Ready access to technical capacity in informatics\n"
-msgstr ""
+msgstr "Accès aisé aux capacités techniques informatiques\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:130
@@ -1147,7 +1187,7 @@ msgstr ""
 msgid ""
 "Potentially useful connections with well-funded national priorities on\n"
 "      innovation and technology\n"
-msgstr ""
+msgstr "Liens potentiellement utiles avec des priorités nationales bien financées sur l’innovation et les technologies\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:135
@@ -1155,7 +1195,7 @@ msgstr ""
 msgid ""
 "Need to invest in staff bringing relevant scientific domain knowledge\n"
 "      to work effectively with biodiversity data\n"
-msgstr ""
+msgstr "Besoin d’investir dans la formation d’un personnel ayant les connaissances scientifiques appropriées pour travailler efficacement avec des données sur la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:138
@@ -1164,201 +1204,205 @@ msgid ""
 "Need to build contacts and knowledge of relevant institutional networks\n"
 "|===\n"
 msgstr ""
+"Besoin d’établir des contacts et de se familiariser avec les réseaux institutionnels concernés\n"
+"|===\n"
 
 #. type: Title -
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:3
 #, no-wrap
 msgid "6.2 What are the recommendations on the staff roles within nodes?"
-msgstr ""
+msgstr "6.2 Quelles sont les recommandations sur les rôles du personnel au sein des points nodaux ?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:6
 msgid "While the specific services that nodes provide vary from one Participant to another (see Section 5), a node’s staff need to cover a number of typical functions:"
-msgstr ""
+msgstr "Bien que les services spécifiques offerts par les points nodaux varient d’un Participant à l’autre (cf. _Section 5_), le personnel du point nodal doit assumer un certain nombre de fonctions générales :"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:8
 msgid "Management and coordination"
-msgstr ""
+msgstr "Gestion et coordination"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:9
 msgid "Outreach, communications, public relations and institutional networking (regional, national or thematic level)"
-msgstr ""
+msgstr "Sensibilisation, communication, relations publiques et mise en réseau institutionnelle (au niveau régional, national ou thématique)"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:10
 msgid "Fundraising and project writing"
-msgstr ""
+msgstr "Collecte de fonds et élaboration de projets"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:11
 msgid "Administrative work (financial management, reporting, organizing events and meetings etc.)"
-msgstr ""
+msgstr "Travail administratif (gestion financière, élaboration de rapports, organisation d’évènements et de réunions, etc.)"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:12
 msgid "Capacity enhancement +"
-msgstr ""
+msgstr "Renforcement des capacités"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:13
 msgid "Technical support service for data holders (helpdesk)"
-msgstr ""
+msgstr "Service d’assistance technique pour les détenteurs de données"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:14
 msgid "ICT support, webmaster & database management"
-msgstr ""
+msgstr "Assistance TIC, administration de serveur Web et gestion de la base de données"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:15
 msgid "Software development (data capture and cleaning tools, data visualization tools, data portal & web interfaces, web services, etc.)"
-msgstr ""
+msgstr "Développement de logiciels (outils de saisie et de nettoyage de données, outils de visualisation de données, portail et interfaces Internet de données, services Internet, etc.)"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:16
 msgid "Data analysis & modelling"
-msgstr ""
+msgstr "Analyse et modélisation des données"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:17
 msgid "Scientific liaison and promotion of data use in relevant research communities"
-msgstr ""
+msgstr "Liaison scientifique et promotion de l’utilisation des données au sein des communautés de recherche concernées"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:19
 msgid "This diversity of functions makes it clear that nodes require staff with a wide range of skills ranging from administrative support to expertise in biodiversity informatics. Deciding how to staff a node will, of course, depend on its expected roles, the level of financial support and the hosting agreement or institutional location of the node. In cases where nodes are integrated into larger institutions, functions like administrative tasks are often provided through in-kind support from the host. The institutional landscape at the Participant level will affect the importance given to particular skills: for example, where a node is coordinating a large number of biodiversity-related institutions, it will need greater emphasis on outreach and networking skills."
 msgstr ""
+"Cette diversité de fonctions montre que les points nodaux ont besoin d’un personnel possédant un vaste éventail de compétences, de l’assistance administrative à l’expertise en informatique appliquée à la biodiversité. La décision du choix de personnel d’un point nodal dépend bien entendu de son rôle, du niveau d’aide financière dont il dispose et de la convention d’accueil ou de la position institutionnelle du point nodal. Lorsque les points nodaux sont intégrés dans de larges institutions, les fonctions telles que les tâches administratives sont souvent fournies par l’institution hôte sous la forme de soutien non financier. Le paysage institutionnel au niveau des participants influencera l’importance accordée à certaines compétences : par exemple, lorsqu’un point nodal est coordonné par un grand nombre d’institutions sur la "
+"biodiversité, les compétences relatives à la sensibilisation et la mise en réseau seront davantage mises en valeur."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:21
 msgid "To cover the main functions listed above (assuming administrative support is provided by the host institution), Participants can consider at least the following four roles to ensure the node’s engagement with stakeholder communities, while providing the necessary technical skills to provide good technical support to data holders and users:"
-msgstr ""
+msgstr "Afin de couvrir les principales fonctions énumérées ci-dessus (en supposant que l’assistance administrative soit fournie par l’institution hôte), les participants peuvent considérer au minimum les quatre rôles suivants pour garantir l’implication du point nodal avec les communautés de parties prenantes, tout en fournissant les compétences techniques nécessaires pour fournir une assistance technique de qualité aux détenteurs et aux utilisateurs de données :"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:23
 msgid "A node manager as the manager of the team, responsible for the majority of the interactions with the GBIF network and Secretariat including representation on the Participant node managers’ committee. Nodes may either combine this role with one of the three below or, ideally, dedicate an individual exclusively to the position of node manager. +"
-msgstr ""
+msgstr "Un responsable du point nodal pour gérer l’équipe, responsable de la majorité des interactions avec le réseau et le Secrétariat du GBIF, y compris comme représentant du point nodal au Comité des responsables des points nodaux. Les points nodaux peuvent soit combiner ce rôle avec l’un des trois rôles mentionnés ci-dessous, ou, dans l’idéal, nommer une personne entièrement dédiée au poste de responsable du point nodal"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:24
 msgid "A person with a scientific background, knowledge of the relevant research communities, and the ability to motivate and communicate with data holders, data users and those engaged in policy development"
-msgstr ""
+msgstr "Une personne qui a une formation scientifique, connaît les communautés de recherche concernées, et a la capacité de motiver et de communiquer avec les détenteurs et les utilisateurs de données, et ceux impliqués dans l’élaboration de politiques"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:25
 msgid "A person with a background in biodiversity informatics, skills in data management, and the ability to provide technical assistance to data holders and data users while maintaining databases"
-msgstr ""
+msgstr "Une personne qui a une formation en informatique appliquée à la biodiversité, des compétences en gestion des données, et la capacité de fournir une assistance technique aux détenteurs et aux utilisateurs de données, tout en maintenant les bases de données"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:25
 msgid "A person with an informatics background, able to develop and maintain an informatics infrastructure to enable biodiversity data publishing and support access to biodiversity data, for example, through a national data portal."
-msgstr ""
+msgstr "Une personne qui a une formation en informatique, capable de développer et de maintenir une infrastructure informatique permettant la publication et l’accès aux données sur la biodiversité, par exemple par le biais d’un portail national de données."
 
 #. type: Title -
 #: 7.-further-support-for-establishing-a-participant-node/7.0-introduction.en.adoc:3
 #, no-wrap
 msgid "7.0 Introduction"
-msgstr ""
+msgstr "7. Appui supplémentaire à la mise en place d’un point nodal"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.0-introduction.en.adoc:5
 msgid "Supporting the establishment and further development of Participant nodes and their work is a priority for GBIF as a whole. This guide has introduced some important general considerations in the process of establishing a node. This section explains other opportunities available to gain from experience of the GBIF network in this area."
-msgstr ""
+msgstr "Soutenir la mise en place et le développement des points nodaux et de leur travail constitue une priorité pour le GBIF dans son ensemble. Ce guide a permis d’expliquer d’importantes considérations générales sur le processus de mise en place d’un point nodal. Cette section présente d’autres opportunités permettant de bénéficier de l’expérience du réseau GBIF dans ce domaine."
 
 #. type: Title -
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:3
 #, no-wrap
 msgid "7.1 How can I find examples of Participant nodes?"
-msgstr ""
+msgstr "7.1 Comment trouver des exemples de points nodaux ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:6
 msgid "The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Participants’ GBIF-related activities. They include information about:"
-msgstr ""
+msgstr "La https://www.gbif.org/the-gbif-network[liste des pays Participants sur GBIF.org] (_en anglais_) donne un aperçu des activités liées au GBIF menées par les Participants. S’y trouvent des informations sur :"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:8
 msgid "The Participant’s membership status and date of joining GBIF"
-msgstr ""
+msgstr "Le statut de membre du Participant et sa date d’adhésion au GBIF"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:9
 msgid "The Participant node’s date of establishment, website and contact information"
-msgstr ""
+msgstr "La date de mise en place du point nodal, son site Internet et ses coordonnées"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:10
 msgid "An overview of the data published from the country’s institutions, with links to the data publishers and datasets, as well as data published from anywhere in the world about biodiversity located in the country +"
-msgstr ""
+msgstr "Une synthèse des données publiées par les institutions nationales, avec des liens vers les personnes qui ont publié ces données et les jeux de données, ainsi que vers les données publiées n’importe où dans le monde au sujet de la biodiversité dans ce pays"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:11
 msgid "Information on the node’s history, vision and mission, structure and national funding"
-msgstr ""
+msgstr "Des informations sur l’histoire, la vision et la mission, la structure et le financement national du point nodal"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:12
 msgid "A list of news items relating to the Participant country and published by the Participant node, as well as links to social media channels operated by the node"
-msgstr ""
+msgstr "Une liste de faits d’actualité relatifs au pays publiée par le point nodal, ainsi que des liens vers les médias sociaux administrés par le point nodal"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:13
 msgid "A list of peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country"
-msgstr ""
+msgstr "Une liste d’articles de recherche revus par des pairs citant le GBIF comme source de données et dont les auteurs sont du pays concerné"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:15
 msgid "https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website."
-msgstr ""
+msgstr "Les https://www.gbif.org/the-gbif-network[informations sur les organisations Participantes] (_en anglais_) renseignent sur l’adhésion et l’activité de publication de données des Participants, et proposent des liens vers le site Internet de leur point nodal."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:16
 msgid "Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members directly for advice in establishing a node."
-msgstr ""
+msgstr "La consultation de ces pages vous aidera à identifier les exemples les plus adaptés au contexte spécifique d’un nouveau Participant au GBIF. Les nouveaux Participants sont encouragés à contacter les responsables et le personnel des points nodaux pour leur demander directement des conseils en tant que membres du réseau sur la mise en place d’un point nodal."
 
 #. type: Title -
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:3
 #, no-wrap
 msgid "7.2 How can the GBIF Participant Node Managers Committee assist in establishing Participant nodes?"
-msgstr ""
+msgstr "7.2 De quelle manière le Comité des responsables des points nodaux contribue-t-il à la mise en place de points nodaux au GBIF ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:6
 msgid "The https://www.gbif.org/contact-us/directory?group=nodesCommittee[Participant Node Managers Committee] is a forum for sharing information and best practices between Participant nodes. It also https://www.gbif.org/document/80571[acts as an advisory committee] making recommendations to the other GBIF governing bodies. The committee comprises all Participant node managers, so as soon as a GBIF Participant has appointed a node manager, he or she is invited to take part in the committee’s activities."
-msgstr ""
+msgstr "Le https://www.gbif.org/contact-us/directory?group=nodesCommittee[Comité des responsables des points nodaux] (_en anglais_) est un forum de partage d’informations et de bonnes pratiques entre les points nodaux de Participants. Il sert https://www.gbif.org/document/80571[également de comité consultatif] (_en anglais_), faisant des recommandations aux autres organes de direction du GBIF. Le comité comprend tous les responsables de points nodaux. De ce fait, dès qu’un Participant du GBIF a nommé un responsable de point nodal, il ou elle est invité(e) à participer aux activités du comité."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:8
 msgid "The Nodes Steering Group (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes."
-msgstr ""
+msgstr "Le Comité de pilotage des points nodaux (Nodes Steering Group ; NSG) a été mis en place au sein du comité en 2011, et comprend le président et le vice-président du Comité des responsables des points nodaux, et des représentants régionaux des six régions du GBIF (Afrique, Asie, Europe, Amérique latine, Amérique du Nord et Océanie). Son objectif comprend la formulation de recommandations spécifiques aux organes du GBIF concernés, fondées sur les commentaires des points nodaux, et des conseils sur le programme de travail du GBIF qui intéresse les points nodaux."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:10
 msgid "The Nodes Committee meets in a Global Nodes Meeting every other year. These meetings, often combined with training activities, provide an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize Regional Nodes Meetings either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region."
-msgstr ""
+msgstr "Le Comité de points nodaux se réunit tous les deux ans au cours d’une *réunion mondiale des points nodaux*. Ces réunions, souvent organisées en même temps que des activités de formation, constituent un excellent forum d’interaction avec les autres responsables de points nodaux et d’organisation d’activités collaboratives. De plus, beaucoup de sous-comités régionaux organisent des *réunions régionales des points nodaux*, soit une fois par an ou tous les deux ans. Ces réunions permettent de faire avancer le travail collaboratif entre les responsables de points nodaux et constituent un forum de discussion des priorités et des opportunités dans la région."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:11
 msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the http://community.gbif.org/[GBIF community site] and its thematic and language groups to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes"
-msgstr ""
+msgstr "Entre ces réunions, le comité communique par le biais de listes de diffusion et de téléconférences, et utilise également le site de la communauté du GBIF (en anglais) et ses groupes thématiques et réseaux de langue pour contribuer au travail collaboratif. Les nouveaux points nodaux de participants sont vivement encouragés à https://www.gbif.org/contact-us/directory?group=nodesCommittee[contacter les membres du Comité de points nodaux] (_en anglais_) afin de s’impliquer dans leurs activités, profiter de leur expertise du réseau et élaborer des projets collaboratifs pour contribuer à la mise en place des points nodaux de participants"
 
 #. type: Title -
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:3
 #, no-wrap
 msgid "7.3 How does GBIF support capacity enhancement for Participant nodes?"
-msgstr ""
+msgstr "7.3 De quelle manière le GBIF contribue-t-il au renforcement des capacités des points nodaux ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:6
 msgid "Capacity enhancement provides an essential foundation for the sustainable functioning and performance of the GBIF Participant network and all its members, regardless of their level of development. The http://www.gbif.org/resource/80954[GBIF capacity enhancement framework] draws on recent advancement in the field of capacity development and access to research infrastructures to explain the overall approach taken by the GBIF network to programming activities in this area."
-msgstr ""
+msgstr "Le renforcement des capacités constitue un fondement essentiel du fonctionnement durable et des performances du réseau de participants au GBIF et de tous ses membres, quel que soit leur stade de développement. Le http://www.gbif.org/resource/80954[cadre de renforcement des capacités du GBIF] (_en anglais_) s’inspire des récentes avancées dans le domaine du renforcement des capacités et de l’accès aux infrastructures de recherche pour expliquer l’approche générale adoptée par le réseau GBIF pour programmer ses activités dans la région."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:8
 msgid "The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way. Capacity enhancement includes improving the way Participants can contribute to and benefit from GBIF, how they organize their work and how they relate to other Participants at regional and global scales."
-msgstr ""
+msgstr "Les participants et le Secrétariat du GBIF ont mis en place une série d’activités et de programmes de renforcement des capacités dans le but d’habiliter tous les membres de la communauté GBIF à effectuer leur travail de la manière la plus efficace, la plus autonome et la plus stable possible. Le renforcement des capacités comprend l’amélioration de la manière dont les participants contribuent au GBIF et en bénéficient, dont ils organisent leur travail et dont ils interagissent avec les autres participants à l’échelle régionale et mondiale."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:10
@@ -1371,6 +1415,8 @@ msgid ""
 "A https://www.gbif.org/programme/82219[*capacity enhancement support programme*] with an annual call for project proposals provides GBIF Participants with co-funding to address self-identified capacity needs through collaborative regional and international projects. These projects can combine a range of actions, including mentoring between Participant nodes, the organization of regional events and training workshops, the development or adaptation of documentation, GBIF advocacy actions and actions to promote data use. Participants are encouraged to consider developing project proposals to support the establishment and consolidation of their nodes in collaboration with experts from the GBIF network. Reviewing https://www.gbif.org/programme/82219/[past projects] can provide some useful examples of how to structure collaborative "
 "actions aiming to establish new Participant nodes."
 msgstr ""
+"Un https://www.gbif.org/programme/82219[*programme de soutien au renforcement des capacités] (_en anglais_) qui lance un appel annuel à propositions de projets permet aux Participants au GBIF d’obtenir un cofinancement pour des projets collaboratifs régionaux et internationaux visant à satisfaire les besoins de renforcement de capacités qu’ils ont eux-mêmes identifiés. Ces projets sont associés à une série d’actions, dont le mentorat entre points nodaux de participants, l’organisation d’ateliers de formation régionaux, la rédaction ou l’adaptation de documents, des actions de plaidoyer en faveur du GBIF et des évaluations de besoins. Les Participants sont encouragés à considérer l’élaboration de propositions de projet pour aider à la mise en place et à la consolidation de leurs points nodaux en collaboration avec des experts du "
+"réseau GBIF. Les https://www.gbif.org/programme/82219/[projets antérieurs] (_en anglais_) constituent des exemples utiles de la manière de structurer des actions collaboratives visant à mettre en place des points nodaux."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:14
@@ -1380,7 +1426,7 @@ msgstr ""
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:16
 msgid "GBIF also provides access to *training opportunities* for node managers and staff. GBIF-related training events are held all over the world and are displayed on the https://www.gbif.org/resource/search?contentType=event[events section] of GBIF.org."
-msgstr ""
+msgstr "Le GBIF offre également aux responsables et au personnel des points nodaux des opportunités de formation. Des évènements de formation ayant trait au GBIF sont organisés partout dans le monde et sont annoncés dans la rubrique « Events » du site GBIF.org."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:17
@@ -1391,20 +1437,20 @@ msgstr ""
 #: 7.-further-support-for-establishing-a-participant-node/7.4-what-other-documentation-and-resources-are-available-for-participant-nodes.en.adoc:3
 #, no-wrap
 msgid "7.4 What other documentation and resources are available for Participant nodes?"
-msgstr ""
+msgstr "7.4 Quels sont les autres documents et ressources mis à la disposition des points nodaux ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.4-what-other-documentation-and-resources-are-available-for-participant-nodes.en.adoc:5
 msgid "GBIF maintains a library of freely accessible https://www.gbif.org/resource/search[resources] including tools, presentations, manuals and documentation for anyone to use and download. Many are specifically designed for Participant nodes and can be accessed using the filters available in the resource section of GBIF.org."
-msgstr ""
+msgstr "Le GBIF gère une bibliothèque de https://www.gbif.org/resource/search[ressources] en libre accès comprenant des outils, des présentations, des manuels et des documents pouvant être utilisés et téléchargés par tout un chacun. Nombre de ces ressources sont spécifiquement conçues pour les points nodaux de participants et peuvent être consultées en utilisant les filtres disponibles dans la rubrique http://www.gbif.fr/page/ressources/documentation[Ressources] de GBIF.fr ou GBIF.org."
 
 #. type: Title -
 #: 7.-further-support-for-establishing-a-participant-node/7.5-contact-for-further-support.en.adoc:3
 #, no-wrap
 msgid "7.5 Contact for further support"
-msgstr ""
+msgstr "7.5 Qui contacter pour tout renseignement complémentaire ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.5-contact-for-further-support.en.adoc:5
 msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact nodes@gbif.org for further information."
-msgstr ""
+msgstr "Le personnel du Secrétariat du GBIF est à la disposition des points nodaux pour leur offrir conseils et assistance. Veuillez contacter nodes@gbif.org pour obtenir de plus amples informations."
