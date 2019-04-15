@@ -42,8 +42,6 @@ include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/
 
 include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc[]
 
-include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/table-1-generalized-examples-of-the-types-of-institutions-designated-as-hosts-of-gbif-participant-n.en.adoc[]
-
 include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc[]
 
 include::7.-further-support-for-establishing-a-participant-node/7.0-introduction.en.adoc[]
