@@ -1,4 +1,4 @@
 [[introduction7]]
-== Introduction
+== Further support for establishing a Participant node
 
 Supporting the establishment and further development of Participant nodes and their work is a priority for GBIF as a whole. This guide has introduced some important general considerations in the process of establishing a node. This section explains other opportunities available to gain from experience of the GBIF network in this area.
