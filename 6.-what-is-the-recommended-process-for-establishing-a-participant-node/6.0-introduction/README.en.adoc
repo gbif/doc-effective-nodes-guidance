@@ -1,5 +1,5 @@
 [[introduction6]]
-== Introduction
+== What is the recommended process for establishing a Participant node?
 
 Establishing a Participant node involves a number of critical decisions that will impact its effectiveness, which therefore deserve careful consideration from the beginning. These decisions mostly apply to country Participants, although some extend to organizations when there are several networked institutions in which a node could potentially be based. The process is typically influenced by factors specific to the Participant’s context including:
 
