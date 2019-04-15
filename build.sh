@@ -35,7 +35,7 @@ for lang in en translations/??.po; do
 	echo "Building language $langcode"
 	mkdir -p $langcode
 	asciidoctor     -o $langcode/index.$langcode.html -a lang=$langcode index.$langcode.adoc
-	asciidoctor-pdf -o $langcode/index.$langcode.pdf -a lang=$langcode $title.$langcode.adoc
+	asciidoctor-pdf -o $langcode/$title.$langcode.pdf -a lang=$langcode index.$langcode.adoc
 
 	cat > index.$langcode.asis <<-EOF
 		Status: 303 See Other
