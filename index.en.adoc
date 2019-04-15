@@ -1,0 +1,59 @@
+= Establishing an Effective GBIF Participant Node
+Mélianie Raymond; Kyle Copas <https://orcid.org/0000-0002-6590-599X>
+:toc: left
+:toclevels: 3
+:source-highlighter: coderay
+:numbered:
+:hardbreaks:
+:revnumber: 0.0-demo
+:revdate: {localdate}
+:icons: font
+:pagenums:
+
+include::README.en.adoc[]
+
+include::1-introduction.en.adoc[]
+
+include::2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc[]
+
+include::2.-what-is-a-gbif-participant-node/README.en.adoc[]
+
+include::3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc[]
+
+include::3.-why-are-participant-nodes-needed/README.en.adoc[]
+
+include::4.-what-services-do-participant-nodes-provide/4.0-introduction.en.adoc[]
+
+include::4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc[]
+
+include::4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc[]
+
+include::4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc[]
+
+include::4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc[]
+
+include::5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc[]
+
+include::5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc[]
+
+include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc[]
+
+include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc[]
+
+include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc[]
+
+include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/table-1-generalized-examples-of-the-types-of-institutions-designated-as-hosts-of-gbif-participant-n.en.adoc[]
+
+include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc[]
+
+include::7.-further-support-for-establishing-a-participant-node/7.0-introduction.en.adoc[]
+
+include::7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc[]
+
+include::7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc[]
+
+include::7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc[]
+
+include::7.-further-support-for-establishing-a-participant-node/7.4-what-other-documentation-and-resources-are-available-for-participant-nodes.en.adoc[]
+
+include::7.-further-support-for-establishing-a-participant-node/7.5-contact-for-further-support.en.adoc[]
