@@ -8,11 +8,6 @@ shopt -s globstar
 # In case there are no translations.
 shopt -s nullglob
 
-# Document title for PDF filename
-title=$(grep -m 1 '^=[^=]' index.en.adoc | sed 's/^= *//; s/ /-/g; s/-+/-/g;' | tr '[:upper:]' '[:lower:]')
-echo "Document title is “$title”"
-echo
-
 # Produce the translated adoc source from the po-files.
 echo "Translating sources"
 po4a -v po4a.conf
@@ -34,6 +29,11 @@ for lang in en translations/??.po; do
 	langcode=$(basename $lang .po)
 	echo "Building language $langcode"
 	mkdir -p $langcode
+
+	# Document title for PDF filename
+	title=$(grep -m 1 '^=[^=]' index.$langcode.adoc | tr / - | sed 's/^= *//; s/ /-/g; s/-+/-/g;' | tr '[:upper:]' '[:lower:]')
+	echo "Document title in $langcode is “$title”"
+
 	asciidoctor     -o $langcode/index.$langcode.html -a lang=$langcode index.$langcode.adoc
 	asciidoctor-pdf -o $langcode/$title.$langcode.pdf -a lang=$langcode index.$langcode.adoc
 
