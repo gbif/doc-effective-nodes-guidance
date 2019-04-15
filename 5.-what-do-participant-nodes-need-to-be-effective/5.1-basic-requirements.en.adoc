@@ -1,6 +1,5 @@
 [[basic-requirements]]
-5.1 Basic requirements
-----------------------
+=== Basic requirements
 
 Capacity, defined as “http://www.oecd.org/development/governance-development/36326495.pdf[the ability of individuals, institutions and societies to perform functions, solve problems and set and achieve objectives in a sustainable manner]”, is a useful way of identifying what a Participant node needs to be effective. The http://links.gbif.org/cef[GBIF capacity enhancement framework] considers capacity on three interlinked dimensions: the enabling environment, the organization and the individual.
 

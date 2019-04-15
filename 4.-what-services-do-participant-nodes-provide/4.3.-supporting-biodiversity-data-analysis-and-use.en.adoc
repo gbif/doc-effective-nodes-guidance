@@ -1,6 +1,5 @@
 [[supporting-biodiversity-data-analysis-and-use]]
-4.3. Supporting biodiversity data analysis and use
---------------------------------------------------
+=== Supporting biodiversity data analysis and use
 
 Examples of services include:
 

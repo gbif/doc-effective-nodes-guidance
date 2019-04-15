@@ -1,6 +1,5 @@
 [[how-does-gbif-support-capacity-enhancement-for-participant-nodes]]
-7.3 How does GBIF support capacity enhancement for Participant nodes?
----------------------------------------------------------------------
+=== How does GBIF support capacity enhancement for Participant nodes?
 
 Capacity enhancement provides an essential foundation for the sustainable functioning and performance of the GBIF Participant network and all its members, regardless of their level of development. The http://www.gbif.org/resource/80954[GBIF capacity enhancement framework] draws on recent advancement in the field of capacity development and access to research infrastructures to explain the overall approach taken by the GBIF network to programming activities in this area.
 

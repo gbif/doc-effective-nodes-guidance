@@ -1,6 +1,5 @@
 [[what-are-the-recommendations-on-the-staff-roles-within-nodes]]
-6.2 What are the recommendations on the staff roles within nodes?
------------------------------------------------------------------
+=== What are the recommendations on the staff roles within nodes?
 
 While the specific services that nodes provide vary from one Participant to another (see Section 5), a node’s staff need to cover a number of typical functions:
 

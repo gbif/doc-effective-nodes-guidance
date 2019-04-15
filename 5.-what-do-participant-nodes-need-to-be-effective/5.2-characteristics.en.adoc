@@ -1,6 +1,5 @@
 [[characteristics]]
-5.2 Characteristics
--------------------
+=== Characteristics
 
 In addition to the basic requirements, the following four characteristics help Participant nodes to be effective:
 

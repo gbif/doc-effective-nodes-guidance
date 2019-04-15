@@ -1,6 +1,5 @@
 [[why-are-participant-nodes-needed]]
-3. Why are Participant nodes needed?
-------------------------------------
+== Why are Participant nodes needed?
 
 Participant nodes and biodiversity information facilities help GBIF Participants increase the return from their past, current, and future investments in biodiversity research and data collection. They help make the publication of primary data part of the scientific mainstream: while a well-established tradition exists for publishing the results of biodiversity research, one for publishing the primary data on which those results are based does not yet, despite the fact that it enables further analyses. In their facilitating role, nodes help data holders publish their data using common standards and protocols to ensure interoperability and open access and make data available for the widest possible reuse. They also contribute to commitments that promote transparency and open access to scientific data, helping data holders comply with open data regulations and requirements.
 

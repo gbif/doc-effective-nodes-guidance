@@ -1,3 +1,2 @@
 [[box-3.-a-participatory-approach-to-establishing-a-participant-node]]
-Box 3. A participatory approach to establishing a Participant node
-------------------------------------------------------------------
+==== A participatory approach to establishing a Participant node

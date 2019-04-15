@@ -1,6 +1,5 @@
 [[how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes]]
-7.2 How can the GBIF Participant Node Managers Committee assist in establishing Participant nodes?
---------------------------------------------------------------------------------------------------
+=== How can the GBIF Participant Node Managers Committee assist in establishing Participant nodes?
 
 The https://www.gbif.org/contact-us/directory?group=nodesCommittee[Participant Node Managers Committee] is a forum for sharing information and best practices between Participant nodes. It also https://www.gbif.org/document/80571[acts as an advisory committee] making recommendations to the other GBIF governing bodies. The committee comprises all Participant node managers, so as soon as a GBIF Participant has appointed a node manager, he or she is invited to take part in the committee’s activities.
 

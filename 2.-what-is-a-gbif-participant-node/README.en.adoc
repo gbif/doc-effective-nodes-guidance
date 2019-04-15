@@ -1,6 +1,5 @@
 [[what-is-a-gbif-participant-node]]
-2. What is a GBIF Participant node?
------------------------------------
+== What is a GBIF Participant node?
 
 Participants in GBIF are countries, international organizations or economies having signed the GBIF https://www.gbif.org/document/80661[Memorandum of Understanding] (MOU). Signatories to this agreement express their commitment to establish a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development.
 

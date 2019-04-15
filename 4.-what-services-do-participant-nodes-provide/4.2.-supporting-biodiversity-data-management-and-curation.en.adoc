@@ -1,6 +1,5 @@
 [[supporting-biodiversity-data-management-and-curation]]
-4.2. Supporting biodiversity data management and curation
----------------------------------------------------------
+=== Supporting biodiversity data management and curation
 
 Examples of services include:
 

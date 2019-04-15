@@ -1,6 +1,5 @@
 [[how-can-i-find-examples-of-participant-nodes]]
-7.1 How can I find examples of Participant nodes?
--------------------------------------------------
+=== How can I find examples of Participant nodes?
 
 The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Participants’ GBIF-related activities. They include information about:
 

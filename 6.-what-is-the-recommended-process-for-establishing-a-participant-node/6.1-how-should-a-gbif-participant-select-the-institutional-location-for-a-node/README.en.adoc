@@ -1,6 +1,5 @@
 [[how-should-a-gbif-participant-select-the-institutional-location-for-a-node]]
-6.1 How should a GBIF Participant select the institutional location for a node?
--------------------------------------------------------------------------------
+=== How should a GBIF Participant select the institutional location for a node?
 
 As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. Table 1 summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to many countries or host institutions.
 
