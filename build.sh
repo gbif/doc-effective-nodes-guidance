@@ -10,22 +10,29 @@ shopt -s nullglob
 
 # Document title for PDF filename
 title=$(grep -m 1 '^=[^=]' index.en.adoc | sed 's/^= *//; s/ /-/g; s/-+/-/g;' | tr '[:upper:]' '[:lower:]')
+echo "Document title is “$title”"
+echo
 
 # Produce the translated adoc source from the po-files.
+echo "Translating sources"
 po4a -v po4a.conf
 for lang in translations/??.po; do
 	langcode=$(basename $lang .po)
+	echo "Processing index.en.adoc for $langcode"
 	#for doc in **/*.en.adoc; do
 	#	po4a-translate -f asciidoc -M utf-8 -m $doc -p $lang -k 0 -l $(dirname $doc)/$(basename $doc .en.adoc).$langcode.adoc
 	#done
 	# Convert some includes to refer to the translated versions (this needs improvement).
 	perl -pi -e 's/([A-Za-z0-9_-]+).en.adoc/\1.'$langcode'.adoc/' index.$langcode.adoc
 done
+echo "Translating source files completed"
+echo
 
 # Generate the output HTML and PDF.
 rm -f **/*.??.html **/*.??.pdf *.??.asis
 for lang in en translations/??.po; do
 	langcode=$(basename $lang .po)
+	echo "Building language $langcode"
 	mkdir -p $langcode
 	asciidoctor     -o $langcode/index.$langcode.html -a lang=$langcode index.$langcode.adoc
 	asciidoctor-pdf -o $langcode/index.$langcode.pdf -a lang=$langcode index.$langcode.adoc
@@ -40,6 +47,8 @@ for lang in en translations/??.po; do
 		See <a href="./$langcode/">$langcode</a>.
 	EOF
 
+	echo "$langcode completed"
+	echo
 done
 
 # Make translation template
