@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-15 16:14+0200\n"
-"PO-Revision-Date: 2019-04-15 18:48+0200\n"
+"PO-Revision-Date: 2019-04-15 18:57+0200\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -942,6 +942,14 @@ msgid ""
 "a zoological collection, that it can work with other types of collections),\n"
 "or that it is not competing for digitization funds, etc.\n"
 msgstr ""
+"Tableau\n"
+"|Avantages potentiels | Inconvénients potentiels\n"
+"|===\n"
+"|Collections d’histoire naturelle\n"
+"|\n"
+"|===\n"
+"|Connaissance approfondie des défis et des exigences en matière de numérisation et de gestion des données d’histoire naturelle\n"
+"|Un effort important peut être requis pour démontrer leur neutralité (ex. : s’il s’agit d’une collection zoologique, démontrer qu’elle peut fonctionner avec d’autres types de collections), ou le fait qu’elles ne sont pas en concurrence avec des fonds de numérisation, etc.\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:29
@@ -949,7 +957,7 @@ msgstr ""
 msgid ""
 "May find difficulty in engaging with other communities holding other types\n"
 "      of biodiversity data (e.g., observations, ecological data, etc.)\n"
-msgstr ""
+msgstr "Elles peuvent avoir des difficultés à s’impliquer avec d’autres communautés détentrices d’autres types de données sur la biodiversité (ex. : observations, données écologiques, etc.)\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:35
@@ -961,6 +969,10 @@ msgid ""
 "|Ministries of science, environment, et al.\n"
 "|\n"
 msgstr ""
+"Le point nodal peut avoir des difficultés à répondre aux besoins des parties prenantes (ex. : les décideurs politiques)\n"
+"|===\n"
+"|Ministères des Sciences, de l’Environnement, et coll.\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:38 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:59 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:76 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:106 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:123
@@ -969,6 +981,8 @@ msgid ""
 "|===\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:41
@@ -976,19 +990,19 @@ msgstr ""
 msgid ""
 "Very strong mandate and capacity to influence and support policy and decision\n"
 "      making\n"
-msgstr ""
+msgstr "Mandat robuste et capacité d’influencer et de soutenir l’élaboration de politiques et la prise de décision\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:43
 #, no-wrap
 msgid "Easily aligned with national biodiversity policies, strategies, and programme\n"
-msgstr ""
+msgstr "Facilement alignés sur les politiques, les stratégies et les programmes nationaux de biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:45 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:132
 #, no-wrap
 msgid "|\n"
-msgstr ""
+msgstr "|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:48
@@ -996,13 +1010,13 @@ msgstr ""
 msgid ""
 "Challenges to operate at the technical level and to provide technical\n"
 "      support (e.g., to the scientific community)\n"
-msgstr ""
+msgstr "Difficultés de fonctionner au niveau technique et de fournir une assistance technique (ex. : à la communauté scientifique)\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:50
 #, no-wrap
 msgid "Easily affected by political changes\n"
-msgstr ""
+msgstr "Facilement affectés par les changements politiques\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:56
@@ -1014,24 +1028,28 @@ msgid ""
 "|Biodiversity or biological research institutes\n"
 "|\n"
 msgstr ""
+"Pourraient avoir des difficultés à traiter les besoins d’autres ministères (ex. : des sciences ou de l’environnement)\n"
+"|===\n"
+"|Instituts de biodiversité ou de recherche biologique\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:61
 #, no-wrap
 msgid "High potential for developing capacity in biodiversity informatics easily and quickly\n"
-msgstr ""
+msgstr "Important potentiel de renforcement rapide et facile des capacités en informatique appliquée à la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:63
 #, no-wrap
 msgid "Full knowledge of the biodiversity-research realm\n"
-msgstr ""
+msgstr "Connaissance complète du domaine de la recherche sur la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:65
 #, no-wrap
 msgid "May have a strong and clear institutional mandate\n"
-msgstr ""
+msgstr "Susceptibles d’avoir un mandat institutionnel robuste et clair\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:69 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:85
@@ -1040,7 +1058,7 @@ msgid ""
 "|May not be perceived as neutral by all stakeholders, depending on how\n"
 "    the institute fits within the Participant’s overall institutional landscape\n"
 "    (for example, if there is overlap or competition for resources)\n"
-msgstr ""
+msgstr "Susceptibles de ne pas être perçus comme neutres par toutes les parties prenantes, selon la place de l’institut dans le paysage institutionnel du participant (par exemple, s’il existe un chevauchement ou une concurrence pour les ressources)\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:73
@@ -1050,6 +1068,9 @@ msgid ""
 "|Research councils or science & technology commissions\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Conseils de la recherche ou commissions scientifiques et technologiques\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:79
@@ -1057,13 +1078,13 @@ msgstr ""
 msgid ""
 "Excellent position to use the Participant node to coordinate, promote\n"
 "      and facilitate the mobilization of biodiversity data from research\n"
-msgstr ""
+msgstr "Excellente position pour utiliser le point nodal de participants pour coordonner, promouvoir et faciliter la mobilisation des données sur la biodiversité obtenues à partir de la recherche\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:81
 #, no-wrap
 msgid "Easily aligned with national research policies, strategies, and programmes\n"
-msgstr ""
+msgstr "Facilement alignés sur les politiques, les stratégies et les programmes de recherche nationaux\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:89
@@ -1073,6 +1094,8 @@ msgid ""
 "|Non-governmental organizations\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Organisations non gouvernementales\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:93
@@ -1082,6 +1105,9 @@ msgid ""
 "|Flexibility and autonomy\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Flexibilité et autonomie\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:96
@@ -1089,13 +1115,13 @@ msgstr ""
 msgid ""
 "Potential lack of mandate, difficulty in formally engaging with government\n"
 "      institutions\n"
-msgstr ""
+msgstr "Manque potentiel de mandat, difficulté à s’impliquer de manière formelle avec les institutions gouvernementales\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:98 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:116
 #, no-wrap
 msgid "May become dependent on projects and project-based funding\n"
-msgstr ""
+msgstr "Susceptibles de dépendre de projets et de financements selon les projets\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:103
@@ -1105,6 +1131,9 @@ msgid ""
 "|University departments or faculties\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Départements ou facultés universitaires\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:109
@@ -1112,7 +1141,7 @@ msgstr ""
 msgid ""
 "High potential for developing capacity in biodiversity informatics easily\n"
 "      and quickly\n"
-msgstr ""
+msgstr "Important potentiel de renforcement rapide et facile des capacités en informatique appliquée à la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:112
@@ -1120,7 +1149,7 @@ msgstr ""
 msgid ""
 "Potential for aligning the node’s activities with various biodiversity\n"
 "      research agenda\n"
-msgstr ""
+msgstr "Possibilité d’aligner les activités du point nodal sur une variété de programmes de recherche sur la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:114
@@ -1136,18 +1165,21 @@ msgid ""
 "|National informatics facilities outside the biodiversity/ biological domain\n"
 "|\n"
 msgstr ""
+"|===\n"
+"|Installations informatiques nationales exerçant une activité non liée à la biodiversité/la biologie\n"
+"|\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:125
 #, no-wrap
 msgid "Strong position of neutrality\n"
-msgstr ""
+msgstr "Forte position de neutralité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:127
 #, no-wrap
 msgid "Ready access to technical capacity in informatics\n"
-msgstr ""
+msgstr "Accès aisé aux capacités techniques informatiques\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:130
@@ -1155,7 +1187,7 @@ msgstr ""
 msgid ""
 "Potentially useful connections with well-funded national priorities on\n"
 "      innovation and technology\n"
-msgstr ""
+msgstr "Liens potentiellement utiles avec des priorités nationales bien financées sur l’innovation et les technologies\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:135
@@ -1163,7 +1195,7 @@ msgstr ""
 msgid ""
 "Need to invest in staff bringing relevant scientific domain knowledge\n"
 "      to work effectively with biodiversity data\n"
-msgstr ""
+msgstr "Besoin d’investir dans la formation d’un personnel ayant les connaissances scientifiques appropriées pour travailler efficacement avec des données sur la biodiversité\n"
 
 #. type: delimited block .
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:138
@@ -1172,6 +1204,8 @@ msgid ""
 "Need to build contacts and knowledge of relevant institutional networks\n"
 "|===\n"
 msgstr ""
+"Besoin d’établir des contacts et de se familiariser avec les réseaux institutionnels concernés\n"
+"|===\n"
 
 #. type: Title -
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:3
