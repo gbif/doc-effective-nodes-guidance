@@ -1,20 +1,26 @@
 #!/bin/bash -e
 
+# Run in:
+#   docker run --rm -it -v $PWD:/documents/ asciidoctor/docker-asciidoctor:1.5.7.1
+
 # Enable the **/*.en.adoc below.
 shopt -s globstar
+# In case there are no translations.
+shopt -s nullglob
+
+# Document title for PDF filename
+title=$(grep --max-count=1 '^=[^=]' index.en.adoc | sed 's/^= *//; s/ /-/g; s/-+/-/g;' | tr '[:upper:]' '[:lower:]')
 
 # Produce the translated adoc source from the po-files.
 po4a -v po4a.conf
-if [ -e translations/??.po ]; then
-    for lang in translations/??.po; do
+for lang in translations/??.po; do
 	langcode=$(basename $lang .po)
 	#for doc in **/*.en.adoc; do
 	#	po4a-translate -f asciidoc -M utf-8 -m $doc -p $lang -k 0 -l $(dirname $doc)/$(basename $doc .en.adoc).$langcode.adoc
 	#done
 	# Convert some includes to refer to the translated versions (this needs improvement).
 	perl -pi -e 's/([A-Za-z0-9_-]+).en.adoc/\1.'$langcode'.adoc/' index.$langcode.adoc
-    done
-fi
+done
 
 # Generate the output HTML and PDF.
 rm -f **/*.??.html **/*.??.pdf *.??.asis
