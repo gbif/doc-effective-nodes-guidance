@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-15 16:14+0200\n"
-"PO-Revision-Date: 2019-04-15 18:32+0200\n"
+"PO-Revision-Date: 2019-04-15 18:48+0200\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1281,94 +1281,94 @@ msgstr "Soutenir la mise en place et le développement des points nodaux et de l
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:3
 #, no-wrap
 msgid "7.1 How can I find examples of Participant nodes?"
-msgstr ""
+msgstr "7.1 Comment trouver des exemples de points nodaux ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:6
 msgid "The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Participants’ GBIF-related activities. They include information about:"
-msgstr ""
+msgstr "La https://www.gbif.org/the-gbif-network[liste des pays Participants sur GBIF.org] (_en anglais_) donne un aperçu des activités liées au GBIF menées par les Participants. S’y trouvent des informations sur :"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:8
 msgid "The Participant’s membership status and date of joining GBIF"
-msgstr ""
+msgstr "le statut de membre du Participant et sa date d’adhésion au GBIF ;"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:9
 msgid "The Participant node’s date of establishment, website and contact information"
-msgstr ""
+msgstr "la date de mise en place du point nodal, son site Internet et ses coordonnées ;"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:10
 msgid "An overview of the data published from the country’s institutions, with links to the data publishers and datasets, as well as data published from anywhere in the world about biodiversity located in the country +"
-msgstr ""
+msgstr "une synthèse des données publiées par les institutions nationales, avec des liens vers les personnes qui ont publié ces données et les jeux de données, ainsi que vers les données publiées n’importe où dans le monde au sujet de la biodiversité dans ce pays ;"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:11
 msgid "Information on the node’s history, vision and mission, structure and national funding"
-msgstr ""
+msgstr "des informations sur l’histoire, la vision et la mission, la structure et le financement national du point nodal ;"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:12
 msgid "A list of news items relating to the Participant country and published by the Participant node, as well as links to social media channels operated by the node"
-msgstr ""
+msgstr "une liste de faits d’actualité relatifs au pays publiée par le point nodal, ainsi que des liens vers les médias sociaux administrés par le point nodal ;"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:13
 msgid "A list of peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country"
-msgstr ""
+msgstr "une liste d’articles de recherche revus par des pairs citant le GBIF comme source de données et dont les auteurs sont du pays concerné."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:15
 msgid "https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website."
-msgstr ""
+msgstr "Les https://www.gbif.org/the-gbif-network[informations sur les organisations Participantes] (_en anglais_) renseignent sur l’adhésion et l’activité de publication de données des Participants, et proposent des liens vers le site Internet de leur point nodal"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc:16
 msgid "Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members directly for advice in establishing a node."
-msgstr ""
+msgstr "La consultation de ces pages vous aidera à identifier les exemples les plus adaptés au contexte spécifique d’un nouveau Participant au GBIF. Les nouveaux Participants sont encouragés à contacter les responsables et le personnel des points nodaux pour leur demander directement des conseils en tant que membres du réseau sur la mise en place d’un point nodal."
 
 #. type: Title -
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:3
 #, no-wrap
 msgid "7.2 How can the GBIF Participant Node Managers Committee assist in establishing Participant nodes?"
-msgstr ""
+msgstr "7.2 De quelle manière le Comité des responsables des points nodaux contribue-t-il à la mise en place de points nodaux au GBIF ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:6
 msgid "The https://www.gbif.org/contact-us/directory?group=nodesCommittee[Participant Node Managers Committee] is a forum for sharing information and best practices between Participant nodes. It also https://www.gbif.org/document/80571[acts as an advisory committee] making recommendations to the other GBIF governing bodies. The committee comprises all Participant node managers, so as soon as a GBIF Participant has appointed a node manager, he or she is invited to take part in the committee’s activities."
-msgstr ""
+msgstr "Le https://www.gbif.org/contact-us/directory?group=nodesCommittee[Comité des responsables des points nodaux] (_en anglais_) est un forum de partage d’informations et de bonnes pratiques entre les points nodaux de Participants. Il sert https://www.gbif.org/document/80571[également de comité consultatif] (_en anglais_), faisant des recommandations aux autres organes de direction du GBIF. Le comité comprend tous les responsables de points nodaux. De ce fait, dès qu’un Participant du GBIF a nommé un responsable de point nodal, il ou elle est invité(e) à participer aux activités du comité."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:8
 msgid "The Nodes Steering Group (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes."
-msgstr ""
+msgstr "Le Comité de pilotage des points nodaux (Nodes Steering Group ; NSG) a été mis en place au sein du comité en 2011, et comprend le président et le vice-président du Comité des responsables des points nodaux, et des représentants régionaux des six régions du GBIF (Afrique, Asie, Europe, Amérique latine, Amérique du Nord et Océanie). Son objectif comprend la formulation de recommandations spécifiques aux organes du GBIF concernés, fondées sur les commentaires des points nodaux, et des conseils sur le programme de travail du GBIF qui intéresse les points nodaux."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:10
 msgid "The Nodes Committee meets in a Global Nodes Meeting every other year. These meetings, often combined with training activities, provide an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize Regional Nodes Meetings either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region."
-msgstr ""
+msgstr "Le Comité de points nodaux se réunit tous les deux ans au cours d’une *réunion mondiale des points nodaux*. Ces réunions, souvent organisées en même temps que des activités de formation, constituent un excellent forum d’interaction avec les autres responsables de points nodaux et d’organisation d’activités collaboratives. De plus, beaucoup de sous-comités régionaux organisent des *réunions régionales des points nodaux*, soit une fois par an ou tous les deux ans. Ces réunions permettent de faire avancer le travail collaboratif entre les responsables de points nodaux et constituent un forum de discussion des priorités et des opportunités dans la région."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc:11
 msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the http://community.gbif.org/[GBIF community site] and its thematic and language groups to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes"
-msgstr ""
+msgstr "Entre ces réunions, le comité communique par le biais de listes de diffusion et de téléconférences, et utilise également le site de la communauté du GBIF (en anglais) et ses groupes thématiques et réseaux de langue pour contribuer au travail collaboratif. Les nouveaux points nodaux de participants sont vivement encouragés à https://www.gbif.org/contact-us/directory?group=nodesCommittee[contacter les membres du Comité de points nodaux] (_en anglais_) afin de s’impliquer dans leurs activités, profiter de leur expertise du réseau et élaborer des projets collaboratifs pour contribuer à la mise en place des points nodaux de participants."
 
 #. type: Title -
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:3
 #, no-wrap
 msgid "7.3 How does GBIF support capacity enhancement for Participant nodes?"
-msgstr ""
+msgstr "7.3 De quelle manière le GBIF contribue-t-il au renforcement des capacités des points nodaux ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:6
 msgid "Capacity enhancement provides an essential foundation for the sustainable functioning and performance of the GBIF Participant network and all its members, regardless of their level of development. The http://www.gbif.org/resource/80954[GBIF capacity enhancement framework] draws on recent advancement in the field of capacity development and access to research infrastructures to explain the overall approach taken by the GBIF network to programming activities in this area."
-msgstr ""
+msgstr "Le renforcement des capacités constitue un fondement essentiel du fonctionnement durable et des performances du réseau de participants au GBIF et de tous ses membres, quel que soit leur stade de développement. Le http://www.gbif.org/resource/80954[cadre de renforcement des capacités du GBIF] (_en anglais_) s’inspire des récentes avancées dans le domaine du renforcement des capacités et de l’accès aux infrastructures de recherche pour expliquer l’approche générale adoptée par le réseau GBIF pour programmer ses activités dans la région."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:8
 msgid "The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way. Capacity enhancement includes improving the way Participants can contribute to and benefit from GBIF, how they organize their work and how they relate to other Participants at regional and global scales."
-msgstr ""
+msgstr "Les participants et le Secrétariat du GBIF ont mis en place une série d’activités et de programmes de renforcement des capacités dans le but d’habiliter tous les membres de la communauté GBIF à effectuer leur travail de la manière la plus efficace, la plus autonome et la plus stable possible. Le renforcement des capacités comprend l’amélioration de la manière dont les participants contribuent au GBIF et en bénéficient, dont ils organisent leur travail et dont ils interagissent avec les autres participants à l’échelle régionale et mondiale."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:10
@@ -1381,6 +1381,8 @@ msgid ""
 "A https://www.gbif.org/programme/82219[*capacity enhancement support programme*] with an annual call for project proposals provides GBIF Participants with co-funding to address self-identified capacity needs through collaborative regional and international projects. These projects can combine a range of actions, including mentoring between Participant nodes, the organization of regional events and training workshops, the development or adaptation of documentation, GBIF advocacy actions and actions to promote data use. Participants are encouraged to consider developing project proposals to support the establishment and consolidation of their nodes in collaboration with experts from the GBIF network. Reviewing https://www.gbif.org/programme/82219/[past projects] can provide some useful examples of how to structure collaborative "
 "actions aiming to establish new Participant nodes."
 msgstr ""
+"Un https://www.gbif.org/programme/82219[*programme de soutien au renforcement des capacités] (_en anglais_) qui lance un appel annuel à propositions de projets permet aux Participants au GBIF d’obtenir un cofinancement pour des projets collaboratifs régionaux et internationaux visant à satisfaire les besoins de renforcement de capacités qu’ils ont eux-mêmes identifiés. Ces projets sont associés à une série d’actions, dont le mentorat entre points nodaux de participants, l’organisation d’ateliers de formation régionaux, la rédaction ou l’adaptation de documents, des actions de plaidoyer en faveur du GBIF et des évaluations de besoins. Les Participants sont encouragés à considérer l’élaboration de propositions de projet pour aider à la mise en place et à la consolidation de leurs points nodaux en collaboration avec des experts du "
+"réseau GBIF. Les https://www.gbif.org/programme/82219/[projets antérieurs] (_en anglais_) constituent des exemples utiles de la manière de structurer des actions collaboratives visant à mettre en place des points nodaux."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:14
@@ -1390,7 +1392,7 @@ msgstr ""
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:16
 msgid "GBIF also provides access to *training opportunities* for node managers and staff. GBIF-related training events are held all over the world and are displayed on the https://www.gbif.org/resource/search?contentType=event[events section] of GBIF.org."
-msgstr ""
+msgstr "Le GBIF offre également aux responsables et au personnel des points nodaux des opportunités de formation. Des évènements de formation ayant trait au GBIF sont organisés partout dans le monde et sont annoncés dans la rubrique « Events » du site GBIF.org."
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:17
@@ -1401,20 +1403,20 @@ msgstr ""
 #: 7.-further-support-for-establishing-a-participant-node/7.4-what-other-documentation-and-resources-are-available-for-participant-nodes.en.adoc:3
 #, no-wrap
 msgid "7.4 What other documentation and resources are available for Participant nodes?"
-msgstr ""
+msgstr "7.4 Quels sont les autres documents et ressources mis à la disposition des points nodaux ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.4-what-other-documentation-and-resources-are-available-for-participant-nodes.en.adoc:5
 msgid "GBIF maintains a library of freely accessible https://www.gbif.org/resource/search[resources] including tools, presentations, manuals and documentation for anyone to use and download. Many are specifically designed for Participant nodes and can be accessed using the filters available in the resource section of GBIF.org."
-msgstr ""
+msgstr "Le GBIF gère une bibliothèque de https://www.gbif.org/resource/search[ressources] en libre accès comprenant des outils, des présentations, des manuels et des documents pouvant être utilisés et téléchargés par tout un chacun. Nombre de ces ressources sont spécifiquement conçues pour les points nodaux de participants et peuvent être consultées en utilisant les filtres disponibles dans la rubrique http://www.gbif.fr/page/ressources/documentation[Ressources] de GBIF.fr ou GBIF.org."
 
 #. type: Title -
 #: 7.-further-support-for-establishing-a-participant-node/7.5-contact-for-further-support.en.adoc:3
 #, no-wrap
 msgid "7.5 Contact for further support"
-msgstr ""
+msgstr "7.5 Qui contacter pour tout renseignement complémentaire ?"
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.5-contact-for-further-support.en.adoc:5
 msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact nodes@gbif.org for further information."
-msgstr ""
+msgstr "Le personnel du Secrétariat du GBIF est à la disposition des points nodaux pour leur offrir conseils et assistance. Veuillez contacter nodes@gbif.org pour obtenir de plus amples informations."
