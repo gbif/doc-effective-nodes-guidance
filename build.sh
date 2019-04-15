@@ -9,7 +9,7 @@ shopt -s globstar
 shopt -s nullglob
 
 # Document title for PDF filename
-title=$(grep --max-count=1 '^=[^=]' index.en.adoc | sed 's/^= *//; s/ /-/g; s/-+/-/g;' | tr '[:upper:]' '[:lower:]')
+title=$(grep -m 1 '^=[^=]' index.en.adoc | sed 's/^= *//; s/ /-/g; s/-+/-/g;' | tr '[:upper:]' '[:lower:]')
 
 # Produce the translated adoc source from the po-files.
 po4a -v po4a.conf
