@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-15 16:14+0200\n"
-"PO-Revision-Date: 2019-04-15 17:12+0200\n"
+"PO-Revision-Date: 2019-04-15 18:04+0200\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -654,86 +654,86 @@ msgstr "Des *plans, outils et matériaux de communication et de sensibilisation*
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:39
 #, no-wrap
 msgid "Implementation and Evaluation Capacity"
-msgstr ""
+msgstr "Capacité de mise en oeuvre et d’évaluation"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:42
 msgid "The ability to manage, fund, budget, implement and evaluate projects and programmes."
-msgstr ""
+msgstr "Aptitude à gérer, financer, budgéter, mettre en oeuvre et évaluer des projets et des programmes."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:44
 msgid "Dedicated staff members to implement the node’s mandate and work plans (see section 6.2). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training. +"
-msgstr ""
+msgstr "Des *membres du personnel dédiés* pour mettre en oeuvre le mandat et les programmes de travail du point nodal (cf. _Section 6.2_). L’équipe du point nodal aura besoin d’un large éventail de compétences allant de l’informatique appliquée à la biodiversité à la coordination de réseau, soutenues par une formation appropriée."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:45
 msgid "Institutional and financial support, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds."
-msgstr ""
+msgstr "Une *aide institutionnelle et financière* en conformité avec les services devant être fournis par le point nodal pour que le point nodal puisse réaliser ses programmes de travail. L’aide institutionnelle peut comprendre une assistance administrative, des installations hôtes et le soutien politique nécessaire pour permettre l’implication de partenaires clés, susciter l’intérêt, accroître la visibilité et mobiliser des fonds."
 
 #. type: Title ~
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:48
 #, no-wrap
 msgid "Technical capacities"
-msgstr ""
+msgstr "Capacités techniques"
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:52
 #, no-wrap
 msgid "Biodiversity data mobilization"
-msgstr ""
+msgstr "Mobilisation des données sur la biodiversité"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:55
 msgid "The ability to collect, digitize and publish biodiversity data."
-msgstr ""
+msgstr "Aptitude à collecter, numériser et publier les données sur la biodiversité."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:57
 msgid "An informatics infrastructure to support the mobilization of biodiversity data. Existing tools, such as the https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)], support a range of implementation models, from using hosted data publication tools to maintaining a distributed network of data publishers and a centralized index of data."
-msgstr ""
+msgstr "Une *infrastructure informatique aidant à la mobilisation des données sur la biodiversité*. Les outils existants, par example https://www.gbif.org/ipt[l’IPT (Integrated Publishing Toolkit)], viennent en appui de nombreux modèles de mise en oeuvre, allant de l’utilisation d’outils de publication de données hébergés à la gestion d’un réseau décentralisé de personnes publiant les données et un catalogue centralisé des données."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:58
 msgid "A programme to encourage and support data holders in mobilizing their data, including, for example, promotion of incentives for data sharing and publication, technical helpdesk assistance, the translation or adaptation of documentation and manuals, the organization of training workshops and an e-learning platform."
-msgstr ""
+msgstr "Un *programme encourageant et aidant les détenteurs de données à mobiliser leurs données*, comprenant, par exemple, la promotion d’incitations au partage et à la publication de données, une assistance technique, la traduction ou l’adaptation de documents et de manuels, l’organisation d’ateliers de formation et d’une plateforme d’apprentissage électronique."
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:61
 #, no-wrap
 msgid "Biodiversity data management and curation"
-msgstr ""
+msgstr "Gestion et conservation des données sur la biodiversité"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:64
 msgid "The ability to manage and curate biodiversity data, as a means of continuously improving data quality."
-msgstr ""
+msgstr "Aptitude à gérer et à conserver les données sur la biodiversité afin d’améliorer continuellement la qualité des données."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:66
 msgid "A workflow for contributing to data quality improvement, linked to the processes of endorsing data publishers joining the GBIF network and evaluation of datasets. This can include the use of data quality tools and processes available from the GBIF network (see http://www.gbif.es/BDQ.php[GBIF Spain’s Data Quality Hub]) and guidance and information for data holders on data management techniques."
-msgstr ""
+msgstr "Un *flux de travail contribuant à l’amélioration de la qualité des données*, connecté aux processus de validation des personnes publiant des données qui deviennent membres du réseau GBIF et d’évaluation des jeux de données. Cela peut comprendre l’utilisation d’outils et de processus de qualité des données disponibles du réseau GBIF (cf. http://www.gbif.es/BDQ.php[Pôle de qualité des données de GBIF Espagne] (_en anglais_)) ainsi que des conseils et informations sur les techniques de gestion des données à l’attention des détenteurs de données."
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:69
 #, no-wrap
 msgid "Biodiversity data analysis and use"
-msgstr ""
+msgstr "Analyse et utilisation des données sur la biodiversité"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:72
 msgid "The ability to access, analyze and use biodiversity data."
-msgstr ""
+msgstr "Aptitude à accéder, analyser et utiliser les données sur la biodiversité"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:74
 msgid "Tools and expertise to generate an agreed set of information products and services including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders."
-msgstr ""
+msgstr "Des *outils et une expertise pour générer un ensemble de produits et de services d’information* y compris, par exemple, des listes d’espèces nationales, régionales et thématiques, des contributions à l’élaboration de rapports sur le statut de biodiversité, un catalogue de métadonnées, et une analyse des besoins et des lacunes concernant les données sur la biodiversité qui complètent celles générées par d’autres parties prenantes."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:75
 msgid "A programme to support access and use of biodiversity data available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences."
-msgstr ""
+msgstr "Un *programme pour permettre l’accès et l’utilisation des données sur la biodiversité* mises à disposition par le réseau GBIF, susceptible de comprendre un portail national ou thématique de données sur la biodiversité. Ce programme peut inclure notamment l’organisation d’ateliers de formation, la liaison avec des programmes d’éducation nationale, la traduction et l’adaptation de documents, ainsi que des actions visant à accroître la visibilité du réseau lors de conférences scientifiques spécifiques."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:76
@@ -741,12 +741,14 @@ msgid ""
 "The situation of each GBIF Participant is unique, with different capacity strengths and challenges on different levels. Gaining access to the advice and experience of the GBIF network can help new Participants to establish effective nodes as efficiently as possible. Projects and partnerships with other Participants and their nodes can be an effective form of capacity development, for which there are many successful https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[examples]. GBIF has a https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[capacity enhancement support programme] that provides co-funding each year to support such projects. Less formal exchanges of ideas and experiences, for example, through regional meetings of GBIF nodes, also offer valuable opportunities to help "
 "nodes develop the basic capacity requirements."
 msgstr ""
+"La situation de chaque Participant GBIF est unique, chacun d’entre eux possédant différents points forts et devant relever différents défis à différents niveaux. L’accès aux conseils et à l’expérience du réseau GBIF peut aider les nouveaux Participants à établir des points nodaux aussi efficacement que possible. Les projets et partenariats avec d’autres Participants et leurs points nodaux peuvent s’avérer une forme efficace de renforcement des capacités, dont il existe de nombreux https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[exemples] (_en anglais_) de réussite. Le GBIF possède un https://www.gbif.org/programme/82219[programme de soutien au renforcement des capacités] (_en anglais_) qui offre un cofinancement à de tels projets. Les échanges moins formels d’idées et d’expérience, par exemple au "
+"travers des réunions régionales de points nodaux, peuvent également représenter d’excellentes occasions pour aider les points nodaux à mettre en place les exigences fondamentales en matière de capacité."
 
 #. type: Title -
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:3
 #, no-wrap
 msgid "5.2 Characteristics"
-msgstr ""
+msgstr "5.2 Caractéristiques"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:6
