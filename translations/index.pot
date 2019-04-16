@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-04-16 09:53+0200\n"
+"POT-Creation-Date: 2019-04-16 10:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -336,11 +336,12 @@ msgstr ""
 
 #. type: delimited block *
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:10
+#, no-wrap
 msgid ""
-"Biodiversity information facility: Variously described as a ‘BIF’, a system "
-"or a network, a broader structure of people and institutions, coordinated by "
-"the node, that collectively forms an infrastructure for delivering "
-"biodiversity information to relevant stakeholders."
+"*Biodiversity information facility*: Variously described as a ‘BIF’, a "
+"system or a network, a broader structure of people and institutions, "
+"coordinated by the node, that collectively forms an infrastructure for "
+"delivering biodiversity information to relevant stakeholders.\n"
 msgstr ""
 
 #. type: Title ====
@@ -1424,55 +1425,6 @@ msgstr ""
 #. type: delimited block *
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc:5
 msgid "BOX 3 GOES HERE."
-msgstr ""
-
-#. type: delimited block .
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc:25
-#, no-wrap
-msgid ""
-"                   +-------------+\n"
-"                   | Asciidoctor |-------+\n"
-"                   |   diagram   |       |\n"
-"                   +-------------+       | PNG out\n"
-"                       ^                 |\n"
-"                       | ditaa in        |\n"
-"                       |                 v\n"
-" +--------+   +--------+----+    /---------------\\\n"
-" |        | --+ Asciidoctor +--> |               |\n"
-" |  Text  |   +-------------+    |   Beautiful   |\n"
-" |Document|   |   !magic!   |    |    Output     |\n"
-" |     {d}|   |             |    |               |\n"
-" +---+----+   +-------------+    \\---------------/\n"
-"     :                                   ^\n"
-"     |          Lots of work             |\n"
-"     +-----------------------------------+\n"
-msgstr ""
-
-#. type: delimited block .
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc:39
-#, no-wrap
-msgid ""
-".-------------------------.\n"
-"|                         |\n"
-"| .---.-. .-----. .-----. |\n"
-"| | .-. | +-->  | |  <--| |\n"
-"| | '-' | |  <--| +-->  | |\n"
-"| '---'-' '-----' '-----' |\n"
-"|  ascii     2      svg   |\n"
-"|                         |\n"
-"'-------------------------'\n"
-msgstr ""
-
-#. type: delimited block -
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc:49
-#, no-wrap
-msgid ""
-"digraph g {\n"
-"    a -> b\n"
-"    b -> c\n"
-"    c -> d\n"
-"    d -> a\n"
-"}\n"
 msgstr ""
 
 #. type: Title ===
