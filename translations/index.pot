@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-04-15 18:08+0000\n"
+"POT-Creation-Date: 2019-04-16 09:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,43 +33,49 @@ msgstr ""
 msgid "Concepts and general considerations"
 msgstr ""
 
+#. type: Target for macro image
+#: README.en.adoc:5
+#, no-wrap
+msgid "stones-1148278.jpg"
+msgstr ""
+
 #. type: Title ===
-#: README.en.adoc:4
+#: README.en.adoc:8
 #, no-wrap
 msgid "Suggested citation"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:6
+#: README.en.adoc:10
 msgid ""
 "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: "
 "Concepts and general considerations. Copenhagen. Available online at #foo."
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:7
+#: README.en.adoc:11
 #, no-wrap
 msgid "Persistent URI"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:9
+#: README.en.adoc:13
 msgid "#foo"
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:10
+#: README.en.adoc:14
 #, no-wrap
 msgid "Contributors"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:12
+#: README.en.adoc:16
 msgid "…"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:14
+#: README.en.adoc:18
 msgid ""
 "_Establishing an Effective GBIF Participant Node_ is licensed under "
 "https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 "
@@ -77,18 +83,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:15
+#: README.en.adoc:19
 #, no-wrap
 msgid "Document Control"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:17
+#: README.en.adoc:21
 msgid "Second (GitHub) edition published, February 2019."
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:19
+#: README.en.adoc:23
 msgid ""
 "First published, March 2015. Contributors: Mélianie Raymond, "
 "https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
@@ -98,11 +104,22 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:20
+#: README.en.adoc:25
 msgid ""
 "Originally based on an earlier publication, _Towards establishing a "
 "functional GBIF Participant Node (Part I): definitions and general "
 "considerations_."
+msgstr ""
+
+#. type: Title ===
+#: README.en.adoc:26
+#, no-wrap
+msgid "Cover image"
+msgstr ""
+
+#. type: Plain text
+#: README.en.adoc:28
+msgid "(C) 2010, antkevyv | https://www.freeimages.com/photo/stones-1148278"
 msgstr ""
 
 #. type: Title ==
@@ -336,11 +353,12 @@ msgstr ""
 
 #. type: delimited block *
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:10
+#, no-wrap
 msgid ""
-"Biodiversity information facility: Variously described as a ‘BIF’, a system "
-"or a network, a broader structure of people and institutions, coordinated by "
-"the node, that collectively forms an infrastructure for delivering "
-"biodiversity information to relevant stakeholders."
+"*Biodiversity information facility*: Variously described as a ‘BIF’, a "
+"system or a network, a broader structure of people and institutions, "
+"coordinated by the node, that collectively forms an infrastructure for "
+"delivering biodiversity information to relevant stakeholders.\n"
 msgstr ""
 
 #. type: Title ====
@@ -1426,55 +1444,6 @@ msgstr ""
 msgid "BOX 3 GOES HERE."
 msgstr ""
 
-#. type: delimited block .
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc:25
-#, no-wrap
-msgid ""
-"                   +-------------+\n"
-"                   | Asciidoctor |-------+\n"
-"                   |   diagram   |       |\n"
-"                   +-------------+       | PNG out\n"
-"                       ^                 |\n"
-"                       | ditaa in        |\n"
-"                       |                 v\n"
-" +--------+   +--------+----+    /---------------\\\n"
-" |        | --+ Asciidoctor +--> |               |\n"
-" |  Text  |   +-------------+    |   Beautiful   |\n"
-" |Document|   |   !magic!   |    |    Output     |\n"
-" |     {d}|   |             |    |               |\n"
-" +---+----+   +-------------+    \\---------------/\n"
-"     :                                   ^\n"
-"     |          Lots of work             |\n"
-"     +-----------------------------------+\n"
-msgstr ""
-
-#. type: delimited block .
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc:39
-#, no-wrap
-msgid ""
-".-------------------------.\n"
-"|                         |\n"
-"| .---.-. .-----. .-----. |\n"
-"| | .-. | +-->  | |  <--| |\n"
-"| | '-' | |  <--| +-->  | |\n"
-"| '---'-' '-----' '-----' |\n"
-"|  ascii     2      svg   |\n"
-"|                         |\n"
-"'-------------------------'\n"
-msgstr ""
-
-#. type: delimited block -
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc:49
-#, no-wrap
-msgid ""
-"digraph g {\n"
-"    a -> b\n"
-"    b -> c\n"
-"    c -> d\n"
-"    d -> a\n"
-"}\n"
-msgstr ""
-
 #. type: Title ===
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:2
 #, no-wrap
@@ -1531,215 +1500,212 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:13 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:104
+msgid "|==="
+msgstr ""
+
+#. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:15
-msgid "|=== ^|Potential advantages ^|Potential disadvantages"
+msgid "^|Potential advantages"
 msgstr ""
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:17
+msgid "^|Potential disadvantages"
+msgstr ""
+
+#. type: Plain text
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:19
 msgid "2+^s|Natural history collections"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:22
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:21
 msgid ""
 "|Existing knowledge of the challenges and requirements of digitizing and "
-"managing natural history data |May take significant effort to demonstrate "
-"neutrality (e.g., if it is a zoological collection, that it can work with "
-"other types of collections), or that it is not competing for digitization "
-"funds, etc."
+"managing natural history data"
 msgstr ""
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:25
-#, no-wrap
 msgid ""
-"May find difficulty in engaging with other communities holding other types\n"
-"      of biodiversity data (e.g., observations, ecological data, etc.)\n"
+"|May take significant effort to demonstrate neutrality (e.g., if it is a "
+"zoological collection, that it can work with other types of collections), or "
+"that it is not competing for digitization funds, etc."
 msgstr ""
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:28
-#, no-wrap
 msgid ""
-"Can make it difficult for the node to serve the needs of some stakeholders\n"
-"      (e.g., policymakers)\n"
+"May find difficulty in engaging with other communities holding other types "
+"of biodiversity data (e.g., observations, ecological data, etc.)"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:30
-msgid "2+^s|Ministries of science, environment, et al."
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:31
+msgid ""
+"Can make it difficult for the node to serve the needs of some stakeholders "
+"(e.g., policymakers)"
 msgstr ""
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:33
-#, no-wrap
-msgid ""
-"|Very strong mandate and capacity to influence and support policy and "
-"decision\n"
-"      making\n"
+msgid "2+^s|Ministries of science, environment, et al."
 msgstr ""
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:35
+msgid ""
+"|Very strong mandate and capacity to influence and support policy and "
+"decision making"
+msgstr ""
+
+#. type: Plain text
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:37
 msgid ""
 "Easily aligned with national biodiversity policies, strategies, and "
 "programme"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:38
-#, no-wrap
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:40
 msgid ""
-"|Challenges to operate at the technical level and to provide technical\n"
-"      support (e.g., to the scientific community)\n"
+"|Challenges to operate at the technical level and to provide technical "
+"support (e.g., to the scientific community)"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:40
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:42
 msgid "Easily affected by political changes"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:43
-#, no-wrap
-msgid ""
-"May find difficulties in addressing needs from other ministries (e.g.,\n"
-"      from science or environment)\n"
-msgstr ""
-
-#. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:45
-msgid "2+^s|Biodiversity or biological research institutes"
+msgid ""
+"May find difficulties in addressing needs from other ministries (e.g., from "
+"science or environment)"
 msgstr ""
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:47
+msgid "2+^s|Biodiversity or biological research institutes"
+msgstr ""
+
+#. type: Plain text
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:49 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:82
 msgid ""
 "|High potential for developing capacity in biodiversity informatics easily "
 "and quickly"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:49
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:51
 msgid "Full knowledge of the biodiversity-research realm"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:51
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:53
 msgid "May have a strong and clear institutional mandate"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:55 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:66
-#, no-wrap
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:57 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:68
 msgid ""
-"|May not be perceived as neutral by all stakeholders, depending on how\n"
-"    the institute fits within the Participant’s overall institutional "
-"landscape\n"
-"    (for example, if there is overlap or competition for resources)\n"
+"|May not be perceived as neutral by all stakeholders, depending on how the "
+"institute fits within the Participant’s overall institutional landscape (for "
+"example, if there is overlap or competition for resources)"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:57
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:59
 msgid "2+^s|Research councils or science & technology commissions"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:60
-#, no-wrap
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:62
 msgid ""
-"|Excellent position to use the Participant node to coordinate, promote\n"
-"      and facilitate the mobilization of biodiversity data from research\n"
+"|Excellent position to use the Participant node to coordinate, promote and "
+"facilitate the mobilization of biodiversity data from research"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:62
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:64
 msgid "Easily aligned with national research policies, strategies, and programmes"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:69
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:70
 msgid "2+^s|Non-governmental organizations"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:73
-#, no-wrap
-msgid ""
-"|Flexibility and autonomy\n"
-"|Potential lack of mandate, difficulty in formally engaging with "
-"government\n"
-"      institutions\n"
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:72
+msgid "|Flexibility and autonomy"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:75 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:87
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:75
+msgid ""
+"|Potential lack of mandate, difficulty in formally engaging with government "
+"institutions"
+msgstr ""
+
+#. type: Plain text
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:77 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:89
 msgid "May become dependent on projects and project-based funding"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:77
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:79
 msgid "2+^s|University departments or faculties"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:80
-#, no-wrap
-msgid ""
-"|High potential for developing capacity in biodiversity informatics easily\n"
-"      and quickly\n"
-msgstr ""
-
-#. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:83
-#, no-wrap
-msgid ""
-"Potential for aligning the node’s activities with various biodiversity\n"
-"      research agenda\n"
-msgstr ""
-
-#. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:85
+msgid ""
+"Potential for aligning the node’s activities with various biodiversity "
+"research agenda"
+msgstr ""
+
+#. type: Plain text
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:87
 msgid "|May face neutrality issues"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:89
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:91
 msgid ""
 "2+^s|National informatics facilities outside the biodiversity/ biological "
 "domain"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:91
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:93
 msgid "|Strong position of neutrality"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:93
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:95
 msgid "Ready access to technical capacity in informatics"
 msgstr ""
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:96
-#, no-wrap
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:98
 msgid ""
-"Potentially useful connections with well-funded national priorities on\n"
-"      innovation and technology\n"
-msgstr ""
-
-#. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:99
-#, no-wrap
-msgid ""
-"|Need to invest in staff bringing relevant scientific domain knowledge\n"
-"      to work effectively with biodiversity data\n"
+"Potentially useful connections with well-funded national priorities on "
+"innovation and technology"
 msgstr ""
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:101
-msgid "Need to build contacts and knowledge of relevant institutional networks |==="
+msgid ""
+"|Need to invest in staff bringing relevant scientific domain knowledge to "
+"work effectively with biodiversity data"
+msgstr ""
+
+#. type: Plain text
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:103
+msgid "Need to build contacts and knowledge of relevant institutional networks"
 msgstr ""
 
 #. type: Title ===

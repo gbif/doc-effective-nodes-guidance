@@ -34,8 +34,8 @@ for lang in en translations/??.po; do
 	title=$(grep -m 1 '^=[^=]' index.$langcode.adoc | tr / - | sed 's/^= *//; s/ /-/g; s/-+/-/g;' | tr '[:upper:]' '[:lower:]')
 	echo "Document title in $langcode is “$title”"
 
-	asciidoctor     -o $langcode/index.$langcode.html -a lang=$langcode index.$langcode.adoc
-	asciidoctor-pdf -o $langcode/$title.$langcode.pdf -a lang=$langcode index.$langcode.adoc
+	asciidoctor     -a imagesdir=../ -r asciidoctor-diagram -o $langcode/index.$langcode.html -a lang=$langcode index.$langcode.adoc
+	asciidoctor-pdf -a media=print   -r asciidoctor-diagram -o $langcode/$title.$langcode.pdf -a lang=$langcode index.$langcode.adoc
 
 	cat > index.$langcode.asis <<-EOF
 		Status: 303 See Other
