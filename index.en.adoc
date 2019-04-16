@@ -10,6 +10,10 @@ Mélianie Raymond; Kyle Copas <https://orcid.org/0000-0002-6590-599X>
 :pagenums:
 :license: https://creativecommons.org/licenses/by/4.0
 
+ifdef::backend-html5[]
+_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_
+endif::backend-html5[]
+
 include::README.en.adoc[]
 
 include::1-introduction.en.adoc[]

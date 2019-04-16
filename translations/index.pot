@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-04-16 09:59+0000\n"
+"POT-Creation-Date: 2019-04-16 18:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,6 +25,13 @@ msgstr ""
 #. type: Plain text
 #: index.en.adoc:3
 msgid "Mélianie Raymond; Kyle Copas <https://orcid.org/0000-0002-6590-599X>"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:16
+msgid ""
+"_languageLinks:pdf[This document is also available in,PDF format] and "
+"languageLinks:languages[in other languages:,.]_"
 msgstr ""
 
 #. type: Title ==
