@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-15 16:14+0200\n"
-"PO-Revision-Date: 2019-04-15 19:13+0200\n"
+"PO-Revision-Date: 2019-04-16 09:41+0200\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -225,7 +225,10 @@ msgstr "Structures principales\n"
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:8
 #, no-wrap
 msgid "*Participant*: a country, economy or organization that joins GBIF by signing a https://www.gbif.org/document/80661[Memorandum of Understanding] and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. Participant node: a coordinating team designated by the Participant to establish, strengthen and expand the collective GBIF activities in the country or organization.\n"
-msgstr "*Participant* : pays, économie ou organisation qui devient membre du GBIF en signant un https://www.gbif.org/document/80661[Protocole d’accord] et en mettant en place un effort coordonné pour la contribution à l’accès libre et à l’utilisation des données sur la biodiversité, pour l’avancée de la recherche scientifique et pour la promotion du développement technologique et durable.\n"
+msgstr ""
+"*Participant* : pays, économie ou organisation qui devient membre du GBIF en signant un https://www.gbif.org/document/80661[Protocole d’accord] et en mettant en place un effort coordonné pour la contribution à l’accès libre et à l’utilisation des données sur la biodiversité, pour l’avancée de la recherche scientifique et pour la promotion du développement technologique et durable.\n"
+"\n"
+"*Point nodal* : équipe de coordination désignée par le Participant pour mettre en place, renforcer et élargir les activités relatives au GBIF dans le pays ou l’organisation internationale. \n"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:10

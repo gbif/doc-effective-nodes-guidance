@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-15 16:14+0200\n"
-"PO-Revision-Date: 2019-04-15 23:21+0200\n"
+"PO-Revision-Date: 2019-04-16 09:41+0200\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -227,7 +227,10 @@ msgstr "*Principais Estruturas*\n"
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:8
 #, no-wrap
 msgid "*Participant*: a country, economy or organization that joins GBIF by signing a https://www.gbif.org/document/80661[Memorandum of Understanding] and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. Participant node: a coordinating team designated by the Participant to establish, strengthen and expand the collective GBIF activities in the country or organization.\n"
-msgstr "*Participante*: um país, economia ou organização que adere ao GBIF, assinando um https://www.gbif.org/document/80661[Memorando de Entendimento] e estabelecendo uma iniciativa coordenada para dar apoio ao acesso e utilização livre de dados de biodiversidade, fomentar a investigação científica e promover o desenvolvimento tecnológico e sustentável.\n"
+msgstr ""
+"*Participante*: um país, economia ou organização que adere ao GBIF, assinando um https://www.gbif.org/document/80661[Memorando de Entendimento] e estabelecendo uma iniciativa coordenada para dar apoio ao acesso e utilização livre de dados de biodiversidade, fomentar a investigação científica e promover o desenvolvimento tecnológico e sustentável.\n"
+"\n"
+"*Nó de Participante*: uma equipa coordenadora designada pelo Participante para estabelecer, reforçar e expandir as atividades coletivas do GBIF no país ou organização. \n"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:10

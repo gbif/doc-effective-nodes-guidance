@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-15 16:14+0200\n"
-"PO-Revision-Date: 2019-04-16 07:39+0200\n"
+"PO-Revision-Date: 2019-04-16 09:50+0200\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,7 +80,7 @@ msgstr "Control de documentos"
 #. type: Plain text
 #: README.en.adoc:16
 msgid "Second (GitHub) edition published, February 2019."
-msgstr "Primera edición. Marzo de 2015"
+msgstr "Primera edición. Marzo de 2015."
 
 #. type: Plain text
 #: README.en.adoc:18
@@ -125,37 +125,37 @@ msgstr "Esta guía se sirve de la experiencia de la red de GBIF para ofrecer rec
 #. type: Plain text
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:3
 msgid "What is a GBIF Participant node?"
-msgstr ""
+msgstr "¿Qué es un nodo participante de GBIF?"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:6
 #, no-wrap
 msgid "Participants in GBIF are countries, international organizations or economies having signed the GBIF https://www.gbif.org/document/80661[Memorandum of Understanding] (MOU). Signatories to this agreement express their commitment to establish a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development.\n"
-msgstr ""
+msgstr "*Los participantes de GBIF son países, organizaciones internacionales o economías que firmaron el https://www.gbif.org/document/80661[Memorando de Entendimiento] (MoU). Los signatarios de este acuerdo expresan su compromiso de realizar un esfuerzo coordinado para apoyar el uso y el acceso libre de los datos sobre biodiversidad, de fomentar la investigación científica e impulsar el desarrollo sustentable y tecnológico.\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:8
 #, no-wrap
 msgid "A GBIF Participant node is the coordinating team designated by a Participant to establish, strengthen and expand the GBIF-related activities of the country or international organization. The broader network of people and institutions coordinated by the node, collectively building an infrastructure for delivering biodiversity information, is sometimes referred to as a biodiversity information facility (see <<box-1,Box 1>>).\n"
-msgstr ""
+msgstr "Un nodo participante de GBIF es el equipo coordinador designado por un participante para realizar, fortalecer y difundir las actividades de GBIF en el país o la organización internacional. La red más amplia de personas e instituciones coordinadas por el nodo, que conjuntamente construyen una infraestructura para distribuir la información sobre biodiversidad, a menudo, recibe el nombre de infraestructura de información en biodiversidad (véase el _cuadro 1_)*.\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:10
 #, no-wrap
 msgid "A Participant node is typically hosted by an existing biodiversity-related institution or institutions in the Participant country, or by Participant organizations. The node manager leads the team and also represents the Participant on the https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF Participant Node Managers Committee].\n"
-msgstr ""
+msgstr "Por lo general, el nodo participante está a cargo de una o varias instituciones del sector de la biodiversidad del país participante, o bien a cargo de organizaciones participantes. El administrador del nodo lidera el equipo y también representa al participante en el https://www.gbif.org/contact-us/directory?group=nodesCommittee[Comité de Administradores de Nodos Participantes de GBIF].\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:12
 #, no-wrap
 msgid "A broad range of stakeholders are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers (see <<box-1,Box 1>>). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network.\n"
-msgstr ""
+msgstr "En las actividades de GBIF que se desarrollan a nivel de los participantes, hay una gran variedad de *partes interesadas*, como los proveedores de datos, los expertos en biodiversidad, los usuarios de los datos y los encargados de adoptar decisiones (véase el _cuadro 1_). Los nodos participantes tienen la función de unir los intereses y las necesidades de cada uno de estos actores para que puedan hacer sus aportes a la red de GBIF y se puedan beneficiar con su participación.\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:14
 #, no-wrap
 msgid "Participant nodes typically have four main functions (see also <<introduction4,Section 4>>):\n"
-msgstr ""
+msgstr "Generalmente, los nodos participantes tienen cuatro funciones principales (véase también la _sección 4_):\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:19
@@ -166,12 +166,16 @@ msgid ""
 "* Encouraging the optimum reuse of available data +\n"
 "* Fostering collaboration between existing initiatives relating to biodiversity, including making connections to the international GBIF network\n"
 msgstr ""
+"* Impulsar y fomentar la movilización de los datos sobre biodiversidad en el país o la organización\n"
+"* Aportar sus conocimientos especializados respecto de la administración de los datos sobre biodiversidad y mejorar la calidad de estos\n"
+"* Alentar la reutilización óptima de los datos disponibles\n"
+"* Impulsar la colaboración en las iniciativas actuales relacionadas con la biodiversidad, lo que incluye el establecimiento de vínculos con la red internacional de GBIF\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:21
 #, no-wrap
 msgid "Participant nodes are thus knowledge hubs both for biodiversity data and broader GBIF-related activities. They not only guide stakeholders to relevant sources of biodiversity information but also to such things as:\n"
-msgstr ""
+msgstr "Por ende, los nodos participantes son *centros de conocimiento* tanto para los datos sobre biodiversidad como para las actividades generales de GBIF. Estos centros no solo remiten a las partes interesadas a las fuentes relevantes de información sobre biodiversidad, sino también a temas como los siguientes:\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:26
@@ -182,230 +186,237 @@ msgid ""
 "* Individual experts in different aspects of biodiversity\n"
 "* Broader information about the landscape of biodiversity initiatives\n"
 msgstr ""
+"* Políticas relativas a la biodiversidad y el acceso libre\n"
+"* Conocimientos especializados sobre cómo ejecutar programas de digitalización, organizar la administración de datos e implementar prácticas de calidad de los datos\n"
+"* Expertos en diferentes aspectos de la biodiversidad\n"
+"* Información general sobre el panorama de las iniciativas relacionadas con la biodiversidad\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:28
 #, no-wrap
 msgid "Most Participant nodes develop a collaborative framework of policies, agreements and standards, which are adopted by their stakeholders to guide the publication, management and use of biodiversity data.\n"
-msgstr ""
+msgstr "La mayoría de los nodos participantes desarrollan un *marco colaborativo* de políticas, acuerdos y estándares que son adoptados por las distintas partes interesadas con el objeto de guiar la publicación, la administración y el uso de los datos sobre biodiversidad.\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:30
 #, no-wrap
 msgid "The governance structure of each Participant node varies but often takes the form of a board or steering committee. This configuration enables data holders, users and other stakeholders to take collective decisions concerning the publishing and reuse of biodiversity data while providing the node with priorities and guidance on the implementation of its work.\n"
-msgstr ""
+msgstr "La *estructura de gobierno* de cada nodo participante varía, pero a menudo se compone de una junta o comité directivo. Esta estructura permite a los proveedores de datos, los usuarios y otras partes interesadas tomar decisiones en conjunto respecto de la publicación y la reutilización de los datos sobre biodiversidad y, al mismo tiempo, transmitir al nodo las prioridades y las instrucciones referidas a la implementación del trabajo.\n"
 
 #. type: delimited block -
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:31
 #, no-wrap
 msgid "Participant nodes maintain an informatics infrastructure to support the publication of biodiversity data by data holders. Many implementation models are available, from using hosted data publication services to maintaining a distributed network of data publishers and a centralized index of the data. The node’s informatics infrastructure may also support a range of other information products and services, for example, by maintaining a biodiversity data portal and online tools for data analysis.\n"
-msgstr ""
+msgstr "Los nodos participantes cuentan con una *infraestructura informática* para que los proveedores de datos puedan publicar los datos sobre biodiversidad. Se dispone de muchos modelos de implementación, desde el empleo de servicios de alojamiento para la publicación de datos hasta el mantenimiento de una red distribuida de editores de datos y un índice centralizado de los datos. Asimismo, la infraestructura informática del nodo admite otros *servicios y productos de información*, como mantener un portal de datos sobre biodiversidad y herramientas en línea para analizar datos.\n"
 
 #. type: Block title
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:2
 #, no-wrap
 msgid "Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant count"
-msgstr ""
+msgstr "Cuadro 1. Definiciones de las funciones y estructuras principales en la red de GBIF relativas a los países, economías y organizaciones participantes"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:6
 #, no-wrap
 msgid "*Key Structures*\n"
-msgstr ""
+msgstr "*Estructuras principales*\n"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:8
 #, no-wrap
 msgid "*Participant*: a country, economy or organization that joins GBIF by signing a https://www.gbif.org/document/80661[Memorandum of Understanding] and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. Participant node: a coordinating team designated by the Participant to establish, strengthen and expand the collective GBIF activities in the country or organization.\n"
 msgstr ""
+"*Participante*: un país, economía u organización que se adhiere a GBIF mediante la firma del https://www.gbif.org/document/80661[Memorando de Entendimiento] y la realización de un esfuerzo coordinado para apoyar el uso y el acceso libre a los datos sobre biodiversidad, fomentar la investigación científica e impulsar el desarrollo sustentable y tecnológico.\n"
+"\n"
+"*Nodo participante*: un equipo coordinador designado por el participante para determinar, fortalecer y difundir las actividades conjuntas de GBIF en el país o la organización.\n"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:10
 msgid "Biodiversity information facility: Variously described as a ‘BIF’, a system or a network, a broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders."
-msgstr ""
+msgstr "*Infraestructura de información en biodiversidad*: descrita de diversos modos como BIF, un sistema o una red, una estructura más amplia de personas e instituciones, coordinada por el nodo, que constituye conjuntamente una infraestructura para brindar información sobre biodiversidad a las correspondientes partes interesadas."
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:12
 msgid "Key Roles"
-msgstr ""
+msgstr "Funciones principales"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:14
 #, no-wrap
 msgid "*Delegation*: the team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation.\n"
-msgstr ""
+msgstr "*Delegación*: el equipo de personas nombradas por los participantes para que los representen en los procesos de adopción de decisiones de GBIF, bajo la dirección del jefe de delegación.\n"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:16
 #, no-wrap
 msgid "*Head of Delegation*: the person designated by the Participant to act as its representative to the https://www.gbif.org/governance[GBIF Governing Board] and take part in the global-level decision making.\n"
-msgstr ""
+msgstr "*Jefe de delegación*: la persona designada por el participante para que actúe como su representante ante el Órgano de Gobierno de GBIF y forme parte de los procesos de adopción de decisiones a nivel mundial.\n"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:18
 #, no-wrap
 msgid "*Node manager*: the person designated by the Participant to manage the activities of the node to coordinate a biodiversity information facility.\n"
-msgstr ""
+msgstr "*Administrador del nodo*: la persona elegida por el participante para administrar las actividades del nodo y coordinar una infraestructura de información en biodiversidad.\n"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:20
 #, no-wrap
 msgid "*Node staff*: the team of people working in a Participant node. They are usually focused on specific areas such as user support, scientific liaison or technical development.\n"
-msgstr ""
+msgstr "*Personal del nodo*: el equipo de personas que trabaja en un nodo participante. Por lo general, se centra en áreas específicas, como asistencia al usuario, coordinación científica o desarrollo técnico.\n"
 
 #. type: delimited block =
 #: 2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc:22
 #, no-wrap
 msgid "*Biodiversity information facility stakeholders*: any person from within a Participant country or organization who contributes to the overall work of the biodiversity information facility or benefits from it. Some examples include publishers of biodiversity data, users of GBIF-mediated data (e.g. scientific researchers, planning agencies and the private sector) and policymakers involved in the development of data policies.\n"
-msgstr ""
+msgstr "*Partes interesadas de la infraestructura de información en biodiversidad*: cualquier persona de un país u organización participante que colabora con el trabajo general de la infraestructura de información en biodiversidad o se beneficia de ello. Algunos ejemplos son los editores de datos sobre biodiversidad, los usuarios de datos obtenidos a través de GBIF (p. ej., investigadores científicos, organismos de planificación y el sector privado) y los encargados de la formulación de políticas que participan en la elaboración de políticas de datos.\n"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/README.en.adoc:3
 msgid "Why are Participant nodes needed?"
-msgstr ""
+msgstr "¿Por qué son necesarios los nodos participantes?"
 
 #. type: delimited block -
 #: 3.-why-are-participant-nodes-needed/README.en.adoc:6
 #, no-wrap
 msgid "Participant nodes and biodiversity information facilities help GBIF Participants increase the return from their past, current, and future investments in biodiversity research and data collection. They help make the publication of primary data part of the scientific mainstream: while a well-established tradition exists for publishing the results of biodiversity research, one for publishing the primary data on which those results are based does not yet, despite the fact that it enables further analyses. In their facilitating role, nodes help data holders publish their data using common standards and protocols to ensure interoperability and open access and make data available for the widest possible reuse. They also contribute to commitments that promote transparency and open access to scientific data, helping data holders comply with open data regulations and requirements.\n"
-msgstr ""
+msgstr "Los nodos participantes y las infraestructuras de información en biodiversidad ayudan a los participantes de GBIF a *aumentar el rendimiento de las inversiones pasadas, actuales y futuras* en las investigaciones sobre biodiversidad y la recopilación de datos. Permiten que *la publicación de los datos principales sea parte de la corriente científica*. Si bien ya hay una tradición bien establecida para publicar los resultados de las investigaciones sobre biodiversidad, aún no existe una en particular para publicar los datos principales sobre los cuales estén basados esos resultados, al margen de que facilita la realización de un análisis más profundo. En su función facilitadora, los nodos colaboran con los proveedores de datos para que puedan publicar sus datos mediante el uso de protocolos y estándares comunes y, de este modo, asegurar la interoperabilidad, el acceso libre y la *máxima reutilización de los datos*. También contribuyen con los compromisos que *fomentan la transparencia y el acceso libre* de los datos científicos, lo que permite que los proveedores de datos cumplan con los requisitos y las normativas relacionados con los datos abiertos.\n"
 
 #. type: delimited block -
 #: 3.-why-are-participant-nodes-needed/README.en.adoc:8
 #, no-wrap
 msgid "Nodes play a valuable role in promoting data management practices and in encouraging the community of biodiversity knowledge-holders to pool their expertise. This work can in turn continuously improve the quality and fitness-for-use of available biodiversity data and provide a platform for taxonomy and collaborative collection management.\n"
-msgstr ""
+msgstr "Los nodos desempeñan una función valiosa, puesto que favorecen las prácticas de administración de datos y alientan a la comunidad de proveedores de información sobre biodiversidad a que compartan su experiencia profesional. Este trabajo, a su vez, *mejora constantemente la calidad* y la idoneidad para el uso de los datos sobre biodiversidad disponibles, además, ofrece una plataforma para la *administración de la información taxonómica y de los datos recopilados de manera colaborativa*.\n"
 
 #. type: delimited block -
 #: 3.-why-are-participant-nodes-needed/README.en.adoc:10
 #, no-wrap
 msgid "By coordinating biodiversity information facilities, nodes are well positioned to assess biodiversity data availability and gaps (taxonomic, spatial and temporal) at the Participant level, to understand data and information use and needs, and to implement strategies in response. Thus, nodes can contribute to setting biodiversity research priorities.\n"
-msgstr ""
+msgstr "Al coordinar las infraestructuras de información en biodiversidad, los nodos están bien posicionados para evaluar las lagunas y disponibilidad de los datos sobre biodiversidad (taxonómicos, espaciales y temporales) a nivel de los participantes, entender las necesidades y usos de la información y los datos e implementar las debidas estrategias. Por lo tanto, los nodos pueden contribuir a *establecer prioridades de investigación sobre la biodiversidad*.\n"
 
 #. type: delimited block -
 #: 3.-why-are-participant-nodes-needed/README.en.adoc:12
 #, no-wrap
 msgid "Nodes play a role in coordinating the broad landscape of biodiversity informatics initiatives by engaging new communities and making international connections through GBIF. This coordination helps should seek to create strong partnerships and alignment of efforts, complementing other biodiversity-related initiatives by providing the data foundations and infrastructure for a wide range of applications.\n"
-msgstr ""
+msgstr "Los nodos intervienen en la coordinación del amplio panorama de iniciativas relativas a la informática de la biodiversidad al involucrar a nuevas comunidades y estrechar vínculos internacionales a través de GBIF. Con ello, pretenden establecer *alianzas sólidas y la alineación de los esfuerzos*, y complementar otras iniciativas relacionadas con la biodiversidad al proporcionar los datos y la infraestructura para una amplia gama de aplicaciones.\n"
 
 #. type: delimited block -
 #: 3.-why-are-participant-nodes-needed/README.en.adoc:14
 #, no-wrap
 msgid "Nodes can also increase the efficiency of implementing a biodiversity information facility by making use of the common tools, practices, information resources and opportunities for collaborative capacity enhancement available through the GBIF network. By making the connection to GBIF, nodes enable the integration of data mobilized at the Participant level with relevant data published by other countries and organizations. Data mobilized through a Participant biodiversity information facility so serve national needs also become available for reuse by the broader international audience, raising the visibility of the Participant’s data publishing institutions and mobilization efforts.\n"
-msgstr ""
+msgstr "A su vez, los nodos pueden aumentar la eficacia de la implementación de una infraestructura de información en biodiversidad, dado que disponen de herramientas comunes, prácticas, recursos de información y oportunidades para fortalecer la capacidad colaborativa que ofrece la red de GBIF. Al ser parte de GBIF, los nodos posibilitan la *integración de los datos* que se movilizan a nivel de los participantes con datos relevantes publicados por otros países u organizaciones. Los datos que se movilizan a través de la infraestructura de información en biodiversidad de un participante para satisfacer las necesidades nacionales también quedan a disposición del público internacional para su reutilización, lo que *aumenta la visibilidad* de los esfuerzos de movilización y de las instituciones que publican datos del participante.\n"
 
 #. type: delimited block -
 #: 3.-why-are-participant-nodes-needed/README.en.adoc:15
 #, no-wrap
 msgid "Finally, Participant nodes help develop capacity in the use of collective biodiversity data resources. Their efforts support both basic and applied research relevant to policy decisions across a range of issues of primary economic and social importance, including food security, agricultural livelihoods, disease risk and the impacts of climate change. This also supports information requirements for meeting national and global commitments including biodiversity-related conventions and sustainable development goals. Thus, fully functional Participant nodes and biodiversity information facilities are instrumental in helping Participants achieve their own biodiversity data-related goals and targets.\n"
-msgstr ""
+msgstr "Finalmente, los nodos participantes ayudan a desarrollar las capacidades de *uso de los recursos de datos comunes sobre biodiversidad*. Sus esfuerzos apoyan la realización de investigaciones básica y aplicada para tomar decisiones políticas en una serie de cuestiones socioeconómicas de suma importancia, como la seguridad alimentaria, los medios de subsistencia agrícolas, el riesgo de enfermedades y los impactos del cambio climático. Asimismo, satisfacen los requisitos de información para cumplir con los *compromisos nacionales y mundiales*, incluidas las convenciones en materia de biodiversidad y los objetivos de desarrollo sustentable. Por esta razón, los nodos participantes y las infraestructuras de información en biodiversidad completamente funcionales son elementos clave para ayudar a los participantes a alcanzar sus metas y objetivos relacionados con los datos sobre biodiversidad.\n"
 
 #. type: Title -
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:3
 #, no-wrap
 msgid "Box 2. Stakeholders involved in GBIF activities at the Participant level"
-msgstr ""
+msgstr "Cuadro 2. Partes interesadas en las actividades de GBIF a nivel de los participantes"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:6
 msgid "The https://www.gbif.org/document/80926[GBIF communication strategy] identifies six audiences that represent different groups of stakeholders involved in GBIF activities. While there is some overlap between these groups, each has separate interests and roles to play in contributing to GBIF’s vision. A summary is presented here."
-msgstr ""
+msgstr "En la https://www.gbif.org/document/80926[estrategia de comunicación de GBIF], se identifican seis destinatarios que representan a diferentes grupos de partes interesadas involucradas en las actividades de GBIF. Si bien existen algunas coincidencias entre estos grupos, cada uno de ellos tiene sus propios intereses y funciones cuando contribuyen a la visión de GBIF. A continuación se presenta un resumen de estos grupos."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:8
 msgid "The GBIF network"
-msgstr ""
+msgstr "La red de GBIF"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:10
 msgid "This group includes node managers, staff and governance members; heads of delegation and other Governing Board delegates; advisory committee members; Secretariat staff and contractors; and relevant staff in affiliate organizations."
-msgstr ""
+msgstr "Este grupo incluye los administradores de nodos, el personal y los miembros del gobierno, los jefes de delegaciones y otros delegados del Órgano de Gobierno, los miembros del comité asesor, el personal del Secretariado y los contratistas, y el personal pertinente de las organizaciones afiliadas."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:12
 msgid "The key focus of this group is to support participation in the GBIF network through engagement with the other audiences, to support biodiversity data mobilization, management, curation, and use."
-msgstr ""
+msgstr "La función principal de este grupo es *fomentar la participación en la red de GBIF* mediante la interacción con los demás destinatarios e impulsar el intercambio, la administración, la conservación y el uso de los datos sobre biodiversidad."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:14
 msgid "Data holders"
-msgstr ""
+msgstr "Proveedores de datos"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:16
 msgid "This group includes, among others, current GBIF data publishers; natural history collection curators, informaticians and scientists; field biologists; citizen scientists, voluntary recording networks and observation aggregating sites; authors, editors and publishers of scientific research; custodians of historic biodiversity-related literature and multimedia archives; and organizers and practitioners of surveys and monitoring programmes carried out for public agencies, protected area management and non-governmental organizations."
-msgstr ""
+msgstr "Este grupo abarca, entre otros, los actuales editores de datos de GBIF; los conservadores de colecciones de historia natural, los expertos en informática y los científicos; los biólogos de campo; los ciudadanos científicos, las redes de recopiladores voluntarios y los centros de recopilación de datos procedentes de observaciones; los autores y editores de investigaciones científicas; los conservadores de bibliografía sobre biodiversidad y archivos multimedia históricos, así como organizadores y profesionales de encuestas y programas de seguimiento llevados a cabo para entidades públicas, administraciones de áreas protegidas y organizaciones no gubernamentales"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:18
 msgid "The key focus of engaging with data holders is to encourage and support biodiversity data mobilization: data digitization, data collection and ultimately publication of their data through the GBIF network."
-msgstr ""
+msgstr "El objetivo principal de colaborar con los proveedores de datos es *alentar y apoyar la movilización de los datos sobre biodiversidad* a través de la digitalización, recopilación y posterior publicación de los datos a través de la red de GBIF."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:20
 msgid "Biodiversity knowledge experts"
-msgstr ""
+msgstr "Expertos en biodiversidad"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:22
 msgid "This group includes zoologists, botanists, mycologists and other species specialists; taxonomists; ecologists; expert networks (e.g. IUCN, Birdlife); and nomenclatural associations."
-msgstr ""
+msgstr "Este grupo comprende los zoólogos, botánicos, micólogos y expertos en otras especies, expertos en taxonomía, ecologistas, redes de expertos (p. ej., UICN, Birdlife) y asociaciones de nomenclatura."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:24
 msgid "The key focus of engaging with biodiversity knowledge holders is to support biodiversity data management and curation: continuously improving the quality and fitness-for-use of the data mobilized by the GBIF network, and demonstrating that the work of these groups benefits from strong biodiversity information facilities, at national and global levels."
-msgstr ""
+msgstr "El objetivo principal de colaborar con los expertos en biodiversidad es *apoyar la conservación y administración de los datos sobre biodiversidad*; de este modo, se mejora continuamente la calidad y la idoneidad para el uso de los datos que se movilizan en la red de GBIF, y se demuestra que el trabajo de estos grupos se beneficia de infraestructuras sólidas de información en biodiversidad a nivel nacional e internacional."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:26
 msgid "Data users"
-msgstr ""
+msgstr "Usuarios de datos"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:28
 msgid "This group includes ecologists, including macroecologists and biogeographers; species distribution modellers (includes analysts of climate change impacts, invasive species risk, human disease vectors); conservation practitioners, including protected area planners; environmental impact analysts and strategic spatial planning authorities; genetic resources experts (for crop diversity, medicinal compounds etc.); and the ecosystem assessment community."
-msgstr ""
+msgstr "Este grupo comprende los ecologistas, entre ellos, los macroecologistas y biogeógrafos; los expertos en modelos de distribución de especies (incluidos los analistas de los impactos del cambio climático, los riesgos de las especies invasoras, los vectores de enfermedades humanas); los profesionales de la conservación, entre los que se encuentran los planificadores de áreas protegidas; los analistas de impactos ambientales y las autoridades de ordenación estratégica del territorio; los expertos en recursos genéticos (para la diversidad de cultivos, compuestos medicinales, etc.), y la comunidad de evaluación de ecosistemas."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:30
 msgid "The key focus of engaging with species occurrence data users is to support biodiversity data use: reusing the data accessible through GBIF to support biodiversity-related sciences and environmental research, ultimately to support evidence based decision making."
-msgstr ""
+msgstr "El objetivo principal de colaborar con los usuarios de datos acerca de la presencia de especies es *fomentar el uso de los datos sobre biodiversidad*: reutilizar los datos accesibles a través de GBIF para respaldar las ciencias relacionadas con la biodiversidad y la investigación medioambiental; en última instancia, para apoyar la adopción de decisiones con fundamento empírico."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:32
 msgid "Decision-makers"
-msgstr ""
+msgstr "Encargados de la adopción de decisiones"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:34
 msgid "This group includes national government ministry and agency officials; research funding agencies; intergovernmental convention officials and national delegates; and global foundations."
-msgstr ""
+msgstr "Este grupo incluye los funcionarios de organismos y ministerios del gobierno nacional, organismos de financiación de proyectos de investigación, autoridades de convenios intergubernamentales y delegados nacionales, y fundaciones internacionales."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:36
 msgid "The key focus of engaging with funders and executive decision makers is to build support for all GBIF-related activities."
-msgstr ""
+msgstr "El objetivo principal de colaborar con los organismos de financiación y los encargados ejecutivos de la adopción de decisiones es *lograr el apoyo de todas las actividades de GBIF*."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:38
 msgid "Public stakeholders"
-msgstr ""
+msgstr "Partes interesadas del sector público"
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:40
 msgid "This group includes educators; students; wildlife enthusiasts; environmentally engaged individuals; and the non-scientific software developer community."
-msgstr ""
+msgstr "Este grupo abarca los educadores, estudiantes, aficionados a la flora y la fauna, personas comprometidas con el medio ambiente y la comunidad no científica de desarrolladores de software."
 
 #. type: Plain text
 #: 3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc:41
 msgid "While at the global level these groups are secondary to the others, they may still be key stakeholders involved in national or organizational GBIF activities, for example through citizen science initiatives. Engagement with these groups can build wider support for activities to mobilize biodiversity data and to make biodiversity information about a country freely available to all citizens."
-msgstr ""
+msgstr "Si bien a nivel mundial estos grupos son menos importantes que el resto de los grupos, aún así pueden ser partes interesadas fundamentales en las actividades que GBIF lleva a cabo en las organizaciones o países, por ejemplo, a través de iniciativas de ciencia ciudadana. La colaboración con estos grupos puede ampliar el apoyo de las actividades de movilización de datos sobre biodiversidad y hacer que todos los ciudadanos puedan acceder de manera gratuita a la información sobre la biodiversidad de un país."
 
 #. type: Title -
 #: 4.-what-services-do-participant-nodes-provide/4.0-introduction.en.adoc:3
 #, no-wrap
 msgid "4.0 Introduction"
-msgstr ""
+msgstr "¿Qué servicios prestan los nodos participantes?"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.0-introduction.en.adoc:5
