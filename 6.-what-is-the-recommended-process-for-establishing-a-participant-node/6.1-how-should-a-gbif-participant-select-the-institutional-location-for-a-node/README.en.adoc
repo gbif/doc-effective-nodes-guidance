@@ -10,6 +10,7 @@ As a final note, some GBIF Participants have chosen to divide their node team am
 .Generalized examples of the types of institutions designated as hosts of GBIF Participant nodes.
 [cols=2*a,options="header"]
 |===
+
 ^|Potential advantages
 
 ^|Potential disadvantages
@@ -99,4 +100,5 @@ innovation and technology
 to work effectively with biodiversity data
 
 Need to build contacts and knowledge of relevant institutional networks
+
 |===
