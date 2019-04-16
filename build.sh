@@ -35,7 +35,7 @@ for lang in en translations/??.po; do
 	echo "Document title in $langcode is “$title”"
 
 	asciidoctor     -a imagesdir=../ -r asciidoctor-diagram -o $langcode/index.$langcode.html -a lang=$langcode index.$langcode.adoc
-	asciidoctor-pdf -o $langcode/$title.$langcode.pdf -a lang=$langcode index.$langcode.adoc
+	asciidoctor-pdf -a media=print   -r asciidoctor-diagram -o $langcode/$title.$langcode.pdf -a lang=$langcode index.$langcode.adoc
 
 	cat > index.$langcode.asis <<-EOF
 		Status: 303 See Other
