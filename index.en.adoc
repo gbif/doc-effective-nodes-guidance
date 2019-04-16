@@ -3,7 +3,7 @@ Mélianie Raymond; Kyle Copas <https://orcid.org/0000-0002-6590-599X>
 :toc: left
 :toclevels: 3
 :numbered:
-:revnumber: 0.0-demo
+:revnumber: {git-metadata-branch}-{git-metadata-sha-short}
 :revdate: {localdate}
 :title-logo-image: stones-1148278.jpg
 :icons: font
