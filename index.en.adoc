@@ -8,6 +8,7 @@ Mélianie Raymond; Kyle Copas <https://orcid.org/0000-0002-6590-599X>
 :title-logo-image: stones-1148278.jpg
 :icons: font
 :pagenums:
+:license: https://creativecommons.org/licenses/by/4.0
 
 include::README.en.adoc[]
 
