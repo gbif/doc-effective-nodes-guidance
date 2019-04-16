@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-16 09:59+0000\n"
-"PO-Revision-Date: 2019-04-16 16:22+0200\n"
+"PO-Revision-Date: 2019-04-16 16:38+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt\n"
@@ -177,8 +177,8 @@ msgid ""
 "A GBIF Participant node is the coordinating team designated by a Participant to establish, strengthen and expand the GBIF-related activities of the country or international organization. The broader network of people and institutions coordinated by the node, collectively building an infrastructure for "
 "delivering biodiversity information, is sometimes referred to as a biodiversity information facility (see <<box-1,Box 1>>)."
 msgstr ""
-"*O nó de Participante do GBIF corresponde à equipa coordenadora designada por um Participante para estabelecer, reforçar e expandir as atividades do país ou da organização internacional associadas ao GBIF. A rede mais ampla de pessoas e\n"
-"instituições coordenadas pelo nó, criando coletivamente uma infraestrutura para prestar informações sobre biodiversidade, é por vezes designada por sistema de informação sobre a biodiversidade (consultar a <<box-1,Box 1>>).*"
+"*O nó de Participante do GBIF corresponde à equipa coordenadora designada por um Participante para estabelecer, reforçar e expandir as atividades do país ou da organização internacional associadas ao GBIF. A rede mais ampla de pessoas e instituições coordenadas pelo nó, criando coletivamente uma "
+"infraestrutura para prestar informações sobre biodiversidade, é por vezes designada por sistema de informação sobre a biodiversidade (consultar a <<box-1,Caixa 1>>).*"
 
 #. type: Plain text
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:9
@@ -966,7 +966,7 @@ msgstr "*Adaptabilidade*. Os nós devem ser capazes de responder às alteraçõe
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:2
 #, no-wrap
 msgid "What is the recommended process for establishing a Participant node?"
-msgstr "Uma abordagem participativa para estabelecer um nó de Participantes"
+msgstr "Qual é o processo recomendado para estabelecer um nó de Participante?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:5
@@ -1016,7 +1016,7 @@ msgstr ""
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:15
 #, no-wrap
 msgid "*See <<box-3,box 3>>*\n"
-msgstr ""
+msgstr "*Consultar a <<box-3,Caixa 3>>\n"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc:17
@@ -1169,328 +1169,181 @@ msgstr "|==="
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:15
 msgid "^|Potential advantages"
-msgstr ""
+msgstr "^|Potenciais vantagens"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:17
 msgid "^|Potential disadvantages"
-msgstr ""
+msgstr "^|Potenciais desvantagens"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:19
 msgid "2+^s|Natural history collections"
-msgstr ""
+msgstr "2+^s|Coleções de história natural"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:21
 msgid "|Existing knowledge of the challenges and requirements of digitizing and managing natural history data"
-msgstr ""
+msgstr "|Conhecimento existente sobre os desafios e requisitos de digitalizar e gerir dados de história natural"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:25
-#, fuzzy
-#| msgid ""
-#| ".Table\n"
-#| "|Potential advantages | Potential disadvantages\n"
-#| "|===\n"
-#| "|Natural history collections\n"
-#| "|\n"
-#| "|===\n"
-#| "|Existing knowledge of the challenges and requirements of digitizing and managing natural history data\n"
-#| "|May take significant effort to demonstrate neutrality (e.g., if it is\n"
-#| "a zoological collection, that it can work with other types of collections),\n"
-#| "or that it is not competing for digitization funds, etc.\n"
 msgid "|May take significant effort to demonstrate neutrality (e.g., if it is a zoological collection, that it can work with other types of collections), or that it is not competing for digitization funds, etc."
-msgstr ""
-"Tabela\n"
-"|Potenciais vantagens | Potenciais desvantagens\n"
-"|===\n"
-"|Coleções de história natural\n"
-"|\n"
-"|===\n"
-"|Conhecimento existente sobre os desafios e requisitos de digitalizar e gerir dados de história natural\n"
-"|Pode ter de envidar um esforço significativo para demonstrar neutralidade (ex.: se é uma coleção zoológica, demonstrar que é capaz de trabalhar com outros tipos de coleções), ou que não está a competir por fundos de digitalização. Pode ter dificuldade em envolver-se noutras comunidades detentoras de outros "
-"tipos de\n"
+msgstr "|Pode ter de envidar um esforço significativo para demonstrar neutralidade (ex.: se é uma coleção zoológica, demonstrar que é capaz de trabalhar com outros tipos de coleções), ou que não está a competir por fundos de digitalização"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:28
-#, fuzzy
-#| msgid ""
-#| "May find difficulty in engaging with other communities holding other types\n"
-#| "      of biodiversity data (e.g., observations, ecological data, etc.)\n"
 msgid "May find difficulty in engaging with other communities holding other types of biodiversity data (e.g., observations, ecological data, etc.)"
-msgstr "Pode ter dificuldade em envolver-se noutras comunidades detentoras de outros tipos de dados de biodiversidade (ex.: observações, dados ecológicos, etc.).\n"
+msgstr "Pode ter dificuldade em envolver-se noutras comunidades detentoras de outros tipos de dados de biodiversidade (ex.: observações, dados ecológicos, etc.)"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:31
-#, fuzzy
-#| msgid ""
-#| "Can make it difficult for the node to serve the needs of some stakeholders\n"
-#| "      (e.g., policymakers)\n"
-#| "|===\n"
-#| "|Ministries of science, environment, et al.\n"
-#| "|\n"
 msgid "Can make it difficult for the node to serve the needs of some stakeholders (e.g., policymakers)"
-msgstr ""
-"Pode ser difícil para o nó servir as necessidades de algumas partes interessadas (ex.: decisores)\n"
-"|===\n"
-"|Ministérios da ciência, do ambiente e outros\n"
-"|\n"
+msgstr "Pode ser difícil para o nó servir as necessidades de algumas partes interessadas (ex.: decisores)"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:33
 msgid "2+^s|Ministries of science, environment, et al."
-msgstr ""
+msgstr "2+^s|Ministérios da ciência, do ambiente e outros"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:35
-#, fuzzy
-#| msgid ""
-#| "Very strong mandate and capacity to influence and support policy and decision\n"
-#| "      making\n"
 msgid "|Very strong mandate and capacity to influence and support policy and decision making"
-msgstr "Mandato muito forte e capacidade de influenciar e dar apoio à política e tomada de decisões\n"
+msgstr "|Mandato muito forte e capacidade de influenciar e dar apoio à política e tomada de decisões"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:37
-#, fuzzy
-#| msgid "Easily aligned with national biodiversity policies, strategies, and programme\n"
 msgid "Easily aligned with national biodiversity policies, strategies, and programme"
-msgstr "Facilmente alinhado com as políticas, estratégias e programa de biodiversidade\n"
+msgstr "Facilmente alinhado com as políticas, estratégias e programa de biodiversidade"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:40
-#, fuzzy
-#| msgid ""
-#| "Challenges to operate at the technical level and to provide technical\n"
-#| "      support (e.g., to the scientific community)\n"
 msgid "|Challenges to operate at the technical level and to provide technical support (e.g., to the scientific community)"
-msgstr "Desafios para operar ao nível técnico e prestar assistência técnica (ex.: à comunidade científica).\n"
+msgstr "|Desafios para operar ao nível técnico e prestar assistência técnica (ex.: à comunidade científica)."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:42
-#, fuzzy
-#| msgid "Easily affected by political changes\n"
 msgid "Easily affected by political changes"
-msgstr "Facilmente afetado por alterações políticas\n"
+msgstr "Facilmente afetado por alterações políticas"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:45
-#, fuzzy
-#| msgid ""
-#| "May find difficulties in addressing needs from other ministries (e.g.,\n"
-#| "      from science or environment)\n"
-#| "|===\n"
-#| "|Biodiversity or biological research institutes\n"
-#| "|\n"
 msgid "May find difficulties in addressing needs from other ministries (e.g., from science or environment)"
-msgstr ""
-"Pode ter dificuldade em suprir as necessidades de outros ministérios (ex.: da ciência ou do ambiente).\n"
-"|===\n"
-"| Institutos de biodiversidade ou investigação biológica\n"
-"|\n"
+msgstr "Pode ter dificuldade em suprir as necessidades de outros ministérios (ex.: da ciência ou do ambiente)"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:47
 msgid "2+^s|Biodiversity or biological research institutes"
-msgstr ""
+msgstr "2+^s|Institutos de biodiversidade ou investigação biológica"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:49
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:82
-#, fuzzy
-#| msgid "High potential for developing capacity in biodiversity informatics easily and quickly\n"
 msgid "|High potential for developing capacity in biodiversity informatics easily and quickly"
-msgstr "Alto potencial para desenvolver, rápida e facilmente, capacidades na informática da biodiversidade\n"
+msgstr "|Alto potencial para desenvolver, rápida e facilmente, capacidades na informática da biodiversidade"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:51
-#, fuzzy
-#| msgid "Full knowledge of the biodiversity-research realm\n"
 msgid "Full knowledge of the biodiversity-research realm"
-msgstr "Total conhecimento sobre a esfera da investigação em biodiversidade\n"
+msgstr "Total conhecimento sobre a esfera da investigação em biodiversidade"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:53
-#, fuzzy
-#| msgid "May have a strong and clear institutional mandate\n"
 msgid "May have a strong and clear institutional mandate"
-msgstr "Podem ter um mandato institucional forte e claro\n"
+msgstr "Podem ter um mandato institucional forte e claro"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:57
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:68
-#, fuzzy
-#| msgid ""
-#| "|May not be perceived as neutral by all stakeholders, depending on how\n"
-#| "    the institute fits within the Participant’s overall institutional landscape\n"
-#| "    (for example, if there is overlap or competition for resources)\n"
 msgid "|May not be perceived as neutral by all stakeholders, depending on how the institute fits within the Participant’s overall institutional landscape (for example, if there is overlap or competition for resources)"
-msgstr "Podem não ser encarados como neutros por todas as partes interessadas, dependendo da forma como o instituto se adequa ao panorama institucional global do Participante (por exemplo, se existe sobreposição ou concorrência nos recursos).\n"
+msgstr "|Podem não ser encarados como neutros por todas as partes interessadas, dependendo da forma como o instituto se adequa ao panorama institucional global do Participante (por exemplo, se existe sobreposição ou concorrência nos recursos)."
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:59
-#, fuzzy
-#| msgid ""
-#| "|===\n"
-#| "|Research councils or science & technology commissions\n"
-#| "|\n"
 msgid "2+^s|Research councils or science & technology commissions"
-msgstr ""
-"|===\n"
-"|Conselhos de investigação ou comissões de ciência e tecnologia\n"
-"|\n"
+msgstr "2+^s|Conselhos de investigação ou comissões de ciência e tecnologia"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:62
-#, fuzzy
-#| msgid ""
-#| "Excellent position to use the Participant node to coordinate, promote\n"
-#| "      and facilitate the mobilization of biodiversity data from research\n"
 msgid "|Excellent position to use the Participant node to coordinate, promote and facilitate the mobilization of biodiversity data from research"
-msgstr "Posição excelente para utilizar o nó de Participantes para coordenar, promover e fomentar a mobilização de dados de biodiversidade provenientes da investigação\n"
+msgstr "|Posição excelente para utilizar o nó de Participantes para coordenar, promover e fomentar a mobilização de dados de biodiversidade provenientes da investigação"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:64
-#, fuzzy
-#| msgid "Easily aligned with national research policies, strategies, and programmes\n"
 msgid "Easily aligned with national research policies, strategies, and programmes"
-msgstr "Facilmente alinhado com as políticas de investigação, estratégias e programas nacionais\n"
+msgstr "Facilmente alinhado com as políticas de investigação, estratégias e programas nacionais"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:70
-#, fuzzy
-#| msgid ""
-#| "|===\n"
-#| "|Non-governmental organizations\n"
-#| "|\n"
 msgid "2+^s|Non-governmental organizations"
-msgstr ""
-"|===\n"
-"|Organizações não governamentais\n"
-"|\n"
+msgstr "2+^s|Organizações não governamentais"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:72
-#, fuzzy
-#| msgid ""
-#| "|===\n"
-#| "|Flexibility and autonomy\n"
-#| "|\n"
 msgid "|Flexibility and autonomy"
-msgstr ""
-"|===\n"
-"|Flexibilidade e autonomia\n"
-"|\n"
+msgstr "|Flexibilidade e autonomia"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:75
-#, fuzzy
-#| msgid ""
-#| "Potential lack of mandate, difficulty in formally engaging with government\n"
-#| "      institutions\n"
 msgid "|Potential lack of mandate, difficulty in formally engaging with government institutions"
-msgstr "Potencial falta de mandato, dificuldade em envolver-se formalmente com instituições governamentais\n"
+msgstr "Potencial falta de mandato, dificuldade em envolver-se formalmente com instituições governamentais"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:77
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:89
-#, fuzzy
-#| msgid "May become dependent on projects and project-based funding\n"
 msgid "May become dependent on projects and project-based funding"
-msgstr "Pode vir a depender de projetos e do financiamento baseado nos mesmos\n"
+msgstr "Pode vir a depender de projetos e do financiamento baseado nos mesmos"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:79
-#, fuzzy
-#| msgid ""
-#| "|===\n"
-#| "|University departments or faculties\n"
-#| "|\n"
 msgid "2+^s|University departments or faculties"
-msgstr ""
-"|===\n"
-"|Departamentos ou faculdades de universidades\n"
-"|\n"
+msgstr "2+^s|Departamentos ou faculdades de universidades"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:85
-#, fuzzy
-#| msgid ""
-#| "Potential for aligning the node’s activities with various biodiversity\n"
-#| "      research agenda\n"
 msgid "Potential for aligning the node’s activities with various biodiversity research agenda"
-msgstr "Potencial para alinhar as atividades do nó com vários programas de investigação em biodiversidade\n"
+msgstr "Potencial para alinhar as atividades do nó com vários programas de investigação em biodiversidade"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:87
-#, fuzzy
-#| msgid "|May face neutrality issues\n"
 msgid "|May face neutrality issues"
-msgstr "Pode enfrentar problemas de neutralidade\n"
+msgstr "|Pode enfrentar problemas de neutralidade"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:91
-#, fuzzy
-#| msgid ""
-#| "|===\n"
-#| "|National informatics facilities outside the biodiversity/ biological domain\n"
-#| "|\n"
 msgid "2+^s|National informatics facilities outside the biodiversity/ biological domain"
-msgstr ""
-"|===\n"
-"|Centros de informática nacionais fora da área biológica/de diversidade\n"
-"|\n"
+msgstr "2+^s|Centros de informática nacionais fora da área biológica/de diversidade"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:93
-#, fuzzy
-#| msgid "Strong position of neutrality\n"
 msgid "|Strong position of neutrality"
-msgstr "Forte posição de neutralidade\n"
+msgstr "|Forte posição de neutralidade"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:95
-#, fuzzy
-#| msgid "Ready access to technical capacity in informatics\n"
 msgid "Ready access to technical capacity in informatics"
-msgstr "Acesso imediato à capacidade técnica na informática\n"
+msgstr "Acesso imediato à capacidade técnica na informática"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:98
-#, fuzzy
-#| msgid ""
-#| "Potentially useful connections with well-funded national priorities on\n"
-#| "      innovation and technology\n"
 msgid "Potentially useful connections with well-funded national priorities on innovation and technology"
-msgstr "Ligações potencialmente úteis, com prioridades nacionais bem financiadas na inovação e tecnologia\n"
+msgstr "|Ligações potencialmente úteis, com prioridades nacionais bem financiadas na inovação e tecnologia"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:101
-#, fuzzy
-#| msgid ""
-#| "Need to invest in staff bringing relevant scientific domain knowledge\n"
-#| "      to work effectively with biodiversity data\n"
 msgid "|Need to invest in staff bringing relevant scientific domain knowledge to work effectively with biodiversity data"
-msgstr "Necessidade de investir numa equipa dotada de um conhecimento relevante na área científica, para trabalhar eficazmente com dados de biodiversidade\n"
+msgstr "|Necessidade de investir numa equipa dotada de um conhecimento relevante na área científica, para trabalhar eficazmente com dados de biodiversidade"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:103
-#, fuzzy
-#| msgid ""
-#| "Need to build contacts and knowledge of relevant institutional networks\n"
-#| "|===\n"
 msgid "Need to build contacts and knowledge of relevant institutional networks"
-msgstr ""
-"Necessidade de criar contactos e conhecimento de redes institucionais relevante\n"
-"|===\n"
+msgstr "Necessidade de criar contactos e conhecimento de redes institucionais relevante"
 
 #. type: Title ===
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:2
-#, fuzzy, no-wrap
-#| msgid "6.2 What are the recommendations on the staff roles within nodes?"
+#, no-wrap
 msgid "What are the recommendations on the staff roles within nodes?"
-msgstr "6.2 Quais são as recomendações para as funções da equipa nos nós?"
+msgstr "Quais são as recomendações para as funções da equipa nos nós?"
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:5
@@ -1589,7 +1442,7 @@ msgstr "Uma pessoa com formação em informática da biodiversidade, aptidões n
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:24
 msgid "A person with an informatics background, able to develop and maintain an informatics infrastructure to enable biodiversity data publishing and support access to biodiversity data, for example, through a national data portal."
-msgstr "Uma pessoa com formação em informática, capaz de desenvolver e manter uma infraestrutura informática para permitir a publicação de dados de biodiversidade e apoiar o acesso aos dados de biodiversidade, por exemplo através de um portal nacional de dados"
+msgstr "Uma pessoa com formação em informática, capaz de desenvolver e manter uma infraestrutura informática para permitir a publicação de dados de biodiversidade e apoiar o acesso aos dados de biodiversidade, por exemplo através de um portal nacional de dados."
 
 #. type: Title ==
 #: 7.-further-support-for-establishing-a-participant-node/7.0-introduction.en.adoc:2
