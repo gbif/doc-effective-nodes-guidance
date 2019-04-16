@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-15 16:14+0200\n"
-"PO-Revision-Date: 2019-04-16 09:50+0200\n"
+"PO-Revision-Date: 2019-04-16 16:01+0200\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -421,322 +421,322 @@ msgstr "¿Qué servicios prestan los nodos participantes?"
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.0-introduction.en.adoc:5
 msgid "The specific responsibilities and services provided by each node vary considerably, depending in part on the Participant’s priorities for joining GBIF. Furthermore, some GBIF Participant nodes provide services that are delivered by separate biodiversity-related institutions in other countries and organizations. Nevertheless, the services and responsibilities of nodes can be broadly grouped into four main categories:"
-msgstr ""
+msgstr "Las responsabilidades específicas de los nodos y los servicios que prestan varían considerablemente y, en parte, dependen de las prioridades del participante para unirse a GBIF. Además, algunos nodos participantes de GBIF brindan servicios que están a cargo de instituciones independientes del sector de la biodiversidad en otros países y organizaciones. No obstante, los servicios y responsabilidades de los nodos se pueden agrupar, en términos generales, en cuatro categorías principales:"
 
 #. type: Title -
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:3
 #, no-wrap
 msgid "4.1 Supporting biodiversity data mobilization"
-msgstr ""
+msgstr "4.1. Apoyo a la movilización de datos sobre biodiversidad"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:6 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:6 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:6 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:6
 msgid "Examples of services include:"
-msgstr ""
+msgstr "Entre los servicios, podemos mencionar los siguientes:"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:8
 msgid "Organizing biodiversity data within the Participant’s domain to ensure open access to all digitally available biodiversity data"
-msgstr ""
+msgstr "Organizar los datos sobre biodiversidad pertenecientes al ámbito del participante para asegurar un acceso abierto a todos los datos sobre biodiversidad digitalmente disponibles"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:9
 msgid "Promoting and coordinating national investment in the digitization and mobilization of biodiversity information"
-msgstr ""
+msgstr "Impulsar y coordinar la inversión nacional en la digitalización y la movilización de la información sobre biodiversidad"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:10
 msgid "Providing a technical infrastructure and support to enable biodiversity data to be published on the Internet and through the GBIF network (including collections data, observational data, checklist data and metadata describing data sources)"
-msgstr ""
+msgstr "Proporcionar la infraestructura y asistencia técnica para poder publicar los datos sobre biodiversidad en internet y a través de la red de GBIF (incluidos los datos de colecciones, datos procedentes de observaciones, datos de las listas de comprobación y metadatos donde se describen las fuentes de datos)"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:11
 msgid "Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers] as a mechanism to gain recognition for sharing of datasets"
-msgstr ""
+msgstr "Promocionar los beneficios de publicar los datos, por ejemplo, a través del uso de https://www.gbif.org/data-papers[documentos de datos], como un mecanismo para obtener reconocimiento por compartir grupos de datos"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:12
 msgid "Developing a culture of open access and supporting open data requirements mandated, for example, through grant conditions"
-msgstr ""
+msgstr "Generar una cultura de libre acceso y apoyar los requisitos de los datos abiertos que se exigen, por ejemplo, en las condiciones de concesión"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:13
 msgid "Maintaining a collaborative framework between data holders and users, for example, through data sharing agreements that enable data sharing to occur according to agreed terms and encourage data reuse"
-msgstr ""
+msgstr "Mantener un esquema de colaboración entre los proveedores de datos y los usuarios, por ejemplo, mediante acuerdos que permitan compartir datos según condiciones pactadas y alienten la reutilización de los datos"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.1-supporting-biodiversity-data-mobilization.en.adoc:13
 msgid "Promoting societal engagement in biodiversity issues, for example, by supporting citizen science movements that mobilize observational data"
-msgstr ""
+msgstr "Impulsar la participación de la sociedad en los problemas relacionados con la biodiversidad, por ejemplo, al apoyar los movimientos de ciencia ciudadana que movilizan los datos procedentes de observaciones"
 
 #. type: Title -
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:3
 #, no-wrap
 msgid "4.2. Supporting biodiversity data management and curation"
-msgstr ""
+msgstr "4.2. Apoyo a la conservación y administración de los datos sobre biodiversidad"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:8
 msgid "Increasing the quality of available biodiversity data, for example, through the standardization and documentation of existing data sources with metadata"
-msgstr ""
+msgstr "Mejorar la calidad de los datos disponibles sobre biodiversidad, por ejemplo, a través de la estandarización y documentación de las fuentes de datos existentes con los metadatos"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:9
 msgid "Assisting data holders with data management, using appropriate tools and practices, for example, through capacity development programmes focused on biodiversity informatics"
-msgstr ""
+msgstr "Ayudar a los proveedores de datos con la administración de datos mediante el uso de prácticas y herramientas apropiadas, por ejemplo, a través de programas de desarrollo de capacidades centrados en la informática de la biodiversidad"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:10
 msgid "Acting as a permanent repository for biodiversity data within the Participant’s domain for data holders that do not have the capacity to maintain their own permanent records"
-msgstr ""
+msgstr "Actuar como un repositorio permanente de los datos sobre biodiversidad pertenecientes al ámbito del participante para los proveedores de datos que no pueden almacenar sus registros por tiempo indeterminado"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:11
 msgid "Providing endorsement of biodiversity data publishers to be added to the GBIF network"
-msgstr ""
+msgstr "Aprobar a editores de datos sobre biodiversidad para incorporarlos a la red de GBIF"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.2.-supporting-biodiversity-data-management-and-curation.en.adoc:11
 msgid "Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types."
-msgstr ""
+msgstr "Coordinar con otras iniciativas relacionadas con la biodiversidad a fin de asegurar la máxima interoperabilidad con todos los tipos de datos sobre biodiversidad."
 
 #. type: Title -
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:3
 #, no-wrap
 msgid "4.3. Supporting biodiversity data analysis and use"
-msgstr ""
+msgstr "4.3. Apoyo al uso y análisis de los datos sobre biodiversidad"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:8
 msgid "Facilitating access to biodiversity data by promoting the use of the GBIF infrastructure and/or by maintaining a national or thematic biodiversity data portal"
-msgstr ""
+msgstr "Facilitar el acceso a los datos sobre biodiversidad impulsando el uso de la infraestructura de GBIF o manteniendo un portal temático o nacional de datos sobre biodiversidad"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:9
 msgid "Acting as a reference institution for biodiversity information"
-msgstr ""
+msgstr "Actuar como una institución de referencia en lo que respecta a la información sobre biodiversidad"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:10
 msgid "Providing support for biodiversity research, through evaluation of data needs and data gaps, encouraging interdisciplinary cooperation between scientists and through capacity development activities"
-msgstr ""
+msgstr "Apoyar los proyectos de investigación sobre biodiversidad a través de la evaluación de las necesidades y lagunas de datos, alentando la cooperación interdisciplinaria entre los científicos y mediante las actividades de desarrollo de capacidades"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:11
 msgid "Providing support for the compilation, maintenance and publishing of national, sub-national and thematic species inventories and checklists, and the use of these lists to underpin other activities (e.g., conservation work, national reporting)"
-msgstr ""
+msgstr "Apoyar la recopilación, el mantenimiento y la publicación de listas de control e inventarios de especies nacionales, subnacionales y temáticos, y el uso de estas listas para impulsar otras actividades (p. ej., trabajos de conservación, elaboración de informes nacionales)"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:12
 msgid "Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, planning, conservation and management"
-msgstr ""
+msgstr "Apoyar la creación de políticas brindando asesoramiento en la designación de prioridades de investigación sobre biodiversidad y ayudando a incorporar el uso de la información y los datos sobre biodiversidad en el proceso de adopción de decisiones, planificación, conservación y administración"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc:12
 msgid "Providing support for national reporting on biodiversity, for example under the Convention on Biological Diversity and other multilateral biodiversity-related agreements"
-msgstr ""
+msgstr "Apoyar la elaboración de informes nacionales sobre biodiversidad, por ejemplo, conforme al Convenio sobre la Diversidad Biológica y otros acuerdos multilaterales en materia de biodiversidad"
 
 #. type: Title -
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:3
 #, no-wrap
 msgid "4.4. Coordinating the landscape of biodiversity-related initiatives including participating in the G"
-msgstr ""
+msgstr "4.4. Coordinación del esquema de iniciativas relacionadas con la biodiversidad, incluida la participación en la red de GBIF"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:8
 msgid "Promoting the expansion of GBIF participation to other countries and organizations"
-msgstr ""
+msgstr "Fomentar la participación de otros países y organizaciones en GBIF"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:9
 msgid "Taking part in the GBIF Participant Node Managers Committee and regional sub-committees, by providing guidance on and contributing to the implementation of GBIF work programmes in line with Participant priorities"
-msgstr ""
+msgstr "Participar en el Comité de Administradores de Nodos Participantes de GBIF y de los subcomités regionales brindando asesoramiento y colaborando con la implementación de los programas de trabajo de GBIF en concordancia con las prioridades de los participantes"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:10
 msgid "Benefiting from and contributing to capacity development activities across the network, such as mentoring, training, sharing of expertise through task groups, participation in collaborative projects, testing and advising on new developments from other Participants and the GBIF Secretariat"
-msgstr ""
+msgstr "Obtener beneficios y contribuir con las actividades de desarrollo de capacidades que se realizan en la red, como tutoría, formación, intercambio de conocimientos a través de grupos de trabajo, participación en los proyectos colaborativos, análisis y recomendaciones sobre los nuevos proyectos de otros participantes y el Secretariado de GBIF"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:11
 msgid "Coordinating communication activities relating to biodiversity information and informatics activities, sharing communications with the wider GBIF community through the Secretariat, and disseminating relevant global information to stakeholder networks within the node’s country or organization"
-msgstr ""
+msgstr "Coordinar las actividades de comunicación relacionadas con las actividades de informática e información sobre biodiversidad, compartir comunicaciones con la gran comunidad de GBIF a través del Secretariado y difundir información mundial relevante en las redes de partes interesadas dentro de la organización o el país del nodo"
 
 #. type: Plain text
 #: 4.-what-services-do-participant-nodes-provide/4.4.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc:11
 msgid "Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], IPBES capacity building programmes, Encyclopedia of Life, Biodiversity Heritage Library and others, including close liaison or joint working with relevant nodes or focal points for these initiatives"
-msgstr ""
+msgstr "Fomentar la sinergia con las actividades regionales y nacionales que involucran otras iniciativas mundiales relacionadas con la biodiversidad, como el http://www.cbd.int/chm/default.shtml[Mecanismo de facilitación del CBD], los programas de creación de capacidades de la Plataforma intergubernamental científico-normativa sobre diversidad biológica y servicios de los ecosistemas (IPBES), la Enciclopedia de la Vida, la Biblioteca del Patrimonio de la Biodiversidad, entre otros, incluida la estrecha colaboración o el trabajo conjunto con los nodos pertinentes o los centros de coordinación para estas iniciativas"
 
 #. type: Title -
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:3
 #, no-wrap
 msgid "5.1 Basic requirements"
-msgstr ""
+msgstr "5.1. Requisitos básicos"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:6
 msgid "Capacity, defined as “http://www.oecd.org/development/governance-development/36326495.pdf[the ability of individuals, institutions and societies to perform functions, solve problems and set and achieve objectives in a sustainable manner]”, is a useful way of identifying what a Participant node needs to be effective. The http://links.gbif.org/cef[GBIF capacity enhancement framework] considers capacity on three interlinked dimensions: the enabling environment, the organization and the individual."
-msgstr ""
+msgstr "La capacidad, definida como “http://www.oecd.org/development/governance-development/36326495.pdf[la habilidad de los individuos, instituciones y sociedades para desempeñar funciones, resolver problemas y fijar y alcanzar objetivos de manera sustentable]”, es una manera útil de identificar lo que necesita un nodo participante para ser eficaz. En el marco de fortalecimiento de capacidades de GBIF, *las capacidades se dividen en tres dimensiones interconectadas*: el entorno propicio, la organización y el individuo."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:8
 msgid "The strategy further classifies capacity into two broad types that apply to each of the three dimensions:"
-msgstr ""
+msgstr "A su vez, la estrategia clasifica a las capacidades en dos tipos generales que se aplican a cada una de las tres dimensiones:"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:10
 #, no-wrap
 msgid "*Functional capacities*: relating to organizational and institutional effectiveness\n"
-msgstr ""
+msgstr "*Capacidades funcionales*: se relacionan con la eficacia institucional y organizativa\n"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:11
 #, no-wrap
 msgid "T**echnical capacities**: the specific skills, knowledge and competencies that Participants need to mobilize, manage and use biodiversity data\n"
-msgstr ""
+msgstr "*Capacidades técnicas*: se refieren a las habilidades, el conocimiento y las competencias específicas que los participantes necesitan para movilizar, administrar y utilizar los datos sobre biodiversidad\n"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:13
 msgid "Using this framework, the following basic requirements need to be considered when establishing a Participant node. The lack of any of these requirements will reduce the overall effectiveness of the node."
-msgstr ""
+msgstr "A partir de este marco, se deben tener en cuenta los siguientes requisitos básicos para crear un nodo participante. Si no se cumple con alguno de estos requisitos, se verá afectada la eficacia general del nodo."
 
 #. type: Title ~
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:16
 #, no-wrap
 msgid "Functional capacities"
-msgstr ""
+msgstr "Capacidades funcionales"
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:20
 #, no-wrap
 msgid "Planning and Policy Capacity"
-msgstr ""
+msgstr "Capacidad de planificación y elaboración de políticas"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:23
 msgid "The ability to formulate strategies, plans and policies based on relevant assessments."
-msgstr ""
+msgstr "La capacidad de formular estrategias, planes y políticas basados en evaluaciones relevantes."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:25
 msgid "A clear mandate (official; institutional) through which the node is given formal responsibility for promoting, coordinating and facilitating the management and use of biodiversity data among the relevant stakeholder institutions within the Participant’s domain. +"
-msgstr ""
+msgstr "Un *mandato claro* (oficial, institucional) a través del cual el nodo recibe la responsabilidad formal de promocionar, coordinar y facilitar la administración y uso de los datos sobre biodiversidad entre las debidas instituciones de las partes interesadas en el ámbito de los participantes."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:26
 msgid "A governance structure that is representative of the major stakeholders within the Participant's domain. An actively engaged governing body that guides and supports the node’s work helps to ensure that the relevant actors feel ownership of the node’s work."
-msgstr ""
+msgstr "Una *estructura de gobierno* que representa a las principales partes interesadas en el ámbito de los participantes. Un órgano de gobierno sumamente comprometido que guía y apoya el trabajo del nodo permite asegurar que los actores pertinentes se sientan responsables del trabajo del nodo."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:27
 msgid "A clearly stated long-term purpose with plans for the medium and short term. The node needs a readily understood vision and mission that motivate the node’s team, governance and broader stakeholders. The node needs to be able to formulate a general strategy and regular work plans in line with priorities at the Participant level. These plans should define expectations about what the node will deliver in a given time frame and will help evaluate the node’s performance."
-msgstr ""
+msgstr "Un *objetivo a largo plazo* bien definido con planes para el corto y mediano plazo. El nodo necesita una visión y misión que sean fáciles de comprender y motiven al equipo, la dirección y las partes interesadas del nodo. El nodo debe ser capaz de delinear una estrategia general y *planes de trabajo* frecuentes en consonancia con las prioridades establecidas a nivel de los participantes. Estos planes deben contener las expectativas sobre lo que el nodo ofrecerá en un plazo determinado y ayudarán a evaluar su desempeño."
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:30
 #, no-wrap
 msgid "Engagement Capacity"
-msgstr ""
+msgstr "Capacidad de colaboración"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:33
 msgid "The ability to initiate and sustain partnerships and networks."
-msgstr ""
+msgstr "La capacidad de iniciar y mantener asociaciones y redes."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:35
 msgid "A collaborative framework to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see section 6.1). It should include relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them. +"
-msgstr ""
+msgstr "*Un marco colaborativo* para establecer una infraestructura de información en biodiversidad definida y aceptada por los socios y las partes interesadas relevantes en el ámbito de los participantes. Este marco debe garantizar que el nodo tenga una función bien definida en el contexto de las instituciones del área de la biodiversidad, basada en relaciones sólidas y servicios complementarios (véase la sección 6.1). Debe incluir acuerdos formales puntuales en lo que respecta a la publicación y el acceso a los datos. Asimismo, debe asegurar que el nodo reconozca y valore a los individuos y las organizaciones integrantes que contribuyen con los servicios prestados y hacen uso de ellos, a fin de entablar una buena relación."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:36
 msgid "Communications and outreach plans, tools and materials to support collaborative work between the members of the node’s network and to encourage the ongoing addition of new members. Materials can include a website, newsletters, brochures, mailing lists and use of social media platforms. The https://www.gbif.org/document/80926[GBIF communications strategy] can help identify key messages for relevant audiences, and Participants can coordinate with the Secretariat on communication activities within the wider GBIF network."
-msgstr ""
+msgstr "*Comunicaciones y planes de divulgación, herramientas y materiales* para respaldar el trabajo colaborativo entre los miembros de la red del nodo y motivar la incorporación continua de nuevos miembros. Los materiales pueden incluir un sitio web, boletines, folletos, listas de correo y el uso de las redes sociales. La https://www.gbif.org/document/80926[estrategia de comunicación de GBIF] puede ayudar a identificar mensajes clave para públicos específicos, y los participantes pueden coordinar con el Secretariado las actividades de comunicación dentro de la amplia red de GBIF."
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:39
 #, no-wrap
 msgid "Implementation and Evaluation Capacity"
-msgstr ""
+msgstr "Capacidad de evaluación e implementación"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:42
 msgid "The ability to manage, fund, budget, implement and evaluate projects and programmes."
-msgstr ""
+msgstr "La capacidad para administrar, financiar, presupuestar, implementar y evaluar proyectos y programas."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:44
 msgid "Dedicated staff members to implement the node’s mandate and work plans (see section 6.2). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training. +"
-msgstr ""
+msgstr "*Personal específico* para llevar a la práctica el mandato y los planes de trabajo del nodo (véase la _sección 6.2_). El equipo del nodo deberá contar con una gran variedad de conocimientos especializados, desde informática de la biodiversidad hasta coordinación de redes. Dichos conocimientos estarán acompañados de la formación adecuada."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:45
 msgid "Institutional and financial support, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds."
-msgstr ""
+msgstr "*Apoyo financiero e institucional*, en concordancia con los servicios que el nodo debe prestar y para cumplir con los planes de trabajo del nodo. El apoyo institucional puede incluir asistencia administrativa, servicios de alojamiento y apoyo político necesarios para involucrar a socios clave, aumentar el interés y la visibilidad, y movilizar fondos."
 
 #. type: Title ~
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:48
 #, no-wrap
 msgid "Technical capacities"
-msgstr ""
+msgstr "Capacidades técnicas"
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:52
 #, no-wrap
 msgid "Biodiversity data mobilization"
-msgstr ""
+msgstr "Movilización de datos sobre biodiversidad"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:55
 msgid "The ability to collect, digitize and publish biodiversity data."
-msgstr ""
+msgstr "La capacidad para recopilar, digitalizar y publicar datos sobre biodiversidad."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:57
 msgid "An informatics infrastructure to support the mobilization of biodiversity data. Existing tools, such as the https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)], support a range of implementation models, from using hosted data publication tools to maintaining a distributed network of data publishers and a centralized index of data."
-msgstr ""
+msgstr "Una *infraestructura informática que facilite la movilización de los datos sobre biodiversidad*. Las herramientas existentes (como el https://www.gbif.org/ipt[Integrated Publishing Toolkit – IPT]) aceptan una variedad de modelos de implementación, desde la utilización de herramientas de alojamiento para la publicación de datos hasta el mantenimiento de una red distribuida de editores de datos y un índice centralizado de datos."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:58
 msgid "A programme to encourage and support data holders in mobilizing their data, including, for example, promotion of incentives for data sharing and publication, technical helpdesk assistance, the translation or adaptation of documentation and manuals, the organization of training workshops and an e-learning platform."
-msgstr ""
+msgstr "Un *programa que aliente y apoye a los proveedores de datos para que movilicen sus datos*, incluidos, por ejemplo, la entrega de incentivos para el intercambio y la publicación de datos, los servicios de asistencia técnica, la traducción o adaptación de la documentación y los manuales, la organización de talleres de formación y las plataformas virtuales de aprendizaje."
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:61
 #, no-wrap
 msgid "Biodiversity data management and curation"
-msgstr ""
+msgstr "Conservación y administración de los datos sobre biodiversidad"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:64
 msgid "The ability to manage and curate biodiversity data, as a means of continuously improving data quality."
-msgstr ""
+msgstr "La capacidad de administrar y conservar los datos sobre biodiversidad como un medio para mejorar continuamente la calidad de los datos."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:66
 msgid "A workflow for contributing to data quality improvement, linked to the processes of endorsing data publishers joining the GBIF network and evaluation of datasets. This can include the use of data quality tools and processes available from the GBIF network (see http://www.gbif.es/BDQ.php[GBIF Spain’s Data Quality Hub]) and guidance and information for data holders on data management techniques."
-msgstr ""
+msgstr "Un *flujo de trabajo que contribuye a mejorar la calidad de los datos*, sumado a los procesos de aprobación de los editores de datos que se unen a la red de GBIF y la evaluación de los grupos de datos. Esto puede incluir el uso de procesos y herramientas de calidad de datos disponibles en la red de GBIF (véase el http://www.gbif.es/BDQ.php[Centro de calidad de datos del nodo español de GBIF]), así como instrucciones e información para los proveedores de datos sobre las técnicas de administración de datos."
 
 #. type: Title ^
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:69
 #, no-wrap
 msgid "Biodiversity data analysis and use"
-msgstr ""
+msgstr "Uso y análisis de los datos sobre biodiversidad"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:72
 msgid "The ability to access, analyze and use biodiversity data."
-msgstr ""
+msgstr "La capacidad para acceder, analizar y utilizar los datos sobre biodiversidad."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:74
 msgid "Tools and expertise to generate an agreed set of information products and services including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders."
-msgstr ""
+msgstr "*Herramientas y conocimientos especializados para generar un conjunto acordado de productos y servicios de información*, por ejemplo, listas de especies nacionales, subnacionales y temáticas, aportes para la elaboración de informes sobre el estado de la biodiversidad, un catálogo de metadatos y un análisis de las necesidades y lagunas de datos sobre biodiversidad que complementan los que prestan otras partes interesadas."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:75
 msgid "A programme to support access and use of biodiversity data available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences."
-msgstr ""
+msgstr "Un *programa de apoyo al acceso y el uso de los datos sobre biodiversidad* disponible a través de la red de GBIF que incluye, posiblemente, un portal nacional o temático de datos sobre biodiversidad. Esto podría abarcar la organización de talleres de formación, la vinculación con programas de educación nacionales, la traducción y adaptación de documentación y medidas para aumentar la visibilidad en conferencias importantes de científicos."
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.1-basic-requirements.en.adoc:76
@@ -744,12 +744,14 @@ msgid ""
 "The situation of each GBIF Participant is unique, with different capacity strengths and challenges on different levels. Gaining access to the advice and experience of the GBIF network can help new Participants to establish effective nodes as efficiently as possible. Projects and partnerships with other Participants and their nodes can be an effective form of capacity development, for which there are many successful https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[examples]. GBIF has a https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[capacity enhancement support programme] that provides co-funding each year to support such projects. Less formal exchanges of ideas and experiences, for example, through regional meetings of GBIF nodes, also offer valuable opportunities to help "
 "nodes develop the basic capacity requirements."
 msgstr ""
+"La situación de cada participante de GBIF es única. Además, cada uno de ellos tiene diferentes fortalezas y desafíos en relación con las capacidades en varios niveles. El acceso al asesoramiento y la experiencia de la red de GBIF puede ayudar a los nuevos participantes a crear nodos lo más eficaces posible. Los proyectos y la colaboración con otros participantes y sus nodos pueden ser una manera útil de desarrollar las capacidades. Podemos mencionar numerosos https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[ejemplos] con excelentes resultados. GBIF cuenta con un https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[programa de apoyo al fortalecimiento de capacidades] que ofrece cofinanciación anual para llevar adelante dichos proyectos. El intercambio menos formal de ideas y "
+"experiencias, por ejemplo, a través de reuniones regionales de los nodos de GBIF, también genera oportunidades valiosas para ayudar a los nodos a desarrollar las capacidades básicas."
 
 #. type: Title -
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:3
 #, no-wrap
 msgid "5.2 Characteristics"
-msgstr ""
+msgstr "5.2. Características"
 
 #. type: Plain text
 #: 5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.en.adoc:6
