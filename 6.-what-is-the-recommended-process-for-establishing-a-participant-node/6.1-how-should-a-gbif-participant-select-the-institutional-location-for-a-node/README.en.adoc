@@ -11,35 +11,36 @@ As a final note, some GBIF Participants have chosen to divide their node team am
 [cols=2*a,options="header"]
 |===
 ^|Potential advantages
+
 ^|Potential disadvantages
 
 2+^s|Natural history collections
 
 |Existing knowledge of the challenges and requirements of digitizing and managing natural history data
+
 |May take significant effort to demonstrate neutrality (e.g., if it is
 a zoological collection, that it can work with other types of collections),
 or that it is not competing for digitization funds, etc.
 
 May find difficulty in engaging with other communities holding other types
-      of biodiversity data (e.g., observations, ecological data, etc.)
+of biodiversity data (e.g., observations, ecological data, etc.)
 
 Can make it difficult for the node to serve the needs of some stakeholders
-      (e.g., policymakers)
+(e.g., policymakers)
 
 2+^s|Ministries of science, environment, et al.
 
-|Very strong mandate and capacity to influence and support policy and decision
-      making
+|Very strong mandate and capacity to influence and support policy and decision making
 
 Easily aligned with national biodiversity policies, strategies, and programme
 
 |Challenges to operate at the technical level and to provide technical
-      support (e.g., to the scientific community)
+support (e.g., to the scientific community)
 
 Easily affected by political changes
 
 May find difficulties in addressing needs from other ministries (e.g.,
-      from science or environment)
+from science or environment)
 
 2+^s|Biodiversity or biological research institutes
 
@@ -50,36 +51,36 @@ Full knowledge of the biodiversity-research realm
 May have a strong and clear institutional mandate
 
 |May not be perceived as neutral by all stakeholders, depending on how
-    the institute fits within the Participant’s overall institutional landscape
-    (for example, if there is overlap or competition for resources)
+the institute fits within the Participant’s overall institutional landscape
+(for example, if there is overlap or competition for resources)
 
 2+^s|Research councils or science & technology commissions
 
 |Excellent position to use the Participant node to coordinate, promote
-      and facilitate the mobilization of biodiversity data from research
+and facilitate the mobilization of biodiversity data from research
 
 Easily aligned with national research policies, strategies, and programmes
 
 |May not be perceived as neutral by all stakeholders, depending on how
-    the institute fits within the Participant’s overall institutional landscape
-    (for example, if there is overlap or competition for resources)
-
+the institute fits within the Participant’s overall institutional landscape
+(for example, if there is overlap or competition for resources)
 
 2+^s|Non-governmental organizations
 
 |Flexibility and autonomy
+
 |Potential lack of mandate, difficulty in formally engaging with government
-      institutions
+institutions
 
 May become dependent on projects and project-based funding
 
 2+^s|University departments or faculties
 
 |High potential for developing capacity in biodiversity informatics easily
-      and quickly
+and quickly
 
 Potential for aligning the node’s activities with various biodiversity
-      research agenda
+research agenda
 
 |May face neutrality issues
 
@@ -92,10 +93,10 @@ May become dependent on projects and project-based funding
 Ready access to technical capacity in informatics
 
 Potentially useful connections with well-funded national priorities on
-      innovation and technology
+innovation and technology
 
 |Need to invest in staff bringing relevant scientific domain knowledge
-      to work effectively with biodiversity data
+to work effectively with biodiversity data
 
 Need to build contacts and knowledge of relevant institutional networks
 |===
