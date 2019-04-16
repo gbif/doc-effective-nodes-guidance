@@ -5,6 +5,7 @@ Mélianie Raymond; Kyle Copas <https://orcid.org/0000-0002-6590-599X>
 :numbered:
 :revnumber: 0.0-demo
 :revdate: {localdate}
+:title-logo-image: stones-1148278.jpg
 :icons: font
 :pagenums:
 

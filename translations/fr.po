@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-04-16 11:36+0200\n"
-"PO-Revision-Date: 2019-04-16 11:47+0200\n"
+"POT-Creation-Date: 2019-04-16 09:59+0000\n"
+"PO-Revision-Date: 2019-04-16 13:02+0200\n"
 "Last-Translator: GBIF.PT, Nó Português do GBIF\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -33,63 +33,80 @@ msgstr ""
 msgid "Concepts and general considerations"
 msgstr "Concepts et considérations générales"
 
+#. type: Target for macro image
+#: README.en.adoc:5
+#, no-wrap
+msgid "stones-1148278.jpg"
+msgstr ""
+
 #. type: Title ===
-#: README.en.adoc:4
+#: README.en.adoc:8
 #, no-wrap
 msgid "Suggested citation"
 msgstr "Suggestion de citation"
 
 #. type: Plain text
-#: README.en.adoc:6
+#: README.en.adoc:10
 msgid "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. Available online at #foo."
 msgstr "Secrétariat du GBIF 2015. Mise en place d’un point nodal efficace : concepts et considérations générales. Copenhague. Disponible en ligne : https://www.gbif.org/document/82147."
 
 #. type: Title ===
-#: README.en.adoc:7
+#: README.en.adoc:11
 #, no-wrap
 msgid "Persistent URI"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:9
+#: README.en.adoc:13
 msgid "#foo"
 msgstr "https://www.gbif.org/document/82147"
 
 #. type: Title ===
-#: README.en.adoc:10
+#: README.en.adoc:14
 #, no-wrap
 msgid "Contributors"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:12
+#: README.en.adoc:16
 msgid "…"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:14
+#: README.en.adoc:18
 msgid "_Establishing an Effective GBIF Participant Node_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 msgstr "_Le document Mise en place d’un point nodal efficace_ est publié sous une licence Creative Commons Paternité 4.0 non transposée https://creativecommons.org/licenses/by/4.0."
 
 #. type: Title ===
-#: README.en.adoc:15
+#: README.en.adoc:19
 #, no-wrap
 msgid "Document Control"
 msgstr "Contrôle du document"
 
 #. type: Plain text
-#: README.en.adoc:17
+#: README.en.adoc:21
 msgid "Second (GitHub) edition published, February 2019."
 msgstr "Première édition. Mars 2015."
 
 #. type: Plain text
-#: README.en.adoc:19
+#: README.en.adoc:23
 msgid "First published, March 2015. Contributors: Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 msgstr "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern] ont contribué à l’élaboration de ce document, qui s’appuie sur une publication précédente : Towards establishing a functional GBIF Participant Node (Part I) : definitions and general considerations."
 
 #. type: Plain text
-#: README.en.adoc:20
+#: README.en.adoc:25
 msgid "Originally based on an earlier publication, _Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_."
+msgstr ""
+
+#. type: Title ===
+#: README.en.adoc:26
+#, no-wrap
+msgid "Cover image"
+msgstr "Image de couverture"
+
+#. type: Plain text
+#: README.en.adoc:28
+msgid "(C) 2010, antkevyv | https://www.freeimages.com/photo/stones-1148278"
 msgstr ""
 
 #. type: Title ==
