@@ -2,12 +2,11 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2019-04-16 18:02+0200\n"
-"PO-Revision-Date: 2019-04-16 18:05+0200\n"
+"PO-Revision-Date: 2019-04-17 08:30+0200\n"
 "Last-Translator: GBIF.PT, Nó Português do GBIF\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -29,7 +28,6 @@ msgstr ""
 
 #. type: Plain text
 #: index.en.adoc:16
-#, fuzzy
 msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
 msgstr "_languageLinks:pdf[Ce document est également disponible en,format PDF] et languageLinks:languages[dans d'autres langues :,.]_"
 
@@ -62,12 +60,12 @@ msgstr ""
 #: README.en.adoc:11
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI permanent"
 
 #. type: Plain text
 #: README.en.adoc:13
 msgid "#foo"
-msgstr "https://www.gbif.org/document/82147"
+msgstr "https://doi.org/10.15468/doc.fm4b-6q42"
 
 #. type: Title ===
 #: README.en.adoc:14
@@ -108,14 +106,15 @@ msgid ""
 "org/0000-0001-6492-4016[Donald Hobern]."
 msgstr ""
 "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, "
-"https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern] ont contribué à l’élaboration de ce document, "
-"qui s’appuie sur une publication précédente : Towards establishing a functional GBIF Participant Node (Part I) : definitions and general considerations."
+"https://orcid.org/0000-0002-5015-5807[Tim Hirsch] et https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 
 #. type: Plain text
 #: README.en.adoc:25
 msgid ""
 "Originally based on an earlier publication, _Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_."
 msgstr ""
+"Initialement basé sur une publication précédente, _Towards establishing a functional GBIF Participant Node (Part I) : definitions and general "
+"considerations_."
 
 #. type: Title ===
 #: README.en.adoc:26
@@ -1497,7 +1496,7 @@ msgstr "Exemples généralisés des types d’institutions désignées comme hô
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:13
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:104
 msgid "|==="
-msgstr ""
+msgstr "|==="
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:15
