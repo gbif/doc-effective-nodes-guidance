@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-04-16 18:02+0200\n"
-"PO-Revision-Date: 2019-04-17 08:20+0200\n"
+"POT-Creation-Date: 2019-04-17 07:51+0000\n"
+"PO-Revision-Date: 2019-04-17 10:14+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -19,84 +19,81 @@ msgstr ""
 #. type: Title =
 #: index.en.adoc:1
 #, no-wrap
-msgid "Establishing an Effective GBIF Participant Node"
-msgstr "Creación de un nodo participante eficaz de GBIF"
+msgid "Establishing an Effective GBIF Participant Node: Concepts and general considerations"
+msgstr "Creación de un nodo participante eficaz de GBIF: conceptos y consideraciones generales"
 
 #. type: Plain text
-#: index.en.adoc:3
-msgid "Mélianie Raymond; Kyle Copas <https://orcid.org/0000-0002-6590-599X>"
-msgstr ""
-
-#. type: Plain text
-#: index.en.adoc:16
+#: index.en.adoc:14
 msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
 msgstr "_languageLinks:pdf[Este documento también está disponible en,PDF format] y languageLinks:languages[en otros idiomas:,.]_"
 
-#. type: Title ==
-#: README.en.adoc:2
-#, no-wrap
-msgid "Concepts and general considerations"
-msgstr "Conceptos y consideraciones generales"
-
 #. type: Target for macro image
-#: README.en.adoc:5
+#: README.en.adoc:2
 #, no-wrap
 msgid "stones-1148278.jpg"
 msgstr ""
 
+#. Matt: Added to stop these sections getting heading numbers; I'm not sure what the best approach is.
+#. type: Title ==
+#: README.en.adoc:7
+#, no-wrap
+msgid "Preface"
+msgstr ""
+
 #. type: Title ===
-#: README.en.adoc:8
+#: README.en.adoc:9
 #, no-wrap
 msgid "Suggested citation"
 msgstr "Cita bibliográfica sugerida"
 
 #. type: Plain text
-#: README.en.adoc:10
-msgid "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. Available online at #foo."
-msgstr "Secretariado de GBIF, 2015. Creación de un nodo participante eficaz de GBIF: conceptos y consideraciones generales. Copenhague. Disponible en línea en https://www.gbif.org/document/82186."
+#: README.en.adoc:11
+msgid "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. Available online at https://doi.org/10.15468/doc.fm4b-6q42."
+msgstr "Secretariado de GBIF, 2015. Creación de un nodo participante eficaz de GBIF: conceptos y consideraciones generales. Copenhague. Disponible en línea en https://doi.org/10.15468/doc.fm4b-6q42."
 
 #. type: Title ===
-#: README.en.adoc:11
+#: README.en.adoc:12
 #, no-wrap
 msgid "Persistent URI"
 msgstr "URI persistente"
 
 #. type: Plain text
-#: README.en.adoc:13
-msgid "#foo"
-msgstr "https://www.gbif.org/document/82186"
+#: README.en.adoc:14
+msgid "https://doi.org/10.15468/doc.fm4b-6q42"
+msgstr "https://doi.org/10.15468/doc.fm4b-6q42"
 
 #. type: Title ===
-#: README.en.adoc:14
+#: README.en.adoc:15
 #, no-wrap
 msgid "Contributors"
 msgstr "Colaboradores"
 
 #. type: Plain text
-#: README.en.adoc:16
-msgid "…"
-msgstr ""
+#: README.en.adoc:17
+msgid "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]"
+msgstr "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] y https://orcid.org/0000-0001-6492-4016[Donald Hobern]"
+
+#. type: Title ===
+#: README.en.adoc:18
+#, no-wrap
+msgid "Licence"
+msgstr "Licencia"
 
 #. type: Plain text
-#: README.en.adoc:18
+#: README.en.adoc:20
 msgid "_Establishing an Effective GBIF Participant Node_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 msgstr "El documento Creación de un nodo participante eficaz de GBIF se publica bajo una licencia https://creativecommons.org/licenses/by/4.0[Creative Commons Atribución 4.0 Internacional]."
 
 #. type: Title ===
-#: README.en.adoc:19
+#: README.en.adoc:21
 #, no-wrap
 msgid "Document Control"
 msgstr "Control de documentos"
 
 #. type: Plain text
-#: README.en.adoc:21
-msgid "Second (GitHub) edition published, February 2019."
-msgstr "Primera edición. Marzo de 2015."
-
-#. type: Plain text
 #: README.en.adoc:23
-msgid "First published, March 2015. Contributors: Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
-msgstr "Primera edición, Marzo de 2015. Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] y https://orcid.org/0000-0001-6492-4016[Donald Hobern], integrantes del Secretariado de GBIF, participaron en la elaboración de este documento."
+msgid "First published, March 2015."
+msgstr "Primera edición. Marzo de 2015"
 
 #. type: Plain text
 #: README.en.adoc:25
@@ -110,7 +107,7 @@ msgid "Cover image"
 msgstr "Imagen de la portada"
 
 #. type: Plain text
-#: README.en.adoc:28
+#: README.en.adoc:27
 msgid "(C) 2010, antkevyv | https://www.freeimages.com/photo/stones-1148278"
 msgstr ""
 
@@ -1035,7 +1032,7 @@ msgstr ""
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:9
 msgid "As a final note, some GBIF Participants have chosen to divide their node team among several host institutions. In such cases, Participants are advised to designate one institution to coordinate node activity and act as the main contact point for interactions with the GBIF Secretariat and the global network. Only one representative per Participant may be appointed to the Participant Node Managers Committee"
-msgstr "Como observación final, algunos participantes de GBIF decidieron dividir su equipo del nodo entre varias instituciones anfitrionas. En tales casos, se recomienda a los participantes que designen una institución para que coordine las actividades del nodo y sea el contacto principal para las comunicaciones con el Secretariado de GBIF y la red mundial. Solo se puede nombrar a un representante por participante para integrar el Comité de Administradores de Nodos Participantes."
+msgstr "Como observación final, algunos participantes de GBIF decidieron dividir su equipo del nodo entre varias instituciones anfitrionas. En tales casos, se recomienda a los participantes que designen una institución para que coordine las actividades del nodo y sea el contacto principal para las comunicaciones con el Secretariado de GBIF y la red mundial. Solo se puede nombrar a un representante por participante para integrar el Comité de Administradores de Nodos Participantes."
 
 #. type: Block title
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc:10
@@ -1438,11 +1435,6 @@ msgstr ""
 
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:9
-msgid "GBIF maintains capacity self-assessment guidelines for national biodiversity information facilities and for data holding institutions as tools to support planning and the tracking of progress, for example through projects."
-msgstr ""
-
-#. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:11
 msgid ""
 "A https://www.gbif.org/programme/82219[*capacity enhancement support programme*] with an annual call for project proposals provides GBIF Participants with co-funding to address self-identified capacity needs through collaborative regional and international projects. These projects can combine a range of actions, including mentoring between Participant nodes, the organization of regional events and training workshops, the development or adaptation of documentation, GBIF advocacy "
 "actions and actions to promote data use. Participants are encouraged to consider developing project proposals to support the establishment and consolidation of their nodes in collaboration with experts from the GBIF network. Reviewing https://www.gbif.org/programme/82219/[past projects] can provide some useful examples of how to structure collaborative actions aiming to establish new Participant nodes."
@@ -1452,19 +1444,9 @@ msgstr ""
 "útiles de cómo estructurar acciones colaborativas con el objetivo de establecer nuevos nodos participantes."
 
 #. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:13
-msgid "GBIF also seeks additional funding to support capacity enhancement, such as through the https://www.gbif.org/programme/82629/[Biodiversity Fund for Asia] (BIFA) and the https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID) programme. These programmes have support projects to mobilize biodiversity data and promote the use of accessible biodiversity data in support of research and decision-making, and provide training to project teams."
-msgstr ""
-
-#. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:15
+#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:10
 msgid "GBIF also provides access to *training opportunities* for node managers and staff. GBIF-related training events are held all over the world and are displayed on the https://www.gbif.org/resource/search?contentType=event[events section] of GBIF.org."
 msgstr "GBIF ofrece también oportunidades de formación al personal y los administradores de nodos. Las actividades de formación de GBIF se llevan a cabo en todo el mundo y se detallan en la sección de eventos de GBIF.org."
-
-#. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:16
-msgid "Finally, the GBIF network acts as a community of practice, with many node managers and their teams volunteering as https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement mentors] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example through training events."
-msgstr ""
 
 #. type: Title ===
 #: 7.-further-support-for-establishing-a-participant-node/7.4-what-other-documentation-and-resources-are-available-for-participant-nodes.en.adoc:2
@@ -1487,6 +1469,18 @@ msgstr "Contacto"
 #: 7.-further-support-for-establishing-a-participant-node/7.5-contact-for-further-support.en.adoc:4
 msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact nodes@gbif.org for further information."
 msgstr "El personal del Secretariado de GBIF está a disposición de los nodos participantes para brindarles ayuda y asesoramiento. Escriba a nodes@gbif.org para obtener más información."
+
+#~ msgid "Establishing an Effective GBIF Participant Node"
+#~ msgstr "Creación de un nodo participante eficaz de GBIF"
+
+#~ msgid "Concepts and general considerations"
+#~ msgstr "Conceptos y consideraciones generales"
+
+#~ msgid "#foo"
+#~ msgstr "https://www.gbif.org/document/82186"
+
+#~ msgid "Second (GitHub) edition published, February 2019."
+#~ msgstr "Primera edición. Marzo de 2015."
 
 #~ msgid ""
 #~ "* Promoting and supporting the mobilization of biodiversity data within the country or organization’s scope\n"
