@@ -7,7 +7,7 @@ endif::backend-html5[]
 == Preface
 
 === Suggested citation
-GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. Available online at https://doi.org/10.15468/doc.fm4b-6q42.
+GBIF Secretariat 2015. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. Available online at https://doi.org/10.15468/doc.fm4b-6q42.
 
 === Persistent URI
 https://doi.org/10.15468/doc.fm4b-6q42
