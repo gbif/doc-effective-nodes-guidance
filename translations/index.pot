@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-04-16 18:02+0200\n"
+"POT-Creation-Date: 2019-04-17 07:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,70 +19,79 @@ msgstr ""
 #. type: Title =
 #: index.en.adoc:1
 #, no-wrap
-msgid "Establishing an Effective GBIF Participant Node"
+msgid ""
+"Establishing an Effective GBIF Participant Node: Concepts and general "
+"considerations"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:3
-msgid "Mélianie Raymond; Kyle Copas <https://orcid.org/0000-0002-6590-599X>"
-msgstr ""
-
-#. type: Plain text
-#: index.en.adoc:16
+#: index.en.adoc:14
 msgid ""
 "_languageLinks:pdf[This document is also available in,PDF format] and "
 "languageLinks:languages[in other languages:,.]_"
 msgstr ""
 
-#. type: Title ==
-#: README.en.adoc:2
-#, no-wrap
-msgid "Concepts and general considerations"
-msgstr ""
-
 #. type: Target for macro image
-#: README.en.adoc:5
+#: README.en.adoc:2
 #, no-wrap
 msgid "stones-1148278.jpg"
 msgstr ""
 
+#.  Matt: Added to stop these sections getting heading numbers; I'm not sure what the best approach is.
+#. type: Title ==
+#: README.en.adoc:7
+#, no-wrap
+msgid "Preface"
+msgstr ""
+
 #. type: Title ===
-#: README.en.adoc:8
+#: README.en.adoc:9
 #, no-wrap
 msgid "Suggested citation"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:10
+#: README.en.adoc:11
 msgid ""
 "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: "
-"Concepts and general considerations. Copenhagen. Available online at #foo."
+"Concepts and general considerations. Copenhagen. Available online at "
+"https://doi.org/10.15468/doc.fm4b-6q42."
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:11
+#: README.en.adoc:12
 #, no-wrap
 msgid "Persistent URI"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:13
-msgid "#foo"
+#: README.en.adoc:14
+msgid "https://doi.org/10.15468/doc.fm4b-6q42"
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:14
+#: README.en.adoc:15
 #, no-wrap
 msgid "Contributors"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:16
-msgid "…"
+#: README.en.adoc:17
+msgid ""
+"Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
+"https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, "
+"https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and "
+"https://orcid.org/0000-0001-6492-4016[Donald Hobern]"
+msgstr ""
+
+#. type: Title ===
+#: README.en.adoc:18
+#, no-wrap
+msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:18
+#: README.en.adoc:20
 msgid ""
 "_Establishing an Effective GBIF Participant Node_ is licensed under "
 "https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 "
@@ -90,24 +99,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:19
+#: README.en.adoc:21
 #, no-wrap
 msgid "Document Control"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:21
-msgid "Second (GitHub) edition published, February 2019."
-msgstr ""
-
-#. type: Plain text
 #: README.en.adoc:23
-msgid ""
-"First published, March 2015. Contributors: Mélianie Raymond, "
-"https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
-"https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, "
-"https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and "
-"https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
+msgid "First published, March 2015."
 msgstr ""
 
 #. type: Plain text
@@ -125,7 +124,7 @@ msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:28
+#: README.en.adoc:27
 msgid "(C) 2010, antkevyv | https://www.freeimages.com/photo/stones-1148278"
 msgstr ""
 
@@ -2029,14 +2028,6 @@ msgstr ""
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:9
 msgid ""
-"GBIF maintains capacity self-assessment guidelines for national biodiversity "
-"information facilities and for data holding institutions as tools to support "
-"planning and the tracking of progress, for example through projects."
-msgstr ""
-
-#. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:11
-msgid ""
 "A https://www.gbif.org/programme/82219[*capacity enhancement support "
 "programme*] with an annual call for project proposals provides GBIF "
 "Participants with co-funding to address self-identified capacity needs "
@@ -2053,37 +2044,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:13
-msgid ""
-"GBIF also seeks additional funding to support capacity enhancement, such as "
-"through the https://www.gbif.org/programme/82629/[Biodiversity Fund for "
-"Asia] (BIFA) and the https://www.gbif.org/programme/82243/[Biodiversity "
-"Information for Development] (BID) programme. These programmes have support "
-"projects to mobilize biodiversity data and promote the use of accessible "
-"biodiversity data in support of research and decision-making, and provide "
-"training to project teams."
-msgstr ""
-
-#. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:15
+#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:10
 msgid ""
 "GBIF also provides access to *training opportunities* for node managers and "
 "staff. GBIF-related training events are held all over the world and are "
 "displayed on the "
 "https://www.gbif.org/resource/search?contentType=event[events section] of "
 "GBIF.org."
-msgstr ""
-
-#. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:16
-msgid ""
-"Finally, the GBIF network acts as a community of practice, with many node "
-"managers and their teams volunteering as "
-"https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement "
-"mentors] to support the further development of the global community. New "
-"Participants are invited to contact the GBIF Secretariat for assistance in "
-"identifying mentors to assist with the development of their node, for "
-"example through training events."
 msgstr ""
 
 #. type: Title ===
