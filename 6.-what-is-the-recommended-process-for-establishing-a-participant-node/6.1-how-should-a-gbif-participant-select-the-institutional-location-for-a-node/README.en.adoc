@@ -5,7 +5,7 @@ As discussed above, the institutional location for the node is a critical decisi
 
 In addition to choosing the location of the node, Participants need to decide the position of the node team within the host institution: will it be an autonomous body with an independent mandate, a dedicated section or department of the host institution, or a group of staff members sharing their node responsibilities with other functions? New Participants are advised to consult with colleagues in the network and examine https://www.gbif.org/the-gbif-network[the country profiles on GBIF.org] to help identify the most appropriate model for national circumstances.
 
-As a final note, some GBIF Participants have chosen to divide their node team among several host institutions. In such cases, Participants are advised to designate one institution to coordinate node activity and act as the main contact point for interactions with the GBIF Secretariat and the global network. Only one representative per Participant may be appointed to the Participant Node Managers Committee
+As a final note, some GBIF Participants have chosen to divide their node team among several host institutions. In such cases, Participants are advised to designate one institution to coordinate node activity and act as the main contact point for interactions with the GBIF Secretariat and the global network. Only one representative per Participant may be appointed to the Participant Node Managers Committee.
 
 .Generalized examples of the types of institutions designated as hosts of GBIF Participant nodes.
 [cols=2*a,options="header"]
