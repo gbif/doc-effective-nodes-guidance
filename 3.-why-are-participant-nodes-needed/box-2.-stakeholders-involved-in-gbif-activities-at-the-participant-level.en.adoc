@@ -29,7 +29,7 @@ The key focus of engaging with biodiversity knowledge holders is to support biod
 
 This group includes ecologists, including macroecologists and biogeographers; species distribution modellers (includes analysts of climate change impacts, invasive species risk, human disease vectors); conservation practitioners, including protected area planners; environmental impact analysts and strategic spatial planning authorities; genetic resources experts (for crop diversity, medicinal compounds etc.); and the ecosystem assessment community.
 
-The key focus of engaging with species occurrence data users is to support biodiversity data use: reusing the data accessible through GBIF to support biodiversity-related sciences and environmental research, ultimately to support evidence based decision making.
+The key focus of engaging with species occurrence data users is to support biodiversity data use: reusing the data accessible through GBIF to support biodiversity-related sciences and environmental research, ultimately to support evidence-based decision making.
 
 [discrete]
 ===== Decision-makers

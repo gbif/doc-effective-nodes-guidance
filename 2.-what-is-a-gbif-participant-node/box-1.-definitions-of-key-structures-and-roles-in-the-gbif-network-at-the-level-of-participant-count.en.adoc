@@ -8,6 +8,8 @@
 
 *Biodiversity information facility*: Variously described as a ‘BIF’, a system or a network, a broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders.
 
+*Participant node*: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.
+
 [discrete]
 ==== Key Roles
 
