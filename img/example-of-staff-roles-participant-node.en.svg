@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="273.98837mm"
+   height="93.330933mm"
+   viewBox="0 0 273.98837 93.330933"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="example-of-staff-roles-participant-node.en.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="582.86348"
+     inkscape:cy="189.8384"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1359"
+     inkscape:window-x="0"
+     inkscape:window-y="560"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(31.994185,-100.03992)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#d66f27;stroke-width:3.52527213;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 449.45703,103.44727 c 11.31849,27.77925 38.31983,45.94869 68.31641,45.9707 30.00013,-0.018 57.00633,-18.18816 68.32617,-45.9707 m -0.01,-55.714848 C 574.77135,19.953173 547.77001,1.7837376 517.77344,1.7617188 487.77331,1.7797691 460.76711,19.94988 449.44727,47.732422"
+       transform="matrix(0.26458333,0,0,0.26458333,-31.994185,100.03992)"
+       id="path815"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="104.48586"
+       y="122.95963"
+       id="text1178"><tspan
+         sodipodi:role="line"
+         x="104.48586"
+         y="122.95963"
+         id="tspan1176"
+         style="stroke-width:0.26458332px"><tspan
+           x="104.48586"
+           y="122.95963"
+           id="tspan1174"
+           style="stroke-width:0.26458332px">Node manager</tspan></tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#d66f27;stroke-width:0.93272823;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.1577315,186.41088 c 3.6978729,4.12434 8.9729465,6.48472 14.5122935,6.49366 5.540427,-0.008 10.816798,-2.36852 14.515393,-6.49366 m 59.301808,0 c 3.697994,4.12447 8.973284,6.48487 14.512814,6.49366 5.54025,-0.008 10.8164,-2.36865 14.51487,-6.49366 m 59.30233,0 c 3.69787,4.12434 8.97294,6.48472 14.51229,6.49366 5.54043,-0.008 10.8168,-2.36852 14.51539,-6.49366 m -0.003,-26.08007 c -3.69799,-4.12447 -8.97328,-6.48487 -14.51281,-6.49366 -5.54025,0.008 -10.8164,2.36865 -14.51488,6.49366 m -59.3018,0 c -3.69799,-4.12447 -8.97328,-6.48487 -14.51281,-6.49366 -5.540431,0.008 -10.816803,2.36852 -14.515399,6.49366 m -59.301803,0 c -3.697993,-4.12447 -8.973284,-6.48487 -14.512811,-6.49366 -5.540247,0.008 -10.8164013,2.36865 -14.5148755,6.49366"
+       id="circle821"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16.455622"
+       y="168.78647"
+       id="text839"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="16.455622"
+         y="168.78647"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">A person with a scientific</tspan><tspan
+         sodipodi:role="line"
+         x="16.455622"
+         y="174.96008"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan841">background to motivate network</tspan><tspan
+         sodipodi:role="line"
+         x="16.45562"
+         y="181.1337"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan843">of data holders, data users</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="105.20618"
+       y="165.95166"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="105.20618"
+         y="165.95166"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">A person with strong data</tspan><tspan
+         sodipodi:role="line"
+         x="105.20618"
+         y="172.12527"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan849">management/analytics</tspan><tspan
+         sodipodi:role="line"
+         x="105.20618"
+         y="178.29889"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan851">background to provide</tspan><tspan
+         sodipodi:role="line"
+         x="105.20618"
+         y="184.47249"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan853">technical assistance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="193.31287"
+       y="168.55977"
+       id="text857"><tspan
+         sodipodi:role="line"
+         x="193.31287"
+         y="168.55977"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan859">A person with web development/</tspan><tspan
+         sodipodi:role="line"
+         x="193.31287"
+         y="174.73338"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan863">coding skills to maintain</tspan><tspan
+         sodipodi:role="line"
+         x="193.31287"
+         y="180.90698"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan865">e.g. national data portal</tspan></text>
+    <g
+       id="g972"
+       style="stroke:#d66f27;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path960"
+         d="M 16.670251,146.70537 H 193.29617"
+         style="fill:none;fill-rule:evenodd;stroke:#d66f27;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path962"
+         d="m 16.670251,146.70537 v 6.66368"
+         style="fill:none;fill-rule:evenodd;stroke:#d66f27;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path964"
+         d="m 193.29617,146.70537 v 6.85266"
+         style="fill:none;fill-rule:evenodd;stroke:#d66f27;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path966"
+         d="m 104.98321,139.7619 v 14.03237"
+         style="fill:none;fill-rule:evenodd;stroke:#d66f27;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

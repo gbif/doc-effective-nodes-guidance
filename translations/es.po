@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-04-17 10:17+0000\n"
+"POT-Creation-Date: 2019-04-17 14:49+0200\n"
 "PO-Revision-Date: 2019-04-17 11:26+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -34,7 +34,7 @@ msgstr ""
 #. type: Target for macro image
 #: README.en.adoc:2
 #, no-wrap
-msgid "stones-1148278.jpg"
+msgid "img/Apis-mellifera-thebugroomno2-iNat.jpg"
 msgstr ""
 
 #.  Matt: Added to stop these sections getting heading numbers; I'm not sure what the best approach is.
@@ -52,10 +52,15 @@ msgstr "Cita bibliográfica sugerida"
 
 #. type: Plain text
 #: README.en.adoc:11
+#, fuzzy
+#| msgid ""
+#| "GBIF Secretariat 2015. Establishing an Effective GBIF Participant Node: "
+#| "Concepts and general considerations. Copenhagen. Available online at "
+#| "https://doi.org/10.15468/doc.fm4b-6q42."
 msgid ""
-"GBIF Secretariat 2015. Establishing an Effective GBIF Participant Node: "
-"Concepts and general considerations. Copenhagen. Available online at https://"
-"doi.org/10.15468/doc.fm4b-6q42."
+"GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: "
+"Concepts and general considerations. Copenhagen. https://doi.org/10.15468/"
+"doc-z79c-sa53."
 msgstr ""
 "Secretariado de GBIF, 2015. Creación de un nodo participante eficaz de GBIF: "
 "conceptos y consideraciones generales. Copenhague. Disponible en línea en "
@@ -69,7 +74,9 @@ msgstr "URI persistente"
 
 #. type: Plain text
 #: README.en.adoc:14
-msgid "https://doi.org/10.15468/doc.fm4b-6q42"
+#, fuzzy
+#| msgid "https://doi.org/10.15468/doc.fm4b-6q42"
+msgid "https://doi.org/10.15468/doc-z79c-sa53"
 msgstr "https://doi.org/10.15468/doc.fm4b-6q42"
 
 #. type: Title ===
@@ -80,11 +87,16 @@ msgstr "Colaboradores"
 
 #. type: Plain text
 #: README.en.adoc:17
+#, fuzzy
+#| msgid ""
+#| "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
+#| "https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-"
+#| "Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://"
+#| "orcid.org/0000-0001-6492-4016[Donald Hobern]"
 msgid ""
-"Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://"
-"orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://"
-"orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid."
-"org/0000-0001-6492-4016[Donald Hobern]"
+"Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://"
+"orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and https://orcid."
+"org/0000-0002-2685-8078[Marie Grosjean]"
 msgstr ""
 "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://"
 "orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://"
@@ -116,8 +128,23 @@ msgstr "Control de documentos"
 
 #. type: Plain text
 #: README.en.adoc:23
-msgid "First published, March 2015."
-msgstr "Primera edición. Marzo de 2015"
+#, fuzzy
+#| msgid ""
+#| "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
+#| "https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-"
+#| "Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://"
+#| "orcid.org/0000-0001-6492-4016[Donald Hobern]"
+msgid ""
+"First edition, March 2015. Mélianie Raymond, https://orcid."
+"org/0000-0001-6197-9951[Olaf Bánki], https://orcid."
+"org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid."
+"org/0000-0002-5015-5807[Tim Hirsch] and https://orcid."
+"org/0000-0001-6492-4016[Donald Hobern]."
+msgstr ""
+"Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://"
+"orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://"
+"orcid.org/0000-0002-5015-5807[Tim Hirsch] y https://orcid."
+"org/0000-0001-6492-4016[Donald Hobern]"
 
 #. type: Plain text
 #: README.en.adoc:25
@@ -138,7 +165,11 @@ msgstr "Imagen de la portada"
 
 #. type: Plain text
 #: README.en.adoc:27
-msgid "(C) 2010, antkevyv | https://www.freeimages.com/photo/stones-1148278"
+msgid ""
+"Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. "
+"Photo 2018 thebugroomno2 via https://www.gbif.org/"
+"occurrence/1945467387[iNaturalist research-grade observations], licensed "
+"under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 msgstr ""
 
 #. type: Title ==
@@ -2633,7 +2664,7 @@ msgstr ""
 "mantenimiento de las bases de datos"
 
 #. type: Plain text
-#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:24
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:25
 msgid ""
 "A person with an informatics background, able to develop and maintain an "
 "informatics infrastructure to enable biodiversity data publishing and "
@@ -2644,6 +2675,99 @@ msgstr ""
 "una infraestructura informática que permita la publicación de datos sobre "
 "biodiversidad y el acceso a los datos sobre biodiversidad, por ejemplo, a "
 "través de un portal nacional de datos"
+
+#. type: Block title
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:27
+#, fuzzy, no-wrap
+#| msgid "Further support for establishing a Participant node"
+msgid "Example of staff roles for a Participant node"
+msgstr "Apoyo adicional para crear un nodo participante"
+
+#. type: delimited block *
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:30
+msgid ""
+"This example assumes that the administrative roles are covered by the host "
+"institution."
+msgstr ""
+
+#. type: Target for macro image
+#: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:31
+#, no-wrap
+msgid "img/example-of-staff-roles-participant-node.en.svg"
+msgstr ""
+
+#. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
+#: img/example-of-staff-roles-participant-node.en.svg:49
+#, no-wrap
+msgid "image/svg+xml"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:82
+#, no-wrap
+msgid "Node manager"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:99
+#, no-wrap
+msgid "A person with a scientific"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:104
+#, no-wrap
+msgid "background to motivate network"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:109
+#, no-wrap
+msgid "of data holders, data users"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:120
+#, no-wrap
+msgid "A person with strong data"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:125
+#, no-wrap
+msgid "management/analytics"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:130
+#, no-wrap
+msgid "background to provide"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:135
+#, fuzzy, no-wrap
+#| msgid "Technical capacities"
+msgid "technical assistance"
+msgstr "Capacidades técnicas"
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:146
+#, no-wrap
+msgid "A person with web development/"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:151
+#, no-wrap
+msgid "coding skills to maintain"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: img/example-of-staff-roles-participant-node.en.svg:156
+#, no-wrap
+msgid "e.g. national data portal"
+msgstr ""
 
 #. type: Title ==
 #: 7.-further-support-for-establishing-a-participant-node/7.0-introduction.en.adoc:2
@@ -2999,6 +3123,9 @@ msgstr ""
 "participantes para brindarles ayuda y asesoramiento. Escriba a nodes@gbif."
 "org para obtener más información."
 
+#~ msgid "First published, March 2015."
+#~ msgstr "Primera edición. Marzo de 2015"
+
 #, fuzzy
 #~| msgid ""
 #~| "https://www.gbif.org/the-gbif-network/participant-"
@@ -3050,24 +3177,6 @@ msgstr ""
 #~| msgid "Second (GitHub) edition published, February 2019."
 #~ msgid "_Document Control_ Second (GitHub) edition published, February 2019."
 #~ msgstr "Primera edición. Marzo de 2015."
-
-#, fuzzy
-#~| msgid ""
-#~| "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
-#~| "https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-"
-#~| "Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://"
-#~| "orcid.org/0000-0001-6492-4016[Donald Hobern]"
-#~ msgid ""
-#~ "First published, March 2015. Contributors: Mélianie Raymond, https://"
-#~ "orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid."
-#~ "org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://"
-#~ "orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid."
-#~ "org/0000-0001-6492-4016[Donald Hobern]."
-#~ msgstr ""
-#~ "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
-#~ "https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-"
-#~ "Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] y https://"
-#~ "orcid.org/0000-0001-6492-4016[Donald Hobern]"
 
 #, fuzzy
 #~| msgid ""
