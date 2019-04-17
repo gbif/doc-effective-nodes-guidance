@@ -1,0 +1,9 @@
+https://builds.gbif.org/job/doc-effective-nodes-guidance/[image:https://builds.gbif.org/job/doc-effective-nodes-guidance/badge/icon[Build status]]
+
+= Establishing an Effective GBIF Participant Node
+
+This guide includes basic information about two key concepts for GBIF: our Participant nodes and the biodiversity information facilities. The text includes definitions, elements which need to be taken into consideration while building these structures, potential services, requirements and much more.
+
+It is available in multiple languages in both HTML and PDF at https://labs.gbif.org/documents/effective-nodes-guidance/[Establishing an Effective GBIF Participant Node]. The location of these documents is currently considered temporary.
+
+_This is information *about* this document’s source code.  It is not part of the document._
