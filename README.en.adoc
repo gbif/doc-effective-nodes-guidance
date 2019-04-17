@@ -2,6 +2,10 @@ ifdef::backend-html5[]
 image::stones-1148278.jpg[]
 endif::backend-html5[]
 
+// Matt: Added to stop these sections getting heading numbers; I'm not sure what the best approach is.
+[preface]
+== Preface
+
 === Suggested citation
 GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. Available online at https://doi.org/10.15468/doc.fm4b-6q42.
 
