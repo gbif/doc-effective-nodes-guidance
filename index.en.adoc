@@ -4,7 +4,7 @@
 :numbered:
 :revnumber: {git-metadata-sha-short}
 :revdate: {localdate}
-:title-logo-image: stones-1148278.jpg
+:title-logo-image: img/_src/Apis-mellifera-thebugroomno2-iNat.jpg
 :icons: font
 :pagenums:
 :license: https://creativecommons.org/licenses/by/4.0
