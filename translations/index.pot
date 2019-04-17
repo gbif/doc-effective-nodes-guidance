@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-04-17 07:51+0000\n"
+"POT-Creation-Date: 2019-04-17 09:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,7 +53,7 @@ msgstr ""
 #. type: Plain text
 #: README.en.adoc:11
 msgid ""
-"GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: "
+"GBIF Secretariat 2015. Establishing an Effective GBIF Participant Node: "
 "Concepts and general considerations. Copenhagen. Available online at "
 "https://doi.org/10.15468/doc.fm4b-6q42."
 msgstr ""
@@ -977,7 +977,7 @@ msgid ""
 "A clear mandate (official; institutional) through which the node is given "
 "formal responsibility for promoting, coordinating and facilitating the "
 "management and use of biodiversity data among the relevant stakeholder "
-"institutions within the Participant’s domain. +"
+"institutions within the Participant’s domain."
 msgstr ""
 
 #. type: Plain text
@@ -1023,7 +1023,7 @@ msgid ""
 "6.1). It should include relevant formal agreements around data publishing "
 "and data access. It should also ensure that the node recognizes and values "
 "its constituent organizations and individuals that contribute to and use its "
-"services, in order to build good relationships with them. +"
+"services, in order to build good relationships with them."
 msgstr ""
 
 #. type: Plain text
@@ -1058,7 +1058,7 @@ msgid ""
 "Dedicated staff members to implement the node’s mandate and work plans (see "
 "section 6.2). The node team will require a broad range of skills, ranging "
 "from biodiversity informatics to network coordination and supported by "
-"appropriate training. +"
+"appropriate training."
 msgstr ""
 
 #. type: Plain text
@@ -1494,7 +1494,7 @@ msgid ""
 "advised to designate one institution to coordinate node activity and act as "
 "the main contact point for interactions with the GBIF Secretariat and the "
 "global network. Only one representative per Participant may be appointed to "
-"the Participant Node Managers Committee"
+"the Participant Node Managers Committee."
 msgstr ""
 
 #. type: Block title
@@ -1754,7 +1754,7 @@ msgstr ""
 
 #. type: Plain text
 #: 6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc:11
-msgid "Capacity enhancement +"
+msgid "Capacity enhancement"
 msgstr ""
 
 #. type: Plain text
@@ -1819,7 +1819,7 @@ msgid ""
 "the interactions with the GBIF network and Secretariat including "
 "representation on the Participant node managers’ committee. Nodes may either "
 "combine this role with one of the three below or, ideally, dedicate an "
-"individual exclusively to the position of node manager. +"
+"individual exclusively to the position of node manager."
 msgstr ""
 
 #. type: Plain text
@@ -1993,7 +1993,7 @@ msgid ""
 "https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact "
 "members of the Nodes Committee] to get involved in its activities, access "
 "the expertise of the network and plan collaborative projects to support the "
-"establishment of Participant nodes"
+"establishment of Participant nodes."
 msgstr ""
 
 #. type: Title ===
