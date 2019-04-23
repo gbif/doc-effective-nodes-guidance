@@ -2,7 +2,7 @@ ifdef::backend-html5[]
 image::img/Apis-mellifera-thebugroomno2-iNat.jpg[]
 endif::backend-html5[]
 
-== Front matter
+== Colophon
 
 === Suggested citation
 GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53.
