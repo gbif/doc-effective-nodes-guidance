@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-04-17 14:49+0200\n"
+"POT-Creation-Date: 2019-04-23 08:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,7 +78,7 @@ msgstr ""
 #. type: Plain text
 #: README.en.adoc:17
 msgid ""
-"Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], "
+"Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], "
 "https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and "
 "https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
 msgstr ""
@@ -105,16 +105,21 @@ msgstr ""
 
 #. type: Plain text
 #: README.en.adoc:23
+msgid "Second (GitHub) edition published, April 2019."
+msgstr ""
+
+#. type: Plain text
+#: README.en.adoc:25
 msgid ""
-"First edition, March 2015. Mélianie Raymond, "
-"https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
+"https://doi.org/10.15468/doc-z79c-sa53[First edition], March 2015, by "
+"Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
 "https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, "
 "https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and "
 "https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:25
+#: README.en.adoc:27
 msgid ""
 "Originally based on an earlier publication, _Towards establishing a "
 "functional GBIF Participant Node (Part I): definitions and general "
@@ -122,13 +127,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:26
+#: README.en.adoc:28
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:27
+#: README.en.adoc:29
 msgid ""
 "Western honey bee (_Apis mellifera_), Hardy County, Florida, United "
 "States. Photo 2018 thebugroomno2 via "
@@ -215,153 +220,139 @@ msgstr ""
 
 #. type: Plain text
 #: 2.-what-is-a-gbif-participant-node/README.en.adoc:7
+#, no-wrap
 msgid ""
-"A GBIF Participant node is a team designated by a Participant to coordinate "
+"*A GBIF Participant node is a team designated by a Participant to coordinate "
 "a network of people and institutions that produce, manage and use "
 "biodiversity, collectively building an infrastructure for delivering "
 "biodiversity information. They are supported by organizational arrangements "
 "and informatics solutions, working to improve the availability and "
 "usefulness of biodiversity data for research, policy and "
 "decision-making. For countries, these networks aresometimes referred to as a "
-"biodiversity information facility (see <<box-1,Box 1>>)."
+"biodiversity information facility (see <<box-1,Box 1>>).\n"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:10
-#, no-wrap
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:9
 msgid ""
-"A Participant node is typically hosted by an existing biodiversity-related "
-"institution or institutions in the Participant country, or by Participant "
-"organizations. Two main roles are assigned when a Participant joins GBIF: "
-"the Head of Delegation and the node manager. The HoD serves on the GBIF "
-"governing board and….\n"
-"    Check the guidance on HODs from TH and AMN\n"
-msgstr ""
-
-#. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:12
-msgid ""
-"The node manager leads the team and also represents the Participant on the "
+"Two main roles are assigned when a Participant joins GBIF: the Head of "
+"Delegation and the node manager (see <<box-2,Box 2>>). The Head of "
+"Delegation represents the country, economy or organization on the GBIF "
+"Governing Board, and acts as the Participant’s primary focal point for all "
+"GBIF-related activity. The node manager leads the operational activities of "
+"the country or organization in coordinating the mobilization and use of "
+"open-access biodiversity data, and also represents the Participant on the "
 "https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF "
-"Participant Node Managers Committee]."
+"Participant Node Managers Committee]. A Participant node is typically hosted "
+"by an existing biodiversity-related institution or institutions in the "
+"Participant country, or by Participant organizations."
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:14
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:11
 msgid ""
-"A broad range of stakeholders are involved in GBIF-related activities at the "
-"Participant level, including data holders, biodiversity knowledge experts, "
-"data users, and decision-makers <<box-1,Box 1>>). Participant nodes have the "
-"role of connecting each of these audiences’ needs and interests, enabling "
-"them to contribute to and benefit from participation in the GBIF network."
+"A broad range of *stakeholders* are involved in GBIF-related activities at "
+"the Participant level, including data holders, biodiversity knowledge "
+"experts, data users, and decision-makers <<box-3,Box 3>>). Participant nodes "
+"have the role of connecting each of these audiences’ needs and interests, "
+"enabling them to contribute to and benefit from participation in the GBIF "
+"network."
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:16
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:13
 msgid ""
 "Participant nodes typically have four main functions (see also "
 "<<introduction4,Section 4>>):"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:18
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:15
 msgid ""
 "Coordinating a community of initiatives relating to biodiversity, including "
 "making connections to the international GBIF network"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:19
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:16
 msgid ""
 "Promoting and supporting the mobilization of biodiversity data within the "
 "country or organization’s scope"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:20
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:17
 msgid ""
 "Encouraging the reuse of the available data to support biodiversity-related "
 "science and support decision-making for sustainable development"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:21
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:18
 msgid ""
 "Providing expertise on biodiversity data management and improving data "
 "quality to support users' needs"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:23
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:20
 msgid ""
-"Participant nodes are thus knowledge hubs both for biodiversity data and "
+"Participant nodes are thus *knowledge hubs* both for biodiversity data and "
 "broader GBIF-related activities. They not only guide stakeholders to "
 "relevant sources of biodiversity information but also to such things as:"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:25
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:22
 msgid "Policies relating to biodiversity and open access"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:26
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:23
 msgid ""
 "Expertise on how to run digitization programmes, to organize data management "
 "and to implement data quality practices"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:27
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:24
 msgid "Individual experts in different aspects of biodiversity"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:28
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:25
 msgid "Broader information about the landscape of biodiversity initiatives"
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:30
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:27
 msgid ""
-"Most Participant nodes develop a collaborative framework of policies, "
+"Most Participant nodes develop a *collaborative framework* of policies, "
 "agreements, community norms and standards, which are adopted by their "
 "stakeholders to guide the publication, management and use of biodiversity "
 "data."
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:32
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:29
 msgid ""
-"The governance structure of each Participant node varies but often takes the "
-"form of a board or steering committee. This configuration enables data "
+"The *governance structure* of each Participant node varies but often takes "
+"the form of a board or steering committee. This configuration enables data "
 "holders, users and other stakeholders to take collective decisions "
 "concerning the publishing and reuse of biodiversity data while providing the "
 "node with priorities and guidance on the implementation of its work."
 msgstr ""
 
 #. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:34
+#: 2.-what-is-a-gbif-participant-node/README.en.adoc:30
 msgid ""
-"Participant nodes provide the technical expertise to support the publication "
-"of biodiversity data of the highest possible quality by data holders. This "
-"involves using informatics infrastructure, and many implementation models "
-"are available, from using hosted data publication services to maintaining a "
-"distributed network of data publishers and a centralized index of the "
-"data. The node may also support a range of other information products and "
-"services, for example, by maintaining a biodiversity data portal and online "
-"tools for data analysis."
-msgstr ""
-
-#. type: Plain text
-#: 2.-what-is-a-gbif-participant-node/README.en.adoc:35
-msgid ""
-"Participant nodes maintain an informatics infrastructure to support the "
-"publication of biodiversity data by data holders. Many implementation models "
-"are available, from using hosted data publication services to maintaining a "
-"distributed network of data publishers and a centralized index of the "
-"data. The node’s informatics infrastructure may also support a range of "
-"other information products and services, for example, by maintaining a "
+"Participant nodes provide the technical expertise to *support the "
+"publication of biodiversity data of the highest possible quality by data "
+"holders*. This involves using informatics infrastructure, and many "
+"implementation models are available, from using hosted data publication "
+"services to maintaining a distributed network of data publishers and a "
+"centralized index of the data. The node may also support a range of other "
+"*information products and services*, for example, by maintaining a "
 "biodiversity data portal and online tools for data analysis."
 msgstr ""
 
@@ -387,9 +378,7 @@ msgid ""
 "a https://www.gbif.org/document/80661[Memorandum of Understanding] and "
 "establishing a co-ordinated effort to support open access and use of "
 "biodiversity data, to advance scientific research, and to promote "
-"technological and sustainable development. Participant node: a coordinating "
-"team designated by the Participant to establish, strengthen and expand the "
-"collective GBIF activities in the country or organization.\n"
+"technological and sustainable development. \n"
 msgstr ""
 
 #. type: delimited block *
@@ -2193,6 +2182,14 @@ msgstr ""
 #. type: Plain text
 #: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:9
 msgid ""
+"GBIF maintains capacity self-assessment guidelines for national biodiversity "
+"information facilities and for data holding institutions as tools to support "
+"planning and the tracking of progress, for example through projects."
+msgstr ""
+
+#. type: Plain text
+#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:11
+msgid ""
 "A https://www.gbif.org/programme/82219[*capacity enhancement support "
 "programme*] with an annual call for project proposals provides GBIF "
 "Participants with co-funding to address self-identified capacity needs "
@@ -2209,13 +2206,37 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:10
+#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:13
+msgid ""
+"GBIF also seeks additional funding to support capacity enhancement, such as "
+"through the https://www.gbif.org/programme/82629/[Biodiversity Fund for "
+"Asia] (BIFA) and the https://www.gbif.org/programme/82243/[Biodiversity "
+"Information for Development] (BID) programme. These programmes have support "
+"projects to mobilize biodiversity data and promote the use of accessible "
+"biodiversity data in support of research and decision-making, and provide "
+"training to project teams."
+msgstr ""
+
+#. type: Plain text
+#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:15
 msgid ""
 "GBIF also provides access to *training opportunities* for node managers and "
 "staff. GBIF-related training events are held all over the world and are "
 "displayed on the "
 "https://www.gbif.org/resource/search?contentType=event[events section] of "
 "GBIF.org."
+msgstr ""
+
+#. type: Plain text
+#: 7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc:16
+msgid ""
+"Finally, the GBIF network acts as a community of practice, with many node "
+"managers and their teams volunteering as "
+"https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement "
+"mentors] to support the further development of the global community. New "
+"Participants are invited to contact the GBIF Secretariat for assistance in "
+"identifying mentors to assist with the development of their node, for "
+"example through training events."
 msgstr ""
 
 #. type: Title ===
