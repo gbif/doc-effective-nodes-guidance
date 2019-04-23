@@ -37,21 +37,20 @@ msgstr ""
 msgid "img/Apis-mellifera-thebugroomno2-iNat.jpg"
 msgstr ""
 
-#.  Matt: Added to stop these sections getting heading numbers; I'm not sure what the best approach is.
 #. type: Title ==
-#: README.en.adoc:7
+#: README.en.adoc:5
 #, no-wrap
-msgid "Preface"
+msgid "Front matter"
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:9
+#: README.en.adoc:7
 #, no-wrap
 msgid "Suggested citation"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:11
+#: README.en.adoc:9
 msgid ""
 "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: "
 "Concepts and general "
@@ -59,24 +58,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:12
-#, no-wrap
-msgid "Persistent URI"
-msgstr ""
-
-#. type: Plain text
-#: README.en.adoc:14
-msgid "https://doi.org/10.15468/doc-z79c-sa53"
-msgstr ""
-
-#. type: Title ===
-#: README.en.adoc:15
+#: README.en.adoc:10
 #, no-wrap
 msgid "Contributors"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:17
+#: README.en.adoc:12
 msgid ""
 "Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], "
 "https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and "
@@ -84,13 +72,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:18
+#: README.en.adoc:13
 #, no-wrap
 msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:20
+#: README.en.adoc:15
 msgid ""
 "_Establishing an Effective GBIF Participant Node_ is licensed under "
 "https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 "
@@ -98,18 +86,29 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:21
+#: README.en.adoc:16
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: README.en.adoc:18
+msgid "https://doi.org/10.15468/doc-z79c-sa53"
+msgstr ""
+
+#. type: Title ===
+#: README.en.adoc:19
 #, no-wrap
 msgid "Document Control"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:23
+#: README.en.adoc:21
 msgid "Second (GitHub) edition published, April 2019."
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:25
+#: README.en.adoc:23
 msgid ""
 "https://doi.org/10.15468/doc-z79c-sa53[First edition], March 2015, by "
 "Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
@@ -119,7 +118,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:27
+#: README.en.adoc:25
 msgid ""
 "Originally based on an earlier publication, _Towards establishing a "
 "functional GBIF Participant Node (Part I): definitions and general "
@@ -127,13 +126,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: README.en.adoc:28
+#: README.en.adoc:26
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: README.en.adoc:29
+#: README.en.adoc:27
 msgid ""
 "Western honey bee (_Apis mellifera_), Hardy County, Florida, United "
 "States. Photo 2018 thebugroomno2 via "
