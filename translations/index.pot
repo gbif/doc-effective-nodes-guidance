@@ -1,12 +1,13 @@
-# Establishing an Effective GBIF Participant Node: Concepts and general considerations
-# This file is distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) licence.
-# GBIF Secretariat <nodes@gbif.org>
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-04-23 13:59+0000\n"
+"POT-Creation-Date: 2019-04-25 05:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
