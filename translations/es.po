@@ -1,7 +1,6 @@
-# SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Establishing an Effective GBIF Participant Node: Concepts and general considerations
+# This file is distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) licence.
+# GBIF Secretariat <nodes@gbif.org>
 #
 msgid ""
 msgstr ""
@@ -94,7 +93,7 @@ msgstr "Colaboradores"
 #| "Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://"
 #| "orcid.org/0000-0001-6492-4016[Donald Hobern]"
 msgid ""
-"Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://"
+"Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://"
 "orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and https://orcid."
 "org/0000-0002-2685-8078[Marie Grosjean]"
 msgstr ""
