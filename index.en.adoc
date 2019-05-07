@@ -1,14 +1,9 @@
 = Establishing an Effective GBIF Participant Node: Concepts and general considerations
 GBIF Secretariat <nodes@gbif.org>
-:toc: left
-:toclevels: 3
-:numbered:
-:revnumber: {git-metadata-sha-short}
-:revdate: {localdate}
+:revnumber: {git-metadata-branch}
+:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+:license: https://creativecommons.org/licenses/by/4.0/
 :title-logo-image: img/_src/Apis-mellifera-thebugroomno2-iNat.jpg
-:icons: font
-:pagenums:
-:license: https://creativecommons.org/licenses/by/4.0
 
 ifdef::backend-html5[]
 _languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_
