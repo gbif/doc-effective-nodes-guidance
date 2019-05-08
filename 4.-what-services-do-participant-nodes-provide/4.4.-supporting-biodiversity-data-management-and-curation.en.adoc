@@ -3,8 +3,8 @@
 
 Examples of services include:
 
-* Increasing the quality of available biodiversity data, for example, through the standardization and documentation of existing data sources with metadata
-* Assisting data holders with data management, using appropriate tools and practices, for example, through capacity development programmes focused on biodiversity informatics
+* Increasing the quality of available biodiversity data to meet https://www.gbif.org/data-quality-requirements[GBIF data quality requirements], for example, through the standardization and documentation of existing data sources with metadata
+* Assisting data holders with data management, using appropriate tools and practices, such as the https://www.gbif.org/tools/data-validator[GBIF data validator], and through capacity development programmes focused on biodiversity informatics
 * Acting as a permanent repository for biodiversity data within the Participant’s domain for data holders that do not have the capacity to maintain their own permanent records
-* Providing endorsement of biodiversity data publishers to be added to the GBIF network
+* Providing https://www.gbif.org/endorsement-guidelines[endorsement of biodiversity data publishers] to be added to the GBIF network
 * Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types
