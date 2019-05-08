@@ -44,14 +44,4 @@ include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/
 \\insert inline ref to Box 4 in `600.en.adoc` above\\
 include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-4.-a-participatory-approach-to-establishing-a-participant-node.en.adoc[]
 
-include::7.-further-support-for-establishing-a-participant-node/7.0-introduction.en.adoc[]
-
-include::7.-further-support-for-establishing-a-participant-node/7.1-how-can-i-find-examples-of-participant-nodes.en.adoc[]
-
-include::7.-further-support-for-establishing-a-participant-node/7.2-how-can-the-gbif-participant-node-managers-committee-assist-in-establishing-participant-nodes.en.adoc[]
-
-include::7.-further-support-for-establishing-a-participant-node/7.3-how-does-gbif-support-capacity-enhancement-for-participant-nodes.en.adoc[]
-
-include::7.-further-support-for-establishing-a-participant-node/7.4-what-other-documentation-and-resources-are-available-for-participant-nodes.en.adoc[]
-
-include::7.-further-support-for-establishing-a-participant-node/7.5-contact-for-further-support.en.adoc[]
+include::7.-further-support-for-establishing-a-participant-node/700.en.adoc[]
