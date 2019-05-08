@@ -54,3 +54,8 @@ Finally, the GBIF network acts as a *community of practice*, with many node mana
 === What other documentation and resources are available for Participant nodes?
 
 GBIF maintains a library of freely accessible https://www.gbif.org/resource/search[resources] including tools, presentations, manuals and documentation for anyone to use and download. Many are specifically designed for Participant nodes and can be accessed using the filters available in the resource section of GBIF.org.
+
+[[contact]]
+=== Contact for further support
+
+Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact nodes@gbif.org for further information.
