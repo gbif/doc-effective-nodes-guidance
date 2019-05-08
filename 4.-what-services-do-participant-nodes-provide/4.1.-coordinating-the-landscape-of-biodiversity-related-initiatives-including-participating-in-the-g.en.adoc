@@ -3,7 +3,7 @@
 
 Examples of services include:
 
-* Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], https://www.ipbes.net[IPBES], https://eol.org[Encyclopedia of Life], https://www.biodiversitylibrary.org[Biodiversity Heritage Library] and others, including close liaison or joint working with relevant nodes or focal points for these initiatives
+* Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], https://www.ipbes.net[IPBES], https://iucn.org[IUCN], https://obis.org[OBIS] and others, including close liaison or joint working with relevant nodes or focal points for these initiatives
 * Coordinating communication activities relating to biodiversity information and informatics activities, sharing communications with the wider GBIF community through the Secretariat, and disseminating relevant global information to stakeholder networks within the node’s country or organization
 * Benefiting from and contributing to capacity development activities across the network, such as mentoring, training, sharing of expertise through task groups, participation in collaborative projects, testing and advising on new developments from other Participants and the GBIF Secretariat
 * Taking part in the GBIF Participant Node Managers Committee and regional sub-committees, by providing guidance on and contributing to the implementation of GBIF work programmes in line with Participant priorities
