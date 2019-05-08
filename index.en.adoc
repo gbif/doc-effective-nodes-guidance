@@ -21,9 +21,11 @@ include::2.-what-is-a-gbif-participant-node/README.en.adoc[]
 
 include::2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc[]
 
+include::2.box-200.adoc[]
+
 include::3.-why-are-participant-nodes-needed/README.en.adoc[]
 
-include::3.-why-are-participant-nodes-needed/box-2.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc[]
+include::3.-why-are-participant-nodes-needed/box-3.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc[]
 
 include::4.-what-services-do-participant-nodes-provide/4.0-introduction.en.adoc[]
 
@@ -43,7 +45,7 @@ include::5.-what-do-participant-nodes-need-to-be-effective/5.2-characteristics.e
 
 include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc[]
 
-include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-3.-a-participatory-approach-to-establishing-a-participant-node.en.adoc[]
+include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-4.-a-participatory-approach-to-establishing-a-participant-node.en.adoc[]
 
 include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc[]
 
