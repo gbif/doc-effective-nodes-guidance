@@ -50,3 +50,7 @@ GBIF also provides access to *training opportunities* for node managers and staf
 
 Finally, the GBIF network acts as a *community of practice*, with many node managers and their teams volunteering as https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement mentors] and https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[biodiversity open data ambassadors] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events.
 
+[[other-resources]]
+=== What other documentation and resources are available for Participant nodes?
+
+GBIF maintains a library of freely accessible https://www.gbif.org/resource/search[resources] including tools, presentations, manuals and documentation for anyone to use and download. Many are specifically designed for Participant nodes and can be accessed using the filters available in the resource section of GBIF.org.
