@@ -1,0 +1,5 @@
+[[box-4]]
+.Box 4. A participatory approach to establishing a Participant node
+****
+BOX 4 GOES HERE.
+****

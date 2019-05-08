@@ -1,5 +1,0 @@
-[[box-3]]
-.Box 3. A participatory approach to establishing a Participant node
-****
-BOX 3 GOES HERE.
-****
