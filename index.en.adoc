@@ -39,13 +39,10 @@ include::4.-what-services-do-participant-nodes-provide/4.4.-supporting-biodivers
 
 include::5.-what-do-participant-nodes-need-to-be-effective/500.en.adoc[]
 
-include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/README.en.adoc[]
+include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/600.en.adoc[]
 
+\\insert inline ref to Box 4 in `600.en.adoc` above\\
 include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-4.-a-participatory-approach-to-establishing-a-participant-node.en.adoc[]
-
-include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node/README.en.adoc[]
-
-include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.2-what-are-the-recommendations-on-the-staff-roles-within-nodes.en.adoc[]
 
 include::7.-further-support-for-establishing-a-participant-node/7.0-introduction.en.adoc[]
 
