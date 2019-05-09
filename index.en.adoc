@@ -29,19 +29,14 @@ include::305-box.en.adoc[]
 
 include::400.en.adoc[]
 
-include::410.en.adoc[]
-
-include::420.en.adoc[]
-
-include::430.en.adoc[]
-
-include::440.en.adoc[]
-
 include::500.en.adoc[]
 
 include::600.en.adoc[]
 
-// move inline ref to Box 4 in `600.en.adoc` above
 include::605-box.en.adoc[]
 
+include::610-box.en.adoc[]
+
 include::700.en.adoc[]
+
+include::705-box.en.adoc[]
