@@ -2,4 +2,4 @@
 
 This example assumes that the administrative roles are covered by the host institution.
 
-//insert image//
+// insert image and make image text available for translation/language versioning //
