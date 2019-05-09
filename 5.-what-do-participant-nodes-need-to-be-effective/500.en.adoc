@@ -4,7 +4,7 @@
 [[basic-requirements]]
 === Basic requirements
 
-The capacities required by Participant nodes can be broadly divided into two categories (see the http://links.gbif.org/cef/[GBIF capacity enhancement framework]):
+The capacities required by Participant nodes can be broadly divided into two categories (see the https://www.gbif.org/document/80954/[GBIF capacity enhancement framework]):
 
 * *Functional capacities*: relating to organizational and institutional effectiveness
 * *Technical capacities*: the specific skills, knowledge and competencies that Participants need to mobilize, manage and use biodiversity data
