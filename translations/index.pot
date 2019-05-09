@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-09 10:36+0000\n"
+"POT-Creation-Date: 2019-05-09 10:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2189,16 +2189,22 @@ msgid "BOX 4 GOES HERE."
 msgstr ""
 
 #. type: Title ===
-#: 610-box.en.adoc:1
+#: 610-box.en.adoc:2
 #, no-wrap
 msgid "Box 5: Example of staff roles for a Participant node"
 msgstr ""
 
 #. type: delimited block *
-#: 610-box.en.adoc:5
+#: 610-box.en.adoc:6
 msgid ""
 "This example assumes that the administrative roles are covered by the host "
 "institution."
+msgstr ""
+
+#. type: Target for macro image
+#: 610-box.en.adoc:7
+#, no-wrap
+msgid "img/example-of-staff-roles-participant-node.en.svg"
 msgstr ""
 
 #.  insert image and make image text available for translation/language versioning //
