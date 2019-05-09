@@ -11,6 +11,7 @@
 *Participant node*: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.
 ****
 
+****
 [discrete]
 ==== Key Roles
 
