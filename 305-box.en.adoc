@@ -1,5 +1,5 @@
 [[box-3]]
-.Box 3. Stakeholders involved in GBIF activities at the Participant level
+=== Box 3. Stakeholders involved in GBIF activities at the Participant level
 ****
 The https://www.gbif.org/document/80926[GBIF communication strategy] identifies six audiences that represent different groups of stakeholders involved in GBIF activities. While there is some overlap between these groups, each has separate interests and roles to play in contributing to GBIF’s vision. A summary is presented here.
 
