@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-09 08:48+0000\n"
+"POT-Creation-Date: 2019-05-09 09:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -409,21 +409,21 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: 205-box.en.adoc:14
+#: 205-box.en.adoc:15
 #, no-wrap
 msgid "Key Roles"
 msgstr ""
 
-#. type: delimited block *
-#: 205-box.en.adoc:17
+#. type: Plain text
+#: 205-box.en.adoc:18
 #, no-wrap
 msgid ""
 "*Delegation*: the team of people nominated by Participants to represent them "
 "in GBIF decision making, under the leadership of the Head of Delegation.\n"
 msgstr ""
 
-#. type: delimited block *
-#: 205-box.en.adoc:19
+#. type: Plain text
+#: 205-box.en.adoc:20
 #, no-wrap
 msgid ""
 "*Head of Delegation*: the person designated by the Participant to act as its "
@@ -431,16 +431,16 @@ msgid ""
 "and take part in the global-level decision making.\n"
 msgstr ""
 
-#. type: delimited block *
-#: 205-box.en.adoc:21
+#. type: Plain text
+#: 205-box.en.adoc:22
 #, no-wrap
 msgid ""
 "*Node manager*: the person designated by the Participant to manage the "
 "activities of the node to coordinate a biodiversity information facility.\n"
 msgstr ""
 
-#. type: delimited block *
-#: 205-box.en.adoc:23
+#. type: Plain text
+#: 205-box.en.adoc:24
 #, no-wrap
 msgid ""
 "*Node staff*: the team of people working in a Participant node. They are "
@@ -448,8 +448,8 @@ msgid ""
 "or technical development.\n"
 msgstr ""
 
-#. type: delimited block *
-#: 205-box.en.adoc:25
+#. type: Plain text
+#: 205-box.en.adoc:26
 #, no-wrap
 msgid ""
 "*Biodiversity information facility stakeholders*: any person from within a "
