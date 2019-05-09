@@ -11,37 +11,37 @@ endif::backend-html5[]
 
 :sectnums!:
 
-include::README.en.adoc[]
+include::000.en.adoc[]
 
 :sectnums:
 
-include::1-introduction.en.adoc[]
+include::100.en.adoc[]
 
-include::2.-what-is-a-gbif-participant-node/README.en.adoc[]
+include::200.en.adoc[]
 
-include::2.-what-is-a-gbif-participant-node/box-1.-definitions-of-key-structures-and-roles-in-the-gbif-network-at-the-level-of-participant-count.en.adoc[]
+include::205-box.en.adoc[]
 
-include::2.box-200.adoc[]
+include::210-box.en.adoc[]
 
-include::3.-why-are-participant-nodes-needed/README.en.adoc[]
+include::300.en.adoc[]
 
-include::3.-why-are-participant-nodes-needed/box-3.-stakeholders-involved-in-gbif-activities-at-the-participant-level.en.adoc[]
+include::305-box.en.adoc[]
 
-include::4.-what-services-do-participant-nodes-provide/4.0-introduction.en.adoc[]
+include::400.en.adoc[]
 
-include::4.-what-services-do-participant-nodes-provide/4.1.-coordinating-the-landscape-of-biodiversity-related-initiatives-including-participating-in-the-g.en.adoc[]
+include::410.en.adoc[]
 
-include::4.-what-services-do-participant-nodes-provide/4.2-supporting-biodiversity-data-mobilization.en.adoc[]
+include::420.en.adoc[]
 
-include::4.-what-services-do-participant-nodes-provide/4.3.-supporting-biodiversity-data-analysis-and-use.en.adoc[]
+include::430.en.adoc[]
 
-include::4.-what-services-do-participant-nodes-provide/4.4.-supporting-biodiversity-data-management-and-curation.en.adoc[]
+include::440.en.adoc[]
 
-include::5.-what-do-participant-nodes-need-to-be-effective/500.en.adoc[]
+include::500.en.adoc[]
 
-include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/600.en.adoc[]
+include::600.en.adoc[]
 
-\\insert inline ref to Box 4 in `600.en.adoc` above\\
-include::6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.0-introduction/box-4.-a-participatory-approach-to-establishing-a-participant-node.en.adoc[]
+// move inline ref to Box 4 in `600.en.adoc` above
+include::605-box.en.adoc[]
 
-include::7.-further-support-for-establishing-a-participant-node/700.en.adoc[]
+include::700.en.adoc[]
