@@ -1,7 +1,10 @@
+[[box-example-staff-roles]]
 === Box 5: Example of staff roles for a Participant node
 ****
 [discrete]
 This example assumes that the administrative roles are covered by the host institution.
+
+image::img/example-of-staff-roles-participant-node.en.svg[]
 
 // insert image and make image text available for translation/language versioning //
 ****
