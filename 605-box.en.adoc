@@ -1,5 +1,6 @@
 [[box-4]]
-.Box 4. A participatory approach to establishing a Participant node
+=== Box 4. A participatory approach to establishing a Participant node
 ****
+[discrete]
 BOX 4 GOES HERE.
 ****
