@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-09 07:14+0000\n"
+"POT-Creation-Date: 2019-05-09 07:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -871,7 +871,7 @@ msgid "What services do Participant nodes provide?"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:3
+#: 400.en.adoc:4
 msgid ""
 "The specific responsibilities and services provided by each node vary "
 "considerably, depending in part on the Participant’s priorities for joining "
@@ -882,7 +882,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 410.en.adoc:2
+#: 400.en.adoc:6
 #, no-wrap
 msgid ""
 "Coordinating the landscape of biodiversity-related initiatives including "
@@ -890,12 +890,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 410.en.adoc:5 420.en.adoc:5 430.en.adoc:5 440.en.adoc:5
+#: 400.en.adoc:9 400.en.adoc:20 400.en.adoc:33 400.en.adoc:47
 msgid "Examples of services include:"
 msgstr ""
 
 #. type: Plain text
-#: 410.en.adoc:7
+#: 400.en.adoc:11
 msgid ""
 "Promoting synergies with national and regional activities involving other "
 "global biodiversity initiatives, such as the "
@@ -906,7 +906,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 410.en.adoc:8
+#: 400.en.adoc:12
 msgid ""
 "Coordinating communication activities relating to biodiversity information "
 "and informatics activities, sharing communications with the wider GBIF "
@@ -916,7 +916,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 410.en.adoc:9
+#: 400.en.adoc:13
 msgid ""
 "Benefiting from and contributing to capacity development activities across "
 "the network, such as mentoring, training, sharing of expertise through task "
@@ -925,7 +925,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 410.en.adoc:10
+#: 400.en.adoc:14
 msgid ""
 "Taking part in the GBIF Participant Node Managers Committee and regional "
 "sub-committees, by providing guidance on and contributing to the "
@@ -933,34 +933,34 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 410.en.adoc:10
+#: 400.en.adoc:15
 msgid ""
 "Promoting the expansion of GBIF participation to other countries and "
 "organizations"
 msgstr ""
 
 #. type: Title ===
-#: 420.en.adoc:2
+#: 400.en.adoc:17
 #, no-wrap
 msgid "Supporting biodiversity data mobilization"
 msgstr ""
 
 #. type: Plain text
-#: 420.en.adoc:7
+#: 400.en.adoc:22
 msgid ""
 "Organizing biodiversity data within the Participant’s domain to ensure open "
 "access to all digitally available biodiversity data"
 msgstr ""
 
 #. type: Plain text
-#: 420.en.adoc:8
+#: 400.en.adoc:23
 msgid ""
 "Promoting and coordinating national investment in the digitization and "
 "mobilization of biodiversity information"
 msgstr ""
 
 #. type: Plain text
-#: 420.en.adoc:9
+#: 400.en.adoc:24
 msgid ""
 "Providing a technical infrastructure and support to enable biodiversity data "
 "to be published on the Internet and through the GBIF network (including "
@@ -969,7 +969,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 420.en.adoc:10
+#: 400.en.adoc:25
 msgid ""
 "Promoting the benefits of data publishing, for example, through the use of "
 "https://www.gbif.org/data-papers[data papers] as a mechanism to gain "
@@ -977,14 +977,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 420.en.adoc:11
+#: 400.en.adoc:26
 msgid ""
 "Developing a culture of open access and supporting open data requirements "
 "mandated, for example, through grant conditions"
 msgstr ""
 
 #. type: Plain text
-#: 420.en.adoc:12
+#: 400.en.adoc:27
 msgid ""
 "Maintaining a collaborative framework between data holders and users, for "
 "example, through data sharing agreements that enable data sharing to occur "
@@ -992,20 +992,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 420.en.adoc:12
+#: 400.en.adoc:28
 msgid ""
 "Promoting public engagement in biodiversity issues, for example, by "
 "supporting citizen science initiatives that mobilize observational data"
 msgstr ""
 
 #. type: Title ===
-#: 430.en.adoc:2
+#: 400.en.adoc:30
 #, no-wrap
 msgid "Supporting biodiversity data analysis and use"
 msgstr ""
 
 #. type: Plain text
-#: 430.en.adoc:7
+#: 400.en.adoc:35
 msgid ""
 "Facilitating access to biodiversity data by promoting the use of the GBIF "
 "infrastructure and/or by maintaining a national or thematic biodiversity "
@@ -1013,7 +1013,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 430.en.adoc:8
+#: 400.en.adoc:36
 msgid ""
 "Promoting the use of correct "
 "https://www.gbif.org/citation-guidelines[citation practices] for data "
@@ -1021,19 +1021,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 430.en.adoc:9
+#: 400.en.adoc:37
 msgid "Acting as a reference institution for biodiversity information"
 msgstr ""
 
 #. type: Plain text
-#: 430.en.adoc:10
+#: 400.en.adoc:38
 msgid ""
 "Providing support for biodiversity research, through evaluation of data "
 "needs and data gaps"
 msgstr ""
 
 #. type: Plain text
-#: 430.en.adoc:11
+#: 400.en.adoc:39
 msgid ""
 "Encouraging interdisciplinary cooperation between scientists, by sharing "
 "https://www.gbif.org/resource/search?contentType=dataUse[relevant examples "
@@ -1041,7 +1041,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 430.en.adoc:12
+#: 400.en.adoc:40
 msgid ""
 "Providing support for the compilation, maintenance and publishing of "
 "national, sub-national and thematic species inventories and checklists, and "
@@ -1050,7 +1050,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 430.en.adoc:13
+#: 400.en.adoc:41
 msgid ""
 "Providing support for policy by, for example, offering advice on the "
 "designation of biodiversity research priorities, and helping to mainstream "
@@ -1059,7 +1059,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 430.en.adoc:13
+#: 400.en.adoc:42
 msgid ""
 "Providing support for national reporting on biodiversity, for example under "
 "the Convention on Biological Diversity and other multilateral "
@@ -1067,13 +1067,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 440.en.adoc:2
+#: 400.en.adoc:44
 #, no-wrap
 msgid "Supporting biodiversity data management and curation"
 msgstr ""
 
 #. type: Plain text
-#: 440.en.adoc:7
+#: 400.en.adoc:49
 msgid ""
 "Increasing the quality of available biodiversity data to meet "
 "https://www.gbif.org/data-quality-requirements[GBIF data quality "
@@ -1082,7 +1082,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 440.en.adoc:8
+#: 400.en.adoc:50
 msgid ""
 "Assisting data holders with data management, using appropriate tools and "
 "practices, such as the https://www.gbif.org/tools/data-validator[GBIF data "
@@ -1091,7 +1091,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 440.en.adoc:9
+#: 400.en.adoc:51
 msgid ""
 "Acting as a permanent repository for biodiversity data within the "
 "Participant’s domain for data holders that do not have the capacity to "
@@ -1099,14 +1099,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 440.en.adoc:10
+#: 400.en.adoc:52
 msgid ""
 "Providing https://www.gbif.org/endorsement-guidelines[endorsement of "
 "biodiversity data publishers] to be added to the GBIF network"
 msgstr ""
 
 #. type: Plain text
-#: 440.en.adoc:10
+#: 400.en.adoc:52
 msgid ""
 "Coordinating with other biodiversity-related initiatives to ensure maximum "
 "interoperability across biodiversity data types"
@@ -2111,8 +2111,8 @@ msgstr ""
 msgid "Example of staff roles for a Participant node"
 msgstr ""
 
-#. type: delimited block *
-#: 600.en.adoc:170
+#. type: Plain text
+#: 600.en.adoc:170 610-box.en.adoc:4
 msgid ""
 "This example assumes that the administrative roles are covered by the host "
 "institution."
@@ -2207,6 +2207,13 @@ msgstr ""
 msgid "BOX 4 GOES HERE."
 msgstr ""
 
+#. type: Title ==
+#: 610-box.en.adoc:1
+#, no-wrap
+msgid "Box 5: Example of staff roles for a Participant node"
+msgstr ""
+
+#.  insert image and make image text available for translation/language versioning //
 #. type: Title ==
 #: 700.en.adoc:2
 #, no-wrap
@@ -2493,4 +2500,9 @@ msgid ""
 "Staff from the GBIF Secretariat are available to provide guidance and "
 "assistance to Participant nodes. Please contact nodes@gbif.org for further "
 "information."
+msgstr ""
+
+#. type: Plain text
+#: 705-box.en.adoc:2
+msgid "Box 6. GBIF’s capacity enhancement approach"
 msgstr ""
