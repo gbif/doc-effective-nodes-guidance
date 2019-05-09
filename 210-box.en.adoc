@@ -1,5 +1,5 @@
 [[box-2]]
-.Box 2. GBIF Head of Delegation and Node Manager: roles and responsibilities
+=== Box 2. GBIF Head of Delegation and Node Manager: roles and responsibilities
 ****
 [discrete]
 ==== Head of Delegation
