@@ -1,8 +1,8 @@
 [[box-1]]
-.Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant country
+== .Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant country
 ****
 [discrete]
-==== Key Structures
+=== Key Structures
 
 *Participant*: a country, economy or organization that joins GBIF by signing a https://www.gbif.org/document/80661[Memorandum of Understanding] and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. 
 
@@ -11,7 +11,7 @@
 *Participant node*: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.
 
 [discrete]
-==== Key Roles
+=== Key Roles
 
 *Delegation*: the team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation.
 
