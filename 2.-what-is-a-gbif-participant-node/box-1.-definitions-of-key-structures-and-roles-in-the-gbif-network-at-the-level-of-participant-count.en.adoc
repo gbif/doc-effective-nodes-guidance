@@ -1,5 +1,5 @@
 [[box-1]]
-.Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant count
+.Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant country
 ****
 [discrete]
 ==== Key Structures
