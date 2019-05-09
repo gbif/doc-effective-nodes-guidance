@@ -19,13 +19,21 @@ include::100.en.adoc[]
 
 include::200.en.adoc[]
 
+:sectnums!:
+
 include::205-box.en.adoc[]
 
 include::210-box.en.adoc[]
 
+:sectnums:
+
 include::300.en.adoc[]
 
+:sectnums!:
+
 include::305-box.en.adoc[]
+
+:sectnums:
 
 include::400.en.adoc[]
 
@@ -33,10 +41,16 @@ include::500.en.adoc[]
 
 include::600.en.adoc[]
 
+:sectnums!:
+
 include::605-box.en.adoc[]
 
 include::610-box.en.adoc[]
 
+:sectnums:
+
 include::700.en.adoc[]
+
+:sectnums!:
 
 include::705-box.en.adoc[]
