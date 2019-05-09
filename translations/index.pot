@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-09 07:57+0000\n"
+"POT-Creation-Date: 2019-05-09 08:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -363,7 +363,7 @@ msgid ""
 "biodiversity data portal and online tools for data analysis."
 msgstr ""
 
-#. type: Block title
+#. type: Title ===
 #: 205-box.en.adoc:2
 #, no-wrap
 msgid ""
@@ -460,7 +460,7 @@ msgid ""
 "policymakers involved in the development of data policies.\n"
 msgstr ""
 
-#. type: Block title
+#. type: Title ===
 #: 210-box.en.adoc:2
 #, no-wrap
 msgid "Box 2. GBIF Head of Delegation and Node Manager: roles and responsibilities"
@@ -701,7 +701,7 @@ msgid ""
 "their own biodiversity data-related goals and targets."
 msgstr ""
 
-#. type: Block title
+#. type: Title ===
 #: 305-box.en.adoc:2
 #, no-wrap
 msgid "Box 3. Stakeholders involved in GBIF activities at the Participant level"
