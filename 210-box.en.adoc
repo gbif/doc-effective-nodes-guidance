@@ -16,7 +16,10 @@ The specific responsibilities of the HoD include:
 * Within the country or organization of the Participant, leading the strategic direction of GBIF participation, including oversight of the Participant node and ensuring it has adequate mandate and resourcing to carry out its core functions.
 * For country Participants, maintaining good communications with appropriate government departments and agencies, including national focal points from other international biodiversity-related initiatives, to ensure the activities and benefits of GBIF are well understood and supported within governments and in intergovernmental fora.
 * For Voting Participants, working with relevant authorities within government departments or funding agencies, in collaboration with the Secretariat, to ensure that the financial contribution is paid in full and on time, in order to qualify the country for voting rights; and helping to address any issues related to payment of the contribution.
+****
 
+****
+[discrete]
 ==== Node Manager
 
 After joining GBIF, Participants are also encouraged as soon as possible to appoint a Node Manager, to lead the operational activities of the country or organization in coordinating the mobilization and use of open-access biodiversity data. Detailed guidance is available in this document, but in summary the responsibilities of the Node Manager include:
@@ -26,3 +29,5 @@ After joining GBIF, Participants are also encouraged as soon as possible to appo
 * As a member of the GBIF Nodes Committee, attending global nodes meetings (held every two years) and regional nodes meetings (held either annually or every two years) as well as technical workshops and training events.
 * Paying close attention to communications from the GBIF Secretariat, including webinars and newsletters, on technical developments and opportunities such as capacity enhancement support calls, and keeping the Secretariat informed about node activities that may be of interest to the wider community
 * Establishing a close working relationship with the HoD to ensure he/she is well informed about the needs and performance of the node, and ideally attending Governing Board meetings as an additional delegate
+
+****
