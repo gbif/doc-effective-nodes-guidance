@@ -162,11 +162,3 @@ To cover the main functions listed above (assuming administrative support is pro
 * A person with a scientific background, knowledge of the relevant research communities, and the ability to motivate and communicate with data holders, data users and those engaged in policy development
 * A person with a background in biodiversity informatics, skills in data management, and the ability to provide technical assistance to data holders and data users while maintaining databases
 * A person with an informatics background, able to develop and maintain an informatics infrastructure to enable biodiversity data publishing and support access to biodiversity data, for example, through a national data portal.
-
-[[box-example-staff-roles]]
-.Example of staff roles for a Participant node
-****
-This example assumes that the administrative roles are covered by the host institution.
-
-image::img/example-of-staff-roles-participant-node.en.svg[]
-****
