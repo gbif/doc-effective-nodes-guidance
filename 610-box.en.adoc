@@ -1,0 +1,5 @@
+== Box 5: Example of staff roles for a Participant node
+
+This example assumes that the administrative roles are covered by the host institution.
+
+//insert image//
