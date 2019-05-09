@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-09 10:25+0000\n"
+"POT-Creation-Date: 2019-05-09 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2111,8 +2111,8 @@ msgstr ""
 msgid "Example of staff roles for a Participant node"
 msgstr ""
 
-#. type: Plain text
-#: 600.en.adoc:170 610-box.en.adoc:4
+#. type: delimited block *
+#: 600.en.adoc:170 610-box.en.adoc:5
 msgid ""
 "This example assumes that the administrative roles are covered by the host "
 "institution."
@@ -2196,18 +2196,18 @@ msgstr ""
 msgid "e.g. national data portal"
 msgstr ""
 
-#. type: Block title
+#. type: Title ===
 #: 605-box.en.adoc:2
 #, no-wrap
 msgid "Box 4. A participatory approach to establishing a Participant node"
 msgstr ""
 
 #. type: delimited block *
-#: 605-box.en.adoc:5
+#: 605-box.en.adoc:6
 msgid "BOX 4 GOES HERE."
 msgstr ""
 
-#. type: Title ==
+#. type: Title ===
 #: 610-box.en.adoc:1
 #, no-wrap
 msgid "Box 5: Example of staff roles for a Participant node"
