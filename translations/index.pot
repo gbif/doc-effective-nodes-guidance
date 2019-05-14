@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-14 10:38+0000\n"
+"POT-Creation-Date: 2019-05-14 12:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2185,7 +2185,7 @@ msgstr ""
 
 #. type: delimited block *
 #: 605-box.en.adoc:6
-msgid "BOX 4 GOES HERE."
+msgid "<<box-4.png>>"
 msgstr ""
 
 #. type: Title ===
