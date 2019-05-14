@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-10 12:01+0000\n"
+"POT-Creation-Date: 2019-05-14 10:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2300,9 +2300,10 @@ msgstr ""
 #. type: Plain text
 #: 700.en.adoc:22
 msgid ""
-"Participant nodes are encouraged to share guiding examples with the "
-"community, documenting their success stories that others can learn from in "
-"establishing or developing their nodes."
+"Participant nodes are encouraged to share "
+"https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding "
+"examples] with the community, documenting their success stories that others "
+"can learn from in establishing or developing their nodes."
 msgstr ""
 
 #. type: Plain text
