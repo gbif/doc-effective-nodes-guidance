@@ -18,7 +18,7 @@ The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a s
 
 https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website.
 
-Participant nodes are encouraged to share guiding examples with the community, documenting their success stories that others can learn from in establishing or developing their nodes.
+Participant nodes are encouraged to share https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding examples] with the community, documenting their success stories that others can learn from in establishing or developing their nodes.
 
 Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members directly for advice in establishing a node.
 
