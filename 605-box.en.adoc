@@ -2,5 +2,6 @@
 === Box 4. A participatory approach to establishing a Participant node
 ****
 [discrete]
-BOX 4 GOES HERE.
+
+image::img/box-4.png[]
 ****
