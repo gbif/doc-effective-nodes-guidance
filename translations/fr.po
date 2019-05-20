@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2019-05-14 13:49+0000\n"
-"PO-Revision-Date: 2019-05-20 12:45\n"
+"PO-Revision-Date: 2019-05-20 13:07\n"
 "Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -24,7 +24,7 @@ msgstr "Mise en place d’un point nodal efficace : concepts et considérations 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <nodes@gbif.org>"
-msgstr ""
+msgstr "Secrétariat GBIF <nodes@gbif.org>"
 
 #. type: Plain text
 #: index.en.adoc:10
@@ -35,13 +35,13 @@ msgstr "_languageLinks:pdf[Ce document est également disponible en,format PDF] 
 #: 000.en.adoc:2
 #, no-wrap
 msgid "img/Apis-mellifera-thebugroomno2-iNat.jpg"
-msgstr ""
+msgstr "img/Apis-mellifera-thebugroomno2-iNat.jpg"
 
 #. type: Title ==
 #: 000.en.adoc:5
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colophon"
 
 #. type: Title ===
 #: 000.en.adoc:7
@@ -52,7 +52,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: 000.en.adoc:9
 msgid "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
-msgstr ""
+msgstr "Secrétariat du GBIF 2019. Mise en place d’un point nodal efficace : concepts et considérations générales. Copenhague. https://doi.org/10.15468/doc.fm4b-6q42."
 
 #. type: Title ===
 #: 000.en.adoc:10
@@ -63,13 +63,13 @@ msgstr "Contributeurs"
 #. type: Plain text
 #: 000.en.adoc:12
 msgid "Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
-msgstr ""
+msgstr "Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn et https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
 
 #. type: Title ===
 #: 000.en.adoc:13
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licence"
 
 #. type: Plain text
 #: 000.en.adoc:15
@@ -85,7 +85,7 @@ msgstr "URI permanent"
 #. type: Plain text
 #: 000.en.adoc:18
 msgid "https://doi.org/10.15468/doc-z79c-sa53"
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-z79c-sa53"
 
 #. type: Title ===
 #: 000.en.adoc:19
@@ -96,7 +96,7 @@ msgstr "Contrôle du document"
 #. type: Plain text
 #: 000.en.adoc:21
 msgid "Second (GitHub) edition published, April 2019."
-msgstr ""
+msgstr "Deuxième (GitHub) édition publiée, avril 2019."
 
 #. type: Plain text
 #: 000.en.adoc:23
@@ -241,7 +241,7 @@ msgstr ""
 #: 205-box.en.adoc:2
 #, no-wrap
 msgid "Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant country"
-msgstr ""
+msgstr "Encadré 1. Définitions des structures et des rôles fondamentaux du réseau GBIF au niveau des organisations, des économies et des pays Participants"
 
 #. type: Title ====
 #: 205-box.en.adoc:5
@@ -369,7 +369,7 @@ msgstr ""
 #: 210-box.en.adoc:23
 #, no-wrap
 msgid "Node Manager"
-msgstr ""
+msgstr "Gestionnaire de nodal"
 
 #. type: delimited block *
 #: 210-box.en.adoc:26
@@ -425,7 +425,7 @@ msgstr ""
 #. type: Plain text
 #: 300.en.adoc:11
 msgid "Nodes play a role in coordinating the broad landscape of biodiversity informatics initiatives by engaging new communities and making international connections through GBIF. This coordination helps to create strong *partnerships and alignment of efforts*, complementing other biodiversity-related initiatives by providing the data foundations and infrastructure for a wide range of applications."
-msgstr ""
+msgstr "Les points nodaux jouent un rôle important pour promouvoir les pratiques de gestion de données et encourager la communauté des détenteurs de connaissances sur la biodiversité à mettre en commun leur expertise. Ce travail peut ensuite permettre d’améliorer continuellement la qualité et l’aptitude à l’emploi des données sur la biodiversité, et de fournir une plateforme pour la taxonomie et la gestion collaborative des collections."
 
 #. type: Plain text
 #: 300.en.adoc:13
