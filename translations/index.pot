@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-05-14 13:49+0000\n"
+"POT-Creation-Date: 2019-05-20 15:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -270,7 +270,7 @@ msgstr ""
 #: 200.en.adoc:13
 msgid ""
 "Participant nodes typically have four main functions (see also "
-"<<introduction4,Section 4>>):"
+"<<node-services>>):"
 msgstr ""
 
 #. type: Plain text
@@ -865,13 +865,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: 400.en.adoc:1
+#: 400.en.adoc:2
 #, no-wrap
 msgid "What services do Participant nodes provide?"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:4
+#: 400.en.adoc:5
 msgid ""
 "The specific responsibilities and services provided by each node vary "
 "considerably, depending in part on the Participant’s priorities for joining "
@@ -882,7 +882,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:6
+#: 400.en.adoc:7
 #, no-wrap
 msgid ""
 "Coordinating the landscape of biodiversity-related initiatives including "
@@ -890,12 +890,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:9 400.en.adoc:20 400.en.adoc:33 400.en.adoc:47
+#: 400.en.adoc:10 400.en.adoc:21 400.en.adoc:34 400.en.adoc:48
 msgid "Examples of services include:"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:11
+#: 400.en.adoc:12
 msgid ""
 "Promoting synergies with national and regional activities involving other "
 "global biodiversity initiatives, such as the "
@@ -906,7 +906,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:12
+#: 400.en.adoc:13
 msgid ""
 "Coordinating communication activities relating to biodiversity information "
 "and informatics activities, sharing communications with the wider GBIF "
@@ -916,7 +916,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:13
+#: 400.en.adoc:14
 msgid ""
 "Benefiting from and contributing to capacity development activities across "
 "the network, such as mentoring, training, sharing of expertise through task "
@@ -925,7 +925,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:14
+#: 400.en.adoc:15
 msgid ""
 "Taking part in the GBIF Participant Node Managers Committee and regional "
 "sub-committees, by providing guidance on and contributing to the "
@@ -933,34 +933,34 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:15
+#: 400.en.adoc:16
 msgid ""
 "Promoting the expansion of GBIF participation to other countries and "
 "organizations"
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:17
+#: 400.en.adoc:18
 #, no-wrap
 msgid "Supporting biodiversity data mobilization"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:22
+#: 400.en.adoc:23
 msgid ""
 "Organizing biodiversity data within the Participant’s domain to ensure open "
 "access to all digitally available biodiversity data"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:23
+#: 400.en.adoc:24
 msgid ""
 "Promoting and coordinating national investment in the digitization and "
 "mobilization of biodiversity information"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:24
+#: 400.en.adoc:25
 msgid ""
 "Providing a technical infrastructure and support to enable biodiversity data "
 "to be published on the Internet and through the GBIF network (including "
@@ -969,7 +969,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:25
+#: 400.en.adoc:26
 msgid ""
 "Promoting the benefits of data publishing, for example, through the use of "
 "https://www.gbif.org/data-papers[data papers] as a mechanism to gain "
@@ -977,14 +977,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:26
+#: 400.en.adoc:27
 msgid ""
 "Developing a culture of open access and supporting open data requirements "
 "mandated, for example, through grant conditions"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:27
+#: 400.en.adoc:28
 msgid ""
 "Maintaining a collaborative framework between data holders and users, for "
 "example, through data sharing agreements that enable data sharing to occur "
@@ -992,20 +992,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:28
+#: 400.en.adoc:29
 msgid ""
 "Promoting public engagement in biodiversity issues, for example, by "
 "supporting citizen science initiatives that mobilize observational data"
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:30
+#: 400.en.adoc:31
 #, no-wrap
 msgid "Supporting biodiversity data analysis and use"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:35
+#: 400.en.adoc:36
 msgid ""
 "Facilitating access to biodiversity data by promoting the use of the GBIF "
 "infrastructure and/or by maintaining a national or thematic biodiversity "
@@ -1013,7 +1013,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:36
+#: 400.en.adoc:37
 msgid ""
 "Promoting the use of correct "
 "https://www.gbif.org/citation-guidelines[citation practices] for data "
@@ -1021,19 +1021,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:37
+#: 400.en.adoc:38
 msgid "Acting as a reference institution for biodiversity information"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:38
+#: 400.en.adoc:39
 msgid ""
 "Providing support for biodiversity research, through evaluation of data "
 "needs and data gaps"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:39
+#: 400.en.adoc:40
 msgid ""
 "Encouraging interdisciplinary cooperation between scientists, by sharing "
 "https://www.gbif.org/resource/search?contentType=dataUse[relevant examples "
@@ -1041,7 +1041,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:40
+#: 400.en.adoc:41
 msgid ""
 "Providing support for the compilation, maintenance and publishing of "
 "national, sub-national and thematic species inventories and checklists, and "
@@ -1050,7 +1050,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:41
+#: 400.en.adoc:42
 msgid ""
 "Providing support for policy by, for example, offering advice on the "
 "designation of biodiversity research priorities, and helping to mainstream "
@@ -1059,7 +1059,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:42
+#: 400.en.adoc:43
 msgid ""
 "Providing support for national reporting on biodiversity, for example under "
 "the Convention on Biological Diversity and other multilateral "
@@ -1067,13 +1067,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:44
+#: 400.en.adoc:45
 #, no-wrap
 msgid "Supporting biodiversity data management and curation"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:49
+#: 400.en.adoc:50
 msgid ""
 "Increasing the quality of available biodiversity data to meet "
 "https://www.gbif.org/data-quality-requirements[GBIF data quality "
@@ -1082,7 +1082,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:50
+#: 400.en.adoc:51
 msgid ""
 "Assisting data holders with data management, using appropriate tools and "
 "practices, such as the https://www.gbif.org/tools/data-validator[GBIF data "
@@ -1091,7 +1091,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:51
+#: 400.en.adoc:52
 msgid ""
 "Acting as a permanent repository for biodiversity data within the "
 "Participant’s domain for data holders that do not have the capacity to "
@@ -1099,14 +1099,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:52
+#: 400.en.adoc:53
 msgid ""
 "Providing https://www.gbif.org/endorsement-guidelines[endorsement of "
 "biodiversity data publishers] to be added to the GBIF network"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:52
+#: 400.en.adoc:53
 msgid ""
 "Coordinating with other biodiversity-related initiatives to ensure maximum "
 "interoperability across biodiversity data types"
@@ -1224,12 +1224,12 @@ msgid ""
 "defined and agreed to by the relevant stakeholders and partners within the "
 "Participant’s domain. This framework should ensure that the node has a "
 "well-defined role within the landscape of biodiversity-related institutions, "
-"based on strong partnerships and complementary services \\(see section "
-"6.1\\). It should include community norms and relevant formal agreements "
-"around data publishing and data access. It should also ensure that the node "
-"recognizes and values its constituent organizations and individuals that "
-"contribute to and use its services, in order to build good relationships "
-"with them.  \n"
+"based on strong partnerships and complementary services (see "
+"<<node-location-selection>>). It should include community norms and relevant "
+"formal agreements around data publishing and data access. It should also "
+"ensure that the node recognizes and values its constituent organizations and "
+"individuals that contribute to and use its services, in order to build good "
+"relationships with them.  \n"
 msgstr ""
 
 #. type: Plain text
@@ -1264,9 +1264,9 @@ msgstr ""
 #, no-wrap
 msgid ""
 "*Dedicated staff members* to implement the node’s mandate and work plans "
-"(see section 6.2). The node team will require a broad range of skills, "
-"ranging from biodiversity informatics to network coordination and supported "
-"by appropriate training.  \n"
+"(see <<node-staff-roles>>). The node team will require a broad range of "
+"skills, ranging from biodiversity informatics to network coordination and "
+"supported by appropriate training.  \n"
 msgstr ""
 
 #. type: Plain text
@@ -1407,7 +1407,8 @@ msgid ""
 "programme] that provides co-funding each year to support such projects. Less "
 "formal exchanges of ideas and experiences, for example, through regional "
 "meetings of GBIF nodes, also offer valuable opportunities to help nodes "
-"develop the basic capacity requirements. See section 7 for more detail."
+"develop the basic capacity requirements. See <<further-support>> for more "
+"detail."
 msgstr ""
 
 #. type: Title ====
@@ -1444,8 +1445,8 @@ msgid ""
 "enhancement support programme] that provides co-funding each year to support "
 "such projects. Less formal exchanges of ideas and experiences, for example, "
 "through regional meetings of GBIF nodes, also offer valuable opportunities "
-"to help nodes develop the basic capacity requirements. See <<Section 7>> for "
-"more detail."
+"to help nodes develop the basic capacity requirements. See "
+"<<further-support>> for more detail."
 msgstr ""
 
 #. type: Title ===
@@ -1478,8 +1479,7 @@ msgid ""
 "relevant stakeholders, independently of any preferences or priorities that "
 "are not defined or agreed by the whole community. The institutional location "
 "of the node is decisive for its neutrality (see "
-"link:6.-what-is-the-recommended-process-for-establishing-a-participant-node/6.1-how-should-a-gbif-participant-select-the-institutional-location-for-a-node[Section "
-"6.1]).\n"
+"<<node-location-selection>>).\n"
 msgstr ""
 
 #. type: Plain text
@@ -1594,8 +1594,8 @@ msgid ""
 "Many tools exist to support dialogue around the establishment of a "
 "Participant node. We recommend carrying out a "
 "https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment] "
-"(see <<section 5.2>>) to identify the key capacity strengths and needs, and "
-"from which to measure progress in future. A preliminary "
+"(see <<capacity-self-assessment>>) to identify the key capacity strengths "
+"and needs, and from which to measure progress in future. A preliminary "
 "https://www.gbif.org/document/80890[content needs assessment] conducted at "
 "the Participant level through a survey, workshop or literature analysis "
 "(possibly led by a consultant) can provide valuable information to guide the "
@@ -1674,7 +1674,7 @@ msgstr ""
 msgid ""
 "Which institutional location would provide the node with the greatest "
 "institutional and financial support, as well as the maximum long-term "
-"stability? (See <<Section 6.1>>)."
+"stability? (See <<node-location-selection>>)."
 msgstr ""
 
 #. type: Plain text
@@ -1719,16 +1719,16 @@ msgstr ""
 msgid ""
 "As discussed above, the institutional location for the node is a critical "
 "decision likely to have long-term impacts on its effectiveness in "
-"coordinating biodiversity information for the country. <<Table 1>> "
-"summarizes the types of institutions previously designated as hosts of GBIF "
-"Participant nodes, as well as some of the potential advantages and "
-"disadvantages associated with each type of host. Focused mainly on countries "
-"rather than organizations, the table does not provide a single "
-"recommendation on where to locate a node but can serve as a reference while "
-"considering options. These examples are generalized and will vary greatly "
-"depending on the specific situation of the Participant. The potential "
-"disadvantages in the right-hand column may not be applicable to all "
-"countries or host institutions."
+"coordinating biodiversity information for the "
+"country. <<examples-of-node-hosts>> summarizes the types of institutions "
+"previously designated as hosts of GBIF Participant nodes, as well as some of "
+"the potential advantages and disadvantages associated with each type of "
+"host. Focused mainly on countries rather than organizations, the table does "
+"not provide a single recommendation on where to locate a node but can serve "
+"as a reference while considering options. These examples are generalized and "
+"will vary greatly depending on the specific situation of the "
+"Participant. The potential disadvantages in the right-hand column may not be "
+"applicable to all countries or host institutions."
 msgstr ""
 
 #. type: Plain text
@@ -1756,7 +1756,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 600.en.adoc:45
+#: 600.en.adoc:46
 #, no-wrap
 msgid ""
 "Generalized examples of the types of institutions designated as hosts of "
@@ -1764,34 +1764,34 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:48 600.en.adoc:140
+#: 600.en.adoc:49 600.en.adoc:141
 msgid "|==="
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:50
+#: 600.en.adoc:51
 msgid "^|Potential advantages"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:52
+#: 600.en.adoc:53
 msgid "^|Potential disadvantages"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:54
+#: 600.en.adoc:55
 msgid "2+^s|Natural history collections"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:56
+#: 600.en.adoc:57
 msgid ""
 "|Existing knowledge of the challenges and requirements of digitizing and "
 "managing natural history data"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:60
+#: 600.en.adoc:61
 msgid ""
 "|May take significant effort to demonstrate neutrality (e.g., if it is a "
 "zoological collection, that it can work with other types of collections), or "
@@ -1799,81 +1799,81 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:63
+#: 600.en.adoc:64
 msgid ""
 "May find difficulty in engaging with other communities holding other types "
 "of biodiversity data (e.g., observations, ecological data, etc.)"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:66
+#: 600.en.adoc:67
 msgid ""
 "Can make it difficult for the node to serve the needs of some stakeholders "
 "(e.g., policymakers)"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:68
+#: 600.en.adoc:69
 msgid "2+^s|Ministries of science, environment, et al."
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:70
+#: 600.en.adoc:71
 msgid ""
 "|Very strong mandate and capacity to influence and support policy and "
 "decision making"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:72
+#: 600.en.adoc:73
 msgid ""
 "Easily aligned with national biodiversity policies, strategies, and "
 "programme"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:75
+#: 600.en.adoc:76
 msgid ""
 "|Challenges to operate at the technical level and to provide technical "
 "support (e.g., to the scientific community)"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:77
+#: 600.en.adoc:78
 msgid "Easily affected by political changes"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:80
+#: 600.en.adoc:81
 msgid ""
 "May find difficulties in addressing needs from other ministries (e.g., from "
 "science or environment)"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:82
+#: 600.en.adoc:83
 msgid "2+^s|Biodiversity or biological research institutes"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:84 600.en.adoc:117
+#: 600.en.adoc:85 600.en.adoc:118
 msgid ""
 "|High potential for developing capacity in biodiversity informatics easily "
 "and quickly"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:86
+#: 600.en.adoc:87
 msgid "Full knowledge of the biodiversity-research realm"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:88
+#: 600.en.adoc:89
 msgid "May have a strong and clear institutional mandate"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:92 600.en.adoc:103
+#: 600.en.adoc:93 600.en.adoc:104
 msgid ""
 "|May not be perceived as neutral by all stakeholders, depending on how the "
 "institute fits within the Participant’s overall institutional landscape (for "
@@ -1881,171 +1881,171 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:94
+#: 600.en.adoc:95
 msgid "2+^s|Research councils or science & technology commissions"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:97
+#: 600.en.adoc:98
 msgid ""
 "|Excellent position to use the Participant node to coordinate, promote and "
 "facilitate the mobilization of biodiversity data from research"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:99
+#: 600.en.adoc:100
 msgid "Easily aligned with national research policies, strategies, and programmes"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:105
+#: 600.en.adoc:106
 msgid "2+^s|Non-governmental organizations"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:107
+#: 600.en.adoc:108
 msgid "|Flexibility and autonomy"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:110
+#: 600.en.adoc:111
 msgid ""
 "|Potential lack of mandate, difficulty in formally engaging with government "
 "institutions"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:112 600.en.adoc:124
+#: 600.en.adoc:113 600.en.adoc:125
 msgid "May become dependent on projects and project-based funding"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:114
+#: 600.en.adoc:115
 msgid "2+^s|University departments or faculties"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:120
+#: 600.en.adoc:121
 msgid ""
 "Potential for aligning the node’s activities with various biodiversity "
 "research agenda"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:122
+#: 600.en.adoc:123
 msgid "|May face neutrality issues"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:126
+#: 600.en.adoc:127
 msgid ""
 "2+^s|National informatics facilities outside the biodiversity/ biological "
 "domain"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:128
+#: 600.en.adoc:129
 msgid "|Strong position of neutrality"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:130
+#: 600.en.adoc:131
 msgid "Ready access to technical capacity in informatics"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:133
+#: 600.en.adoc:134
 msgid ""
 "Potentially useful connections with well-funded national priorities on "
 "innovation and technology"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:136
+#: 600.en.adoc:137
 msgid ""
 "|Need to invest in staff bringing relevant scientific domain knowledge to "
 "work effectively with biodiversity data"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:138
+#: 600.en.adoc:139
 msgid "Need to build contacts and knowledge of relevant institutional networks"
 msgstr ""
 
 #. type: Title ===
-#: 600.en.adoc:142
+#: 600.en.adoc:143
 #, no-wrap
 msgid "What are the recommendations on the staff roles within nodes?"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:145
+#: 600.en.adoc:146
 msgid ""
 "While the specific services that nodes provide vary from one Participant to "
-"another (see <<Section 5>>), a node’s staff need to cover a number of "
-"typical functions:"
-msgstr ""
-
-#. type: Plain text
-#: 600.en.adoc:147
-msgid "Management and coordination"
+"another (see <<what-do-nodes-need>>), a node’s staff need to cover a number "
+"of typical functions:"
 msgstr ""
 
 #. type: Plain text
 #: 600.en.adoc:148
+msgid "Management and coordination"
+msgstr ""
+
+#. type: Plain text
+#: 600.en.adoc:149
 msgid ""
 "Outreach, communications, public relations and institutional networking "
 "(regional, national or thematic level)"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:149
+#: 600.en.adoc:150
 msgid "Fundraising and project writing"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:150
+#: 600.en.adoc:151
 msgid ""
 "Administrative work (financial management, reporting, organizing events and "
 "meetings etc.)"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:151
+#: 600.en.adoc:152
 msgid "Capacity enhancement"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:152
+#: 600.en.adoc:153
 msgid "Technical support service for data holders (helpdesk)"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:153
+#: 600.en.adoc:154
 msgid "ICT support, webmaster & database management"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:154
+#: 600.en.adoc:155
 msgid ""
 "Software development (data capture and cleaning tools, data visualization "
 "tools, data portal & web interfaces, web services, etc.)"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:155
+#: 600.en.adoc:156
 msgid "Data analysis & modelling"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:156
+#: 600.en.adoc:157
 msgid ""
 "Scientific liaison and promotion of data use in relevant research "
 "communities"
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:158
+#: 600.en.adoc:159
 msgid ""
 "This diversity of functions makes it clear that nodes require staff with a "
 "wide range of skills ranging from administrative support to expertise in "
@@ -2061,7 +2061,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:160
+#: 600.en.adoc:161
 msgid ""
 "To cover the main functions listed above (assuming administrative support is "
 "provided by the host institution), Participants can consider at least the "
@@ -2071,7 +2071,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:162
+#: 600.en.adoc:163
 msgid ""
 "A node manager as the manager of the team, responsible for the majority of "
 "the interactions with the GBIF network and Secretariat including "
@@ -2081,7 +2081,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:163
+#: 600.en.adoc:164
 msgid ""
 "A person with a scientific background, knowledge of the relevant research "
 "communities, and the ability to motivate and communicate with data holders, "
@@ -2089,7 +2089,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:164
+#: 600.en.adoc:165
 msgid ""
 "A person with a background in biodiversity informatics, skills in data "
 "management, and the ability to provide technical assistance to data holders "
@@ -2097,7 +2097,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 600.en.adoc:164
+#: 600.en.adoc:165
 msgid ""
 "A person with an informatics background, able to develop and maintain an "
 "informatics infrastructure to enable biodiversity data publishing and "
@@ -2499,6 +2499,6 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 705-box.en.adoc:2
+#: 705-box.en.adoc:3
 msgid "Box 6. GBIF’s capacity enhancement approach"
 msgstr ""
