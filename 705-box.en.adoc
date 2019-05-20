@@ -1,3 +1,4 @@
+[[box-6]]
 Box 6. GBIF’s capacity enhancement approach
 ****
 [discrete]

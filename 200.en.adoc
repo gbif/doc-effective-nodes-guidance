@@ -9,7 +9,7 @@ Two main roles are assigned when a Participant joins GBIF: the *Head of Delegati
 
 A broad range of *stakeholders* are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers <<box-3,Box 3>>). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network.
 
-Participant nodes typically have four main functions (see also <<introduction4,Section 4>>):
+Participant nodes typically have four main functions (see also <<node-services>>):
 
 * Coordinating a community of initiatives relating to biodiversity, including making connections to the international GBIF network
 * Promoting and supporting the mobilization of biodiversity data within the country or organization’s scope
