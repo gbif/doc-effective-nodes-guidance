@@ -1,3 +1,4 @@
 files:
   - source: /translations/index.pot
     translation: /translations/%two_letters_code%.po
+    update_option: update_as_unapproved
