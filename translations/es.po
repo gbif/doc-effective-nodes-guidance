@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2019-05-20 15:06+0000\n"
-"PO-Revision-Date: 2019-06-12 16:21\n"
+"POT-Creation-Date: 2019-06-12 16:26+0000\n"
+"PO-Revision-Date: 2019-06-12 16:32\n"
 "Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -100,7 +100,7 @@ msgstr ""
 
 #. type: Plain text
 #: 000.en.adoc:23
-msgid "https://doi.org/10.15468/doc-z79c-sa53[First edition], March 2015, by Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
+msgid "https://doi.org/10.15468/doc-z79c-sa53[First edition], March 2015, by Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]. And Matthew Blissett."
 msgstr ""
 
 #. type: Plain text
