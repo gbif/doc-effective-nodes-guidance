@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2019-06-12 16:26+0000\n"
-"PO-Revision-Date: 2019-06-13 03:07\n"
+"PO-Revision-Date: 2019-06-13 06:58\n"
 "Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -24,7 +24,7 @@ msgstr "Creación de un nodo participante eficaz de GBIF: conceptos y considerac
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <nodes@gbif.org>"
-msgstr ""
+msgstr "Secretaría de GBIF <nodes@gbif.org>"
 
 #. type: Plain text
 #: index.en.adoc:10
@@ -41,7 +41,7 @@ msgstr "img/Apis-mellifera-thebugroomno2-iNat.jpg"
 #: 000.en.adoc:5
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colofón"
 
 #. type: Title ===
 #: 000.en.adoc:7
@@ -52,7 +52,7 @@ msgstr "Cita bibliográfica sugerida"
 #. type: Plain text
 #: 000.en.adoc:9
 msgid "GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
-msgstr ""
+msgstr "Secretaría de GBIF 2019. Estableciendo un Nodo Participante de GBIF efectivo: Conceptos y consideraciones generales. Copenhague. https://doi.org/10.15468/doc-z79c-sa53."
 
 #. type: Title ===
 #: 000.en.adoc:10
