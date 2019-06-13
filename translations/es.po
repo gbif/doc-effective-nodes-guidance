@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2019-06-12 16:26+0000\n"
-"PO-Revision-Date: 2019-06-13 02:59\n"
+"PO-Revision-Date: 2019-06-13 03:07\n"
 "Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -63,7 +63,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: 000.en.adoc:12
 msgid "Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
-msgstr ""
+msgstr "Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn y https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
 
 #. type: Title ===
 #: 000.en.adoc:13
@@ -85,7 +85,7 @@ msgstr "URI persistente"
 #. type: Plain text
 #: 000.en.adoc:18
 msgid "https://doi.org/10.15468/doc-z79c-sa53"
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-z79c-sa53"
 
 #. type: Title ===
 #: 000.en.adoc:19
@@ -117,7 +117,7 @@ msgstr "Imagen de la portada"
 #. type: Plain text
 #: 000.en.adoc:27
 msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr ""
+msgstr "La abeja de miel occidental (_Apis mellifera_), Hardy County, Florida, Estados Unidos. Foto 2018 thebugroomno2 vía https://www.gbif.org/ocurrence/1945467387[iNaturalist research-grade observations], licenciada bajo http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: 100.en.adoc:2
