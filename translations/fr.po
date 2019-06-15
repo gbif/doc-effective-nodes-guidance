@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2019-06-12 16:26+0000\n"
-"PO-Revision-Date: 2019-06-13 08:10\n"
+"PO-Revision-Date: 2019-06-15 06:26\n"
 "Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1085,7 +1085,7 @@ msgstr "Exemples généralisés des types d’institutions désignées comme hô
 #. type: Plain text
 #: 600.en.adoc:49 600.en.adoc:141
 msgid "|==="
-msgstr ""
+msgstr "|==="
 
 #. type: Plain text
 #: 600.en.adoc:51
@@ -1430,7 +1430,7 @@ msgstr ""
 #: 605-box.en.adoc:6
 #, no-wrap
 msgid "img/box-4.png"
-msgstr ""
+msgstr "img/box-4.png"
 
 #. type: Title ===
 #: 610-box.en.adoc:2
