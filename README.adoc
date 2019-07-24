@@ -1,10 +1,10 @@
-https://builds.gbif.org/job/doc-effective-nodes-guidance/[image:https://builds.gbif.org/job/doc-effective-nodes-guidance/badge/icon[Build status]]
+https://doi.org/10.15468/doc-z79c-sa53[image:https://zenodo.org/badge/DOI/10.15468/doc-z79c-sa53.svg[doi:10.15468/doc-z79c-sa53]] https://builds.gbif.org/job/doc-effective-nodes-guidance/[image:https://builds.gbif.org/job/doc-effective-nodes-guidance/badge/icon[Build status]]
 
 = Establishing an Effective GBIF Participant Node
 
 This guide includes basic information about two key concepts for GBIF: our Participant nodes and the biodiversity information facilities. The text includes definitions, elements which need to be taken into consideration while building these structures, potential services, requirements and much more.
 
-It is available in multiple languages in both HTML and PDF at https://docs.gbif-uat.org/effective-nodes-guidance/1.0/en/[Establishing an Effective GBIF Participant Node].
+It is available in multiple languages in both HTML and PDF at https://docs.gbif.org/effective-nodes-guidance/1.0/[Establishing an Effective GBIF Participant Node].
 
 This repository served as a prototype for developing GBIF's digital-first documentation described https://github.com/gbif/doc-documentation-guidelines[here]. Its structure was recently updated to align with recommendations embodied in the https://github.com/gbif/doc-template[documentation template].
 
