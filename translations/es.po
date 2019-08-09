@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2019-06-12 16:26+0000\n"
-"PO-Revision-Date: 2019-06-18 22:47\n"
+"POT-Creation-Date: 2019-08-09 14:16+0000\n"
+"PO-Revision-Date: 2019-08-09 14:27\n"
 "Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -27,7 +27,7 @@ msgid "GBIF Secretariat <nodes@gbif.org>"
 msgstr "Secretaría de GBIF <nodes@gbif.org>"
 
 #. type: Plain text
-#: index.en.adoc:10
+#: index.en.adoc:11
 msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
 msgstr "_languageLinks:pdf[Este documento también está disponible en,PDF format] y languageLinks:languages[en otros idiomas:,.]_"
 
