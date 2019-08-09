@@ -1,5 +1,6 @@
 = Establishing an Effective GBIF Participant Node: Concepts and general considerations
 GBIF Secretariat <nodes@gbif.org>
+:toclevels: 3
 :revnumber: {git-metadata-branch}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 :license: https://creativecommons.org/licenses/by/4.0/
