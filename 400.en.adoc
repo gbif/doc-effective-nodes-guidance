@@ -26,6 +26,7 @@ Examples of services include:
 * Developing a culture of open access and supporting open data requirements mandated, for example, through grant conditions
 * Maintaining a collaborative framework between data holders and users, for example, through data sharing agreements that enable data sharing to occur according to agreed terms and encourage data reuse
 * Promoting public engagement in biodiversity issues, for example, by supporting citizen science initiatives that mobilize observational data
+* Developing strategies, materials and activities to engage private companies to publish and reuse biodiversity data
 
 [[data-analysis-and-use]]
 === Supporting biodiversity data analysis and use
