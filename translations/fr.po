@@ -1,16 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2019-08-22 11:11+0000\n"
-"PO-Revision-Date: 2019-08-22 11:15\n"
-"Last-Translator: GBIF Open Source Projects (timrobertson100)\n"
+"POT-Creation-Date: 2020-01-09 14:13+0000\n"
+"PO-Revision-Date: 2020-01-09 14:17\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: crowdin.com\n"
 "X-Crowdin-Project: gbif-nodes-guidance\n"
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /1.0/translations/index.pot\n"
@@ -562,7 +561,7 @@ msgid "Coordinating the landscape of biodiversity-related initiatives including 
 msgstr "Coordonner la variété d’initiatives liées à la biodiversité, y compris la participation au réseau GBIF"
 
 #. type: Plain text
-#: 400.en.adoc:10 400.en.adoc:21 400.en.adoc:34 400.en.adoc:48
+#: 400.en.adoc:10 400.en.adoc:21 400.en.adoc:35 400.en.adoc:49
 msgid "Examples of services include:"
 msgstr "Les exemples de services comprennent :"
 
@@ -632,80 +631,85 @@ msgstr "Le maintien d’un cadre collaboratif entre les détenteurs et les utili
 msgid "Promoting public engagement in biodiversity issues, for example, by supporting citizen science initiatives that mobilize observational data"
 msgstr ""
 
+#. type: Plain text
+#: 400.en.adoc:30
+msgid "Developing strategies, materials and activities to engage private companies to publish and reuse biodiversity data"
+msgstr ""
+
 #. type: Title ===
-#: 400.en.adoc:31
+#: 400.en.adoc:32
 #, no-wrap
 msgid "Supporting biodiversity data analysis and use"
 msgstr "Faciliter l’analyse et l’utilisation des données sur la biodiversité"
 
 #. type: Plain text
-#: 400.en.adoc:36
+#: 400.en.adoc:37
 msgid "Facilitating access to biodiversity data by promoting the use of the GBIF infrastructure and/or by maintaining a national or thematic biodiversity data portal"
 msgstr "La facilitation de l’accès aux données sur la biodiversité en promouvant l’utilisation de l’infrastructure du GBIF et/ou en gérant un portail national ou thématique de données sur la biodiversité"
 
 #. type: Plain text
-#: 400.en.adoc:37
+#: 400.en.adoc:38
 msgid "Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices] for data accessed through the GBIF network"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:38
+#: 400.en.adoc:39
 msgid "Acting as a reference institution for biodiversity information"
 msgstr "Le rôle d’institution de référence pour la dissémination des informations sur la biodiversité"
 
 #. type: Plain text
-#: 400.en.adoc:39
+#: 400.en.adoc:40
 msgid "Providing support for biodiversity research, through evaluation of data needs and data gaps"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:40
+#: 400.en.adoc:41
 msgid "Encouraging interdisciplinary cooperation between scientists, by sharing https://www.gbif.org/resource/search?contentType=dataUse[relevant examples of data use] and through capacity development activities"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:41
+#: 400.en.adoc:42
 msgid "Providing support for the compilation, maintenance and publishing of national, sub-national and thematic species inventories and checklists, and the use of these lists to underpin other activities (e.g., conservation work, national reporting)"
 msgstr "Le soutien à la compilation, la gestion et la publication des inventaires d’espèces et des checklists nationaux, régionaux et thématiques, et l’utilisation de ces listes pour étayer d’autres activités (ex. : travaux de conservation, rapports nationaux)"
 
 #. type: Plain text
-#: 400.en.adoc:42
+#: 400.en.adoc:43
 msgid "Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, spatial planning, biosecurity, conservation and protected area management"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:43
+#: 400.en.adoc:44
 msgid "Providing support for national reporting on biodiversity, for example under the Convention on Biological Diversity and other multilateral biodiversity-related agreements"
 msgstr "L’appui à l’élaboration de rapports nationaux sur la biodiversité, par exemple par le biais de la Convention sur la diversité biologique et d’autres accords multilatéraux sur la biodiversité"
 
 #. type: Title ===
-#: 400.en.adoc:45
+#: 400.en.adoc:46
 #, no-wrap
 msgid "Supporting biodiversity data management and curation"
 msgstr "Faciliter la gestion et la conservation des données sur la biodiversité"
 
 #. type: Plain text
-#: 400.en.adoc:50
+#: 400.en.adoc:51
 msgid "Increasing the quality of available biodiversity data to meet https://www.gbif.org/data-quality-requirements[GBIF data quality requirements], for example, through the standardization and documentation of existing data sources with metadata"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:51
+#: 400.en.adoc:52
 msgid "Assisting data holders with data management, using appropriate tools and practices, such as the https://www.gbif.org/tools/data-validator[GBIF data validator], and through capacity development programmes focused on biodiversity informatics"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:52
+#: 400.en.adoc:53
 msgid "Acting as a permanent repository for biodiversity data within the Participant’s domain for data holders that do not have the capacity to maintain their own permanent records"
 msgstr "Le rôle de répertoire permanent des données sur la biodiversité au niveau du Participant pour les détenteurs de données qui n’ont pas la capacité de maintenir leurs propres archives de manière permanente"
 
 #. type: Plain text
-#: 400.en.adoc:53
+#: 400.en.adoc:54
 msgid "Providing https://www.gbif.org/endorsement-guidelines[endorsement of biodiversity data publishers] to be added to the GBIF network"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:53
+#: 400.en.adoc:54
 msgid "Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types"
 msgstr ""
 
@@ -1072,180 +1076,64 @@ msgstr "Enfin, certains Participants du GBIF ont choisi de répartir l’équipe
 msgid "Generalized examples of the types of institutions designated as hosts of GBIF Participant nodes."
 msgstr "Exemples généralisés des types d’institutions désignées comme hôtes des points nodaux."
 
-#. type: Plain text
-#: 600.en.adoc:49 600.en.adoc:141
-msgid "|==="
-msgstr "|==="
-
-#. type: Plain text
-#: 600.en.adoc:51
-msgid "^|Potential advantages"
-msgstr "^| Avantages potentiels"
-
-#. type: Plain text
-#: 600.en.adoc:53
-msgid "^|Potential disadvantages"
-msgstr "^| Inconvénients potentiels"
-
-#. type: Plain text
-#: 600.en.adoc:55
-msgid "2+^s|Natural history collections"
-msgstr "2+^s| Collections d’histoire naturelle"
-
-#. type: Plain text
-#: 600.en.adoc:57
-msgid "|Existing knowledge of the challenges and requirements of digitizing and managing natural history data"
-msgstr "|Connaissance approfondie des défis et des exigences en matière de numérisation et de gestion des données d’histoire naturelle"
-
-#. type: Plain text
-#: 600.en.adoc:61
-msgid "|May take significant effort to demonstrate neutrality (e.g., if it is a zoological collection, that it can work with other types of collections), or that it is not competing for digitization funds, etc."
-msgstr "|Un effort important peut être requis pour démontrer leur neutralité (ex. : s’il s’agit d’une collection zoologique, démontrer qu’elle peut fonctionner avec d’autres types de collections), ou le fait qu’elles ne sont pas en concurrence avec des fonds de numérisation, etc."
-
-#. type: Plain text
-#: 600.en.adoc:64
-msgid "May find difficulty in engaging with other communities holding other types of biodiversity data (e.g., observations, ecological data, etc.)"
-msgstr "Elles peuvent avoir des difficultés à s’impliquer avec d’autres communautés détentrices d’autres types de données sur la biodiversité (ex. : observations, données écologiques, etc.)"
-
-#. type: Plain text
-#: 600.en.adoc:67
-msgid "Can make it difficult for the node to serve the needs of some stakeholders (e.g., policymakers)"
-msgstr "Le point nodal peut avoir des difficultés à répondre aux besoins des parties prenantes (ex. : les décideurs politiques)"
-
-#. type: Plain text
-#: 600.en.adoc:69
-msgid "2+^s|Ministries of science, environment, et al."
-msgstr "2+^s|Ministères des Sciences, de l’Environnement, et coll."
-
-#. type: Plain text
-#: 600.en.adoc:71
-msgid "|Very strong mandate and capacity to influence and support policy and decision making"
-msgstr "|Mandat robuste et capacité d’influencer et de soutenir l’élaboration de politiques et la prise de décision"
-
-#. type: Plain text
-#: 600.en.adoc:73
-msgid "Easily aligned with national biodiversity policies, strategies, and programme"
-msgstr "Facilement alignés sur les politiques, les stratégies et les programmes nationaux de biodiversité"
-
-#. type: Plain text
-#: 600.en.adoc:76
-msgid "|Challenges to operate at the technical level and to provide technical support (e.g., to the scientific community)"
-msgstr "|Difficultés de fonctionner au niveau technique et de fournir une assistance technique (ex. : à la communauté scientifique)"
-
-#. type: Plain text
-#: 600.en.adoc:78
-msgid "Easily affected by political changes"
-msgstr "Facilement affectés par les changements politiques"
-
-#. type: Plain text
-#: 600.en.adoc:81
-msgid "May find difficulties in addressing needs from other ministries (e.g., from science or environment)"
-msgstr "Pourraient avoir des difficultés à traiter les besoins d’autres ministères (ex. : des sciences ou de l’environnement)"
-
-#. type: Plain text
-#: 600.en.adoc:83
-msgid "2+^s|Biodiversity or biological research institutes"
-msgstr "2+^s|Instituts de biodiversité ou de recherche biologique"
-
-#. type: Plain text
-#: 600.en.adoc:85 600.en.adoc:118
-msgid "|High potential for developing capacity in biodiversity informatics easily and quickly"
-msgstr "|Important potentiel de renforcement rapide et facile des capacités en informatique appliquée à la biodiversité"
-
-#. type: Plain text
-#: 600.en.adoc:87
-msgid "Full knowledge of the biodiversity-research realm"
-msgstr "Connaissance complète du domaine de la recherche sur la biodiversité"
-
-#. type: Plain text
-#: 600.en.adoc:89
-msgid "May have a strong and clear institutional mandate"
-msgstr "Susceptibles d’avoir un mandat institutionnel robuste et clair"
-
-#. type: Plain text
-#: 600.en.adoc:93 600.en.adoc:104
-msgid "|May not be perceived as neutral by all stakeholders, depending on how the institute fits within the Participant’s overall institutional landscape (for example, if there is overlap or competition for resources)"
-msgstr "|Susceptibles de ne pas être perçus comme neutres par toutes les parties prenantes, selon la place de l’institut dans le paysage institutionnel du participant (par exemple, s’il existe un chevauchement ou une concurrence pour les ressources)"
-
-#. type: Plain text
-#: 600.en.adoc:95
-msgid "2+^s|Research councils or science & technology commissions"
-msgstr "2+^s|Conseils de la recherche ou commissions scientifiques et technologiques"
-
-#. type: Plain text
-#: 600.en.adoc:98
-msgid "|Excellent position to use the Participant node to coordinate, promote and facilitate the mobilization of biodiversity data from research"
-msgstr "|Excellente position pour utiliser le point nodal de participants pour coordonner, promouvoir et faciliter la mobilisation des données sur la biodiversité obtenues à partir de la recherche"
-
-#. type: Plain text
-#: 600.en.adoc:100
-msgid "Easily aligned with national research policies, strategies, and programmes"
-msgstr "Facilement alignés sur les politiques, les stratégies et les programmes de recherche nationaux"
-
-#. type: Plain text
-#: 600.en.adoc:106
-msgid "2+^s|Non-governmental organizations"
-msgstr "2+^s|Organisations non gouvernementales"
-
-#. type: Plain text
-#: 600.en.adoc:108
-msgid "|Flexibility and autonomy"
-msgstr "|Flexibilité et autonomie"
-
-#. type: Plain text
-#: 600.en.adoc:111
-msgid "|Potential lack of mandate, difficulty in formally engaging with government institutions"
-msgstr "|Manque potentiel de mandat, difficulté à s’impliquer de manière formelle avec les institutions gouvernementales"
-
-#. type: Plain text
-#: 600.en.adoc:113 600.en.adoc:125
-msgid "May become dependent on projects and project-based funding"
-msgstr "Susceptibles de dépendre de projets et de financements selon les projets"
-
-#. type: Plain text
-#: 600.en.adoc:115
-msgid "2+^s|University departments or faculties"
-msgstr "2+^s|Départements ou facultés universitaires"
-
-#. type: Plain text
-#: 600.en.adoc:121
-msgid "Potential for aligning the node’s activities with various biodiversity research agenda"
-msgstr "Possibilité d’aligner les activités du point nodal sur une variété de programmes de recherche sur la biodiversité"
-
-#. type: Plain text
-#: 600.en.adoc:123
-msgid "|May face neutrality issues"
-msgstr "|Susceptibles d’être confrontés à des problèmes de neutralité"
-
-#. type: Plain text
-#: 600.en.adoc:127
-msgid "2+^s|National informatics facilities outside the biodiversity/ biological domain"
-msgstr "2+^s|Installations informatiques nationales exerçant une activité non liée à la biodiversité/la biologie"
-
-#. type: Plain text
-#: 600.en.adoc:129
-msgid "|Strong position of neutrality"
-msgstr "|Forte position de neutralité"
-
-#. type: Plain text
-#: 600.en.adoc:131
-msgid "Ready access to technical capacity in informatics"
-msgstr "Accès aisé aux capacités techniques informatiques"
-
-#. type: Plain text
-#: 600.en.adoc:134
-msgid "Potentially useful connections with well-funded national priorities on innovation and technology"
-msgstr "Liens potentiellement utiles avec des priorités nationales bien financées sur l’innovation et les technologies"
-
-#. type: Plain text
-#: 600.en.adoc:137
-msgid "|Need to invest in staff bringing relevant scientific domain knowledge to work effectively with biodiversity data"
-msgstr "|Besoin d’investir dans la formation d’un personnel ayant les connaissances scientifiques appropriées pour travailler efficacement avec des données sur la biodiversité"
-
-#. type: Plain text
-#: 600.en.adoc:139
-msgid "Need to build contacts and knowledge of relevant institutional networks"
-msgstr "Besoin d’établir des contacts et de se familiariser avec les réseaux institutionnels concernés"
+#. type: Table
+#: 600.en.adoc:140
+#, no-wrap
+msgid "\n"
+"^|Potential advantages\n\n"
+"^|Potential disadvantages\n\n"
+"2+^s|Natural history collections\n\n"
+"|Existing knowledge of the challenges and requirements of digitizing and managing natural history data\n\n"
+"|May take significant effort to demonstrate neutrality (e.g., if it is\n"
+"a zoological collection, that it can work with other types of collections),\n"
+"or that it is not competing for digitization funds, etc.\n\n"
+"May find difficulty in engaging with other communities holding other types\n"
+"of biodiversity data (e.g., observations, ecological data, etc.)\n\n"
+"Can make it difficult for the node to serve the needs of some stakeholders\n"
+"(e.g., policymakers)\n\n"
+"2+^s|Ministries of science, environment, et al.\n\n"
+"|Very strong mandate and capacity to influence and support policy and decision making\n\n"
+"Easily aligned with national biodiversity policies, strategies, and programme\n\n"
+"|Challenges to operate at the technical level and to provide technical\n"
+"support (e.g., to the scientific community)\n\n"
+"Easily affected by political changes\n\n"
+"May find difficulties in addressing needs from other ministries (e.g.,\n"
+"from science or environment)\n\n"
+"2+^s|Biodiversity or biological research institutes\n\n"
+"|High potential for developing capacity in biodiversity informatics easily and quickly\n\n"
+"Full knowledge of the biodiversity-research realm\n\n"
+"May have a strong and clear institutional mandate\n\n"
+"|May not be perceived as neutral by all stakeholders, depending on how\n"
+"the institute fits within the Participant’s overall institutional landscape\n"
+"(for example, if there is overlap or competition for resources)\n\n"
+"2+^s|Research councils or science & technology commissions\n\n"
+"|Excellent position to use the Participant node to coordinate, promote\n"
+"and facilitate the mobilization of biodiversity data from research\n\n"
+"Easily aligned with national research policies, strategies, and programmes\n\n"
+"|May not be perceived as neutral by all stakeholders, depending on how\n"
+"the institute fits within the Participant’s overall institutional landscape\n"
+"(for example, if there is overlap or competition for resources)\n\n"
+"2+^s|Non-governmental organizations\n\n"
+"|Flexibility and autonomy\n\n"
+"|Potential lack of mandate, difficulty in formally engaging with government\n"
+"institutions\n\n"
+"May become dependent on projects and project-based funding\n\n"
+"2+^s|University departments or faculties\n\n"
+"|High potential for developing capacity in biodiversity informatics easily\n"
+"and quickly\n\n"
+"Potential for aligning the node’s activities with various biodiversity\n"
+"research agenda\n\n"
+"|May face neutrality issues\n\n"
+"May become dependent on projects and project-based funding\n\n"
+"2+^s|National informatics facilities outside the biodiversity/ biological domain\n\n"
+"|Strong position of neutrality\n\n"
+"Ready access to technical capacity in informatics\n\n"
+"Potentially useful connections with well-funded national priorities on\n"
+"innovation and technology\n\n"
+"|Need to invest in staff bringing relevant scientific domain knowledge\n"
+"to work effectively with biodiversity data\n\n"
+"Need to build contacts and knowledge of relevant institutional networks\n\n"
+msgstr ""
 
 #. type: Title ===
 #: 600.en.adoc:143
