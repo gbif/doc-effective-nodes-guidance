@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-09 14:13+0000\n"
+"POT-Creation-Date: 2020-01-09 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2186,7 +2186,8 @@ msgid ""
 "Consulting these pages will help to identify the most relevant examples for "
 "the specific context of a new GBIF Participant. New Participants are "
 "encouraged to use the contact information for the node managers and staff to "
-"ask other network members directly for advice in establishing a node."
+"ask other network members or https://www.gbif.org/mentors[capacity "
+"enhancement mentors] for advice in establishing a node."
 msgstr ""
 
 #. type: Title ===
