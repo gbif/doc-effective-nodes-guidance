@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-09 14:22+0000\n"
+"POT-Creation-Date: 2020-01-09 16:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,7 +71,8 @@ msgstr ""
 #. type: Plain text
 #: 000.en.adoc:12
 msgid ""
-"Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], "
+"https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], "
+"https://orcid.org/0000-0002-6590-599X[Kyle Copas], "
 "https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and "
 "https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
 msgstr ""
