@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-01-09 14:13+0000\n"
-"PO-Revision-Date: 2020-01-09 14:17\n"
+"POT-Creation-Date: 2020-01-09 14:22+0000\n"
+"PO-Revision-Date: 2020-01-09 14:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1397,8 +1397,8 @@ msgstr ""
 
 #. type: Plain text
 #: 700.en.adoc:24
-msgid "Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members directly for advice in establishing a node."
-msgstr "En estas páginas, encontrará los ejemplos más relevantes para el contexto específico de un nuevo participante de GBIF. Se alienta a los nuevos participantes a usar la información de contacto para que los administradores y el personal de los nodos les pidan asesoramiento directamente a otros miembros de la red sobre la creación de un nodo."
+msgid "Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members or https://www.gbif.org/mentors[capacity enhancement mentors] for advice in establishing a node."
+msgstr ""
 
 #. type: Title ===
 #: 700.en.adoc:26
