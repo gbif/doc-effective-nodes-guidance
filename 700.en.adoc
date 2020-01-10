@@ -20,7 +20,7 @@ https://www.gbif.org/the-gbif-network/participant-organisations[Information abou
 
 Participant nodes are encouraged to share https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding examples] with the community, documenting their success stories that others can learn from in establishing or developing their nodes.
 
-Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members directly for advice in establishing a node.
+Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members or https://www.gbif.org/mentors[capacity enhancement mentors] for advice in establishing a node.
 
 [[nodes-committee-assistance]]
 === How can the GBIF Participant Node Managers Committee assist in establishing Participant nodes?

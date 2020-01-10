@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-09 14:17+0000\n"
+"POT-Creation-Date: 2020-01-10 06:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgid "GBIF Secretariat <nodes@gbif.org>"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:10
+#: index.en.adoc:11
 msgid ""
 "_languageLinks:pdf[This document is also available in,PDF format] and "
 "languageLinks:languages[in other languages:,.]_"
@@ -71,7 +71,8 @@ msgstr ""
 #. type: Plain text
 #: 000.en.adoc:12
 msgid ""
-"Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], "
+"https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], "
+"https://orcid.org/0000-0002-6590-599X[Kyle Copas], "
 "https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and "
 "https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
 msgstr ""
@@ -115,11 +116,12 @@ msgstr ""
 #. type: Plain text
 #: 000.en.adoc:23
 msgid ""
-"https://doi.org/10.15468/doc-z79c-sa53[First edition], March 2015, by "
-"Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
+"https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by "
+"https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], "
+"https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
 "https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, "
 "https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and "
-"https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
+"https://orcid.org/0000-0001-6492-4016[Donald Hobern]. And Matthew Blissett."
 msgstr ""
 
 #. type: Plain text
@@ -890,7 +892,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:10 400.en.adoc:21 400.en.adoc:34 400.en.adoc:48
+#: 400.en.adoc:10 400.en.adoc:21 400.en.adoc:35 400.en.adoc:49
 msgid "Examples of services include:"
 msgstr ""
 
@@ -998,14 +1000,21 @@ msgid ""
 "supporting citizen science initiatives that mobilize observational data"
 msgstr ""
 
+#. type: Plain text
+#: 400.en.adoc:30
+msgid ""
+"Developing strategies, materials and activities to engage private companies "
+"to publish and reuse biodiversity data"
+msgstr ""
+
 #. type: Title ===
-#: 400.en.adoc:31
+#: 400.en.adoc:32
 #, no-wrap
 msgid "Supporting biodiversity data analysis and use"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:36
+#: 400.en.adoc:37
 msgid ""
 "Facilitating access to biodiversity data by promoting the use of the GBIF "
 "infrastructure and/or by maintaining a national or thematic biodiversity "
@@ -1013,7 +1022,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:37
+#: 400.en.adoc:38
 msgid ""
 "Promoting the use of correct "
 "https://www.gbif.org/citation-guidelines[citation practices] for data "
@@ -1021,19 +1030,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:38
+#: 400.en.adoc:39
 msgid "Acting as a reference institution for biodiversity information"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:39
+#: 400.en.adoc:40
 msgid ""
 "Providing support for biodiversity research, through evaluation of data "
 "needs and data gaps"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:40
+#: 400.en.adoc:41
 msgid ""
 "Encouraging interdisciplinary cooperation between scientists, by sharing "
 "https://www.gbif.org/resource/search?contentType=dataUse[relevant examples "
@@ -1041,7 +1050,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:41
+#: 400.en.adoc:42
 msgid ""
 "Providing support for the compilation, maintenance and publishing of "
 "national, sub-national and thematic species inventories and checklists, and "
@@ -1050,7 +1059,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:42
+#: 400.en.adoc:43
 msgid ""
 "Providing support for policy by, for example, offering advice on the "
 "designation of biodiversity research priorities, and helping to mainstream "
@@ -1059,7 +1068,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:43
+#: 400.en.adoc:44
 msgid ""
 "Providing support for national reporting on biodiversity, for example under "
 "the Convention on Biological Diversity and other multilateral "
@@ -1067,13 +1076,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:45
+#: 400.en.adoc:46
 #, no-wrap
 msgid "Supporting biodiversity data management and curation"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:50
+#: 400.en.adoc:51
 msgid ""
 "Increasing the quality of available biodiversity data to meet "
 "https://www.gbif.org/data-quality-requirements[GBIF data quality "
@@ -1082,7 +1091,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:51
+#: 400.en.adoc:52
 msgid ""
 "Assisting data holders with data management, using appropriate tools and "
 "practices, such as the https://www.gbif.org/tools/data-validator[GBIF data "
@@ -1091,7 +1100,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:52
+#: 400.en.adoc:53
 msgid ""
 "Acting as a permanent repository for biodiversity data within the "
 "Participant’s domain for data holders that do not have the capacity to "
@@ -1099,14 +1108,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:53
+#: 400.en.adoc:54
 msgid ""
 "Providing https://www.gbif.org/endorsement-guidelines[endorsement of "
 "biodiversity data publishers] to be added to the GBIF network"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:53
+#: 400.en.adoc:54
 msgid ""
 "Coordinating with other biodiversity-related initiatives to ensure maximum "
 "interoperability across biodiversity data types"
@@ -1380,45 +1389,14 @@ msgid ""
 "conferences. \n"
 msgstr ""
 
-#. type: Plain text
-#: 500.en.adoc:74
-msgid ""
-"The situation of each GBIF Participant is unique, with different capacity "
-"strengths and challenges on different levels. The capacity self-assessment "
-"tool for national biodiversity information facilities is designed to assist "
-"countries with planning at any stage of development by identifying capacity "
-"strengths and needs. The self-assessment questionnaire provides more detail "
-"on the capacity requirements for establishing an effective Participant node "
-"and we recommend completing it as part of the planning process for a new "
-"node, and updating it regularly to track progress."
-msgstr ""
-
-#. type: Plain text
-#: 500.en.adoc:76
-msgid ""
-"Gaining access to the advice and experience of the GBIF network can help new "
-"Participants to establish effective nodes as efficiently as possible.  "
-"Projects and partnerships with other Participants and their nodes can be an "
-"effective form of capacity development, for which there are many successful "
-"examples "
-"(e.g. https://www.gbif.org/article/1z8DzePKBe6U0MAoo4QQO2/[Expanding local "
-"engagement and biodiversity data use through localized content]). GBIF has a "
-"https://www.gbif.org/programme/82219/[capacity enhancement support "
-"programme] that provides co-funding each year to support such projects. Less "
-"formal exchanges of ideas and experiences, for example, through regional "
-"meetings of GBIF nodes, also offer valuable opportunities to help nodes "
-"develop the basic capacity requirements. See <<further-support>> for more "
-"detail."
-msgstr ""
-
 #. type: Title ====
-#: 500.en.adoc:78
+#: 500.en.adoc:74
 #, no-wrap
 msgid "Capacity self-assessment for national biodiversity information facilities"
 msgstr ""
 
 #. type: Plain text
-#: 500.en.adoc:81
+#: 500.en.adoc:77
 msgid ""
 "The situation of each GBIF Participant is unique, with different capacity "
 "strengths and challenges. The "
@@ -1433,7 +1411,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 500.en.adoc:83
+#: 500.en.adoc:79
 msgid ""
 "Once you have identified the key capacity needs, gaining access to the "
 "advice and experience of the GBIF network can help new Participants to "
@@ -1450,20 +1428,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 500.en.adoc:85
+#: 500.en.adoc:81
 #, no-wrap
 msgid "Characteristics"
 msgstr ""
 
 #. type: Plain text
-#: 500.en.adoc:88
+#: 500.en.adoc:84
 msgid ""
 "In addition to the basic requirements, the following four characteristics "
 "help Participant nodes to be effective:"
 msgstr ""
 
 #. type: Plain text
-#: 500.en.adoc:90
+#: 500.en.adoc:86
 #, no-wrap
 msgid ""
 "*Neutrality*. Since nodes are established to coordinate, promote and "
@@ -1483,7 +1461,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 500.en.adoc:91
+#: 500.en.adoc:87
 #, no-wrap
 msgid ""
 "*Leadership and initiative*. Nodes need to be able to stimulate interest and "
@@ -1494,7 +1472,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 500.en.adoc:92
+#: 500.en.adoc:88
 #, no-wrap
 msgid ""
 "*A focus on service*. Nodes are established to assist a community of people "
@@ -1504,7 +1482,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 500.en.adoc:92
+#: 500.en.adoc:88
 #, no-wrap
 msgid ""
 "*Adaptability*. Nodes need the ability to respond to change in the typically "
@@ -2210,7 +2188,8 @@ msgid ""
 "Consulting these pages will help to identify the most relevant examples for "
 "the specific context of a new GBIF Participant. New Participants are "
 "encouraged to use the contact information for the node managers and staff to "
-"ask other network members directly for advice in establishing a node."
+"ask other network members or https://www.gbif.org/mentors[capacity "
+"enhancement mentors] for advice in establishing a node."
 msgstr ""
 
 #. type: Title ===
