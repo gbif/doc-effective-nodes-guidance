@@ -1,165 +1,61 @@
-[[establishing-process]]
-== What is the recommended process for establishing a Participant node?
+[[further-support]]
+== Further support for establishing a Participant node
 
-Establishing a Participant node involves a number of critical decisions that will impact its effectiveness, which therefore deserve careful consideration from the beginning. These decisions mostly apply to country Participants, although some extend to organizations when there are several networked institutions in which a node could potentially be based. The process is typically influenced by factors specific to the Participant’s context including:
+Supporting the establishment and further development of Participant nodes and their work is a priority for GBIF as a whole. This guide has introduced some important general considerations in the process of establishing a node. This section explains other opportunities available to gain from experience of the GBIF network in this area.
 
-. The institutional landscape at the Participant level: the number and type of institutions involved with biodiversity, roles, social and economic context, research tradition, etc.
-. The interests, needs, and priorities of the Participant with regard to biodiversity data and information +
-. The current and potential capacity of the Participant, in terms of funding, infrastructure, staff, etc.
+[[participant-node-exampless]]
+=== How can I find examples of Participant nodes?
 
-While these factors vary considerably between Participants, lessons from the community can help new GBIF Participants, or those going through strategic changes in their decision-making processes. <<box-4,Box 4>> shows a simplified participatory approach towards making some of the key decisions necessary to establish an effective node.
+The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Participants’ GBIF-related activities. They include information about:
 
-The key recommendation is to start a participatory process at the Participant level, ideally led by the Head of Delegation or the institution that has been given the responsibility to sign the GBIF Memorandum of Understanding. This process should include discussing the long-term vision and mission for the Participant node, and formulating a recommendation for the node’s establishment. It can be useful to begin by envisaging the scope of the biodiversity information facility required by the Participant, rather than looking at the role of the coordinating node in isolation. An effective first step is for the Head of Delegation or lead institution to convene a group of representatives from the Participant’s key biodiversity stakeholder institutions, helping to ensure their ownership of the process from the beginning.
+* The Participant’s membership status and date of joining GBIF
+* The Participant node’s date of establishment, website and contact information
+* An overview of the data published from the country’s institutions, with links to the data publishers and datasets, as well as data published from anywhere in the world about biodiversity located in the country
+* Information on the node’s history, vision and mission, structure and national funding
+* A list of news items relating to the Participant country and published by the Participant node, as well as links to social media channels operated by the node
+* Peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country, as well as articles relating to the country
+* Where available, validated lists of introduced and invasive species occurring in the country
 
-*See <<box-4,box 4>>*
+https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website.
 
-Many tools exist to support dialogue around the establishment of a Participant node. We recommend carrying out a https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment] (see <<capacity-self-assessment>>) to identify the key capacity strengths and needs, and from which to measure progress in future. A preliminary https://www.gbif.org/document/80890[content needs assessment] conducted at the Participant level through a survey, workshop or literature analysis (possibly led by a consultant) can provide valuable information to guide the stakeholder group in formulating their recommendations. This assessment helps ensure that the needs and priorities of a broad stakeholder group are represented in the process. Stakeholder mapping can also shape an understanding how the biodiversity information facility and node will address the Participant’s needs and priorities, and complement other biodiversity-related or information-related initiatives.
+Participant nodes are encouraged to share https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding examples] with the community, documenting their success stories that others can learn from in establishing or developing their nodes.
 
-After defining the scope of a biodiversity information facility and the long-term vision and goals for its coordinating node, stakeholders are ready to discuss implementation plans for the node. These should include aspects such as the collaborative framework, infrastructure requirements, governance structure, funding, membership of governing and/or advisory bodies, the node’s roles and responsibilities, as well as the key decision on where to locate the node.
+Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members or https://www.gbif.org/mentors[capacity enhancement mentors] for advice in establishing a node.
 
-The following questions can help the process of establishing a node:
+[[nodes-committee-assistance]]
+=== How can the GBIF Participant Node Managers Committee assist in establishing Participant nodes?
 
-. Which of the identified needs should the node address, and which can the members of the wider stakeholder network serve?
-. Which type of agreements (e.g., data sharing/use agreements, community norms, a formal mandate for the node) are needed to support effective collaboration between stakeholders?
-. What type of informatics infrastructure provides the ideal model for a Participant biodiversity information facility? Are there intermediate stages in developing this infrastructure that would allow the provision of basic services as early as possible? Should the infrastructure rely on a distributed system, or should the node act as a central hub for the network?
-. What type of governance structure should the node have? How can this help to create a sense of ownership in the node’s activities for the biodiversity information facility’s key stakeholders?
-. Does the node require advisory bodies, like scientific committees?
-. Which institutional location would provide the node with the best combination of neutrality and capacity to support key services?
-. Which institutional location would provide the node with the greatest institutional and financial support, as well as the maximum long-term stability? (See <<node-location-selection>>).
+The https://www.gbif.org/contact-us/directory?group=nodesCommittee[Participant Node Managers Committee] is a forum for sharing information and best practices between Participant nodes. It also https://www.gbif.org/document/80571[acts as an advisory committee] making recommendations to the other GBIF governing bodies. The committee comprises all Participant node managers, so as soon as a GBIF Participant has appointed a node manager, he or she is invited to take part in the committee’s activities.
 
-When designing and implementing the process of establishing a node, new Participants are encouraged to seek regular advice and guidance directly from existing Participants and the Secretariat: past experience often helps to identify potential problems and find effective solutions.
+The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes.
 
-Ideally, the results of this process should form the basis of the recommendations for establishing the Participant node (including formal aspects such as the legal mandate). The group of stakeholders convened to support this process may be encouraged to become the initial members of the node’s network and governing bodies.
+The Nodes Committee meets in a *Global Nodes Meeting* every other year. These meetings, often combined with training activities, provide an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize *Regional Nodes Meetings* either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region.
 
-Establishing a Participant node and biodiversity information facility is about changing the way individuals and institutions operate and cooperate. There is no single perfect solution, and choices will depend on the circumstances and priorities of each Participant. The more inclusive, transparent and participatory the process is, the greater the chances are that the node will effectively meet the Participant’s biodiversity information needs into the long term.
+In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes.
 
-[[node-location-selection]]
-=== How should a GBIF Participant select the institutional location for a node?
+[[capacity-enhancement-for-nodes]]
+=== How does GBIF support capacity enhancement for Participant nodes?
 
-As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. <<examples-of-node-hosts>> summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to all countries or host institutions. 
+Capacity enhancement provides an essential foundation for the sustainable functioning and performance of the GBIF Participant network and all its members, regardless of their level of development. 
 
-In addition to choosing the location of the node, Participants need to decide the position of the node team within the host institution: will it be an autonomous body with an independent mandate, a dedicated section or department of the host institution, or a group of staff members sharing their node responsibilities with other functions? New Participants are advised to consult with colleagues in the network and examine https://www.gbif.org/the-gbif-network[the country profiles on GBIF.org] to help identify the most appropriate model for national circumstances.
+The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way. Capacity enhancement includes improving the way Participants can contribute to and benefit from GBIF, how they organize their work and how they relate to other Participants at regional and global scales. GBIF supports capacity enhancement in the network through five complementary approaches shown in <<box-6,Box 6>>.
 
-As a final note, some GBIF Participants have chosen to divide their node team among several host institutions. In such cases, Participants are advised to designate one institution to coordinate node activity and act as the main contact point for interactions with the GBIF Secretariat and the global network. Only one representative per Participant may be appointed to the Participant Node Managers Committee.
+GBIF maintains https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment guidelines for national biodiversity information facilities] and for https://www.gbif.org/document/82785/[data holding institutions] as tools to support planning and the tracking of progress, for example through projects.
 
-[[examples-of-node-hosts]]
-.Generalized examples of the types of institutions designated as hosts of GBIF Participant nodes.
-[cols=2*a,options="header"]
-|===
+A https://www.gbif.org/programme/82219[*capacity enhancement support programme*] with an annual call for project proposals provides GBIF Participants with co-funding to address self-identified capacity needs through collaborative regional and international projects. These projects can combine a range of actions, including mentoring between Participant nodes, the organization of regional events and training workshops, the development or adaptation of documentation, GBIF advocacy actions and actions to promote data use. Participants are encouraged to consider developing project proposals to support the establishment and consolidation of their nodes in collaboration with experts from the GBIF network. Reviewing https://www.gbif.org/programme/82219/[past projects] can provide some useful examples of how to structure collaborative actions aiming to establish new Participant nodes.
 
-^|Potential advantages
+GBIF also seeks *supplementary funding* to support capacity enhancement, as through the https://www.gbif.org/programme/82629/[Biodiversity Fund for Asia] (BIFA) and the https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID) programme. These programmes have support projects to mobilize biodiversity data and promote the use of accessible biodiversity data in support of research and decision-making, and provide training to project teams.
 
-^|Potential disadvantages
+GBIF also provides access to *training opportunities* for node managers and staff. GBIF-related training events are held all over the world and are displayed on the https://www.gbif.org/resource/search?contentType=event[events section] of GBIF.org.
 
-2+^s|Natural history collections
+Finally, the GBIF network acts as a *community of practice*, with many node managers and their teams volunteering as https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement mentors] and https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[biodiversity open data ambassadors] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events.
 
-|Existing knowledge of the challenges and requirements of digitizing and managing natural history data
+[[other-resources]]
+=== What other documentation and resources are available for Participant nodes?
 
-|May take significant effort to demonstrate neutrality (e.g., if it is
-a zoological collection, that it can work with other types of collections),
-or that it is not competing for digitization funds, etc.
+GBIF maintains a library of freely accessible https://www.gbif.org/resource/search[resources] including tools, presentations, manuals and documentation for anyone to use and download. Many are specifically designed for Participant nodes and can be accessed using the filters available in the resource section of GBIF.org.
 
-May find difficulty in engaging with other communities holding other types
-of biodiversity data (e.g., observations, ecological data, etc.)
+[[contact]]
+=== Contact for further support
 
-Can make it difficult for the node to serve the needs of some stakeholders
-(e.g., policymakers)
-
-2+^s|Ministries of science, environment, et al.
-
-|Very strong mandate and capacity to influence and support policy and decision making
-
-Easily aligned with national biodiversity policies, strategies, and programme
-
-|Challenges to operate at the technical level and to provide technical
-support (e.g., to the scientific community)
-
-Easily affected by political changes
-
-May find difficulties in addressing needs from other ministries (e.g.,
-from science or environment)
-
-2+^s|Biodiversity or biological research institutes
-
-|High potential for developing capacity in biodiversity informatics easily and quickly
-
-Full knowledge of the biodiversity-research realm
-
-May have a strong and clear institutional mandate
-
-|May not be perceived as neutral by all stakeholders, depending on how
-the institute fits within the Participant’s overall institutional landscape
-(for example, if there is overlap or competition for resources)
-
-2+^s|Research councils or science & technology commissions
-
-|Excellent position to use the Participant node to coordinate, promote
-and facilitate the mobilization of biodiversity data from research
-
-Easily aligned with national research policies, strategies, and programmes
-
-|May not be perceived as neutral by all stakeholders, depending on how
-the institute fits within the Participant’s overall institutional landscape
-(for example, if there is overlap or competition for resources)
-
-2+^s|Non-governmental organizations
-
-|Flexibility and autonomy
-
-|Potential lack of mandate, difficulty in formally engaging with government
-institutions
-
-May become dependent on projects and project-based funding
-
-2+^s|University departments or faculties
-
-|High potential for developing capacity in biodiversity informatics easily
-and quickly
-
-Potential for aligning the node’s activities with various biodiversity
-research agenda
-
-|May face neutrality issues
-
-May become dependent on projects and project-based funding
-
-2+^s|National informatics facilities outside the biodiversity/ biological domain
-
-|Strong position of neutrality
-
-Ready access to technical capacity in informatics
-
-Potentially useful connections with well-funded national priorities on
-innovation and technology
-
-|Need to invest in staff bringing relevant scientific domain knowledge
-to work effectively with biodiversity data
-
-Need to build contacts and knowledge of relevant institutional networks
-
-|===
-
-[[node-staff-roles]]
-=== What are the recommendations on the staff roles within nodes?
-
-While the specific services that nodes provide vary from one Participant to another (see <<what-do-nodes-need>>), a node’s staff need to cover a number of typical functions:
-
-* Management and coordination
-* Outreach, communications, public relations and institutional networking (regional, national or thematic level)
-* Fundraising and project writing
-* Administrative work (financial management, reporting, organizing events and meetings etc.)
-* Capacity enhancement
-* Technical support service for data holders (helpdesk)
-* ICT support, webmaster & database management
-* Software development (data capture and cleaning tools, data visualization tools, data portal & web interfaces, web services, etc.)
-* Data analysis & modelling
-* Scientific liaison and promotion of data use in relevant research communities
-
-This diversity of functions makes it clear that nodes require staff with a wide range of skills ranging from administrative support to expertise in biodiversity informatics. Deciding how to staff a node will, of course, depend on its expected roles, the level of financial support and the hosting agreement or institutional location of the node. In cases where nodes are integrated into larger institutions, functions like administrative tasks are often provided through in-kind support from the host. The institutional landscape at the Participant level will affect the importance given to particular skills: for example, where a node is coordinating a large number of biodiversity-related institutions, it will need greater emphasis on outreach and networking skills.
-
-To cover the main functions listed above (assuming administrative support is provided by the host institution), Participants can consider at least the following four roles to ensure the node’s engagement with stakeholder communities, while providing the necessary technical skills to provide good technical support to data holders and users:
-
-* A node manager as the manager of the team, responsible for the majority of the interactions with the GBIF network and Secretariat including representation on the Participant node managers’ committee. Nodes may either combine this role with one of the three below or, ideally, dedicate an individual exclusively to the position of node manager.
-* A person with a scientific background, knowledge of the relevant research communities, and the ability to motivate and communicate with data holders, data users and those engaged in policy development
-* A person with a background in biodiversity informatics, skills in data management, and the ability to provide technical assistance to data holders and data users while maintaining databases
-* A person with an informatics background, able to develop and maintain an informatics infrastructure to enable biodiversity data publishing and support access to biodiversity data, for example, through a national data portal.
+Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact nodes@gbif.org for further information.

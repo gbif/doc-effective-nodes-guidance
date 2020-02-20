@@ -1,88 +1,165 @@
-[[what-do-nodes-need]]
-== What do Participant nodes need to be effective?
+[[establishing-process]]
+== What is the recommended process for establishing a Participant node?
 
-[[basic-requirements]]
-=== Basic requirements
+Establishing a Participant node involves a number of critical decisions that will impact its effectiveness, which therefore deserve careful consideration from the beginning. These decisions mostly apply to country Participants, although some extend to organizations when there are several networked institutions in which a node could potentially be based. The process is typically influenced by factors specific to the Participant’s context including:
 
-The capacities required by Participant nodes can be broadly divided into two categories (see the https://www.gbif.org/document/80954/[GBIF capacity enhancement framework]):
+. The institutional landscape at the Participant level: the number and type of institutions involved with biodiversity, roles, social and economic context, research tradition, etc.
+. The interests, needs, and priorities of the Participant with regard to biodiversity data and information +
+. The current and potential capacity of the Participant, in terms of funding, infrastructure, staff, etc.
 
-* *Functional capacities*: relating to organizational and institutional effectiveness
-* *Technical capacities*: the specific skills, knowledge and competencies that Participants need to mobilize, manage and use biodiversity data
+While these factors vary considerably between Participants, lessons from the community can help new GBIF Participants, or those going through strategic changes in their decision-making processes. <<box-4,Box 4>> shows a simplified participatory approach towards making some of the key decisions necessary to establish an effective node.
 
-The following **basic requirements** need to be considered when establishing a Participant node. The lack of any of these will reduce the overall effectiveness of the node.
+The key recommendation is to start a participatory process at the Participant level, ideally led by the Head of Delegation or the institution that has been given the responsibility to sign the GBIF Memorandum of Understanding. This process should include discussing the long-term vision and mission for the Participant node, and formulating a recommendation for the node’s establishment. It can be useful to begin by envisaging the scope of the biodiversity information facility required by the Participant, rather than looking at the role of the coordinating node in isolation. An effective first step is for the Head of Delegation or lead institution to convene a group of representatives from the Participant’s key biodiversity stakeholder institutions, helping to ensure their ownership of the process from the beginning.
 
-[[functional-capacities]]
-==== Functional capacities
+*See <<box-4,box 4>>*
 
-[[planning-and-policy-capacity]]
-===== Planning and Policy Capacity
+Many tools exist to support dialogue around the establishment of a Participant node. We recommend carrying out a https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment] (see <<capacity-self-assessment>>) to identify the key capacity strengths and needs, and from which to measure progress in future. A preliminary https://www.gbif.org/document/80890[content needs assessment] conducted at the Participant level through a survey, workshop or literature analysis (possibly led by a consultant) can provide valuable information to guide the stakeholder group in formulating their recommendations. This assessment helps ensure that the needs and priorities of a broad stakeholder group are represented in the process. Stakeholder mapping can also shape an understanding how the biodiversity information facility and node will address the Participant’s needs and priorities, and complement other biodiversity-related or information-related initiatives.
 
-The ability to formulate strategies, plans and policies based on relevant assessments.
+After defining the scope of a biodiversity information facility and the long-term vision and goals for its coordinating node, stakeholders are ready to discuss implementation plans for the node. These should include aspects such as the collaborative framework, infrastructure requirements, governance structure, funding, membership of governing and/or advisory bodies, the node’s roles and responsibilities, as well as the key decision on where to locate the node.
 
-. A *clear mandate* (official; institutional) through which the node is given formal responsibility for promoting, coordinating and facilitating the management and use of biodiversity data among the relevant stakeholder institutions within the Participant’s domain.  
-. A *governance structure* that is representative of the major stakeholders within the Participant's domain. An actively engaged governing body that guides and supports the node’s work helps to ensure that the relevant actors feel ownership of the node’s work. 
-. A clearly stated *long-term purpose* with plans for the medium and short term. The node needs a readily understood vision and mission that motivate the node’s team, governance and broader stakeholders. The node needs to be able to formulate a general strategy and regular *work plans* in line with priorities at the Participant level. These plans should define expectations about what the node will deliver in a given time frame and will help evaluate the node’s performance.
+The following questions can help the process of establishing a node:
 
-[[engagement-capacity]]
-===== Engagement Capacity
+. Which of the identified needs should the node address, and which can the members of the wider stakeholder network serve?
+. Which type of agreements (e.g., data sharing/use agreements, community norms, a formal mandate for the node) are needed to support effective collaboration between stakeholders?
+. What type of informatics infrastructure provides the ideal model for a Participant biodiversity information facility? Are there intermediate stages in developing this infrastructure that would allow the provision of basic services as early as possible? Should the infrastructure rely on a distributed system, or should the node act as a central hub for the network?
+. What type of governance structure should the node have? How can this help to create a sense of ownership in the node’s activities for the biodiversity information facility’s key stakeholders?
+. Does the node require advisory bodies, like scientific committees?
+. Which institutional location would provide the node with the best combination of neutrality and capacity to support key services?
+. Which institutional location would provide the node with the greatest institutional and financial support, as well as the maximum long-term stability? (See <<node-location-selection>>).
 
-The ability to initiate and sustain partnerships and networks.
+When designing and implementing the process of establishing a node, new Participants are encouraged to seek regular advice and guidance directly from existing Participants and the Secretariat: past experience often helps to identify potential problems and find effective solutions.
 
-[start=4]
-. *A collaborative framework* to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see <<node-location-selection>>). It should include community norms and relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them.  
-. *Communications and outreach plans, tools and materials* to support collaborative work between the members of the node’s network and to encourage the ongoing addition of new members. Materials can include a website, newsletters, brochures, mailing lists and use of social media platforms. The https://www.gbif.org/document/80926/[GBIF communications strategy] can help identify key messages for relevant audiences, and Participants can coordinate with the Secretariat on communication activities within the wider GBIF network.
+Ideally, the results of this process should form the basis of the recommendations for establishing the Participant node (including formal aspects such as the legal mandate). The group of stakeholders convened to support this process may be encouraged to become the initial members of the node’s network and governing bodies.
 
-[[implementation-and-evaluation-capacity]]
-===== Implementation and Evaluation Capacity
+Establishing a Participant node and biodiversity information facility is about changing the way individuals and institutions operate and cooperate. There is no single perfect solution, and choices will depend on the circumstances and priorities of each Participant. The more inclusive, transparent and participatory the process is, the greater the chances are that the node will effectively meet the Participant’s biodiversity information needs into the long term.
 
-The ability to manage, fund, budget, implement and evaluate projects and programmes.
+[[node-location-selection]]
+=== How should a GBIF Participant select the institutional location for a node?
 
-[start=6]
-. *Dedicated staff members* to implement the node’s mandate and work plans (see <<node-staff-roles>>). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training.  
-. *Institutional and financial support*, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds. 
+As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. <<examples-of-node-hosts>> summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to all countries or host institutions. 
 
-[[technical-capacities]]
-==== Technical capacities
+In addition to choosing the location of the node, Participants need to decide the position of the node team within the host institution: will it be an autonomous body with an independent mandate, a dedicated section or department of the host institution, or a group of staff members sharing their node responsibilities with other functions? New Participants are advised to consult with colleagues in the network and examine https://www.gbif.org/the-gbif-network[the country profiles on GBIF.org] to help identify the most appropriate model for national circumstances.
 
-[[biodiversity-data-mobilization]]
-===== Biodiversity data mobilization
+As a final note, some GBIF Participants have chosen to divide their node team among several host institutions. In such cases, Participants are advised to designate one institution to coordinate node activity and act as the main contact point for interactions with the GBIF Secretariat and the global network. Only one representative per Participant may be appointed to the Participant Node Managers Committee.
 
-The ability to collect, digitize and publish biodiversity data.
+[[examples-of-node-hosts]]
+.Generalized examples of the types of institutions designated as hosts of GBIF Participant nodes.
+[cols=2*a,options="header"]
+|===
 
-[start=8]
-. Access to *infrastructure to support the mobilization of biodiversity data*. https://www.gbif.org/ipt[Existing tools] support a range of implementation models, from using hosted data publication tools to maintaining a distributed network of data publishers and a centralized index of data.
-. A *programme to encourage and support data holders in mobilizing their data*, including, for example, promotion of incentives for data sharing and publication, technical helpdesk assistance, the translation or adaptation of documentation and manuals, the organization of training workshops and an e-learning platform. 
+^|Potential advantages
 
-[[biodiversity-data-management-and-curation]]
-===== Biodiversity data management and curation
+^|Potential disadvantages
 
-The ability to manage and curate biodiversity data, as a means of continuously improving data quality.
+2+^s|Natural history collections
 
-[start=10]
-. A *workflow for contributing to data quality improvement*, linked to the processes of endorsing data publishers joining the GBIF network and evaluation of datasets. This can include guidance and information for data holders on https://www.gbif.org/data-quality-requirements[data quality requirements] and data management techniques (see https://www.gbif.org/resource/search?q=best&contentType=document[best practice documents]), use of data quality tools and processes available from the GBIF network (for example, the https://www.gbif.org/tools/data-validator[GBIF data validator]), and ensuring that data holder can receive data quality feedback from the GBIF community. 
+|Existing knowledge of the challenges and requirements of digitizing and managing natural history data
 
-[[biodiversity-data-analysis-and-use]]
-===== Biodiversity data analysis and use
+|May take significant effort to demonstrate neutrality (e.g., if it is
+a zoological collection, that it can work with other types of collections),
+or that it is not competing for digitization funds, etc.
 
-The ability to access, analyze and use biodiversity data.
+May find difficulty in engaging with other communities holding other types
+of biodiversity data (e.g., observations, ecological data, etc.)
 
-[start=11]
-. *Tools and expertise to generate an agreed set of information products and services* including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders. 
-. A *programme to support access and use of biodiversity data* available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences. 
+Can make it difficult for the node to serve the needs of some stakeholders
+(e.g., policymakers)
 
-[[capacity-self-assessment]]
-==== Capacity self-assessment for national biodiversity information facilities
+2+^s|Ministries of science, environment, et al.
 
-The situation of each GBIF Participant is unique, with different capacity strengths and challenges. The https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment tool for national biodiversity information facilities] is designed to assist countries with planning at any stage of development by identifying capacity strengths and needs relating to the Participant node and the broader stakeholder network. The self-assessment questionnaire provides more detail on the capacity requirements for establishing an effective Participant node and we recommend completing it as part of the planning process for a new node, updating it regularly to track progress.
+|Very strong mandate and capacity to influence and support policy and decision making
 
-Once you have identified the key capacity needs, gaining access to the advice and experience of the GBIF network can help new Participants to establish effective nodes as efficiently as possible. Projects and partnerships with other Participants and their nodes can be an effective form of capacity development, for which there are many successful http://www.gbif.org/capacityenhancement/past-projects[examples]. GBIF has a http://www.gbif.org/capacityenhancement/support-programme[capacity enhancement support programme] that provides co-funding each year to support such projects. Less formal exchanges of ideas and experiences, for example, through regional meetings of GBIF nodes, also offer valuable opportunities to help nodes develop the basic capacity requirements. See <<further-support>> for more detail.
+Easily aligned with national biodiversity policies, strategies, and programme
 
-[[characteristics]]
-=== Characteristics
+|Challenges to operate at the technical level and to provide technical
+support (e.g., to the scientific community)
 
-In addition to the basic requirements, the following four characteristics help Participant nodes to be effective:
+Easily affected by political changes
 
-. *Neutrality*. Since nodes are established to coordinate, promote and facilitate data sharing activities among multiple institutions, any perceived lack of neutrality will reduce their effectiveness. For example, other biodiversity institutions and potential partners may be reluctant to collaborate if a node institution is directly involved in generating data for its own research purposes, suggesting it is a competitor or guided by vested interests. However, institutions thus engaged may also build a reputation of trust within the community by offering resources and services—including specialized knowledge about data curation—to other institutions with similar aims. The node should be able to work with all relevant stakeholders, independently of any preferences or priorities that are not defined or agreed by the whole community. The institutional location of the node is decisive for its neutrality (see <<node-location-selection>>).
-. *Leadership and initiative*. Nodes need to be able to stimulate interest and mobilize people and organizations to publish and use biodiversity data. The node should offer an inspiring, well-connected team engaged in similar initiatives elsewhere, and able to convene multiple communities to encourage participation, collaboration and other synergies effectively.
-. *A focus on service*. Nodes are established to assist a community of people and institutions, and should therefore seek to serve rather than dictate. As a support facility for the Participant’s network, the service-oriented approach should permeate all the activities carried out by the node.
-. *Adaptability*. Nodes need the ability to respond to change in the typically broad and complex landscape of funders, contributors and partners, to adapt their strategies to maintain their relevance, and to provide continuously stable services to their stakeholders. These qualities can benefit from a focus on periodic evaluation and assessment, as well as by providing ongoing learning opportunities for the node’s staff.
+May find difficulties in addressing needs from other ministries (e.g.,
+from science or environment)
+
+2+^s|Biodiversity or biological research institutes
+
+|High potential for developing capacity in biodiversity informatics easily and quickly
+
+Full knowledge of the biodiversity-research realm
+
+May have a strong and clear institutional mandate
+
+|May not be perceived as neutral by all stakeholders, depending on how
+the institute fits within the Participant’s overall institutional landscape
+(for example, if there is overlap or competition for resources)
+
+2+^s|Research councils or science & technology commissions
+
+|Excellent position to use the Participant node to coordinate, promote
+and facilitate the mobilization of biodiversity data from research
+
+Easily aligned with national research policies, strategies, and programmes
+
+|May not be perceived as neutral by all stakeholders, depending on how
+the institute fits within the Participant’s overall institutional landscape
+(for example, if there is overlap or competition for resources)
+
+2+^s|Non-governmental organizations
+
+|Flexibility and autonomy
+
+|Potential lack of mandate, difficulty in formally engaging with government
+institutions
+
+May become dependent on projects and project-based funding
+
+2+^s|University departments or faculties
+
+|High potential for developing capacity in biodiversity informatics easily
+and quickly
+
+Potential for aligning the node’s activities with various biodiversity
+research agenda
+
+|May face neutrality issues
+
+May become dependent on projects and project-based funding
+
+2+^s|National informatics facilities outside the biodiversity/ biological domain
+
+|Strong position of neutrality
+
+Ready access to technical capacity in informatics
+
+Potentially useful connections with well-funded national priorities on
+innovation and technology
+
+|Need to invest in staff bringing relevant scientific domain knowledge
+to work effectively with biodiversity data
+
+Need to build contacts and knowledge of relevant institutional networks
+
+|===
+
+[[node-staff-roles]]
+=== What are the recommendations on the staff roles within nodes?
+
+While the specific services that nodes provide vary from one Participant to another (see <<what-do-nodes-need>>), a node’s staff need to cover a number of typical functions:
+
+* Management and coordination
+* Outreach, communications, public relations and institutional networking (regional, national or thematic level)
+* Fundraising and project writing
+* Administrative work (financial management, reporting, organizing events and meetings etc.)
+* Capacity enhancement
+* Technical support service for data holders (helpdesk)
+* ICT support, webmaster & database management
+* Software development (data capture and cleaning tools, data visualization tools, data portal & web interfaces, web services, etc.)
+* Data analysis & modelling
+* Scientific liaison and promotion of data use in relevant research communities
+
+This diversity of functions makes it clear that nodes require staff with a wide range of skills ranging from administrative support to expertise in biodiversity informatics. Deciding how to staff a node will, of course, depend on its expected roles, the level of financial support and the hosting agreement or institutional location of the node. In cases where nodes are integrated into larger institutions, functions like administrative tasks are often provided through in-kind support from the host. The institutional landscape at the Participant level will affect the importance given to particular skills: for example, where a node is coordinating a large number of biodiversity-related institutions, it will need greater emphasis on outreach and networking skills.
+
+To cover the main functions listed above (assuming administrative support is provided by the host institution), Participants can consider at least the following four roles to ensure the node’s engagement with stakeholder communities, while providing the necessary technical skills to provide good technical support to data holders and users:
+
+* A node manager as the manager of the team, responsible for the majority of the interactions with the GBIF network and Secretariat including representation on the Participant node managers’ committee. Nodes may either combine this role with one of the three below or, ideally, dedicate an individual exclusively to the position of node manager.
+* A person with a scientific background, knowledge of the relevant research communities, and the ability to motivate and communicate with data holders, data users and those engaged in policy development
+* A person with a background in biodiversity informatics, skills in data management, and the ability to provide technical assistance to data holders and data users while maintaining databases
+* A person with an informatics background, able to develop and maintain an informatics infrastructure to enable biodiversity data publishing and support access to biodiversity data, for example, through a national data portal.

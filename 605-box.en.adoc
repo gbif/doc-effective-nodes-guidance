@@ -1,7 +1,7 @@
-[[box-4]]
-=== Box 4. A participatory approach to establishing a Participant node
+[[box-6]]
+Box 6. GBIF’s capacity enhancement approach
 ****
 [discrete]
 
-image::img/box-4.png[]
+//insert image; make text available for translation and language versioning//
 ****
