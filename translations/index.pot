@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-02-24 14:51+0000\n"
+"POT-Creation-Date: 2020-02-26 11:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:9
 msgid ""
-"GBIF Secretariat 2019. Establishing an Effective GBIF Participant Node: "
+"GBIF Secretariat (2019) Establishing an Effective GBIF Participant Node: "
 "Concepts and general "
 "considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
 msgstr ""
