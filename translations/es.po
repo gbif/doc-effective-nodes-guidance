@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-02-26 11:04+0000\n"
-"PO-Revision-Date: 2020-02-26 11:08\n"
+"POT-Creation-Date: 2020-03-25 11:24+0000\n"
+"PO-Revision-Date: 2020-03-25 11:42\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1403,8 +1403,8 @@ msgstr "¿Qué otros recursos y documentación tienen a disposición los nodos p
 
 #. type: Plain text
 #: 600.en.adoc:57
-msgid "GBIF maintains a library of freely accessible https://www.gbif.org/resource/search[resources] including tools, presentations, manuals and documentation for anyone to use and download. Many are specifically designed for Participant nodes and can be accessed using the filters available in the resource section of GBIF.org."
-msgstr "GBIF mantiene una biblioteca de https://www.gbif.org/resource/search[recursos] gratuitos, entre los cuales hay herramientas, presentaciones, manuales y documentación, para que todas las personas los utilicen y descarguen. Muchos de ellos están específicamente diseñados para los nodos participantes y, para acceder a ellos, se deben utilizar los filtros disponibles en la sección de recursos de GBIF.org."
+msgid "GBIF maintains a list of freely accessible https://www.gbif.org/article/T5SQrMJAU1OdFtHTNOWgN/[resources for nodes] including tools, presentations, manuals and documentation for anyone to use and download."
+msgstr ""
 
 #. type: Title ===
 #: 600.en.adoc:59
@@ -1414,8 +1414,8 @@ msgstr "Contacto"
 
 #. type: Plain text
 #: 600.en.adoc:61
-msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact nodes@gbif.org for further information."
-msgstr "El personal del Secretariado de GBIF está a disposición de los nodos participantes para brindarles ayuda y asesoramiento. Escriba a nodes@gbif.org para obtener más información."
+msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact mailto:nodes@gbif.org[nodes@gbif.org] for further information."
+msgstr ""
 
 #. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
 #: img/example-of-staff-roles-participant-node.en.svg:49
