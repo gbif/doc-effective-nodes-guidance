@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 18:38\n"
+"PO-Revision-Date: 2020-03-25 21:27\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -159,7 +159,7 @@ msgstr "Les Participants au GBIF sont des pays, des organisations ou économies 
 #: 100.en.adoc:7
 #, no-wrap
 msgid "*A GBIF Participant node is a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making. For countries, these networks aresometimes referred to as a biodiversity information facility* (see <<box-1,Box 1>>).\n"
-msgstr ""
+msgstr "*Un point nodal du GBIF est une équipe désignée par un Participant pour coordonner un réseau de personnes et d'institutions qui produisent, gèrent et utilisent les données sur la biodiversité, construisant collectivement une infrastructure pour fournir des informations sur la biodiversité. Ils sont soutenus par des arrangements organisationnels et des solutions informatiques, qui visent à améliorer la disponibilité et l'utilité des données sur la biodiversité pour la recherche, les politiques et la prise de décision. Pour les pays, ces réseaux sont parfois désignés comme des infrastructures d'information sur la biodiversité* (voir <<box-1,Box 1>>).\n"
 
 #. type: Plain text
 #: 100.en.adoc:9
