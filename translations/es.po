@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 17:48\n"
+"PO-Revision-Date: 2020-03-25 19:22\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -169,12 +169,12 @@ msgstr "Dos roles principales se asignan cuando un Participante se une a GBIF: e
 #. type: Plain text
 #: 100.en.adoc:11
 msgid "A broad range of *stakeholders* are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers <<box-3,Box 3>>). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network."
-msgstr ""
+msgstr "Una amplia gama de *partes interesadas* están involucradas en actividades relacionadas con GBIF a nivel del Participante incluidos los titulares de datos, los expertos en conocimiento de biodiversidad, los usuarios de datos y los tomadores de decisiones <<box-3,Cuadro 3>>). Los nodos Participantes tienen el rol de conectar las necesidades e intereses de cada una de estas audiencias, permitiéndoles contribuir y beneficiarse de la participación en la red GBIF."
 
 #. type: Plain text
 #: 100.en.adoc:13
 msgid "Participant nodes typically have four main functions (see also <<node-services>>):"
-msgstr ""
+msgstr "Generalmente, los nodos participantes tienen cuatro funciones principales (véase también la _sección 4_):"
 
 #. type: Plain text
 #: 100.en.adoc:15
