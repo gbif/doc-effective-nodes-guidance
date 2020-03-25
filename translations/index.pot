@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-02-26 11:04+0000\n"
+"POT-Creation-Date: 2020-03-25 11:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2281,11 +2281,10 @@ msgstr ""
 #. type: Plain text
 #: 600.en.adoc:57
 msgid ""
-"GBIF maintains a library of freely accessible "
-"https://www.gbif.org/resource/search[resources] including tools, "
-"presentations, manuals and documentation for anyone to use and "
-"download. Many are specifically designed for Participant nodes and can be "
-"accessed using the filters available in the resource section of GBIF.org."
+"GBIF maintains a list of freely accessible "
+"https://www.gbif.org/article/T5SQrMJAU1OdFtHTNOWgN/[resources for nodes] "
+"including tools, presentations, manuals and documentation for anyone to use "
+"and download."
 msgstr ""
 
 #. type: Title ===
@@ -2298,8 +2297,8 @@ msgstr ""
 #: 600.en.adoc:61
 msgid ""
 "Staff from the GBIF Secretariat are available to provide guidance and "
-"assistance to Participant nodes. Please contact nodes@gbif.org for further "
-"information."
+"assistance to Participant nodes. Please contact "
+"mailto:nodes@gbif.org[nodes@gbif.org] for further information."
 msgstr ""
 
 #. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
