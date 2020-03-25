@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 11:42\n"
+"PO-Revision-Date: 2020-03-25 16:31\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -51,7 +51,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: colophon.en.adoc:9
 msgid "GBIF Secretariat (2019) Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
-msgstr ""
+msgstr "Secrétariat du GBIF (2019). Mise en place d’un point nodal participant du GBIF efficace : concepts et considérations générales. Copenhague. https://doi.org/10.15468/doc.fm4b-6q42."
 
 #. type: Title ===
 #: colophon.en.adoc:10
@@ -132,7 +132,7 @@ msgstr "La conservation et l’utilisation durable des ressources biologiques d�
 #. type: Plain text
 #: preface.en.adoc:7
 msgid "GBIF—the Global Biodiversity Information Facility—is https://www.gbif.org/the-gbif-network[an international network] and https://www.gbif.org[research infrastructure] that exists to enable free and open access to biodiversity data from all sources and to support biodiversity science, environmental research, and evidence-based decision-making. GBIF operates as a federated system of distributed data publishing efforts, coordinated through a global informatics infrastructure and collaborative network."
-msgstr ""
+msgstr "Le GBIF—ou Global Biodiversity Information Facility—est https://www.gbif.org/the-gbif-network[un réseau international] et https://www.gbif.org[une infrastructure de recherche] qui existe pour permettre un accès libre et ouvert aux données sur la biodiversité provenant de toutes les sources et pour soutenir la science de la biodiversité, la recherche environnementale et la prise de décisions fondée sur des données probantes. Le GBIF est un système fédéré d'efforts de publication de données, coordonné par une infrastructure informatique mondiale et un réseau collaboratif."
 
 #. type: Plain text
 #: preface.en.adoc:9
