@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 16:31\n"
+"PO-Revision-Date: 2020-03-25 18:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -142,7 +142,7 @@ msgstr "Depuis la création du GBIF en 2001, les organisations et pays participa
 #. type: Plain text
 #: preface.en.adoc:10
 msgid "This guide draws on the experience of the GBIF network to offer guidance on establishing an effective Participant node. It targets two main audiences within the ‘GBIF family’: the delegates representing each Participant on the GBIF Governing Board, and the node managers appointed to coordinate biodiversity information facilities within each country or organization. It can also be used by countries and institutions that have not yet joined GBIF, but are making plans to do so. It introduces key concepts and generalized views of Participant node activities, including recommendations on a participatory approach to follow in designating a node, and designing its governance structures."
-msgstr ""
+msgstr "Ce guide s'appuie sur l'expérience du réseau GBIF pour offrir des conseils sur l'établissement d'un point nodal efficace. Il cible deux publics principaux au sein de la « famille GBIF » : les délégués représentant chaque Participant au Conseil d’administration du GBIF, et les responsables de points nodaux chargés de coordonner les installations d'information sur la biodiversité dans chaque pays ou organisation. Il peut également être utilisé par des pays et des institutions qui n'ont pas encore rejoint le GBIF, mais qui planifient de le faire. Il introduit des concepts clés et des vues généralisées des activités des points nodaux participants, y compris les recommandations sur une approche participative à suivre dans la désignation d'un nœud, et la conception de ses structures de gouvernance."
 
 #. type: Title ==
 #: 100.en.adoc:2
