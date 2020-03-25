@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 14:59\n"
+"PO-Revision-Date: 2020-03-25 15:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -142,7 +142,7 @@ msgstr "Desde la fundación de GBIF en 2001, las organizaciones y países partic
 #. type: Plain text
 #: preface.en.adoc:10
 msgid "This guide draws on the experience of the GBIF network to offer guidance on establishing an effective Participant node. It targets two main audiences within the ‘GBIF family’: the delegates representing each Participant on the GBIF Governing Board, and the node managers appointed to coordinate biodiversity information facilities within each country or organization. It can also be used by countries and institutions that have not yet joined GBIF, but are making plans to do so. It introduces key concepts and generalized views of Participant node activities, including recommendations on a participatory approach to follow in designating a node, and designing its governance structures."
-msgstr "Esta guía se basa en la experiencia de la red GBIF para ofrecer orientación sobre el establecimiento de un nodo participante efectivo. Está dirigido a dos públicos principales de la \"familia GBIF\": los delegados que representan a cada participante en el Consejo de Administración de GBIF, y los administradores de nodos designados para coordinar las instalaciones de información sobre biodiversidad dentro de cada país u organización. También puede ser utilizado por países e instituciones que todavía no se han adherido a la GBIF, pero están haciendo planes para hacerlo. Introduce conceptos clave y vistas generalizadas de las actividades del nodo participante, incluyendo recomendaciones sobre un enfoque participativo a seguir en la designación de un nodo y diseñar sus estructuras de gobernanza."
+msgstr "Esta guía se basa en la experiencia de la red GBIF para ofrecer orientación sobre el establecimiento de un nodo Participante efectivo. Está dirigido a dos públicos principales de la \"familia GBIF\": los delegados que representan a cada participante en el Consejo de Administración de GBIF, y los administradores de nodos designados para coordinar las instalaciones de información sobre biodiversidad dentro de cada país u organización. También puede ser utilizado por países e instituciones que todavía no se han adherido a la GBIF, pero están haciendo planes para hacerlo. Introduce conceptos clave y vistas generalizadas de las actividades del nodo participante, incluyendo recomendaciones sobre un enfoque participativo a seguir en la designación de un nodo y diseñar sus estructuras de gobernanza."
 
 #. type: Title ==
 #: 100.en.adoc:2
@@ -159,7 +159,7 @@ msgstr "*Los participantes de GBIF son países, organizaciones internacionales o
 #: 100.en.adoc:7
 #, no-wrap
 msgid "*A GBIF Participant node is a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making. For countries, these networks aresometimes referred to as a biodiversity information facility* (see <<box-1,Box 1>>).\n"
-msgstr ""
+msgstr "*Un nodo participante GBIF es un equipo designado por un Participante para coordinar una red de personas e instituciones que producen, administran y utilizan datos sobre biodiversidad, para construir colectivamente una infraestructura que proporcione información sobre biodiversidad. Están respaldados por arreglos organizacionales y soluciones informáticas, trabajando para mejorar la disponibilidad y utilidad de los datos sobre biodiversidad para la investigación, la política y la toma de decisiones. Para los países, estas redes son referidas a un centro de información sobre la biodiversidad* (ver <<box-1,Box 1>>).\n"
 
 #. type: Plain text
 #: 100.en.adoc:9
