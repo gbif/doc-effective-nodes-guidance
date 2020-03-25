@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 11:42\n"
+"PO-Revision-Date: 2020-03-25 14:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -51,7 +51,7 @@ msgstr "Cita bibliográfica sugerida"
 #. type: Plain text
 #: colophon.en.adoc:9
 msgid "GBIF Secretariat (2019) Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
-msgstr ""
+msgstr "Secretariado de GBIF (2019) Estableciendo un Nodo Participante de GBIF efectivo: Conceptos y consideraciones generales. Copenhague. https://doi.org/10.15468/doc-z79c-sa53."
 
 #. type: Title ===
 #: colophon.en.adoc:10
@@ -62,7 +62,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid "https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
-msgstr ""
+msgstr "Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn y https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
 
 #. type: Title ===
 #: colophon.en.adoc:13
@@ -100,7 +100,7 @@ msgstr "Segunda edición (GitHub) publicada, abril de 2019."
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]. And Matthew Blissett."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-z79c-sa53[First edition], Marzo 2015, por Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] y https://orcid.org/0000-0001-6492-4016[Donald Hobern]. Y Matthew Blissett."
 
 #. type: Plain text
 #: colophon.en.adoc:25
@@ -142,7 +142,7 @@ msgstr "Desde la fundación de GBIF en 2001, las organizaciones y países partic
 #. type: Plain text
 #: preface.en.adoc:10
 msgid "This guide draws on the experience of the GBIF network to offer guidance on establishing an effective Participant node. It targets two main audiences within the ‘GBIF family’: the delegates representing each Participant on the GBIF Governing Board, and the node managers appointed to coordinate biodiversity information facilities within each country or organization. It can also be used by countries and institutions that have not yet joined GBIF, but are making plans to do so. It introduces key concepts and generalized views of Participant node activities, including recommendations on a participatory approach to follow in designating a node, and designing its governance structures."
-msgstr ""
+msgstr "Esta guía se basa en la experiencia de la red GBIF para ofrecer orientación sobre el establecimiento de un nodo participante efectivo. Está dirigido a dos públicos principales de la \"familia GBIF\": los delegados que representan a cada participante en el Consejo de Administración de GBIF, y los administradores de nodos designados para coordinar las instalaciones de información sobre biodiversidad dentro de cada país u organización. También puede ser utilizado por países e instituciones que todavía no se han adherido a la GBIF, pero están haciendo planes para hacerlo. Introduce conceptos clave y vistas generalizadas de las actividades del nodo participante, incluyendo recomendaciones sobre un enfoque participativo a seguir en la designación de un nodo y diseñar sus estructuras de gobernanza."
 
 #. type: Title ==
 #: 100.en.adoc:2
