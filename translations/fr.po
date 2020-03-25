@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-02-26 11:04+0000\n"
-"PO-Revision-Date: 2020-02-26 11:08\n"
+"POT-Creation-Date: 2020-03-25 11:24+0000\n"
+"PO-Revision-Date: 2020-03-25 11:42\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1403,8 +1403,8 @@ msgstr "Quels sont les autres documents et ressources mis à la disposition des 
 
 #. type: Plain text
 #: 600.en.adoc:57
-msgid "GBIF maintains a library of freely accessible https://www.gbif.org/resource/search[resources] including tools, presentations, manuals and documentation for anyone to use and download. Many are specifically designed for Participant nodes and can be accessed using the filters available in the resource section of GBIF.org."
-msgstr "Le GBIF gère une bibliothèque de https://www.gbif.org/resource/search[ressources] en libre accès comprenant des outils, des présentations, des manuels et des documents pouvant être utilisés et téléchargés par tout un chacun. Nombre de ces ressources sont spécifiquement conçues pour les points nodaux de participants et peuvent être consultées en utilisant les filtres disponibles dans la rubrique http://www.gbif.fr/page/ressources/documentation[Ressources] de GBIF.fr ou GBIF.org."
+msgid "GBIF maintains a list of freely accessible https://www.gbif.org/article/T5SQrMJAU1OdFtHTNOWgN/[resources for nodes] including tools, presentations, manuals and documentation for anyone to use and download."
+msgstr ""
 
 #. type: Title ===
 #: 600.en.adoc:59
@@ -1414,8 +1414,8 @@ msgstr "Qui contacter pour tout renseignement complémentaire ?"
 
 #. type: Plain text
 #: 600.en.adoc:61
-msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact nodes@gbif.org for further information."
-msgstr "Le personnel du Secrétariat du GBIF est à la disposition des points nodaux pour leur offrir conseils et assistance. Veuillez contacter nodes@gbif.org pour obtenir de plus amples informations."
+msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact mailto:nodes@gbif.org[nodes@gbif.org] for further information."
+msgstr ""
 
 #. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
 #: img/example-of-staff-roles-participant-node.en.svg:49
