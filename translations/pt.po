@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 11:42\n"
+"PO-Revision-Date: 2020-03-25 15:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1427,7 +1427,7 @@ msgstr ""
 #: img/example-of-staff-roles-participant-node.en.svg:82
 #, no-wrap
 msgid "Node manager"
-msgstr ""
+msgstr "Coordenador do Nó"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:99
@@ -1487,10 +1487,10 @@ msgstr ""
 #: img/example-of-staff-roles-participant-node.en.svg:156
 #, no-wrap
 msgid "e.g. national data portal"
-msgstr ""
+msgstr "ex.: portal de dados nacional"
 
 #. type: Plain text
 #: 605-box.en.adoc:3
 msgid "Box 6. GBIF’s capacity enhancement approach"
-msgstr ""
+msgstr "Caixa 6. Abordagem do reforço da capacidade do GBIF"
 
