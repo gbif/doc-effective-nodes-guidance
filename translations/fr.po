@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 16:59\n"
+"PO-Revision-Date: 2020-03-26 18:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -568,7 +568,7 @@ msgstr "Les exemples de services comprennent :"
 #. type: Plain text
 #: 300.en.adoc:12
 msgid "Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], https://www.ipbes.net[IPBES], https://iucn.org[IUCN], https://obis.org[OBIS] and others, including close liaison or joint working with relevant nodes or focal points for these initiatives"
-msgstr ""
+msgstr "Promouvoir des synergies avec les activités nationales et régionales impliquant d'autres initiatives mondiales en faveur de la biodiversité, comme le http://www.cbd.int/chm/default.shtml[Mécanisme de Clearing-House de la CBD], https://www.ipbes.net[IPBES], https://iucn.org[IUCN], https://obis.org[OBIS] et d'autres, incluant une connection étroite ou du travail conjoint avec des nœuds ou des points focaux pertinents pour ces initiatives"
 
 #. type: Plain text
 #: 300.en.adoc:13
@@ -609,7 +609,7 @@ msgstr "La promotion et la coordination de l’investissement national dans la n
 #. type: Plain text
 #: 300.en.adoc:25
 msgid "Providing a technical infrastructure and support to enable biodiversity data to be published on the Internet and through the GBIF network (including https://www.gbif.org/dataset-classes[sampling-event metadata, occurrence data, checklist data and collections metadata])"
-msgstr ""
+msgstr "Fournir une infrastructure technique et un support pour permettre la publication des données sur la biodiversité sur Internet et via le réseau GBIF (y compris https://www.gbif.org/dataset-classes[métadonnées d'échantillonnage, données d'occurrence, listes d'espèces et métadonnées des collections])"
 
 #. type: Plain text
 #: 300.en.adoc:26
