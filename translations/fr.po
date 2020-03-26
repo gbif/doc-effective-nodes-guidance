@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 14:12\n"
+"PO-Revision-Date: 2020-03-26 14:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -378,27 +378,27 @@ msgstr "Après avoir rejoint le GBIF, les participants sont également encourag�
 #. type: delimited block *
 #: 110-box.en.adoc:28
 msgid "Managing the node team that will coordinate biodiversity data mobilization, access and use among relevant stakeholders in the country or organization."
-msgstr ""
+msgstr "La gestion de l'équipe du point nodal qui coordonnera la mobilisation , l'accès et l'utilisation des données de biodiversité au sein des parties prenantes pertinentes du pays ou de l'organisation."
 
 #. type: delimited block *
 #: 110-box.en.adoc:29
 msgid "Collaborating with other node managers and the Secretariat to ensure that the country or organization benefits fully from GBIF participation, including through mentoring arrangements and guidance to share skills and best practices in biodiversity informatics."
-msgstr ""
+msgstr "Collaborer avec d'autres gestionnaires de noeud et le Secrétariat pour s'assurer que le pays ou l'organisation bénéficie pleinement de sa participation au GBIF, y compris par le biais d'arrangements de parrainage et de conseils de partage des compétences et des meilleures pratiques en matière d'informatique de la biodiversité."
 
 #. type: delimited block *
 #: 110-box.en.adoc:30
 msgid "As a member of the GBIF Nodes Committee, attending global nodes meetings (held every two years) and regional nodes meetings (held either annually or every two years) as well as technical workshops and training events."
-msgstr ""
+msgstr "En tant que membre du Comité des nœuds GBIF, assister aux réunions mondiales des nœuds (tenues tous les deux ans) et aux réunions régionales des nœuds (tenues annuellement ou tous les deux ans) ainsi qu'aux ateliers techniques et aux événements de formation."
 
 #. type: delimited block *
 #: 110-box.en.adoc:31
 msgid "Paying close attention to communications from the GBIF Secretariat, including webinars and newsletters, on technical developments and opportunities such as capacity enhancement support calls, and keeping the Secretariat informed about node activities that may be of interest to the wider community"
-msgstr ""
+msgstr "Accorder une attention particulière aux communications du Secrétariat du GBIF, y compris les webinaires et les bulletins d'information, sur les développements techniques et les opportunités telles que les appels de soutien au renforcement des capacités, et tenir informé le Secrétariat des activités du noeud qui pourraient intéresser la communauté dans son ensemble"
 
 #. type: delimited block *
 #: 110-box.en.adoc:32
 msgid "Establishing a close working relationship with the HoD to ensure he/she is well informed about the needs and performance of the node, and ideally attending Governing Board meetings as an additional delegate"
-msgstr ""
+msgstr "Établir une relation de travail étroite avec le HoD pour s'assurer qu'il est bien informé des besoins et des performances du nœud, et idéalement assister en tant que délégué supplémentaire au Conseil d'Administration"
 
 #. type: Title ==
 #: 200.en.adoc:2
@@ -409,12 +409,12 @@ msgstr "À quoi servent les points nodaux ?"
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "Participant nodes and biodiversity information facilities help GBIF Participants *increase the return from their past, current, and future investments* in biodiversity research and data collection. They help *make the publication of primary data part of the scientific mainstream*, as much part of culture and practice as publication of the results in research itself. In their facilitating role, nodes help data holders publish their data using common standards and protocols to ensure interoperability and open access and *make data available for the widest possible reuse*. They also contribute to commitments that *promote transparency and open access* to scientific data, helping data holders comply with open data regulations and requirements."
-msgstr ""
+msgstr "Les nœuds participants et les systèmes d’information sur la biodiversité aident les Participants au GBIF *à augmenter le rendement de leurs investissements passés, actuels et futurs* dans la recherche sur la biodiversité et la collecte de données. Ils aident à *faire en sorte que la publication des données primaires soit partie intégrante de la culture scientifique*, aussi importante que la publication des résultats de la recherche elle-même. Dans leur rôle de facilitateurs, les nœuds aident les détenteurs de données à publier leurs données en utilisant des normes et des protocoles communs pour assurer l'interopérabilité et le libre accès et pour *rendre les données disponibles pour une réutilisation la plus large possible*. Ils contribuent également à des engagements qui *favorisent la transparence et l'ouverture de l'accès* aux données scientifiques, en aidant les détenteurs de données à se conformer à la réglementation et aux exigences en matière de données ouvertes."
 
 #. type: Plain text
 #: 200.en.adoc:7
 msgid "Nodes play a valuable role in promoting data management practices and in encouraging the community of biodiversity knowledge-holders to pool their expertise. This work can in turn continuously *improve the quality* and fitness-for-use of available biodiversity data and provide a platform for *taxonomy and collaborative collection management*."
-msgstr ""
+msgstr "Les points nodaux jouent un rôle précieux dans la promotion des pratiques de gestion des données et dans l'appui au partage d'expertise dans la communauté des détenteurs de connaissances en biodiversité. Ce travail peut à son tour *améliorer continuellement la qualité* et la qualité d'utilisation des données disponibles sur la biodiversité et fournir une plate-forme pour la *gestion  collaborative de la taxonomie et des collections*."
 
 #. type: Plain text
 #: 200.en.adoc:9
