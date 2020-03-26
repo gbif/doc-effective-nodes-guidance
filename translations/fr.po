@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 16:40\n"
+"PO-Revision-Date: 2020-03-26 16:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -525,7 +525,7 @@ msgstr "Ce groupe comprend les ministères des gouvernements nationaux et les re
 #. type: delimited block *
 #: 205-box.en.adoc:40
 msgid "The key focus of engaging with funders and executive decision makers is to *build support for all GBIF-related activities*."
-msgstr ""
+msgstr "Le principal objectif de l'engagement auprès des bailleurs de fonds et des preneurs de décisions est de *renforcer le soutien à toutes les activités liées au GBIF*."
 
 #. type: Title =====
 #: 205-box.en.adoc:42
