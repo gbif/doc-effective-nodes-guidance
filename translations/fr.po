@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 21:59\n"
+"PO-Revision-Date: 2020-03-26 22:19\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -691,7 +691,7 @@ msgstr "Faciliter la gestion et la conservation des données sur la biodiversit�
 #. type: Plain text
 #: 300.en.adoc:51
 msgid "Increasing the quality of available biodiversity data to meet https://www.gbif.org/data-quality-requirements[GBIF data quality requirements], for example, through the standardization and documentation of existing data sources with metadata"
-msgstr ""
+msgstr "Améliorer la qualité des données sur la biodiversité disponibles pour répondre aux https://www.gbif.org/data-requirements[exigences de qualité des données du GBIF], par exemple, à travers la standardisation et la documentation des sources de données existantes avec des métadonnées"
 
 #. type: Plain text
 #: 300.en.adoc:52
