@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 20:32\n"
+"PO-Revision-Date: 2020-03-26 23:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -199,7 +199,7 @@ msgstr "Proporcionar experiencia en gestión de datos de biodiversidad y mejorar
 #. type: Plain text
 #: 100.en.adoc:20
 msgid "Participant nodes are thus *knowledge hubs* both for biodiversity data and broader GBIF-related activities. They not only guide stakeholders to relevant sources of biodiversity information but also to such things as:"
-msgstr ""
+msgstr "Los nodos participantes son, por lo tanto, *centros de conocimiento*,  tanto para los datos de biodiversidad, como para las actividades más amplias relacionadas con GBIF. No sólo orientan a las partes interesadas hacia fuentes relevantes de información sobre biodiversidad, sino también a cosas como:"
 
 #. type: Plain text
 #: 100.en.adoc:22
