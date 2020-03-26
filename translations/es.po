@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 19:22\n"
+"PO-Revision-Date: 2020-03-26 20:32\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -179,7 +179,7 @@ msgstr "Generalmente, los nodos participantes tienen cuatro funciones principale
 #. type: Plain text
 #: 100.en.adoc:15
 msgid "Coordinating a community of initiatives relating to biodiversity, including making connections to the international GBIF network"
-msgstr ""
+msgstr "Coordinar una comunidad de iniciativas relacionadas con la biodiversidad, así como mantener la conexión con la red internacional GBIF"
 
 #. type: Plain text
 #: 100.en.adoc:16
@@ -189,12 +189,12 @@ msgstr "Impulsar y fomentar la movilización de los datos sobre biodiversidad en
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Encouraging the reuse of the available data to support biodiversity-related science and support decision-making for sustainable development"
-msgstr ""
+msgstr "Fomentar la reutilización de los datos disponibles para apoyar la ciencia relacionada con la biodiversidad y apoyar la toma de decisiones para el desarrollo sostenible"
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "Providing expertise on biodiversity data management and improving data quality to support users' needs"
-msgstr ""
+msgstr "Proporcionar experiencia en gestión de datos de biodiversidad y mejorar la calidad de los datos para satisfacer las necesidades de los usuarios"
 
 #. type: Plain text
 #: 100.en.adoc:20
@@ -312,7 +312,7 @@ msgstr ""
 #: 110-box.en.adoc:5
 #, no-wrap
 msgid "Head of Delegation"
-msgstr ""
+msgstr "Jefe de Delegación"
 
 #. type: delimited block *
 #: 110-box.en.adoc:8
@@ -368,7 +368,7 @@ msgstr ""
 #: 110-box.en.adoc:23
 #, no-wrap
 msgid "Node Manager"
-msgstr ""
+msgstr "Responsable del Nodo"
 
 #. type: delimited block *
 #: 110-box.en.adoc:26
