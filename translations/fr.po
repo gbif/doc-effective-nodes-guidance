@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 15:20\n"
+"PO-Revision-Date: 2020-03-26 15:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -419,7 +419,7 @@ msgstr "Les points nodaux jouent un rôle précieux dans la promotion des pratiq
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "By coordinating biodiversity information facilities, nodes are well positioned to assess biodiversity data availability and gaps (taxonomic, spatial and temporal) at the Participant level, to understand data and information use and needs, and to implement strategies in response. Thus, nodes can contribute to *setting biodiversity research priorities*."
-msgstr ""
+msgstr "En coordonnant les infrastructures d'information sur la biodiversité, les nœuds sont bien placés pour évaluer la disponibilité des données sur la biodiversité et les lacunes (taxonomique, spatiales et temporelles) au niveau de l'acteur (Participant), pour comprendre l'utilisation et les besoins des données et de l'information, et pour mettre en œuvre des stratégies en conséquence. Ainsi, les nœuds peuvent contribuer à *définir les priorités de recherche en matière de biodiversité*."
 
 #. type: Plain text
 #: 200.en.adoc:11
