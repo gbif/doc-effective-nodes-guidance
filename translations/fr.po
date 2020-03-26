@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 08:09\n"
+"PO-Revision-Date: 2020-03-26 08:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -229,12 +229,12 @@ msgstr "La plupart des points nodaux développent un *cadre collaboratif* de rè
 #. type: Plain text
 #: 100.en.adoc:29
 msgid "The *governance structure* of each Participant node varies but often takes the form of a board or steering committee. This configuration enables data holders, users and other stakeholders to take collective decisions concerning the publishing and reuse of biodiversity data while providing the node with priorities and guidance on the implementation of its work."
-msgstr "La *structure de gouvernance* de chaque point nodal varie mais prend souvent la forme d'un conseil d'administration ou d'un comité directeur. Cette configuration permet aux détenteurs de données, aux utilisateurs et aux autres parties prenantes de prendre des décisions collectives concernant la publication et la réutilisation des données sur la biodiversité, tout en fournissant au point nodal des priorités et des orientations sur la mise en œuvre de ses travaux."
+msgstr "La *structure de gouvernance* de chaque point nodal varie mais prend souvent la forme d'un conseil d'administration ou d'un comité directeur. Cette configuration permet aux détenteurs de données, aux utilisateurs et aux autres parties prenantes de prendre des décisions collectives concernant la publication et la réutilisation des données de biodiversité, tout en fournissant au point nodal des priorités et des orientations sur la mise en œuvre de ses travaux."
 
 #. type: Plain text
 #: 100.en.adoc:30
 msgid "Participant nodes provide the technical expertise to *support the publication of biodiversity data of the highest possible quality by data holders*. This involves using informatics infrastructure, and many implementation models are available, from using hosted data publication services to maintaining a distributed network of data publishers and a centralized index of the data. The node may also support a range of other *information products and services*, for example, by maintaining a biodiversity data portal and online tools for data analysis."
-msgstr ""
+msgstr "Les points nodaux fournissent l'expertise technique pour *soutenir la publication de données de biodiversité de la plus haute qualité possible par les détenteurs de données*. Cela implique l'utilisation d'infrastructure informatique dont de nombreux modèles d'implémentation sont disponibles: de l'utilisation de services de publication de données hébergés à la maintenance d'un réseau distribué d'éditeurs de données et d'un index centralisé des données. Le point nodal peut aussi prendre en charge une gamme d'autres *produits d'information et services*, par exemple, en maintenant un portail de données de biodiversité et des outils en ligne pour l'analyse des données."
 
 #. type: Title ===
 #: 105-box.en.adoc:2
@@ -252,7 +252,7 @@ msgstr "Structures principales"
 #: 105-box.en.adoc:8
 #, no-wrap
 msgid "*Participant*: a country, economy or organization that joins GBIF by signing a https://www.gbif.org/document/80661[Memorandum of Understanding] and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. \n"
-msgstr ""
+msgstr "*Participant*: un pays, une économie ou une organisation qui a rejoint le GBIF en signant le https://www.gbif.org/document/80661[Protocole d’accord] et en établissant un effort coordonné pour contribuer à l’accès libre et l’utilisation des données de biodiversité, pour faire avancer la recherche scientifique et pour promouvoir le développement technologique et durable.\n"
 
 #. type: delimited block *
 #: 105-box.en.adoc:10
@@ -264,7 +264,7 @@ msgstr "*Système d’information sur la biodiversité* : également appelé « 
 #: 105-box.en.adoc:12
 #, no-wrap
 msgid "*Participant node*: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.\n"
-msgstr ""
+msgstr "*Point nodal du participant* : une équipe de coordination désignée par le Participant pour coordonner un réseau de personnes et d'institutions qui produisent, gérent et utilisent les données de biodiversité, et construire collectivement une infrastructure fournissant des informations sur la biodiversité.\n"
 
 #. type: Title ====
 #: 105-box.en.adoc:16
@@ -306,7 +306,7 @@ msgstr "*Parties prenantes du système d’information sur la biodiversité* : t
 #: 110-box.en.adoc:2
 #, no-wrap
 msgid "Box 2. GBIF Head of Delegation and Node Manager: roles and responsibilities"
-msgstr ""
+msgstr "Box 2. Chef de la délégation et Gestionnaire du nœud GBIF : rôles et responsabilités"
 
 #. type: Title ====
 #: 110-box.en.adoc:5
