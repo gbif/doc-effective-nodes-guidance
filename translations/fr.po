@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 18:51\n"
+"PO-Revision-Date: 2020-03-26 18:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -629,12 +629,12 @@ msgstr "Le maintien d’un cadre collaboratif entre les détenteurs et les utili
 #. type: Plain text
 #: 300.en.adoc:29
 msgid "Promoting public engagement in biodiversity issues, for example, by supporting citizen science initiatives that mobilize observational data"
-msgstr ""
+msgstr "Promouvoir l'implication du public sur les problématiques en lien avec la biodiversité, en soutenant par exemple des initiatives de science citoyenne qui mobilisent des données d'observations"
 
 #. type: Plain text
 #: 300.en.adoc:30
 msgid "Developing strategies, materials and activities to engage private companies to publish and reuse biodiversity data"
-msgstr ""
+msgstr "Développer des stratégies, du matériel et des activités pour inciter les entreprises privées à publier et réutiliser les données sur la biodiversité"
 
 #. type: Title ===
 #: 300.en.adoc:32
@@ -650,7 +650,7 @@ msgstr "La facilitation de l’accès aux données sur la biodiversité en promo
 #. type: Plain text
 #: 300.en.adoc:38
 msgid "Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices] for data accessed through the GBIF network"
-msgstr ""
+msgstr "Promouvoir l'utilisation de bonnes https://www.gbif.org/citation-guidelines[pratiques de citation] pour les données obtenues via le réseau GBIF"
 
 #. type: Plain text
 #: 300.en.adoc:39
