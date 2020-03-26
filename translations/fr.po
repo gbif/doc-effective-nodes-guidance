@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 15:51\n"
+"PO-Revision-Date: 2020-03-26 16:11\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -419,7 +419,7 @@ msgstr "Les points nodaux jouent un rôle précieux dans la promotion des pratiq
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "By coordinating biodiversity information facilities, nodes are well positioned to assess biodiversity data availability and gaps (taxonomic, spatial and temporal) at the Participant level, to understand data and information use and needs, and to implement strategies in response. Thus, nodes can contribute to *setting biodiversity research priorities*."
-msgstr "En coordonnant les infrastructures d'information sur la biodiversité, les nœuds sont bien placés pour évaluer la disponibilité des données sur la biodiversité et les lacunes (taxonomique, spatiales et temporelles) au niveau de l'acteur (Participant), pour comprendre l'utilisation et les besoins des données et de l'information, et pour mettre en œuvre des stratégies en conséquence. Ainsi, les nœuds peuvent contribuer à *définir les priorités de recherche en matière de biodiversité*."
+msgstr "En coordonnant les systèmes d'information sur la biodiversité, les nœuds sont bien placés pour évaluer la disponibilité des données sur la biodiversité et les lacunes (taxonomique, spatiales et temporelles) au niveau des Participants, pour comprendre l'utilisation et les besoins des données et de l'information, et pour mettre en œuvre des stratégies en réponse. Ainsi, les nœuds peuvent contribuer à *définir les priorités de la recherche sur la biodiversité*."
 
 #. type: Plain text
 #: 200.en.adoc:11
@@ -461,7 +461,7 @@ msgstr "Ce groupe comprend les responsables, le personnel et les membres de la g
 #. type: delimited block *
 #: 205-box.en.adoc:12
 msgid "The key focus of this group is to *support participation in the GBIF network* through engagement with the other audiences, to support biodiversity data mobilization, management, curation, and use."
-msgstr "Le principal objectif de ce groupe est de *soutenir la participation au réseau GBIF* à travers l'engagement avec d'autres audiences, de soutenir la mobilisation, gestion, conservation et utilisation des données sur la biodiversité."
+msgstr "Le principal objectif de ce groupe est de *promouvoir la participation au réseau GBIF* à travers l'engagement avec d'autres publics, de soutenir la mobilisation, gestion, conservation et utilisation des données sur la biodiversité."
 
 #. type: Title =====
 #: 205-box.en.adoc:14
@@ -477,7 +477,7 @@ msgstr "Ce groupe comprend, entre autres, les personnes publiant actuellement le
 #. type: delimited block *
 #: 205-box.en.adoc:19
 msgid "The key focus of engaging with data holders is to *encourage and support biodiversity data mobilization*: data digitization, data collection and ultimately publication of their data through the GBIF network."
-msgstr ""
+msgstr "Le principal objectif de l'implication auprès des détenteurs de données est d'encourager et de soutenir la mobilisation des données sur la biodiversité* : la numérisation et la collecte des données, ainsi que la publication de celles-ci par le biais du réseau GBIF."
 
 #. type: Title =====
 #: 205-box.en.adoc:21
@@ -493,7 +493,7 @@ msgstr "Ce groupe comprend les zoologistes, les botanistes, les mycologues et au
 #. type: delimited block *
 #: 205-box.en.adoc:26
 msgid "The key focus of engaging with biodiversity knowledge holders is to *support biodiversity data management and curation*: continuously improving the quality and fitness-for-use of the data mobilized by the GBIF network, and demonstrating that the work of these groups benefits from strong biodiversity information facilities, at national and global levels."
-msgstr ""
+msgstr "Le principal objectif de l'implication avec les détenteurs du savoir sur la biodiversité est de *soutenir la gestion et la conservation des données sur la biodiversité* : améliorer continuellement la qualité et l'adéquation à l'utilisation des données mobilisées par le réseau GBIF, et démontrer que le travail de ces groupes bénéficie du travail des systèmes d'information sur la biodiversité robustes, que ce soit au niveau national et international."
 
 #. type: Title =====
 #: 205-box.en.adoc:28
