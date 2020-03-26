@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 07:53\n"
+"PO-Revision-Date: 2020-03-26 08:09\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -179,7 +179,7 @@ msgstr "Les points nodaux ont généralement quatre fonctions principales (cf. �
 #. type: Plain text
 #: 100.en.adoc:15
 msgid "Coordinating a community of initiatives relating to biodiversity, including making connections to the international GBIF network"
-msgstr ""
+msgstr "Coordonner une communauté d'initiatives relatives à la biodiversité, et faire la connexion avec le réseau international GBIF"
 
 #. type: Plain text
 #: 100.en.adoc:16
@@ -189,17 +189,17 @@ msgstr "Promouvoir et contribuer à la mobilisation des données sur la biodiver
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Encouraging the reuse of the available data to support biodiversity-related science and support decision-making for sustainable development"
-msgstr ""
+msgstr "Encourager la réutilisation des données disponibles afin de soutenir la science liée à la biodiversité et la prise de décision en faveur du développement durable"
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "Providing expertise on biodiversity data management and improving data quality to support users' needs"
-msgstr ""
+msgstr "Fournir une expertise dans la gestion des données sur la biodiversité et améliorer la qualité des données pour répondre aux besoins des utilisateurs"
 
 #. type: Plain text
 #: 100.en.adoc:20
 msgid "Participant nodes are thus *knowledge hubs* both for biodiversity data and broader GBIF-related activities. They not only guide stakeholders to relevant sources of biodiversity information but also to such things as:"
-msgstr ""
+msgstr "Les points nodaux sont donc des *centres de connaissances* tant pour les données de biodiversité que, plus largement, pour les activités liées au GBIF. Ils guident les parties prenantes non seulement vers des sources d'information pertinentes sur la biodiversité, mais aussi vers des choses telles que:"
 
 #. type: Plain text
 #: 100.en.adoc:22
@@ -224,12 +224,12 @@ msgstr "De plus vastes informations sur la variété d’initiatives en matière
 #. type: Plain text
 #: 100.en.adoc:27
 msgid "Most Participant nodes develop a *collaborative framework* of policies, agreements, community norms and standards, which are adopted by their stakeholders to guide the publication, management and use of biodiversity data."
-msgstr ""
+msgstr "La plupart des points nodaux développent un *cadre collaboratif* de règles, d'agréments, de normes communautaires et de standards, qui, une fois adoptées par leurs parties prenantes, guident la publication, la gestion et l'utilisation des données sur la biodiversité."
 
 #. type: Plain text
 #: 100.en.adoc:29
 msgid "The *governance structure* of each Participant node varies but often takes the form of a board or steering committee. This configuration enables data holders, users and other stakeholders to take collective decisions concerning the publishing and reuse of biodiversity data while providing the node with priorities and guidance on the implementation of its work."
-msgstr ""
+msgstr "La *structure de gouvernance* de chaque point nodal varie mais prend souvent la forme d'un conseil d'administration ou d'un comité directeur. Cette configuration permet aux détenteurs de données, aux utilisateurs et aux autres parties prenantes de prendre des décisions collectives concernant la publication et la réutilisation des données sur la biodiversité, tout en fournissant au point nodal des priorités et des orientations sur la mise en œuvre de ses travaux."
 
 #. type: Plain text
 #: 100.en.adoc:30
