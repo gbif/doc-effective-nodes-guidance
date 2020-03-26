@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 23:28\n"
+"PO-Revision-Date: 2020-03-26 23:53\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -224,23 +224,23 @@ msgstr "Información general sobre el panorama de las iniciativas relacionadas c
 #. type: Plain text
 #: 100.en.adoc:27
 msgid "Most Participant nodes develop a *collaborative framework* of policies, agreements, community norms and standards, which are adopted by their stakeholders to guide the publication, management and use of biodiversity data."
-msgstr ""
+msgstr "La mayoría de los nodos participantes desarrollan un *marco colaborativo* de políticas, acuerdos, normas y estándares comunitarios que son adoptados por sus partes interesadas para orientar la publicación, el manejo y el uso de datos sobre biodiversidad."
 
 #. type: Plain text
 #: 100.en.adoc:29
 msgid "The *governance structure* of each Participant node varies but often takes the form of a board or steering committee. This configuration enables data holders, users and other stakeholders to take collective decisions concerning the publishing and reuse of biodiversity data while providing the node with priorities and guidance on the implementation of its work."
-msgstr ""
+msgstr "La *estructura de gobernanza* de cada nodo Participante varía, pero a menudo toma la forma de una junta directiva o un comité directivo. Esta configuración habilita a los provedores de datos, usuarios y otras partes interesadas, a tomar decisiones colectivas relativas a la publicación y reutilización de los datos de la biodiversidad, al tiempo que proporcionan al nodo prioridades y orientación sobre la implementación de su trabajo."
 
 #. type: Plain text
 #: 100.en.adoc:30
 msgid "Participant nodes provide the technical expertise to *support the publication of biodiversity data of the highest possible quality by data holders*. This involves using informatics infrastructure, and many implementation models are available, from using hosted data publication services to maintaining a distributed network of data publishers and a centralized index of the data. The node may also support a range of other *information products and services*, for example, by maintaining a biodiversity data portal and online tools for data analysis."
-msgstr ""
+msgstr "Los nodos Participantes proporcionan la experiencia técnica necesaria para *apoyar la publicación de datos sobre biodiversidad de la más alta calidad posible por parte de los provedores de datos*. Esto implica el uso de infraestructura informática,  muchos modelos de implementación están disponibles, desde el uso de servicios de publicación de datos alojados hasta el mantenimiento de una red distribuida de editores de datos y un índice centralizado de los datos. El nodo también puede soportar otros *productos y servicios de información*, por ejemplo, mediante el mantenimiento de un portal de datos sobre biodiversidad y herramientas en línea para el análisis de datos."
 
 #. type: Title ===
 #: 105-box.en.adoc:2
 #, no-wrap
 msgid "Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant country"
-msgstr ""
+msgstr "Box 1. Definiciones de estructuras y roles clave en la red GBIF, a nivel de país Participante"
 
 #. type: Title ====
 #: 105-box.en.adoc:5
@@ -252,7 +252,7 @@ msgstr "Estructuras principales"
 #: 105-box.en.adoc:8
 #, no-wrap
 msgid "*Participant*: a country, economy or organization that joins GBIF by signing a https://www.gbif.org/document/80661[Memorandum of Understanding] and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. \n"
-msgstr ""
+msgstr "*Participante*: un país, economía u organización que se une a GBIF firmando un https://www.gbif. rg/document/80661[Acuerdo de Entendimiento] y el establecimiento de un esfuerzo coordinado para apoyar el acceso abierto y el uso de datos de biodiversidad, promover la investigación científica y promover el desarrollo tecnológico y sostenible. \n"
 
 #. type: delimited block *
 #: 105-box.en.adoc:10
@@ -264,7 +264,7 @@ msgstr "*Infraestructura de información en biodiversidad*: descrita de diversos
 #: 105-box.en.adoc:12
 #, no-wrap
 msgid "*Participant node*: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.\n"
-msgstr ""
+msgstr "*Nodo participante*: un equipo de coordinación, designado por el Participante para coordinar una red de personas e instituciones que producen, administran y utilizan datos sobre biodiversidad, construyendo colectivamente una infraestructura para proporcionar información sobre biodiversidad.\n"
 
 #. type: Title ====
 #: 105-box.en.adoc:16
@@ -306,7 +306,7 @@ msgstr "*Partes interesadas de la infraestructura de información en biodiversid
 #: 110-box.en.adoc:2
 #, no-wrap
 msgid "Box 2. GBIF Head of Delegation and Node Manager: roles and responsibilities"
-msgstr ""
+msgstr "Box 2. Jefe de Delegación y Administrador de Nodo de GBIF: roles y responsabilidades"
 
 #. type: Title ====
 #: 110-box.en.adoc:5
@@ -317,17 +317,17 @@ msgstr "Jefe de Delegación"
 #. type: delimited block *
 #: 110-box.en.adoc:8
 msgid "Following signature of the Memorandum of Understanding (MoU), new GBIF Participants are requested to nominate a Head of Delegation (HoD), to represent the country, economy or organization on the Governing Board, and to act as the Participant’s primary focal point for all GBIF-related activity."
-msgstr ""
+msgstr "Seguido de la firma del Acuerdo de Entendimiento (MoU), se solicita a los nuevos Participantes de GBIF que nominen a un Jefe de Delegación (HoD), que represente al país, economía u organización en la Junta de Gobierno, y que actúe como el principal foco del Participante para toda la actividad relacionada con GBIF."
 
 #. type: delimited block *
 #: 110-box.en.adoc:10
 msgid "The specific responsibilities of the HoD include:"
-msgstr ""
+msgstr "Las responsabilidades específicas del Jefe de Delegación incluyen:"
 
 #. type: delimited block *
 #: 110-box.en.adoc:12
 msgid "Attending Governing Board meetings held annually, usually in September or October. If the HoD is not able to attend, he/she can appoint a temporary HoD to attend the meeting."
-msgstr ""
+msgstr "Asistir a las reuniones de la Junta de Gobierno que se realizan anualmente, normalmente en septiembre u octubre. Si el Jefe de Delegación no puede asistir, puede nombrar un Jefe de Delegación temporal para asistir a la reunión."
 
 #. type: delimited block *
 #: 110-box.en.adoc:13
