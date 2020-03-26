@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 19:18\n"
+"PO-Revision-Date: 2020-03-26 21:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -665,7 +665,7 @@ msgstr "Fournir un soutien à la recherche sur la biodiversité, en évaluant le
 #. type: Plain text
 #: 300.en.adoc:41
 msgid "Encouraging interdisciplinary cooperation between scientists, by sharing https://www.gbif.org/resource/search?contentType=dataUse[relevant examples of data use] and through capacity development activities"
-msgstr ""
+msgstr "Encourager la coopération interdisciplinaire entre les scientifiques, en partageant des https://www.gbif.org/resource/search?contentType=dataUse[exemples pertinents d'utilisation des données] et par le biais d'activités de développement des capacités"
 
 #. type: Plain text
 #: 300.en.adoc:42
@@ -1421,7 +1421,7 @@ msgstr ""
 #: img/example-of-staff-roles-participant-node.en.svg:49
 #, no-wrap
 msgid "image/svg+xml"
-msgstr ""
+msgstr "image/svg+xml"
 
 #. type: Content of: <svg><g><text><tspan><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:82
@@ -1492,5 +1492,5 @@ msgstr "par exemple. portail de données national"
 #. type: Plain text
 #: 605-box.en.adoc:3
 msgid "Box 6. GBIF’s capacity enhancement approach"
-msgstr ""
+msgstr "Boite 6. Approche du GBIF pour le renforcement des capacités"
 
