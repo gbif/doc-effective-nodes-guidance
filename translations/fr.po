@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 08:59\n"
+"PO-Revision-Date: 2020-03-26 14:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -317,52 +317,52 @@ msgstr "Chef de délégation"
 #. type: delimited block *
 #: 110-box.en.adoc:8
 msgid "Following signature of the Memorandum of Understanding (MoU), new GBIF Participants are requested to nominate a Head of Delegation (HoD), to represent the country, economy or organization on the Governing Board, and to act as the Participant’s primary focal point for all GBIF-related activity."
-msgstr ""
+msgstr "Suite à la signature du Protocole d'Accord (MoU), les nouveaux Participants au GBIF sont invités à nommer un Chef de Délégation (HoD), qui représente le pays, l’économie ou l’organisation au sein du Conseil d’administration et agit en tant que point de contact principal du Participant pour toutes les activités liées au GBIF."
 
 #. type: delimited block *
 #: 110-box.en.adoc:10
 msgid "The specific responsibilities of the HoD include:"
-msgstr ""
+msgstr "Les responsabilités spécifiques du Chef de Délégation (HoD) comprennent :"
 
 #. type: delimited block *
 #: 110-box.en.adoc:12
 msgid "Attending Governing Board meetings held annually, usually in September or October. If the HoD is not able to attend, he/she can appoint a temporary HoD to attend the meeting."
-msgstr ""
+msgstr "Assister aux réunions annuelles du Conseil d'administration, habituellement en septembre ou en octobre. Si le HoD n'est pas en mesure de participer, il peut nommer un HoD temporaire pour assister à la réunion."
 
 #. type: delimited block *
 #: 110-box.en.adoc:13
 msgid "Nominating additional delegates to attend Governing Board meetings (a maximum of two additional delegates may attend each meeting, ideally including the Node Manager); informing the Secretariat prior to each meeting about the composition of the delegation."
-msgstr ""
+msgstr "Nommer les délégués supplémentaires pour assister aux réunions du Conseil d'administration (un maximum de deux délégués supplémentaires peuvent assister à chaque réunion, comprenant idéalement le gestionnaire du nœud); informer le Secrétariat avant chaque réunion de la composition de la délégation."
 
 #. type: delimited block *
 #: 110-box.en.adoc:14
 msgid "Preparing for such meetings by reading and consulting as appropriate on key documents submitted for approval by the Governing Board, such as the work programme, budget and strategic decisions. All documentation is distributed one month in advance of the meeting."
-msgstr ""
+msgstr "Se préparer à de telles réunions en lisant, et le cas échéant en consultant, les documents clés soumis à l'approbation du Conseil d'administration, comme le programme de travail, le budget et les décisions stratégiques. Toute cette documentation est distribuée un mois avant la réunion."
 
 #. type: delimited block *
 #: 110-box.en.adoc:15
 msgid "Responding to intersessional communications from the Secretariat and Governing Board Chair between Governing Board meetings, including consultations, calls for award nominations and other requests for which actions or views are sought from Participants."
-msgstr ""
+msgstr "Répondre aux communications intersessionnelles du Secrétariat et du président du conseil d'administration entre les réunions du conseil d'administration y compris les consultations, les appels à candidatures et autres demandes pour lesquelles des actions ou des points de vue sont demandés aux participants."
 
 #. type: delimited block *
 #: 110-box.en.adoc:16
 msgid "In the case of Voting Participants, exercising the Participant’s vote at Governing Board meetings, including in elections for chairs and vice-chairs of the Governing Board and advisory committees; and responding to calls for nominations for such posts."
-msgstr ""
+msgstr "Dans le cas des Participants votants, exercer le droit de vote du Participant lors des réunions du Conseil d’administration, y compris pour les élections des présidents et vice-présidents du conseil d'administration et des comités consultatifs ; et répondre aux appels à candidatures pour de tels postes."
 
 #. type: delimited block *
 #: 110-box.en.adoc:17
 msgid "Within the country or organization of the Participant, leading the strategic direction of GBIF participation, including oversight of the Participant node and ensuring it has adequate mandate and resourcing to carry out its core functions."
-msgstr ""
+msgstr "Dans le pays ou l'organisation du Participant, mener la direction stratégique de la participation au GBIF, y compris la surveillance du point nodal du Participant et la garantie que celui-çi ait un mandat et les ressources adéquates pour exercer ses fonctions principales."
 
 #. type: delimited block *
 #: 110-box.en.adoc:18
 msgid "For country Participants, maintaining good communications with appropriate government departments and agencies, including national focal points from other international biodiversity-related initiatives, to ensure the activities and benefits of GBIF are well understood and supported within governments and in intergovernmental fora."
-msgstr ""
+msgstr "Pour les Participants des pays, maintenir de bonnes communications avec les ministères et organismes gouvernementaux appropriés, y compris les points focaux nationaux provenant d'autres initiatives internationales liées à la biodiversité. afin de s'assurer que les activités et les avantages du GBIF sont bien compris et soutenus au sein des gouvernements et des forums intergouvernementaux."
 
 #. type: delimited block *
 #: 110-box.en.adoc:19
 msgid "For Voting Participants, working with relevant authorities within government departments or funding agencies, in collaboration with the Secretariat, to ensure that the financial contribution is paid in full and on time, in order to qualify the country for voting rights; and helping to address any issues related to payment of the contribution."
-msgstr ""
+msgstr "Pour les Participants votants, travailler avec les autorités compétentes au sein des ministères ou des organismes de financement, en collaboration avec le Secrétariat, et veiller à ce que la contribution financière soit versée en sa totalité et à temps, afin de qualifier le pays pour le droit de vote ; et aider à résoudre tous problèmes liés au paiement de cette contribution."
 
 #. type: Title ====
 #: 110-box.en.adoc:23
@@ -373,7 +373,7 @@ msgstr "Gestionnaire de nodal"
 #. type: delimited block *
 #: 110-box.en.adoc:26
 msgid "After joining GBIF, Participants are also encouraged as soon as possible to appoint a Node Manager, to lead the operational activities of the country or organization in coordinating the mobilization and use of open-access biodiversity data. Detailed guidance is available in this document, but in summary the responsibilities of the Node Manager include:"
-msgstr ""
+msgstr "Après avoir rejoint le GBIF, les participants sont également encouragés dès que possible à nommer un gestionnaire de nœud qui dirigera les activités opérationnelles du pays ou de l'organisation dont la coordination de la mobilisation et de l'utilisation des données de biodiversité à accès libre. Des conseils détaillés sont disponibles dans ce document, mais en résumé, les responsabilités du gestionnaire de nœud incluent :"
 
 #. type: delimited block *
 #: 110-box.en.adoc:28
