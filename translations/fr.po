@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-26 16:11\n"
+"PO-Revision-Date: 2020-03-26 16:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -509,7 +509,7 @@ msgstr "Ce groupe comprend les écologistes, y compris les macroécologistes et 
 #. type: delimited block *
 #: 205-box.en.adoc:33
 msgid "The key focus of engaging with species occurrence data users is to *support biodiversity data use*: reusing the data accessible through GBIF to support biodiversity-related sciences and environmental research, ultimately to support evidence-based decision making."
-msgstr ""
+msgstr "Le principal objectif de l'implication avec les utilisateurs de données d'occurrence d'espèces est de *soutenir l'utilisation des données sur la biodiversité* : réutiliser les données accessibles via le GBIF pour soutenir les sciences liées à la biodiversité et la recherche environnementale, afin d'appuyer la prise de décisions fondées sur des données probantes."
 
 #. type: Title =====
 #: 205-box.en.adoc:35
