@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 21:27\n"
+"PO-Revision-Date: 2020-03-26 07:53\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -164,17 +164,17 @@ msgstr "*Un point nodal du GBIF est une équipe désignée par un Participant po
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Two main roles are assigned when a Participant joins GBIF: the *Head of Delegation* and the *node manager* (see <<box-2,Box 2>>). The Head of Delegation represents the country, economy or organization on the GBIF Governing Board, and acts as the Participant’s primary focal point for all GBIF-related activity. The node manager leads the operational activities of the country or organization in coordinating the mobilization and use of open-access biodiversity data, and also represents the Participant on the https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF Participant Node Managers Committee]. A *Participant node* is typically hosted by an existing biodiversity-related institution or institutions in the Participant country, or by Participant organizations."
-msgstr ""
+msgstr "Deux rôles principaux sont assignés lorsqu'un participant rejoint le GBIF : le *chef de délégation* et le *gestionnaire de nœud* (voir <<box-2,Box 2>>). Le chef de la délégation représente le pays, l'économie ou l'organisation au conseil d'administration du GBIF, et agit comme le point de contact principal du Participant pour toutes les activités liées au GBIF. Le gestionnaire de noeud dirige les activités opérationnelles du pays ou de l'organisation en coordonnant la mobilisation et l'utilisation des données de biodiversité en accès ouvert. et représente le Participant au https://www. bif. rg/contact-us/directory?group=nodesCommittee[Comité des gestionnaires des points nodaux du GBIF]. Un *Noeud Participant* est généralement hébergé par une institution ou plusieurs institutions existantes liées à la biodiversité dans le pays, ou l'organisation."
 
 #. type: Plain text
 #: 100.en.adoc:11
 msgid "A broad range of *stakeholders* are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers <<box-3,Box 3>>). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network."
-msgstr ""
+msgstr "Un large éventail de *parties prenantes* est impliqué dans des activités liées au GBIF au traves du Participant: les détenteurs de données, les experts en savoir sur la biodiversité, les utilisateurs de données et les décideurs <<box-3,Box 3>>). Les nœuds participants ont le rôle de relier les besoins et les intérêts de chacun de ces publics. leur permettant de contribuer et de bénéficier de la participation au réseau GBIF."
 
 #. type: Plain text
 #: 100.en.adoc:13
 msgid "Participant nodes typically have four main functions (see also <<node-services>>):"
-msgstr ""
+msgstr "Les points nodaux ont généralement quatre fonctions principales (cf. également Section 4) :"
 
 #. type: Plain text
 #: 100.en.adoc:15
