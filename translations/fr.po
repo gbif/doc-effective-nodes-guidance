@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-27 15:54\n"
+"PO-Revision-Date: 2020-03-27 16:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -777,7 +777,7 @@ msgstr "Une *structure de gouvernance* qui est représentative des principaux ac
 #. type: Plain text
 #: 400.en.adoc:25
 msgid "A clearly stated *long-term purpose* with plans for the medium and short term. The node needs a readily understood vision and mission that motivate the node’s team, governance and broader stakeholders. The node needs to be able to formulate a general strategy and regular *work plans* in line with priorities at the Participant level. These plans should define expectations about what the node will deliver in a given time frame and will help evaluate the node’s performance."
-msgstr ""
+msgstr "Un *objectif à long terme* clairement défini, avec des plans à moyen et court terme. Le point nodal a besoin d’une vision et d’une mission faciles à comprendre qui motive l’équipe du nœud, la gouvernance et, plus largement, les parties prenantes. Le point nodal doit être en mesure de formuler une stratégie générale et des *plans de travail* réguliers s'arrimant aux priorités au niveau du Participant. Ces plans devraient définir les attentes sur ce que le nœud devra effectuer dans un laps de temps donné et aidera à évaluer les performances de celui-ci."
 
 #. type: Title =====
 #: 400.en.adoc:27
@@ -794,7 +794,7 @@ msgstr "Aptitude à initier et à maintenir des partenariats et des réseaux."
 #: 400.en.adoc:33
 #, no-wrap
 msgid "*A collaborative framework* to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see <<node-location-selection>>). It should include community norms and relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them.  \n"
-msgstr ""
+msgstr "*Un cadre collaboratif* pour former un système d’information sur la biodiversité, défini et accepté par les parties prenantes et partenaires concernés dans le réseau du Participant. Ce cadre devrait garantir au point nodal un rôle bien défini dans le paysage des institutions liées à la biodiversité, basé sur des partenariats forts et des services complémentaires (voir <<node-location-selection>>). Il devrait inclure des normes communautaires et des accords formels pertinents concernant la publication et l'accès aux données. Il devrait également permettre de s'assurer que le nœud reconnaisse et valorise les organisations et les individus qui y contribuent et utilisent ses services, afin de construire de bonnes relations avec eux.  \n"
 
 #. type: Plain text
 #: 400.en.adoc:34
