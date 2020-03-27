@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-27 15:36\n"
+"PO-Revision-Date: 2020-03-27 15:54\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -711,7 +711,7 @@ msgstr "https://www.gbif.org/endorsement-guidelines[Approuver les fournisseurs d
 #. type: Plain text
 #: 300.en.adoc:54
 msgid "Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types"
-msgstr ""
+msgstr "Se coordonner avec d'autres initiatives liées à la biodiversité afin d'assurer une interopérabilité maximale entre les différents types de données sur la biodiversité"
 
 #. type: Title ==
 #: 400.en.adoc:2
