@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-27 02:15\n"
+"PO-Revision-Date: 2020-03-27 02:52\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -728,7 +728,7 @@ msgstr "Exigences fondamentales"
 #. type: Plain text
 #: 400.en.adoc:8
 msgid "The capacities required by Participant nodes can be broadly divided into two categories (see the https://www.gbif.org/document/80954/[GBIF capacity enhancement framework]):"
-msgstr ""
+msgstr "Les capacités requises par les nœuds participants peuvent être largement réparties en deux catégories (voir https://www.gbif.org/document/80954/[Cadre de renforcement des capacités du GBIF]) :"
 
 #. type: Plain text
 #: 400.en.adoc:10
@@ -745,7 +745,7 @@ msgstr "*Capacités techniques* : les compétences spécifiques, les savoirs et 
 #. type: Plain text
 #: 400.en.adoc:13
 msgid "The following **basic requirements** need to be considered when establishing a Participant node. The lack of any of these will reduce the overall effectiveness of the node."
-msgstr ""
+msgstr "Les **exigences de base** suivantes doivent être prises en compte lors de l'établissement d'un point nodal. L'absence de l'un de ces éléments réduira l'efficacité globale du nœud."
 
 #. type: Title ====
 #: 400.en.adoc:15
@@ -767,12 +767,12 @@ msgstr "Aptitude à formuler des stratégies, des plans et des politiques fondé
 #. type: Plain text
 #: 400.en.adoc:23
 msgid "A *clear mandate* (official; institutional) through which the node is given formal responsibility for promoting, coordinating and facilitating the management and use of biodiversity data among the relevant stakeholder institutions within the Participant’s domain."
-msgstr ""
+msgstr "Un *mandat clair* (officiel ; institutionnel) par lequel le nœud se voit confier la responsabilité formelle de promouvoir, coordonner et faciliter la gestion et l’utilisation des données sur la biodiversité entre les institutions concernées dans le réseau du Participant."
 
 #. type: Plain text
 #: 400.en.adoc:24
 msgid "A *governance structure* that is representative of the major stakeholders within the Participant's domain. An actively engaged governing body that guides and supports the node’s work helps to ensure that the relevant actors feel ownership of the node’s work."
-msgstr ""
+msgstr "Une *structure de gouvernance* qui est représentative des principaux acteurs du réseau du Participant. Un conseil d'administration activement engagé qui guide et soutient le travail du nœud aide à s’assurer que les acteurs concernés se sentent propriétaires du travail du nœud."
 
 #. type: Plain text
 #: 400.en.adoc:25
