@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-27 02:52\n"
+"PO-Revision-Date: 2020-03-27 15:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -675,7 +675,7 @@ msgstr "Le soutien à la compilation, la gestion et la publication des inventair
 #. type: Plain text
 #: 300.en.adoc:43
 msgid "Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, spatial planning, biosecurity, conservation and protected area management"
-msgstr ""
+msgstr "Fournir un soutien aux politiques en proposant, par exemple, des conseils sur la désignation des priorités de recherche sur la biodiversité, et en aidant à intégrer l'utilisation des données sur la biodiversité et l'information dans les processus décisionnels, l'aménagement du territoire, la biosécurité, la conservation et la gestion des aires protégées"
 
 #. type: Plain text
 #: 300.en.adoc:44
@@ -696,7 +696,7 @@ msgstr "Améliorer la qualité des données sur la biodiversité disponibles pou
 #. type: Plain text
 #: 300.en.adoc:52
 msgid "Assisting data holders with data management, using appropriate tools and practices, such as the https://www.gbif.org/tools/data-validator[GBIF data validator], and through capacity development programmes focused on biodiversity informatics"
-msgstr ""
+msgstr "Aider les détenteurs de données à gérer celles-ci, en utilisant des outils et des pratiques appropriés, tel que le https://www.gbif.org/tools/data-validator[validateur de données GBIF], et par le biais de programmes de développement des capacités axés sur l'informatique de la biodiversité"
 
 #. type: Plain text
 #: 300.en.adoc:53
@@ -706,7 +706,7 @@ msgstr "Le rôle de répertoire permanent des données sur la biodiversité au n
 #. type: Plain text
 #: 300.en.adoc:54
 msgid "Providing https://www.gbif.org/endorsement-guidelines[endorsement of biodiversity data publishers] to be added to the GBIF network"
-msgstr ""
+msgstr "https://www.gbif.org/endorsement-guidelines[Approuver les fournisseurs de données sur la biodiversité] pouvant être ajoutés au réseau GBIF"
 
 #. type: Plain text
 #: 300.en.adoc:54
