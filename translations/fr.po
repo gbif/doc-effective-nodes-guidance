@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-27 16:28\n"
+"PO-Revision-Date: 2020-03-27 17:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1393,7 +1393,7 @@ msgstr "Le GBIF offre également aux responsables et au personnel des points nod
 #. type: Plain text
 #: 600.en.adoc:52
 msgid "Finally, the GBIF network acts as a *community of practice*, with many node managers and their teams volunteering as https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement mentors] and https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[biodiversity open data ambassadors] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events."
-msgstr ""
+msgstr "Pour finir, le réseau GBIF agit en tant que *communauté de pratiques*, avec de nombreux gestionnaires de nœuds et leurs équipes agissant bénévolement en tant que  https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[mentors dans le cadre des activités de renforcement des capacités] et https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[ambassadeurs des données ouvertes sur la biodiversité] pour soutenir le développement de la communauté internationale. Les nouveaux Participants sont invités à contacter le Secrétariat du GBIF afin d'identifier les mentors pouvant contribuer au développement de leur point nodal, par exemple par le biais d'événements de formation."
 
 #. type: Title ===
 #: 600.en.adoc:54
