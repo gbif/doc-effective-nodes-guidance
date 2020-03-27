@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-27 17:58\n"
+"PO-Revision-Date: 2020-03-27 18:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -817,7 +817,7 @@ msgstr "Aptitude à gérer, financer, budgéter, mettre en oeuvre et évaluer de
 #: 400.en.adoc:42
 #, no-wrap
 msgid "*Dedicated staff members* to implement the node’s mandate and work plans (see <<node-staff-roles>>). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training.  \n"
-msgstr ""
+msgstr "*Des membres du personnel dédiés* pour mettre en œuvre le mandat et les plans de travail du nœud (voir <<node-staff-roles>>). L'équipe du noeud aura besoin d'un large éventail de compétences, allant de l'informatique de la biodiversité à la coordination de réseau et sera appuyé par une formation appropriée.  \n"
 
 #. type: Plain text
 #: 400.en.adoc:43
