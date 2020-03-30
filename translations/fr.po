@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 21:17\n"
+"PO-Revision-Date: 2020-03-30 22:10\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1347,27 +1347,27 @@ msgstr "Une liste de faits d’actualité relatifs au pays publiée par le point
 #. type: Plain text
 #: 600.en.adoc:17
 msgid "Peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country, as well as articles relating to the country"
-msgstr ""
+msgstr "Articles de recherche évalués par les pairs citant GBIF comme source de données et dont un ou des auteurs viennent du pays participant, ainsi que des articles relatifs au pays participant"
 
 #. type: Plain text
 #: 600.en.adoc:18
 msgid "Where available, validated lists of introduced and invasive species occurring in the country"
-msgstr ""
+msgstr "Lorsque disponibles, des listes validées d'espèces introduites et envahissantes présentes dans le pays"
 
 #. type: Plain text
 #: 600.en.adoc:20
 msgid "https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website."
-msgstr ""
+msgstr "https://www.gbif.org/the-gbif-network/participant-organisations[Informations sur les organisations Participantes] affiche actuellement des informations sur l'adhésion de ces Participants, les activités de publication de données, et des liens vers le site Web du noeud."
 
 #. type: Plain text
 #: 600.en.adoc:22
 msgid "Participant nodes are encouraged to share https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding examples] with the community, documenting their success stories that others can learn from in establishing or developing their nodes."
-msgstr ""
+msgstr "Les nœuds participants sont encouragés à partager des https://www.gbif.org/resource/recherche? =%22Nodes%20guidance%22[exemples instructifs] avec la communauté, documentant leurs réussites afin que d'autres puissent s'en inspirer lors de l'établissement ou le développement de leurs nœuds."
 
 #. type: Plain text
 #: 600.en.adoc:24
 msgid "Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members or https://www.gbif.org/mentors[capacity enhancement mentors] for advice in establishing a node."
-msgstr ""
+msgstr "La consultation de ces pages aidera à identifier les exemples les plus adaptés au contexte spécifique d’un nouveau Participant au GBIF. Les nouveaux Participants sont encouragés à contacter les gestionnaires et le personnel des noeuds ou des https://www.gbif.org/mentors[mentors liés u renforcement des compétences] pour leur demander des conseils sur la mise en place d’un noeud."
 
 #. type: Title ===
 #: 600.en.adoc:26
@@ -1383,17 +1383,17 @@ msgstr "Le https://www.gbif.org/contact-us/directory?group=nodesCommittee[Comit�
 #. type: Plain text
 #: 600.en.adoc:31
 msgid "The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes."
-msgstr ""
+msgstr "Le https://www.gbif.org/contact-us/répertoire?group=nsg[Comité Directeur des Nœuds] (NSG) a été créé au sein du comité en 2011, composé du président et des vice-présidents du comité des gestionnaires des noeuds Participants, et des représentants régionaux de chacune des six régions du GBIF (Afrique, Asie, Europe, Amérique latine, Amérique du Nord et Océanie). Ses objectifs incluent la présentation de recommandations spécifiques aux organes pertinents du GBIF sur la base des commentaires fournis par les noeuds Participants, et de fournir des conseils sur le plan de travail du GBIF relatif aux nœuds."
 
 #. type: Plain text
 #: 600.en.adoc:33
 msgid "The Nodes Committee meets in a *Global Nodes Meeting* every other year. These meetings, often combined with training activities, provide an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize *Regional Nodes Meetings* either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region."
-msgstr ""
+msgstr "Le Comité des Nœuds se réunit lors de la *Réunion Mondiale des Nœuds* ayant lieu tous les deux ans. Ces réunions, souvent associées à des activités de formation, constituent un excellent forum pour interagir avec d’autres gestionnaires de noeuds et planifier des activités collaboratives. De plus, de nombreux sous-comités régionaux organisent des *Réunions Régionales des Nœuds* soit annuellement ou tous les deux ans. Ces réunions font progresser le travail de collaboration régionale entre les gestionnaires de noeuds et fournissent un forum pour discuter des priorités et des opportunités dans la région."
 
 #. type: Plain text
 #: 600.en.adoc:35
 msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
-msgstr ""
+msgstr "Entre les réunions, le comité communique par le biais de listes de diffusion et de téléconférences, et en utilisant également le https://discourse.gbif.org/[forum de la communauté GBIF] pour soutenir le travail collaboratif. Les nouveaux nœuds Participants sont fortement encouragés à https://www.gbif.org/contact-us/répertoire?group=nodesCommittee[contacter les membres du Comité des Nœuds] afin de s'impliquer dans ses activités, accéder à l'expertise du réseau et planifier des projets collaboratifs soutenant la création de noeuds Participants."
 
 #. type: Title ===
 #: 600.en.adoc:37
@@ -1404,17 +1404,17 @@ msgstr "De quelle manière le GBIF contribue-t-il au renforcement des capacités
 #. type: Plain text
 #: 600.en.adoc:40
 msgid "Capacity enhancement provides an essential foundation for the sustainable functioning and performance of the GBIF Participant network and all its members, regardless of their level of development."
-msgstr ""
+msgstr "Le renforcement des compétences fournit une base essentielle au fonctionnement durable et à la performance du réseau du Participant du GBIF et de tous ses membres, quel que soit leur niveau de développement."
 
 #. type: Plain text
 #: 600.en.adoc:42
 msgid "The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way. Capacity enhancement includes improving the way Participants can contribute to and benefit from GBIF, how they organize their work and how they relate to other Participants at regional and global scales. GBIF supports capacity enhancement in the network through five complementary approaches shown in <<box-6,Box 6>>."
-msgstr ""
+msgstr "Les Participants et le Secrétariat du GBIF ont développé une gamme d'activités et de programmes de renforcement des compétences pour permettre à tous les membres de la communauté GBIF de réaliser leur travail de manière efficace, autonome et durable. Le renforcement des compétences comprend l'amélioration de la manière dont les Participants peuvent contribuer au GBIF et en bénéficier, comment ils organisent leur travail et comment ils sont liés aux autres Participants à l'échelle régionale et mondiale. Le GBIF prend en charge le renforcement des compétences dans le réseau à travers cinq approches complémentaires affichées en <<box-6,Box 6>>."
 
 #. type: Plain text
 #: 600.en.adoc:44
 msgid "GBIF maintains https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment guidelines for national biodiversity information facilities] and for https://www.gbif.org/document/82785/[data holding institutions] as tools to support planning and the tracking of progress, for example through projects."
-msgstr ""
+msgstr "Le GBIF maintient https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[les directives d'autoévaluation des compétences pour les infrastructures nationales d'information sur la biodiversité] et pour https://www.gbif.org/document/82785/[les institutions détentrices de données] en tant qu'outils pour soutenir la planification et le suivi des progrès, par exemple à travers des projets."
 
 #. type: Plain text
 #: 600.en.adoc:46
@@ -1424,7 +1424,7 @@ msgstr "Un https://www.gbif.org/programme/82219[*programme de soutien au renforc
 #. type: Plain text
 #: 600.en.adoc:48
 msgid "GBIF also seeks *supplementary funding* to support capacity enhancement, as through the https://www.gbif.org/programme/82629/[Biodiversity Fund for Asia] (BIFA) and the https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID) programme. These programmes have support projects to mobilize biodiversity data and promote the use of accessible biodiversity data in support of research and decision-making, and provide training to project teams."
-msgstr ""
+msgstr "Le GBIF recherche également du *financement supplémentaire* pour soutenir le renforcement des compétences, comme par le biais du https://www.gbif.org/programme/82629/[Fonds pour la biodiversité en Asie] (BIFA) et du programme https://www.gbif.org/programme/82243/[d'Information sur la Biodiversité pour le développement] (BID). Ces programmes soutiennent des projets visant à mobiliser les données sur la biodiversité et à promouvoir l'utilisation de données accessibles sur la biodiversité appuyant la recherche et les processus décisionnels, et fournissent une formation aux équipes de projet."
 
 #. type: Plain text
 #: 600.en.adoc:50
