@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 21:09\n"
+"PO-Revision-Date: 2020-03-30 21:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1332,7 +1332,7 @@ msgstr "La date de mise en place du point nodal, son site Internet et ses coordo
 #. type: Plain text
 #: 600.en.adoc:14
 msgid "An overview of the data published from the country’s institutions, with links to the data publishers and datasets, as well as data published from anywhere in the world about biodiversity located in the country"
-msgstr ""
+msgstr "Un aperçu des données publiées par les institutions du pays, avec des liens vers les éditeurs et les jeux de données, ainsi que des données publiées depuis n'importe où dans le monde à propos de la biodiversité du pays"
 
 #. type: Plain text
 #: 600.en.adoc:15
