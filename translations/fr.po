@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 17:04\n"
+"PO-Revision-Date: 2020-03-30 17:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -127,12 +127,12 @@ msgstr "Introduction"
 #. type: Plain text
 #: preface.en.adoc:5
 msgid "The conservation and sustainable use of biological resources depend on an understanding of biodiversity and the processes that underlie it. While 250 years of biodiversity research and data collection have generated a wealth of information, it is scattered across a multitude of sources and formats: from museum collection specimens and local government reports to published literature and university researchers’ own computers. On top of these historical resources, today’s technological and scientific advances are generating more data in huge quantities and fresh formats. Mobilizing this information in a structured way while using common standards and common platforms not only contributes to the understanding of biodiversity, but also enables a vast range of uses, creates new research opportunities and supports policymaking at the national and global levels."
-msgstr "La conservation et l’utilisation durable des ressources biologiques dépendent d’une bonne compréhension de la biodiversité et des processus qui la régissent. Si 250 années de recherche et de collecte de données sur la biodiversité ont certes produit une large quantité d’informations, ces informations restent néanmoins dispersées en une multitude de sources et de formats : des spécimens provenant des collections de musées et des rapports de gouvernements locaux aux publications et aux ordinateurs des chercheurs universitaires. À ces ressources historiques viennent s’ajouter les avancées technologiques et scientifiques actuelles qui génèrent des quantités de données gigantesques dans de nouveaux formats. La mobilisation de ces informations de manière structurée en utilisant des normes et des plateformes communes contribue non seulement à la compréhension de la biodiversité, mais permet également un vaste éventail d’utilisations, crée de nouvelles opportunités de recherche et étaye l’élaboration de politiques au niveau national et mondial."
+msgstr "La conservation et l'utilisation durable des ressources biologiques dépendent de la compréhension de la biodiversité et des processus qui la sous-tendent. Si 250 ans de recherche et de collecte de données sur la biodiversité ont généré une mine d'informations, celles-ci sont dispersées dans une multitude de sources et de formats : des spécimens de collections de musées et des rapports des autorités locales à la littérature publiée et aux ordinateurs des chercheurs universitaires. En plus de ces ressources historiques, les progrès technologiques et scientifiques actuels génèrent davantage de données en quantités énormes et dans des formats nouveaux. La mobilisation de ces informations de manière structurée tout en utilisant des normes et des plateformes communes contribue non seulement à la compréhension de la biodiversité, mais permet également une vaste gamme d'utilisations, crée de nouvelles possibilités de recherche et soutient l'élaboration de politiques aux niveaux national et mondial."
 
 #. type: Plain text
 #: preface.en.adoc:7
 msgid "GBIF—the Global Biodiversity Information Facility—is https://www.gbif.org/the-gbif-network[an international network] and https://www.gbif.org[research infrastructure] that exists to enable free and open access to biodiversity data from all sources and to support biodiversity science, environmental research, and evidence-based decision-making. GBIF operates as a federated system of distributed data publishing efforts, coordinated through a global informatics infrastructure and collaborative network."
-msgstr "Le GBIF—ou Global Biodiversity Information Facility—est https://www.gbif.org/the-gbif-network[un réseau international] et https://www.gbif.org[une infrastructure de recherche] qui existe pour permettre un accès libre et ouvert aux données sur la biodiversité provenant de toutes les sources et pour soutenir la science de la biodiversité, la recherche environnementale et la prise de décisions fondée sur des données probantes. Le GBIF est un système fédéré d'efforts de publication de données, coordonné par une infrastructure informatique mondiale et un réseau collaboratif."
+msgstr "Le GBIF—ou Global Biodiversity Information Facility—https://www.gbif.org/the-gbif-network[ est un réseau international] et https://www.gbif.org [une infrastructure de recherche] qui existe pour faciliter un accès libre et ouvert aux données sur la biodiversité provenant de toutes les sources et pour soutenir la science de la biodiversité, la recherche environnementale et la prise de décisions fondée sur des données probantes. Le GBIF est un système fédéré d'efforts de publication de données, coordonné par une infrastructure informatique mondiale et un réseau collaboratif."
 
 #. type: Plain text
 #: preface.en.adoc:9
@@ -142,13 +142,13 @@ msgstr "Depuis la création du GBIF en 2001, les organisations et pays participa
 #. type: Plain text
 #: preface.en.adoc:10
 msgid "This guide draws on the experience of the GBIF network to offer guidance on establishing an effective Participant node. It targets two main audiences within the ‘GBIF family’: the delegates representing each Participant on the GBIF Governing Board, and the node managers appointed to coordinate biodiversity information facilities within each country or organization. It can also be used by countries and institutions that have not yet joined GBIF, but are making plans to do so. It introduces key concepts and generalized views of Participant node activities, including recommendations on a participatory approach to follow in designating a node, and designing its governance structures."
-msgstr "Ce guide s'appuie sur l'expérience du réseau GBIF pour offrir des conseils sur l'établissement d'un point nodal efficace. Il cible deux publics principaux au sein de la « famille GBIF » : les délégués représentant chaque Participant au Conseil d’administration du GBIF, et les responsables de points nodaux chargés de coordonner les installations d'information sur la biodiversité dans chaque pays ou organisation. Il peut également être utilisé par des pays et des institutions qui n'ont pas encore rejoint le GBIF, mais qui planifient de le faire. Il introduit des concepts clés et des vues généralisées des activités des points nodaux participants, y compris les recommandations sur une approche participative à suivre dans la désignation d'un nœud, et la conception de ses structures de gouvernance."
+msgstr "Ce guide s'appuie sur l'expérience du réseau GBIF pour offrir des conseils sur la mise en place d'un point nodal efficace. Il cible deux publics principaux au sein de la « famille GBIF » : les délégués représentant chaque Participant au Conseil d’administration du GBIF, et les responsables de points nodaux chargés de coordonner les infrastructures d'information sur la biodiversité dans chaque pays ou organisation. Il peut également être utilisé par des pays et des institutions qui n'ont pas encore rejoint le GBIF, mais qui planifient de le faire. Il introduit des concepts clés et des vues généralisées des activités des points nodaux participants, y compris les recommandations sur une approche participative à suivre dans la désignation d'un nœud, et la conception de ses structures de gestion."
 
 #. type: Title ==
 #: 100.en.adoc:2
 #, no-wrap
 msgid "What is a GBIF Participant node?"
-msgstr "En quoi consiste un point nodal de participants au GBIF ?"
+msgstr "Qu'est-ce qu'un Noeud (ou point nodal) du GBIF ?"
 
 #. type: Plain text
 #: 100.en.adoc:5
@@ -169,7 +169,7 @@ msgstr "Deux rôles principaux sont assignés lorsqu'un participant rejoint le G
 #. type: Plain text
 #: 100.en.adoc:11
 msgid "A broad range of *stakeholders* are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers <<box-3,Box 3>>). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network."
-msgstr "Un large éventail de *parties prenantes* est impliqué dans des activités liées au GBIF au traves du Participant: les détenteurs de données, les experts en savoir sur la biodiversité, les utilisateurs de données et les décideurs <<box-3,Box 3>>). Les nœuds participants ont le rôle de relier les besoins et les intérêts de chacun de ces publics. leur permettant de contribuer et de bénéficier de la participation au réseau GBIF."
+msgstr "Un large éventail de *parties prenantes* est impliqué dans les activités liées au GBIF au niveau des participants, y compris les détenteurs de données, les experts en connaissances sur la biodiversité, les utilisateurs de données et les décideurs <<box-3,Box 3>>). Les nœuds participants ont pour rôle de mettre en relation les besoins et les intérêts de chacun de ces publics, leur permettant de contribuer au réseau GBIF et d'en tirer profit."
 
 #. type: Plain text
 #: 100.en.adoc:13
