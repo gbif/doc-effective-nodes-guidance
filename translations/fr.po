@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 16:30\n"
+"PO-Revision-Date: 2020-03-30 17:04\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -987,7 +987,7 @@ msgstr "*Voir <<box-4,box 4>>*\n"
 #. type: Plain text
 #: 500.en.adoc:17
 msgid "Many tools exist to support dialogue around the establishment of a Participant node. We recommend carrying out a https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment] (see <<capacity-self-assessment>>) to identify the key capacity strengths and needs, and from which to measure progress in future. A preliminary https://www.gbif.org/document/80890[content needs assessment] conducted at the Participant level through a survey, workshop or literature analysis (possibly led by a consultant) can provide valuable information to guide the stakeholder group in formulating their recommendations. This assessment helps ensure that the needs and priorities of a broad stakeholder group are represented in the process. Stakeholder mapping can also shape an understanding how the biodiversity information facility and node will address the Participant’s needs and priorities, and complement other biodiversity-related or information-related initiatives."
-msgstr "De nombreux outils existent afin de mener les discussions autour de l'établissement d'un point nodal. Nous vous recommandons de réaliser une une https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[auto-évaluation de capacité] (voir <<capacity-self-assessment>>) pour identifier les forces et les besoins clés en terme de compétence et capacité, et à partir de laquelle il sera possible de mesurer les progrès futurs. Une première https://www.gbif.org/document/80890[évaluation des besoins de contenu] effectuée au niveau du participant par le biais d'un sondage, d'ateliers ou d'analyses de littérature (éventuellement dirigée par un consultant) peut fournir des informations utiles pour guider les parties prenantes dans la formulation de leurs recommandations. Cette évaluation permet de s'assurer que les besoins et les priorités d'un large groupe d'acteurs sont représentés dans le processus. La cartographie des parties prenantes peut également influencer la manière dont le système d’information sur la biodiversité et le point nodal répondront aux besoins et aux priorités du Participant, et serons complémentaires à d'autres initiatives liées à la biodiversité ou à l'information."
+msgstr "De nombreux outils existent pour soutenir le dialogue autour de la mise en place d'un nœud Participant. Nous recommandons d'effectuer une https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/ [auto-évaluation des capacités] (voir <<auto-évaluation des capacités>>) pour identifier les principaux points forts et besoins en matière de capacités, et à partir desquels il sera possible de mesurer les progrès à l'avenir. Une évaluation préliminaire https://www.gbif.org/document/80890 [évaluation des besoins en matière de contenu] réalisée au niveau du Participant par le biais d'une enquête, d'un atelier ou d'une analyse documentaire (éventuellement dirigée par un consultant) peut fournir des informations précieuses pour guider le groupe de parties prenantes dans la formulation de leurs recommandations. Cette évaluation permet de s'assurer que les besoins et les priorités d'un large groupe de parties prenantes sont représentés dans le processus. La cartographie des parties prenantes peut également permettre de comprendre comment le centre et le nœud d'information sur la biodiversité répondront aux besoins et aux priorités du participant, et compléteront d'autres initiatives liées à la biodiversité ou à l'information."
 
 #. type: Plain text
 #: 500.en.adoc:19
@@ -1007,7 +1007,7 @@ msgstr "Parmi les besoins identifiés, quels sont ceux qui devraient être trait
 #. type: Plain text
 #: 500.en.adoc:24
 msgid "Which type of agreements (e.g., data sharing/use agreements, community norms, a formal mandate for the node) are needed to support effective collaboration between stakeholders?"
-msgstr "Quels types d'ententes (e.g., des ententes de partage et d'utilisation de données, des normes communautaires, un mandat officiel pour le nœud) sont nécessaires pour appuyer une collaboration efficace entre les intervenants ?"
+msgstr "Quels types d'agréments (e.g., des ententes de partage et d'utilisation de données, des normes communautaires, un mandat officiel pour le nœud) sont nécessaires pour appuyer une collaboration efficace entre les intervenants ?"
 
 #. type: Plain text
 #: 500.en.adoc:25
@@ -1058,7 +1058,7 @@ msgstr "Comment un participant au GBIF devrait-il choisir la position institutio
 #. type: Plain text
 #: 500.en.adoc:40
 msgid "As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. <<examples-of-node-hosts>> summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to all countries or host institutions."
-msgstr ""
+msgstr "Comme mentionné précédemment, le choix de l'emplacement institutionnel du nœud est une décision cruciale susceptible d'avoir des répercussions à long terme sur son efficacité à coordonner les informations sur la biodiversité pour le pays. Le document <<exemples d'hôtes de nœuds>> résume les types d'institutions précédemment désignées comme hôtes de nœuds de participants au GBIF, ainsi que certains des avantages et inconvénients potentiels associés à chaque type d'hôte. Centré principalement sur les pays plutôt que sur les organisations, le tableau ne fournit pas une recommandation unique sur l'emplacement d'un nœud mais peut servir de référence lors de l'examen des options. Ces exemples sont généralisés et varieront grandement en fonction de la situation spécifique du participant. Les inconvénients potentiels figurant dans la colonne de droite peuvent ne pas s'appliquer à tous les pays ou institutions d'accueil."
 
 #. type: Plain text
 #: 500.en.adoc:42
@@ -1144,7 +1144,7 @@ msgstr "Quelles sont les recommandations sur les rôles du personnel au sein des
 #. type: Plain text
 #: 500.en.adoc:146
 msgid "While the specific services that nodes provide vary from one Participant to another (see <<what-do-nodes-need>>), a node’s staff need to cover a number of typical functions:"
-msgstr ""
+msgstr "Alors que les services spécifiques que les noeuds fournissent varient d'un noeud participant à un autre (voir \"what-do-nodes-need\"), le personnel d'un noeud a besoin de couvrir un nombre spécifiques de fonctions."
 
 #. type: Plain text
 #: 500.en.adoc:148
