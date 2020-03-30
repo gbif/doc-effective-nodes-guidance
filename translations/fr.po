@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 17:18\n"
+"PO-Revision-Date: 2020-03-30 17:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -153,7 +153,7 @@ msgstr "Qu'est-ce qu'un Noeud (ou point nodal) du GBIF ?"
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "Participants in GBIF are countries, international organizations or economies having signed the GBIF https://www.gbif.org/document/80661[Memorandum of Understanding] (MOU). Signatories to this agreement express their commitment to establish a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development."
-msgstr "Les Participants au GBIF sont des pays, des organisations ou économies internationales qui ont signé le https://www.gbif.org/document/80661[Protocole d’accord] du GBIF. Les signataires de cet accord expriment leur engagement à mettre en place un effort coordonné pour contribuer à l’accès libre et l’utilisation des données sur la biodiversité, pour faire avancer la recherche scientifique et pour promouvoir le développement technologique et durable."
+msgstr "Les Participants au GBIF sont des pays, des organisations internationales ou des puissances économiques qui ont signé le https://www.gbif.org/document/80661[Protocole d’accord] (MOU) du GBIF. Les signataires dudit accord expriment leur engagement à mettre en place un effort coordonné pour contribuer à l’accès libre et l’utilisation des données sur la biodiversité, pour faire avancer la recherche scientifique et pour promouvoir le développement technologique et durable."
 
 #. type: Plain text
 #: 100.en.adoc:7
@@ -1058,7 +1058,7 @@ msgstr "Comment un participant au GBIF devrait-il choisir la position institutio
 #. type: Plain text
 #: 500.en.adoc:40
 msgid "As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. <<examples-of-node-hosts>> summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to all countries or host institutions."
-msgstr "Comme mentionné précédemment, le choix de l'emplacement institutionnel du nœud est une décision cruciale susceptible d'avoir des répercussions à long terme sur son efficacité à coordonner les informations sur la biodiversité pour le pays. Le document <<exemples d'hôtes de nœuds>> résume les types d'institutions précédemment désignées comme hôtes de nœuds de participants au GBIF, ainsi que certains des avantages et inconvénients potentiels associés à chaque type d'hôte. Centré principalement sur les pays plutôt que sur les organisations, le tableau ne fournit pas une recommandation unique sur l'emplacement d'un nœud mais peut servir de référence lors de l'examen des options. Ces exemples sont généralisés et varieront grandement en fonction de la situation spécifique du participant. Les inconvénients potentiels figurant dans la colonne de droite peuvent ne pas s'appliquer à tous les pays ou institutions d'accueil."
+msgstr "Tel que mentionné ci-dessus, le choix de l'institution hôte du point nodal est une décision critique susceptible d'avoir des répercussions à long terme sur son efficacité dans la coordination d'un système d'information sur la biodiversité pour le pays. <<examples-of-node-hosts>> résume les types d'institutions précédemment désignées comme hôtes des points nodaux du GBIF, ainsi que certains des avantages et inconvénients potentiels associés à chaque type d'hôte. Concentré principalement sur les pays plutôt que sur les organisations, le tableau ne fournit pas une recommandation unique sur l'emplacement d'un noeud mais peut servir de référence lors de l'examen des options possibles. Ces exemples sont généralistes et varieront considérablement en fonction de la situation spécifique du Participant. Les inconvénients potentiels listés dans la colonne de droite peuvent ne pas être applicables à tous les pays ou institutions hôtes."
 
 #. type: Plain text
 #: 500.en.adoc:42
