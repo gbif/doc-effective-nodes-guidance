@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 07:40\n"
+"PO-Revision-Date: 2020-03-30 07:50\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -823,7 +823,7 @@ msgstr "*Des membres du personnel dédiés* pour mettre en œuvre le mandat et l
 #: 400.en.adoc:43
 #, no-wrap
 msgid "*Institutional and financial support*, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds. \n"
-msgstr ""
+msgstr "*Soutien institutionnel et financier*, conformément aux services que le nœud est censé fournir et soutenir, la fourniture des plans de travail du nœud. Le soutien institutionnel peut comprendre une assistance administrative, des installations d’hébergement et un soutien politique nécessaire pour engager des partenaires clés, susciter l’intérêt et la visibilité et mobiliser des fonds. \n"
 
 #. type: Title ====
 #: 400.en.adoc:45
@@ -845,12 +845,12 @@ msgstr "Aptitude à collecter, numériser et publier les données sur la biodive
 #. type: Plain text
 #: 400.en.adoc:54
 msgid "Access to *infrastructure to support the mobilization of biodiversity data*. https://www.gbif.org/ipt[Existing tools] support a range of implementation models, from using hosted data publication tools to maintaining a distributed network of data publishers and a centralized index of data."
-msgstr ""
+msgstr "Accès à *l'infrastructure pour soutenir la mobilisation des données de biodiversité*. https://www.gbif. rg/ipt[Outils existants] supportent une gamme de modèles d'implémentation, de l'utilisation d'outils de publication de données hébergés jusqu'à la maintenance d'un réseau distribué d'éditeurs de données et d'un index centralisé de données."
 
 #. type: Plain text
 #: 400.en.adoc:55
 msgid "A *programme to encourage and support data holders in mobilizing their data*, including, for example, promotion of incentives for data sharing and publication, technical helpdesk assistance, the translation or adaptation of documentation and manuals, the organization of training workshops and an e-learning platform."
-msgstr ""
+msgstr "Un *programme visant à encourager et à soutenir les détenteurs de données dans la mobilisation de leurs données*, y compris, par exemple, la promotion d'incitants au partage et à la publication des données, l'assistance technique en ligne, la traduction ou l'adaptation de la documentation et des manuels, l'organisation d'ateliers de formation et d'une plateforme e-learning."
 
 #. type: Title =====
 #: 400.en.adoc:57
@@ -866,7 +866,7 @@ msgstr "Aptitude à gérer et à conserver les données sur la biodiversité afi
 #. type: Plain text
 #: 400.en.adoc:63
 msgid "A *workflow for contributing to data quality improvement*, linked to the processes of endorsing data publishers joining the GBIF network and evaluation of datasets. This can include guidance and information for data holders on https://www.gbif.org/data-quality-requirements[data quality requirements] and data management techniques (see https://www.gbif.org/resource/search?q=best&contentType=document[best practice documents]), use of data quality tools and processes available from the GBIF network (for example, the https://www.gbif.org/tools/data-validator[GBIF data validator]), and ensuring that data holder can receive data quality feedback from the GBIF community."
-msgstr ""
+msgstr "Un *flux de travail pour contribuer à l'amélioration de la qualité des données*, lié aux processus d'approbation des éditeurs de données rejoignant le réseau GBIF et d'évaluation des jeux de données. Cela peut inclure des conseils et des informations pour les détenteurs de données sur les https://www.gbif.org/data-quality-requirements[exigences de qualité des données] et les techniques de gestion des données (voir https://www. bif.org/resource/search?q=best&contentType=document[best practice documents]), l'utilisation d'outils et de processus de qualité des données disponibles sur le réseau GBIF (par exemple, le https://www. bif.org/tools/data-validator[GBIF data validator]), et s'assurer que le détenteur de données peut recevoir les commentaires de la communauté GBIF."
 
 #. type: Title =====
 #: 400.en.adoc:65
