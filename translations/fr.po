@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 08:35\n"
+"PO-Revision-Date: 2020-03-30 16:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -987,7 +987,7 @@ msgstr "*Voir <<box-4,box 4>>*\n"
 #. type: Plain text
 #: 500.en.adoc:17
 msgid "Many tools exist to support dialogue around the establishment of a Participant node. We recommend carrying out a https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment] (see <<capacity-self-assessment>>) to identify the key capacity strengths and needs, and from which to measure progress in future. A preliminary https://www.gbif.org/document/80890[content needs assessment] conducted at the Participant level through a survey, workshop or literature analysis (possibly led by a consultant) can provide valuable information to guide the stakeholder group in formulating their recommendations. This assessment helps ensure that the needs and priorities of a broad stakeholder group are represented in the process. Stakeholder mapping can also shape an understanding how the biodiversity information facility and node will address the Participant’s needs and priorities, and complement other biodiversity-related or information-related initiatives."
-msgstr ""
+msgstr "De nombreux outils existent afin de mener les discussions autour de l'établissement d'un point nodal. Nous vous recommandons de réaliser une une https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[auto-évaluation de capacité] (voir <<capacity-self-assessment>>) pour identifier les forces et les besoins clés en terme de compétence et capacité, et à partir de laquelle il sera possible de mesurer les progrès futurs. Une première https://www.gbif.org/document/80890[évaluation des besoins de contenu] effectuée au niveau du participant par le biais d'un sondage, d'ateliers ou d'analyses de littérature (éventuellement dirigée par un consultant) peut fournir des informations utiles pour guider les parties prenantes dans la formulation de leurs recommandations. Cette évaluation permet de s'assurer que les besoins et les priorités d'un large groupe d'acteurs sont représentés dans le processus. La cartographie des parties prenantes peut également influencer la manière dont le système d’information sur la biodiversité et le point nodal répondront aux besoins et aux priorités du Participant, et serons complémentaires à d'autres initiatives liées à la biodiversité ou à l'information."
 
 #. type: Plain text
 #: 500.en.adoc:19
@@ -1007,7 +1007,7 @@ msgstr "Parmi les besoins identifiés, quels sont ceux qui devraient être trait
 #. type: Plain text
 #: 500.en.adoc:24
 msgid "Which type of agreements (e.g., data sharing/use agreements, community norms, a formal mandate for the node) are needed to support effective collaboration between stakeholders?"
-msgstr ""
+msgstr "Quels types d'ententes (e.g., des ententes de partage et d'utilisation de données, des normes communautaires, un mandat officiel pour le nœud) sont nécessaires pour appuyer une collaboration efficace entre les intervenants ?"
 
 #. type: Plain text
 #: 500.en.adoc:25
@@ -1032,7 +1032,7 @@ msgstr "Quelle est la position institutionnelle susceptible d’octroyer au poin
 #. type: Plain text
 #: 500.en.adoc:29
 msgid "Which institutional location would provide the node with the greatest institutional and financial support, as well as the maximum long-term stability? (See <<node-location-selection>>)."
-msgstr ""
+msgstr "Quelle institution hôte fournirait au nœud le plus grand soutien institutionnel et financier, ainsi que la stabilité maximale à long terme ? (Voir <<node-location-selection>>)."
 
 #. type: Plain text
 #: 500.en.adoc:31
