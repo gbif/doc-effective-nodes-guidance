@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 08:06\n"
+"PO-Revision-Date: 2020-03-30 08:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -922,7 +922,7 @@ msgstr "En plus des exigences fondamentales, les quatre caractéristiques suivan
 #: 400.en.adoc:86
 #, no-wrap
 msgid "*Neutrality*. Since nodes are established to coordinate, promote and facilitate data sharing activities among multiple institutions, any perceived lack of neutrality will reduce their effectiveness. For example, other biodiversity institutions and potential partners may be reluctant to collaborate if a node institution is directly involved in generating data for its own research purposes, suggesting it is a competitor or guided by vested interests. However, institutions thus engaged may also build a reputation of trust within the community by offering resources and services—including specialized knowledge about data curation—to other institutions with similar aims. The node should be able to work with all relevant stakeholders, independently of any preferences or priorities that are not defined or agreed by the whole community. The institutional location of the node is decisive for its neutrality (see <<node-location-selection>>).\n"
-msgstr ""
+msgstr "*Neutralité*. Puisque les nœuds sont établis pour coordonner, promouvoir et faciliter les activités de partage de données entre plusieurs institutions, leur manque de neutralité réduirait leur efficacité. Par exemple, d'autres institutions de biodiversité et des partenaires potentiels peuvent être réticents à collaborer si une institution nodale est directement impliquée dans la production de données à ses propres fins de recherche. suggérer qu'il est un concurrent ou guidé par des intérêts particuliers. Cependant, les institutions ainsi engagées peuvent bâtir une réputation de confiance au sein de la communauté en offrant des ressources et des services - y compris des connaissances spécialisées sur la conservation de données- aux autres institutions ayant des objectifs similaires. Le nœud devrait être en mesure de travailler avec toutes les parties prenantes concernées, indépendamment des préférences ou des priorités qui ne sont pas définies ou approuvées par l'ensemble de la communauté. L'emplacement institutionnel du noeud est donc décisif pour sa neutralité (voir <<node-location-selection>>).\n"
 
 #. type: Plain text
 #: 400.en.adoc:87
@@ -934,7 +934,7 @@ msgstr "*Leadership et initiative*. Les points nodaux doivent être capables de 
 #: 400.en.adoc:88
 #, no-wrap
 msgid "*A focus on service*. Nodes are established to assist a community of people and institutions, and should therefore seek to serve rather than dictate. As a support facility for the Participant’s network, the service-oriented approach should permeate all the activities carried out by the node.\n"
-msgstr ""
+msgstr "*Un accent mis sur le service*. Les nœuds sont établis pour aider une communauté de personnes et d'institutions, et doivent donc chercher à servir plutôt qu'à dicter. En tant qu'instrument de soutien du réseau du Participant, l'approche axée sur le service devrait imprégner toutes les activités menées par le noeud.\n"
 
 #. type: Plain text
 #: 400.en.adoc:88
@@ -971,7 +971,7 @@ msgstr "La capacité actuelle et potentielle du Participant en termes de finance
 #. type: Plain text
 #: 500.en.adoc:11
 msgid "While these factors vary considerably between Participants, lessons from the community can help new GBIF Participants, or those going through strategic changes in their decision-making processes. <<box-4,Box 4>> shows a simplified participatory approach towards making some of the key decisions necessary to establish an effective node."
-msgstr ""
+msgstr "Bien que ces facteurs varient considérablement entre les Participants, les leçons de la communauté peuvent aider les nouveaux Participants au GBIF, ou ceux qui subissent des changements stratégiques dans leurs processus décisionnels. <<box-4,Box 4>> montre une approche participative simplifiée pour prendre certaines des décisions clés nécessaires afin d' établir un noeud efficace."
 
 #. type: Plain text
 #: 500.en.adoc:13
