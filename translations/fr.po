@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-27 18:21\n"
+"PO-Revision-Date: 2020-03-30 07:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -800,7 +800,7 @@ msgstr "*Un cadre collaboratif* pour former un système d’information sur la b
 #: 400.en.adoc:34
 #, no-wrap
 msgid "*Communications and outreach plans, tools and materials* to support collaborative work between the members of the node’s network and to encourage the ongoing addition of new members. Materials can include a website, newsletters, brochures, mailing lists and use of social media platforms. The https://www.gbif.org/document/80926/[GBIF communications strategy] can help identify key messages for relevant audiences, and Participants can coordinate with the Secretariat on communication activities within the wider GBIF network.\n"
-msgstr ""
+msgstr "*Plans de communication et de sensibilisation, outils et matériaux* pour soutenir le travail collaboratif entre les membres du réseau du nœud et encourager l’ajout de nouveaux membres. Les documents peuvent comprendre un site Web, des bulletins d'information, des brochures, des listes de diffusion et l'utilisation de plates-formes de réseaux sociaux. La https://www.gbif. rg/document/80926/[stratégie de communication du GBIF] peut aider à identifier les messages clés pour les publics concernés, et les Participants peuvent se coordonner avec le Secrétariat sur les activités de communication au sein du réseau GBIF élargi.\n"
 
 #. type: Title =====
 #: 400.en.adoc:36
