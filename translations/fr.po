@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 07:50\n"
+"PO-Revision-Date: 2020-03-30 08:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -883,29 +883,29 @@ msgstr "Aptitude à accéder, analyser et utiliser les données sur la biodivers
 #: 400.en.adoc:71
 #, no-wrap
 msgid "*Tools and expertise to generate an agreed set of information products and services* including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders. \n"
-msgstr ""
+msgstr "*Outils et expertise pour générer un ensemble convenu de produits et de services d'information* incluant, par exemple, des listes d'espèces nationales, sous-nationales et thématiques, des contributions au rapport sur l'état de la biodiversité, un catalogue de métadonnées et une analyse des besoins et des lacunes en matière de données de biodiversité qui complètent ceux produits par les parties prenantes. \n"
 
 #. type: Plain text
 #: 400.en.adoc:72
 #, no-wrap
 msgid "A *programme to support access and use of biodiversity data* available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences. \n"
-msgstr ""
+msgstr "Un *programme de soutien d'accès et d'utilisation des données sur la biodiversité* disponibles via le réseau GBIF, incluant éventuellement un portail national ou thématique de données de biodiversité. Cela pourrait inclure l'organisation d'ateliers de formation, le lien avec des programmes nationaux d'éducation, la traduction et l'adaptation de la documentation, ainsi que des actions visant à accroître la visibilité lors de conférences scientifiques jugées pertinentes. \n"
 
 #. type: Title ====
 #: 400.en.adoc:74
 #, no-wrap
 msgid "Capacity self-assessment for national biodiversity information facilities"
-msgstr ""
+msgstr "Auto-évaluation des capacités des installations nationales d'information sur la biodiversité"
 
 #. type: Plain text
 #: 400.en.adoc:77
 msgid "The situation of each GBIF Participant is unique, with different capacity strengths and challenges. The https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment tool for national biodiversity information facilities] is designed to assist countries with planning at any stage of development by identifying capacity strengths and needs relating to the Participant node and the broader stakeholder network. The self-assessment questionnaire provides more detail on the capacity requirements for establishing an effective Participant node and we recommend completing it as part of the planning process for a new node, updating it regularly to track progress."
-msgstr ""
+msgstr "La situation de chaque participant au GBIF est unique, avec différentes forces et défis. Le https://www.gbif. rg/tool/6Y2SqK8XokHUqIFUn6TLxX/[outil d'autoévaluation des capacités pour les installations nationales d'information sur la biodiversité] est conçu pour aider les pays à planifier à n'importe quel stade du développement en identifiant ses forces et ses besoins de capacité en rapport avec le point nodal du participant et le réseau élargi des parties prenantes. Ce questionnaire d'auto-évaluation fournit plus de détails sur les capacités requises pour établir un point nodal efficace et nous recommandons de le compléter dans le cadre du processus de planification d'un nouveau noeud,  et de le mettre à jour régulièrement afin suivre les progrès."
 
 #. type: Plain text
 #: 400.en.adoc:79
 msgid "Once you have identified the key capacity needs, gaining access to the advice and experience of the GBIF network can help new Participants to establish effective nodes as efficiently as possible. Projects and partnerships with other Participants and their nodes can be an effective form of capacity development, for which there are many successful http://www.gbif.org/capacityenhancement/past-projects[examples]. GBIF has a http://www.gbif.org/capacityenhancement/support-programme[capacity enhancement support programme] that provides co-funding each year to support such projects. Less formal exchanges of ideas and experiences, for example, through regional meetings of GBIF nodes, also offer valuable opportunities to help nodes develop the basic capacity requirements. See <<further-support>> for more detail."
-msgstr ""
+msgstr "Une fois que vous avez identifié les besoins clés en capacité, obtenir l'accès aux conseils et à l'expérience du réseau GBIF peut aider les nouveaux Participants à établir leurs nœuds aussi efficacement que possible. Les projets et les partenariats avec les autres Participants et leurs nœuds peuvent être une forme efficace de développement des capacités, voir les nombreux  http://www. bif.org/capacityenhancement/past-projects[exemples] de succès. Le GBIF a un http://www.gbif.org/capacityenhancement/support-programme[programme de soutien au renforcement des capacités] qui fournit chaque année un cofinancement pour soutenir de tels projets. Des échanges d'idées et d’expériences moins formels, par exemple par le biais de réunions régionales de points nodaux du GBIF, offrent également de belles opportunités pour aider les nœuds à se développer en termes de capacité. Voir <<further-support>> pour plus de détails."
 
 #. type: Title ===
 #: 400.en.adoc:81
