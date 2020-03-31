@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-30 22:10\n"
+"PO-Revision-Date: 2020-03-31 07:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -28,7 +28,7 @@ msgstr "Secrétariat GBIF <nodes@gbif.org>"
 #. type: Plain text
 #: index.en.adoc:11
 msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
-msgstr "_languageLinks:pdf[Ce document est également disponible en,format PDF] et languageLinks:languages[dans d'autres langues :,.]_"
+msgstr "_languageLinks:pdf[Ce document est également disponible en, format PDF] et languageLinks:languages[en d'autres langues :,.]_"
 
 #. type: Target for macro image
 #: colophon.en.adoc:2
@@ -51,7 +51,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: colophon.en.adoc:9
 msgid "GBIF Secretariat (2019) Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
-msgstr "Secrétariat du GBIF (2019). Mise en place d’un point nodal participant du GBIF efficace : concepts et considérations générales. Copenhague. https://doi.org/10.15468/doc.fm4b-6q42."
+msgstr "Secrétariat du GBIF (2019). Mise en place d’un point nodal efficace de participant GBIF : concepts et considérations générales. Copenhague. https://doi.org/10.15468/doc.fm4b-6q42."
 
 #. type: Title ===
 #: colophon.en.adoc:10
@@ -73,7 +73,7 @@ msgstr "Licence"
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "_Establishing an Effective GBIF Participant Node_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr "_Le document Mise en place d’un point nodal efficace_ est publié sous une licence Creative Commons Paternité 4.0 non transposée https://creativecommons.org/licenses/by/4.0."
+msgstr "_Le document Mise en place d’un point nodal efficace de participant GBIF_ est publié sous une licence Creative Commons Paternité 4.0 non transposée https://creativecommons.org/licenses/by/4.0."
 
 #. type: Title ===
 #: colophon.en.adoc:16
@@ -105,7 +105,7 @@ msgstr "https://doi.org/10.15468/doc.fm4b-6q42[Première édition], mars 2015, p
 #. type: Plain text
 #: colophon.en.adoc:25
 msgid "Originally based on an earlier publication, _Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_."
-msgstr "Initialement basé sur une publication précédente, _Towards establishing a functional GBIF Participant Node (Part I) : definitions and general considerations_."
+msgstr "Initialement basé sur une publication précédente, _Vers l'établissement dun point nodal fonctionel de participant GBIF (Partie I) : définitions et considérations générales_."
 
 #. type: Title ===
 #: colophon.en.adoc:26
