@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-31 16:09\n"
+"PO-Revision-Date: 2020-03-31 16:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -164,7 +164,7 @@ msgstr "*Un point nodal du GBIF est une équipe désignée par un Participant po
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Two main roles are assigned when a Participant joins GBIF: the *Head of Delegation* and the *node manager* (see <<box-2,Box 2>>). The Head of Delegation represents the country, economy or organization on the GBIF Governing Board, and acts as the Participant’s primary focal point for all GBIF-related activity. The node manager leads the operational activities of the country or organization in coordinating the mobilization and use of open-access biodiversity data, and also represents the Participant on the https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF Participant Node Managers Committee]. A *Participant node* is typically hosted by an existing biodiversity-related institution or institutions in the Participant country, or by Participant organizations."
-msgstr "Deux rôles principaux sont assignés lorsqu'un participant rejoint le GBIF : le *chef de délégation* et le *gestionnaire de nœud* (voir <<box-2,Box 2>>). Le chef de délégation représente le pays, l'économie ou l'organisation au sein du conseil d'administration du GBIF, et agit comme le point focal principal du Participant pour toutes les activités liées au GBIF. Le gestionnaire de noeud dirige les activités opérationnelles du pays ou de l'organisation en coordonnant la mobilisation et l'utilisation des données ouvertes, et représente également le Participant sur le https://www.gbif.org/contact-us/directory?group=nodesCommittee[Comité des gestionnaires de noeuds du GBIF]. Un *Noeud Participant* est généralement hébergé par une institution existante liée à la biodiversité ou des institutions dans le pays participant, ou par des organisations participantes."
+msgstr "Deux rôles principaux sont assignés lorsqu'un Noeud participant rejoint le GBIF : le *chef de délégation* et le *gestionnaire de nœud* (voir <<box-2,Box 2>>). Le chef de délégation représente le pays, la structure économique ou l'organisation au sein du conseil d'administration du GBIF, et agit comme le point focal principal du Noeud Participant pour toutes les activités liées au GBIF. Le gestionnaire de noeud dirige les activités opérationnelles du pays ou de l'organisation en coordonnant la mobilisation et l'utilisation des données ouvertes, et représente également le Noeud Participant sur le https://www.gbif.org/contact-us/directory?group=nodesCommittee[Comité des gestionnaires de noeuds du GBIF]. Un *Noeud Participant* est généralement hébergé par une institution ou plusieurs institutions spécialisées dans la biodiversité  dans le pays participant, ou par des organisations participantes."
 
 #. type: Plain text
 #: 100.en.adoc:11
