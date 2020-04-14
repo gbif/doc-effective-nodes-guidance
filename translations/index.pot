@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-03-25 11:24+0000\n"
+"POT-Creation-Date: 2020-04-14 13:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -121,7 +121,7 @@ msgid ""
 "https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
 "https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, "
 "https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and "
-"https://orcid.org/0000-0001-6492-4016[Donald Hobern]. And Matthew Blissett."
+"https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 msgstr ""
 
 #. type: Plain text
