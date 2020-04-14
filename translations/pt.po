@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-03-25 11:24+0000\n"
-"PO-Revision-Date: 2020-03-25 15:38\n"
+"POT-Creation-Date: 2020-04-14 13:46+0000\n"
+"PO-Revision-Date: 2020-04-14 14:08\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -99,7 +99,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:23
-msgid "https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]. And Matthew Blissett."
+msgid "https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 msgstr ""
 
 #. type: Plain text
@@ -153,7 +153,7 @@ msgstr "O que é um nó de Participante do GBIF?"
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "Participants in GBIF are countries, international organizations or economies having signed the GBIF https://www.gbif.org/document/80661[Memorandum of Understanding] (MOU). Signatories to this agreement express their commitment to establish a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development."
-msgstr "Os Participantes no GBIF são países, organizações internacionais ou economias que assinaram o https://www.gbif.org/document/80661[Memorando de Entendimento] (MOU) do GBIF. Os signatários deste acordo declaram o seu compromisso em estabelecer uma iniciativa coordenada para dar apoio ao acesso e utilização livre de dados de biodiversidade, fomentar a investigação científica e promover o desenvolvimento tecnológico e sustentável."
+msgstr "Os Participantes no GBIF são países, organizações internacionais ou economias que assinaram o https://www.gbif.org/pt/document/80661[Memorando de Entendimento] (MOU) do GBIF. Os signatários deste acordo declaram o seu compromisso em estabelecer uma iniciativa coordenada para dar apoio ao acesso e utilização livre de dados de biodiversidade, fomentar a investigação científica e promover o desenvolvimento tecnológico e sustentável."
 
 #. type: Plain text
 #: 100.en.adoc:7
@@ -282,7 +282,7 @@ msgstr "*Delegação*: a equipa e pessoas nomeadas pelos Participantes para os r
 #: 105-box.en.adoc:21
 #, no-wrap
 msgid "*Head of Delegation*: the person designated by the Participant to act as its representative to the https://www.gbif.org/governance[GBIF Governing Board] and take part in the global-level decision making.\n"
-msgstr "*Chefe de Delegação*: a pessoa designada pelo Participante para atuar como seu representante no Conselho de Administração do GBIF e participar na tomada de decisões a nível global.\n"
+msgstr "*Chefe de Delegação*: a pessoa designada pelo Participante para atuar como seu representante no https://www.gbif.org/pt/governance[Conselho de Administração do GBIF] e participar na tomada de decisões a nível global.\n"
 
 #. type: delimited block *
 #: 105-box.en.adoc:23
@@ -445,7 +445,7 @@ msgstr ""
 #. type: delimited block *
 #: 205-box.en.adoc:5
 msgid "The https://www.gbif.org/document/80926[GBIF communication strategy] identifies six audiences that represent different groups of stakeholders involved in GBIF activities. While there is some overlap between these groups, each has separate interests and roles to play in contributing to GBIF’s vision. A summary is presented here."
-msgstr "A https://www.gbif.org/document/80926[estratégia de comunicação do GBIF] identifica seis públicos que representam vários grupos de partes interessadas envolvidas em atividades do GBIF. Embora haja alguma sobreposição entre estes grupos, cada um tem os seus interesses e funções a desempenhar ao contribuírem para a visão do GBIF. É aqui apresentado um resumo."
+msgstr "A https://www.gbif.org/pt/document/80926[estratégia de comunicação do GBIF] identifica seis públicos que representam vários grupos de partes interessadas envolvidas em atividades do GBIF. Embora haja alguma sobreposição entre estes grupos, cada um tem os seus interesses e funções a desempenhar ao contribuírem para a visão do GBIF. É aqui apresentado um resumo."
 
 #. type: Title =====
 #: 205-box.en.adoc:7
@@ -614,7 +614,7 @@ msgstr ""
 #. type: Plain text
 #: 300.en.adoc:26
 msgid "Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers] as a mechanism to gain recognition for sharing of datasets"
-msgstr "Promover os benefícios da publicação de dados, como por exemplo através da utilização de https://www.gbif.org/data-papers[artigos de dados] como mecanismo para obter o reconhecimento pela partilha de conjuntos de dados"
+msgstr "Promover os benefícios da publicação de dados, como por exemplo através da utilização de https://www.gbif.org/pt/data-papers[artigos de dados] como mecanismo para obter o reconhecimento pela partilha de conjuntos de dados"
 
 #. type: Plain text
 #: 300.en.adoc:27
@@ -1063,7 +1063,7 @@ msgstr ""
 #. type: Plain text
 #: 500.en.adoc:42
 msgid "In addition to choosing the location of the node, Participants need to decide the position of the node team within the host institution: will it be an autonomous body with an independent mandate, a dedicated section or department of the host institution, or a group of staff members sharing their node responsibilities with other functions? New Participants are advised to consult with colleagues in the network and examine https://www.gbif.org/the-gbif-network[the country profiles on GBIF.org] to help identify the most appropriate model for national circumstances."
-msgstr "Além de escolher o local do nó, os Participantes necessitam de decidir o posicionamento da equipa do nó na instituição anfitriã: será um órgão autónomo com um mandato independente, uma secção ou departamento dedicados da instituição anfitriã, ou um grupo de membros de equipa que partilham as suas responsabilidades no nó com outras funções? Os novos Participantes são aconselhados a consultar os colegas na rede e examinar os https://www.gbif.org/the-gbif-network[perfis dos países em GBIF.org] para ajudar a identificar o modelo mais apropriado para as circunstâncias nacionais."
+msgstr "Além de escolher o local do nó, os Participantes necessitam de decidir o posicionamento da equipa do nó na instituição anfitriã: será um órgão autónomo com um mandato independente, uma secção ou departamento dedicados da instituição anfitriã, ou um grupo de membros de equipa que partilham as suas responsabilidades no nó com outras funções? Os novos Participantes são aconselhados a consultar os colegas na rede e examinar os https://www.gbif.org/pt/the-gbif-network[perfis dos países em GBIF.org] para ajudar a identificar o modelo mais apropriado para as circunstâncias nacionais."
 
 #. type: Plain text
 #: 500.en.adoc:44
@@ -1276,7 +1276,7 @@ msgstr "Como posso encontrar exemplos de nós de Participantes?"
 #. type: Plain text
 #: 600.en.adoc:10
 msgid "The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Participants’ GBIF-related activities. They include information about:"
-msgstr "As https://www.gbif.org/the-gbif-network[páginas do país em GBIF.org] disponibilizam um resumo das atividades dos Participantes associadas ao GBIF. Incluem informação sobre:"
+msgstr "As https://www.gbif.org/pt/the-gbif-network[páginas do país em GBIF.org] disponibilizam um resumo das atividades dos Participantes associadas ao GBIF. Incluem informação sobre:"
 
 #. type: Plain text
 #: 600.en.adoc:12
@@ -1337,7 +1337,7 @@ msgstr "Como é que o Comité de Coordenadores dos Nós de Participantes do GBIF
 #. type: Plain text
 #: 600.en.adoc:29
 msgid "The https://www.gbif.org/contact-us/directory?group=nodesCommittee[Participant Node Managers Committee] is a forum for sharing information and best practices between Participant nodes. It also https://www.gbif.org/document/80571[acts as an advisory committee] making recommendations to the other GBIF governing bodies. The committee comprises all Participant node managers, so as soon as a GBIF Participant has appointed a node manager, he or she is invited to take part in the committee’s activities."
-msgstr "O https://www.gbif.org/contact-us/directory?group=nodesCommittee[Comité de Coordenadores dos Nós de Participantes] é um fórum para partilhar informação e boas práticas entre os nós de Participantes. https://www.gbif.org/document/80571[Atua também como um comité consultivo] que faz recomendações aos outros órgãos diretivos do GBIF. O comité inclui todos os coordenadores dos nós de Participantes, por isso assim que um Participante do GBIF nomeia um coordenador de nó, o mesmo é convidado a participar nas atividades do comité."
+msgstr "O https://www.gbif.org/pt/contact-us/directory?group=nodesCommittee[Comité de Coordenadores dos Nós de Participantes] é um fórum para partilhar informação e boas práticas entre os nós de Participantes. https://www.gbif.org/pt/document/80571[Atua também como um comité consultivo] que faz recomendações aos outros órgãos diretivos do GBIF. O comité inclui todos os coordenadores dos nós de Participantes, por isso assim que um Participante do GBIF nomeia um coordenador de nó, o mesmo é convidado a participar nas atividades do comité."
 
 #. type: Plain text
 #: 600.en.adoc:31
@@ -1378,7 +1378,7 @@ msgstr ""
 #. type: Plain text
 #: 600.en.adoc:46
 msgid "A https://www.gbif.org/programme/82219[*capacity enhancement support programme*] with an annual call for project proposals provides GBIF Participants with co-funding to address self-identified capacity needs through collaborative regional and international projects. These projects can combine a range of actions, including mentoring between Participant nodes, the organization of regional events and training workshops, the development or adaptation of documentation, GBIF advocacy actions and actions to promote data use. Participants are encouraged to consider developing project proposals to support the establishment and consolidation of their nodes in collaboration with experts from the GBIF network. Reviewing https://www.gbif.org/programme/82219/[past projects] can provide some useful examples of how to structure collaborative actions aiming to establish new Participant nodes."
-msgstr "Um https://www.gbif.org/programme/82219[*programa de apoio de aumento da capacidade*], com uma abertura de concurso anual para a apresentação de propostas de projetos dá aos Participantes do GBIF co-financiamento para suprir as necessidades auto-identificadas de capacidade, através de projetos colaborativos regionais e internacionais. Estes projetos podem aliar uma série de ações, incluindo a orientação entre nós de Participantes, a organização de workshops de formação regionais, o desenvolvimento ou adaptação de documentação, ações de sensibilização e avaliações de necessidades do GBIF. Os Participantes são incentivados a considerar o desenvolvimento de propostas de projetos para dar apoio ao estabelecimento e consolidação dos seus nós, em colaboração com especialistas da Rede GBIF. A análise de https://www.gbif.org/programme/82219/[projetos anteriores] pode dar alguns exemplos úteis de como estruturar ações colaborativas, visando estabelecer novos nós de Participantes."
+msgstr "Um https://www.gbif.org/pt/programme/82219[*programa de apoio de aumento da capacidade*], com uma abertura de concurso anual para a apresentação de propostas de projetos dá aos Participantes do GBIF co-financiamento para suprir as necessidades auto-identificadas de capacidade, através de projetos colaborativos regionais e internacionais. Estes projetos podem aliar uma série de ações, incluindo a orientação entre nós de Participantes, a organização de workshops de formação regionais, o desenvolvimento ou adaptação de documentação, ações de sensibilização e avaliações de necessidades do GBIF. Os Participantes são incentivados a considerar o desenvolvimento de propostas de projetos para dar apoio ao estabelecimento e consolidação dos seus nós, em colaboração com especialistas da Rede GBIF. A análise de https://www.gbif.org/pt/programme/82219/[projetos anteriores] pode dar alguns exemplos úteis de como estruturar ações colaborativas, visando estabelecer novos nós de Participantes."
 
 #. type: Plain text
 #: 600.en.adoc:48
@@ -1388,7 +1388,7 @@ msgstr ""
 #. type: Plain text
 #: 600.en.adoc:50
 msgid "GBIF also provides access to *training opportunities* for node managers and staff. GBIF-related training events are held all over the world and are displayed on the https://www.gbif.org/resource/search?contentType=event[events section] of GBIF.org."
-msgstr "O GBIF dá também acesso a *oportunidades de formação* para coordenadores de nós e equipas. Os eventos de formação associados ao GBIF decorrem por todo o mundo e são exibidos na https://www.gbif.org/resource/search?contentType=event[secção de eventos] de GBIF.org."
+msgstr "O GBIF dá também acesso a *oportunidades de formação* para coordenadores de nós e equipas. Os eventos de formação associados ao GBIF decorrem por todo o mundo e são exibidos na https://www.gbif.org/pt/resource/search?contentType=event[secção de eventos] de GBIF.org."
 
 #. type: Plain text
 #: 600.en.adoc:52
