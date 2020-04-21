@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-21 08:47\n"
+"PO-Revision-Date: 2020-04-21 09:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -352,17 +352,17 @@ msgstr "En el caso de Participantes con Derecho a Voto, ejercer el voto del Part
 #. type: delimited block *
 #: 110-box.en.adoc:17
 msgid "Within the country or organization of the Participant, leading the strategic direction of GBIF participation, including oversight of the Participant node and ensuring it has adequate mandate and resourcing to carry out its core functions."
-msgstr ""
+msgstr "En el ámbito del país u organización del Participante, liderar la dirección estratégica de la participación en GBIF, incluyendo la supervisión del nodo Participante y asegurando el mandato y los recursos adecuados para llevar a cabo sus funciones principales."
 
 #. type: delimited block *
 #: 110-box.en.adoc:18
 msgid "For country Participants, maintaining good communications with appropriate government departments and agencies, including national focal points from other international biodiversity-related initiatives, to ensure the activities and benefits of GBIF are well understood and supported within governments and in intergovernmental fora."
-msgstr ""
+msgstr "Para países Participantes, mantener buenas comunicaciones con los departamentos y agencias gubernamentales apropiados, incluyendo centros focales nacionales de otras iniciativas internacionales relacionadas con la biodiversidad, para asegurar que las actividades y beneficios de GBIF son perfectamente entendidos y apoyados por los gobiernos y en foros intergubernamentales."
 
 #. type: delimited block *
 #: 110-box.en.adoc:19
 msgid "For Voting Participants, working with relevant authorities within government departments or funding agencies, in collaboration with the Secretariat, to ensure that the financial contribution is paid in full and on time, in order to qualify the country for voting rights; and helping to address any issues related to payment of the contribution."
-msgstr ""
+msgstr "Para Participantes con Derecho a Voto, trabajar con autoridades relevantes de departamentos gubernamentales o agencias financiadoras, en colaboración con el Secretariado, para asegurar que la contribución financiera es pagada de manera completa y a tiempo, para otorgar al país su derecho a voto; y ayudar a tratar cualquier asunto relacionado con el pago de la contribución."
 
 #. type: Title ====
 #: 110-box.en.adoc:23
@@ -373,22 +373,22 @@ msgstr "Responsable del Nodo"
 #. type: delimited block *
 #: 110-box.en.adoc:26
 msgid "After joining GBIF, Participants are also encouraged as soon as possible to appoint a Node Manager, to lead the operational activities of the country or organization in coordinating the mobilization and use of open-access biodiversity data. Detailed guidance is available in this document, but in summary the responsibilities of the Node Manager include:"
-msgstr ""
+msgstr "Tras unirse a GBIF, se fomenta que los Participantes designen un Administrador del Nodo, tan pronto como sea posible, para liderar las actividades operacionales del país u organización en coordinación con la movilización y utilización de datos abiertos de biodiversidad. En este documento se incluye una guía detallada pero, en resumen, las responsabilidades del Administrador del Nodo incluyen: "
 
 #. type: delimited block *
 #: 110-box.en.adoc:28
 msgid "Managing the node team that will coordinate biodiversity data mobilization, access and use among relevant stakeholders in the country or organization."
-msgstr ""
+msgstr "Gestionar el equipo del nodo que coordinará la movilización, acceso y uso de de datos de biodiversidad entre los grupos de interés relevantes en el país u organización."
 
 #. type: delimited block *
 #: 110-box.en.adoc:29
 msgid "Collaborating with other node managers and the Secretariat to ensure that the country or organization benefits fully from GBIF participation, including through mentoring arrangements and guidance to share skills and best practices in biodiversity informatics."
-msgstr ""
+msgstr "Colaborar con otros administradores de nodos y con el Secretariado para asegurar que el país u organización de beneficia completamente de su participación en GBIF, incluyendo actividades de tutoría y guía que permitan compartir habilidades y buenas prácticas en el ámbito de la informática de la biodiversidad."
 
 #. type: delimited block *
 #: 110-box.en.adoc:30
 msgid "As a member of the GBIF Nodes Committee, attending global nodes meetings (held every two years) and regional nodes meetings (held either annually or every two years) as well as technical workshops and training events."
-msgstr ""
+msgstr "Como miembro del Comité de Nodos de GBIF, asistir a las reuniones globales de nodos (organizadas cada dos años) y a las reuniones regionales de nodos (organizadas anualmente o cada dos años) así como a talleres técnicos y eventos de formación."
 
 #. type: delimited block *
 #: 110-box.en.adoc:31
