@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-14 14:13\n"
+"PO-Revision-Date: 2020-04-21 08:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -332,12 +332,12 @@ msgstr "Asistir a las reuniones de la Junta de Gobierno que se realizan anualmen
 #. type: delimited block *
 #: 110-box.en.adoc:13
 msgid "Nominating additional delegates to attend Governing Board meetings (a maximum of two additional delegates may attend each meeting, ideally including the Node Manager); informing the Secretariat prior to each meeting about the composition of the delegation."
-msgstr ""
+msgstr "Nominar a delegados adicionales para asistir a las reuniones del Órgano de Gobierno (un máximo de dos delegados adicionales pueden asistir a cada reunión, idealmente incluyendo al Administrador del Nodo); informando al Secretariado antes de cada reunión sobre la composición de la delegación."
 
 #. type: delimited block *
 #: 110-box.en.adoc:14
 msgid "Preparing for such meetings by reading and consulting as appropriate on key documents submitted for approval by the Governing Board, such as the work programme, budget and strategic decisions. All documentation is distributed one month in advance of the meeting."
-msgstr ""
+msgstr "Prepararse para tales reuniones mediante la lectura y consulta de los documentos clave apropiados propuestos para su aprobación por parte del Órgano de Gobierno, como son el programa de trabajo, el presupuesto y las decisiones estratégicas. Toda la documentación se distribuye con un mes de antelación a la reunión."
 
 #. type: delimited block *
 #: 110-box.en.adoc:15
