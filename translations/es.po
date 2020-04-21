@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-21 11:03\n"
+"PO-Revision-Date: 2020-04-21 11:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -429,7 +429,7 @@ msgstr "Los nodos juegan un papel en la coordinación del amplio espectro de la 
 #. type: Plain text
 #: 200.en.adoc:13
 msgid "Nodes can also *increase the efficiency* of implementing a biodiversity information facility by making use of the common tools, practices, information resources and opportunities for collaborative capacity enhancement available through the GBIF network. By making the connection to GBIF, nodes enable the *integration of data* mobilized at the Participant level with relevant data published by other countries and organizations. Data mobilized through a Participant biodiversity information facility to serve national needs also become available for reuse by the broader international audience, *raising the visibility* of the Participant’s data publishing institutions and mobilization efforts."
-msgstr ""
+msgstr "Los nodos también pueden *incrementar la eficiencia* de la implementación de infraestructuras de información en biodiversidad al hacer disponibles a través de GBIF herramientas, prácticas, recursos de información y oportunidades comunes para la mejora colaborativa de capacidades. A través de la conexión con GBIF, los nodos habilitan la *integración de datos* movilizados a nivel de Participante con datos relevantes publicados por otros países y organizaciones. Los datos movilizados a través de  la infraestructura de información en biodiversidad de un Participante para cubrir las necesidades nacionales también están disponibles para ser reutilizados por una audiencia internacional más amplia, *incrementando la visibilidad* de los esfuerzos de movilización y las instituciones proveedoras de datos del Participante."
 
 #. type: Plain text
 #: 200.en.adoc:14
