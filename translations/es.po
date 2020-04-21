@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-21 08:37\n"
+"PO-Revision-Date: 2020-04-21 08:47\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -342,12 +342,12 @@ msgstr "Prepararse para tales reuniones mediante la lectura y consulta de los do
 #. type: delimited block *
 #: 110-box.en.adoc:15
 msgid "Responding to intersessional communications from the Secretariat and Governing Board Chair between Governing Board meetings, including consultations, calls for award nominations and other requests for which actions or views are sought from Participants."
-msgstr ""
+msgstr "Responder a las comunicaciones del Secretariado y de la Junta del Órgano de Gobierno que se producen entre reuniones del Órgano de Gobierno, incluyendo consultas, convocatorias para nominaciones a premios y otras solicitudes para las cuales se buscan acciones concretas u opiniones de los Participantes."
 
 #. type: delimited block *
 #: 110-box.en.adoc:16
 msgid "In the case of Voting Participants, exercising the Participant’s vote at Governing Board meetings, including in elections for chairs and vice-chairs of the Governing Board and advisory committees; and responding to calls for nominations for such posts."
-msgstr ""
+msgstr "En el caso de Participantes con Derecho a Voto, ejercer el voto del Participante en las reuniones del Órgano de Gobierno, incluyendo las elecciones para presidente y vicepresidente del Órgano de Gobierno y los comités asesores; y responder a las convocatorias de nominaciones para tales posiciones."
 
 #. type: delimited block *
 #: 110-box.en.adoc:17
