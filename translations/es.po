@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-21 09:12\n"
+"PO-Revision-Date: 2020-04-21 10:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -393,12 +393,12 @@ msgstr "Como miembro del Comité de Nodos de GBIF, asistir a las reuniones globa
 #. type: delimited block *
 #: 110-box.en.adoc:31
 msgid "Paying close attention to communications from the GBIF Secretariat, including webinars and newsletters, on technical developments and opportunities such as capacity enhancement support calls, and keeping the Secretariat informed about node activities that may be of interest to the wider community"
-msgstr ""
+msgstr "Prestar atención a las comunicaciones del Secretariado de GBIF, incluyendo seminarios en línea y boletines, sobre desarrollos técnicos y oportunidades tales como convocatorias para la mejora de capacidades, y mantener al Secretariado informado sobre las actividades del nodo que puedan ser de interés para toda la comunidad."
 
 #. type: delimited block *
 #: 110-box.en.adoc:32
 msgid "Establishing a close working relationship with the HoD to ensure he/she is well informed about the needs and performance of the node, and ideally attending Governing Board meetings as an additional delegate"
-msgstr ""
+msgstr "Establecer una estrecha relación de trabajo con el Jefe de Delegación para asegurar que es bien informado sobre las necesidades y actuaciones del nodo e, idealmente, asistir a las reuniones del Órgano de Gobierno como delegado adicional."
 
 #. type: Title ==
 #: 200.en.adoc:2
