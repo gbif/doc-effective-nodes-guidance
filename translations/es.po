@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-21 10:57\n"
+"PO-Revision-Date: 2020-04-21 11:03\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -424,7 +424,7 @@ msgstr "Mediante la coordinación de las infraestructuras de información en bio
 #. type: Plain text
 #: 200.en.adoc:11
 msgid "Nodes play a role in coordinating the broad landscape of biodiversity informatics initiatives by engaging new communities and making international connections through GBIF. This coordination helps to create strong *partnerships and alignment of efforts*, complementing other biodiversity-related initiatives by providing the data foundations and infrastructure for a wide range of applications."
-msgstr ""
+msgstr "Los nodos juegan un papel en la coordinación del amplio espectro de la informática de la biodiversidad mediante la inclusión de nuevas comunidades la creación de conexiones internacionales a través de GBIF. Esta coordinación ayuda a crear fuertes *asociaciones y alinear esfuerzos*, complementando otras iniciativas relacionadas con la biodiversidad al proporcionar las bases y la infraestructura de datos para un amplio rango de aplicaciones."
 
 #. type: Plain text
 #: 200.en.adoc:13
