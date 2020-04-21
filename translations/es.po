@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-21 10:37\n"
+"PO-Revision-Date: 2020-04-21 10:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -409,17 +409,17 @@ msgstr "¿Por qué son necesarios los nodos participantes?"
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "Participant nodes and biodiversity information facilities help GBIF Participants *increase the return from their past, current, and future investments* in biodiversity research and data collection. They help *make the publication of primary data part of the scientific mainstream*, as much part of culture and practice as publication of the results in research itself. In their facilitating role, nodes help data holders publish their data using common standards and protocols to ensure interoperability and open access and *make data available for the widest possible reuse*. They also contribute to commitments that *promote transparency and open access* to scientific data, helping data holders comply with open data regulations and requirements."
-msgstr ""
+msgstr "Los nodos e infraestructuras de información en biodiversidad Participantes ayudan a los Participantes de GBIF a *incrementar el retorno de las inversiones pasadas, actuales y futuras* en la investigación y colecta de datos de biodiversidad. Ayudan también a que *la publicación de datos primarios sea parte de la corriente científica predominante*, tanto creando cultura y en la práctica como en la publicación de resultados en la propia investigación. En su rol facilitador, los nodos ayudan a los propietarios de datos a publicar sus datos utilizando estándares y protocolos comunes para asegurar la interoperabilidad y acceso abierto y \"hacer los datos disponibles para una posible y amplia reutilización*. Además, contribuyen a compromisos que *promocionan la transparencia y el acceso abierto* a los datos científicos, ayudando a los propietarios de datos a cumplir con las regulaciones y requerimientos sobre datos abiertos."
 
 #. type: Plain text
 #: 200.en.adoc:7
 msgid "Nodes play a valuable role in promoting data management practices and in encouraging the community of biodiversity knowledge-holders to pool their expertise. This work can in turn continuously *improve the quality* and fitness-for-use of available biodiversity data and provide a platform for *taxonomy and collaborative collection management*."
-msgstr ""
+msgstr "Los nodos juegan un valioso papel en la promoción de prácticas de gestión de datos y en el fomento de la comunidad de expertos en biodiversidad para que compartan su experiencia. Este trabajo puede, a su vez, *mejorar de manera continua la calidad\" y la adaptación para su uso de los datos de biodiversidad disponibles y proporcionar una plataforma para la *gestión de colecciones taxonómicas colaborativas*. "
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "By coordinating biodiversity information facilities, nodes are well positioned to assess biodiversity data availability and gaps (taxonomic, spatial and temporal) at the Participant level, to understand data and information use and needs, and to implement strategies in response. Thus, nodes can contribute to *setting biodiversity research priorities*."
-msgstr ""
+msgstr "Mediante la coordinación de las infraestructuras de información en biodiversidad, los nodos están muy bien posicionados para evaluar a nivel de Participante la disponibilidad y vacíos (taxonómicos, espaciales y temporales) de los datos de biodiversidad, para entender el uso y necesidades de la información y los datos y para implementar estrategias como respuesta. Por ello, los nodos pueden contribuir a *establecer las prioridades de la investigación en biodiversidad*."
 
 #. type: Plain text
 #: 200.en.adoc:11
