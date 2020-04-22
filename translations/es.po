@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-22 07:40\n"
+"PO-Revision-Date: 2020-04-22 08:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -440,7 +440,7 @@ msgstr "Finalmente, los nodos Participantes ayudan a desarrollar capacidades en 
 #: 205-box.en.adoc:2
 #, no-wrap
 msgid "Box 3. Stakeholders involved in GBIF activities at the Participant level"
-msgstr ""
+msgstr "Cuadro 3. Grupos de interés implicados en las actividades de GBIF a nivel de Participante"
 
 #. type: delimited block *
 #: 205-box.en.adoc:5
@@ -461,7 +461,7 @@ msgstr "Este grupo incluye los administradores de nodos, el personal y los miemb
 #. type: delimited block *
 #: 205-box.en.adoc:12
 msgid "The key focus of this group is to *support participation in the GBIF network* through engagement with the other audiences, to support biodiversity data mobilization, management, curation, and use."
-msgstr ""
+msgstr "La función principal de este grupo es *fomentar la participación en la red de GBIF* mediante la interacción con los demás destinatarios e impulsar el intercambio, la administración, la conservación y el uso de los datos sobre biodiversidad."
 
 #. type: Title =====
 #: 205-box.en.adoc:14
@@ -477,7 +477,7 @@ msgstr "Este grupo abarca, entre otros, los actuales editores de datos de GBIF; 
 #. type: delimited block *
 #: 205-box.en.adoc:19
 msgid "The key focus of engaging with data holders is to *encourage and support biodiversity data mobilization*: data digitization, data collection and ultimately publication of their data through the GBIF network."
-msgstr ""
+msgstr "El objetivo principal de colaborar con los proveedores de datos es *alentar y apoyar la movilización de los datos sobre biodiversidad*: digitalización, conservación y posterior publicación de los datos a través de la red de GBIF."
 
 #. type: Title =====
 #: 205-box.en.adoc:21
@@ -493,7 +493,7 @@ msgstr "Este grupo comprende los zoólogos, botánicos, micólogos y expertos en
 #. type: delimited block *
 #: 205-box.en.adoc:26
 msgid "The key focus of engaging with biodiversity knowledge holders is to *support biodiversity data management and curation*: continuously improving the quality and fitness-for-use of the data mobilized by the GBIF network, and demonstrating that the work of these groups benefits from strong biodiversity information facilities, at national and global levels."
-msgstr ""
+msgstr "El objetivo principal de colaborar con los expertos en biodiversidad es *apoyar la conservación y administración de los datos sobre biodiversidad*: mejorando continuamente la calidad y la idoneidad para el uso de los datos que se movilizan en la red de GBIF, y demostrando que el trabajo de estos grupos se beneficia de infraestructuras sólidas de información en biodiversidad a nivel nacional e internacional"
 
 #. type: Title =====
 #: 205-box.en.adoc:28
@@ -509,7 +509,7 @@ msgstr "Este grupo comprende los ecologistas, entre ellos, los macroecologistas 
 #. type: delimited block *
 #: 205-box.en.adoc:33
 msgid "The key focus of engaging with species occurrence data users is to *support biodiversity data use*: reusing the data accessible through GBIF to support biodiversity-related sciences and environmental research, ultimately to support evidence-based decision making."
-msgstr ""
+msgstr "El objetivo principal de colaborar con los usuarios de datos acerca de la presencia de especies es *fomentar el uso de los datos sobre biodiversidad*: reutilizar los datos accesibles a través de GBIF para respaldar las ciencias relacionadas con la biodiversidad y la investigación medioambiental, en última instancia, para apoyar la adopción de decisiones con fundamento empírico."
 
 #. type: Title =====
 #: 205-box.en.adoc:35
@@ -525,7 +525,7 @@ msgstr "Este grupo incluye los funcionarios de organismos y ministerios del gobi
 #. type: delimited block *
 #: 205-box.en.adoc:40
 msgid "The key focus of engaging with funders and executive decision makers is to *build support for all GBIF-related activities*."
-msgstr ""
+msgstr "El objetivo principal de colaborar con los organismos de financiación y los encargados ejecutivos de la adopción de decisiones es *lograr el apoyo de todas las actividades de GBIF*."
 
 #. type: Title =====
 #: 205-box.en.adoc:42
