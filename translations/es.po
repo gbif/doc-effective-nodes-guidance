@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-21 11:28\n"
+"PO-Revision-Date: 2020-04-22 07:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -434,7 +434,7 @@ msgstr "Los nodos también pueden *incrementar la eficiencia* de la implementaci
 #. type: Plain text
 #: 200.en.adoc:14
 msgid "Finally, Participant nodes help develop capacity in the *use of collective biodiversity data resources*. Their efforts support both basic and applied research relevant to policy decisions across a range of issues of primary economic and social importance, including food security, agricultural livelihoods, disease risk and the impacts of climate change.  This also supports information requirements for meeting *national and global commitments* including biodiversity-related conventions and sustainable development goals. Thus, fully functional Participant nodes and biodiversity information facilities are instrumental in helping Participants achieve their own biodiversity data-related goals and targets."
-msgstr ""
+msgstr "Finalmente, los nodos Participantes ayudan a desarrollar capacidades en el *uso de recursos de datos colectivos de biodiversidad*. Sus esfuerzos apoyan la investigación básica y aplicada relevante para la toma de decisiones políticas de un amplio rango de asuntos de importancia social y económica primaria, incluyendo la seguridad alimentaria, los medios de subsistencia agrícola, el riesgo de desastres y los impactos del cambio climático. Esto supone un acercamiento a los requerimientos de información necesarios para cumplir los *compromisos nacionales y globales*, incluyendo convenciones relacionadas con la biodiversidad y objetivos de desarrollo sostenible. Por lo tanto, los nodos Participantes y las infraestructuras de información en biodiversidad completamente funcionales son instrumentos que ayudan a los Participantes a alcanzar sus propios objetivos y metas relacionadas con los datos de biodiversidad."
 
 #. type: Title ===
 #: 205-box.en.adoc:2
