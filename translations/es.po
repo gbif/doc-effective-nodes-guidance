@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-22 08:25\n"
+"PO-Revision-Date: 2020-04-22 08:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -650,7 +650,7 @@ msgstr "Facilitar el acceso a los datos sobre biodiversidad impulsando el uso de
 #. type: Plain text
 #: 300.en.adoc:38
 msgid "Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices] for data accessed through the GBIF network"
-msgstr ""
+msgstr "Fomentar el uso de adecuadas https://www.gbif.org/citation-guidelines[prácticas para citar] los datos disponibles a través de la red de GBIF"
 
 #. type: Plain text
 #: 300.en.adoc:39
@@ -660,7 +660,7 @@ msgstr "Actuar como una institución de referencia en lo que respecta a la infor
 #. type: Plain text
 #: 300.en.adoc:40
 msgid "Providing support for biodiversity research, through evaluation of data needs and data gaps"
-msgstr ""
+msgstr "Apoyar la investigación en biodiversidad a través de la evaluación de necesidades y vacíos de datos"
 
 #. type: Plain text
 #: 300.en.adoc:41
