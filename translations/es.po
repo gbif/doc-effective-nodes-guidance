@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-22 08:00\n"
+"PO-Revision-Date: 2020-04-22 08:10\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -568,7 +568,7 @@ msgstr "Entre los servicios, podemos mencionar los siguientes:"
 #. type: Plain text
 #: 300.en.adoc:12
 msgid "Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], https://www.ipbes.net[IPBES], https://iucn.org[IUCN], https://obis.org[OBIS] and others, including close liaison or joint working with relevant nodes or focal points for these initiatives"
-msgstr ""
+msgstr "Fomentar la sinergia con las actividades regionales y nacionales que involucran otras iniciativas mundiales relacionadas con la biodiversidad, como el http://www.cbd.int/chm/default.shtml[Mecanismo de facilitación del CBD], https://www.ipbes.net[IPBES], https://iucn.org[UICN], https://obis.org[OBIS], entre otros, incluida la estrecha colaboración o el trabajo conjunto con los nodos pertinentes o los centros de coordinación para estas iniciativas"
 
 #. type: Plain text
 #: 300.en.adoc:13
