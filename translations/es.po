@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-22 08:10\n"
+"PO-Revision-Date: 2020-04-22 08:25\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -609,7 +609,7 @@ msgstr "Impulsar y coordinar la inversión nacional en la digitalización y la m
 #. type: Plain text
 #: 300.en.adoc:25
 msgid "Providing a technical infrastructure and support to enable biodiversity data to be published on the Internet and through the GBIF network (including https://www.gbif.org/dataset-classes[sampling-event metadata, occurrence data, checklist data and collections metadata])"
-msgstr ""
+msgstr "Proporcionar la infraestructura y asistencia técnica para poder publicar los datos sobre biodiversidad en internet y a través de la red de GBIF (incluyendo https://www.gbif.org/dataset-classes[metadatos de eventos de muestreo, datos de presencia, datos de listas de especies y metadatos asociados a las colecciones])"
 
 #. type: Plain text
 #: 300.en.adoc:26
@@ -629,12 +629,12 @@ msgstr "Mantener un esquema de colaboración entre los proveedores de datos y lo
 #. type: Plain text
 #: 300.en.adoc:29
 msgid "Promoting public engagement in biodiversity issues, for example, by supporting citizen science initiatives that mobilize observational data"
-msgstr ""
+msgstr "Impulsar la participación de la sociedad en los problemas relacionados con la biodiversidad, por ejemplo, apoyando las iniciativas de ciencia ciudadana que moviliza datos procedentes de observaciones."
 
 #. type: Plain text
 #: 300.en.adoc:30
 msgid "Developing strategies, materials and activities to engage private companies to publish and reuse biodiversity data"
-msgstr ""
+msgstr "Desarrollar estrategias, materiales y actividades para fomentar la publicación y uso de los datos de biodiversidad por parte de empresas privadas"
 
 #. type: Title ===
 #: 300.en.adoc:32
