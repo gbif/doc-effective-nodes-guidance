@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-22 12:03\n"
+"PO-Revision-Date: 2020-05-07 18:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -934,7 +934,7 @@ msgstr "*Liderazgo e iniciativa*. Los nodos deben poder ser capaces de despertar
 #: 400.en.adoc:88
 #, no-wrap
 msgid "*A focus on service*. Nodes are established to assist a community of people and institutions, and should therefore seek to serve rather than dictate. As a support facility for the Participant’s network, the service-oriented approach should permeate all the activities carried out by the node.\n"
-msgstr ""
+msgstr "*Un enfoque para el servicio*. Los nodos se establecen para asistir a una comunidad de personas e instituciones y, por ello, deberían perseguir el servir en vez de el dictar. Como infraestructura de apoyo para la red del Participante, el enfoque orientado al servicio debería impregnar todas las actividades llevadas a cabo por el nodo."
 
 #. type: Plain text
 #: 400.en.adoc:88
@@ -971,7 +971,7 @@ msgstr "Las capacidades actuales y potenciales del participante en términos de 
 #. type: Plain text
 #: 500.en.adoc:11
 msgid "While these factors vary considerably between Participants, lessons from the community can help new GBIF Participants, or those going through strategic changes in their decision-making processes. <<box-4,Box 4>> shows a simplified participatory approach towards making some of the key decisions necessary to establish an effective node."
-msgstr ""
+msgstr "Mientras que estos factores varían considerablemente entre Participantes, as lecciones de la comunidad pueden ayudar a los nuevos Participantes, o a aquellos que se estén enfrentando a cambios estratégicos en sus procesos de tomas de decisiones. El <<cuadro-4,Cuadro 4>> muestra un enfoque participativo simplificado para tomar algunas de las decisiones claves necesarias para establecer un nodo efectivo."
 
 #. type: Plain text
 #: 500.en.adoc:13
@@ -982,12 +982,12 @@ msgstr "La principal recomendación es iniciar un proceso participativo a nivel 
 #: 500.en.adoc:15
 #, no-wrap
 msgid "*See <<box-4,box 4>>*\n"
-msgstr ""
+msgstr "*Ver <<cuadro-4,cuador 4>>*"
 
 #. type: Plain text
 #: 500.en.adoc:17
 msgid "Many tools exist to support dialogue around the establishment of a Participant node. We recommend carrying out a https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment] (see <<capacity-self-assessment>>) to identify the key capacity strengths and needs, and from which to measure progress in future. A preliminary https://www.gbif.org/document/80890[content needs assessment] conducted at the Participant level through a survey, workshop or literature analysis (possibly led by a consultant) can provide valuable information to guide the stakeholder group in formulating their recommendations. This assessment helps ensure that the needs and priorities of a broad stakeholder group are represented in the process. Stakeholder mapping can also shape an understanding how the biodiversity information facility and node will address the Participant’s needs and priorities, and complement other biodiversity-related or information-related initiatives."
-msgstr ""
+msgstr "Existen muchas herramientas para apoyar el diálogo en torno al establecimiento de un nodo Participante. Recomendamos llevar a cabo una https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[autoevaluación de capacidades] (ver <<autoevaluación-capacidades>>) "
 
 #. type: Plain text
 #: 500.en.adoc:19
@@ -1007,7 +1007,7 @@ msgstr "¿Cuáles de las necesidades identificadas debería abordar el nodo y cu
 #. type: Plain text
 #: 500.en.adoc:24
 msgid "Which type of agreements (e.g., data sharing/use agreements, community norms, a formal mandate for the node) are needed to support effective collaboration between stakeholders?"
-msgstr ""
+msgstr "¿Qué tipo de acuerdos (ej.: acuerdos de publicación/uso de datos, normas de la comunidad, un mandato formal para el nodo) son necesarios para apoyar la colaboración efectiva entre los grupos de interés?"
 
 #. type: Plain text
 #: 500.en.adoc:25
@@ -1032,7 +1032,7 @@ msgstr "¿Qué ubicación institucional le otorgaría al nodo la mejor combinaci
 #. type: Plain text
 #: 500.en.adoc:29
 msgid "Which institutional location would provide the node with the greatest institutional and financial support, as well as the maximum long-term stability? (See <<node-location-selection>>)."
-msgstr ""
+msgstr "¿Qué ubicación institucional proporcionaría al nodo el mayor apoyo institucional y financiero, así como la máxima estabilidad a largo plazo? (Ver <<selección-localización-nodo>>)."
 
 #. type: Plain text
 #: 500.en.adoc:31
@@ -1058,7 +1058,7 @@ msgstr "¿Cómo debería seleccionar un participante de GBIF la ubicación insti
 #. type: Plain text
 #: 500.en.adoc:40
 msgid "As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. <<examples-of-node-hosts>> summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to all countries or host institutions."
-msgstr ""
+msgstr "Como ya se ha mencionado, la ubicación institucional para el nodo es una decisión crítica que probablemente tenga impactos a largo plazo en su efectividad a la hora de coordinar la información en biodiversidad para el país. <<ejemplos-de-hospedadores-del-nodo>> resumen los tipos de instituciones anteriormente designadas como hospedadoras de nodos Participantes de GBIF, así como algunas de las potenciales ventajas y desventajas asociadas con cada tipo de hospedador. Centrada más en países que en organizaciones, la tabla no proporciona una única recomendación sobre dónde ubicar un nodo pero puede ser de utilidad como referencia cuando se están considerando las opciones. Estos ejemplos son generales y variarán enormemente dependiendo de la situación específica de cada Participante. Las desventajas potenciales en la columna de la derecha pueden nos ser de aplicación a todos los países o instituciones hospedadoras."
 
 #. type: Plain text
 #: 500.en.adoc:42
@@ -1133,7 +1133,43 @@ msgid "\n"
 "|Need to invest in staff bringing relevant scientific domain knowledge\n"
 "to work effectively with biodiversity data\n\n"
 "Need to build contacts and knowledge of relevant institutional networks\n\n"
-msgstr ""
+msgstr "^|Ventajas potenciales\n\n"
+"^|Desventajas potenciales\n\n"
+"2+^s|Colecciones de historia natural\n\n"
+"|Conocimiento existente de los retos y requerimientos de la digitalización y manejo de datos de historia natural\n\n"
+"|Puede requerir esfuerzos significativos demostrar la neutralidad (ej.: si se trata de una colección zoológica, que pueda trabajar con otros tipos de colecciones), o que no compite por fondos de digitalización, etc.\n\n"
+"Puede resultar complicado implicar a otras comunidades que posean otro tipo de datos de biodiversidad (ej.: observaciones, datos ecológicos, etc.)\n\n"
+"El nodo puede encontrar dificultades para cubrir las necesidades de algunos grupos de interés (ej.: tomadores de decisiones)\n\n"
+"2+^s|Ministerios de ciencia, medio ambiente, u otros.\n\n"
+"|Mandato muy sólido y capacidad para influir y apoyar la elaboración de políticas y la toma de decisiones\n\n"
+"Facilmente alineado con políticas, estrategias y programas nacionales de biodiversidad\n\n"
+"|Operar a nivel técnico y proporcionar apoyo técnico (ej.: a la comunidad científica) puede resultar un reto\n\n"
+"Facilmente afectado por cambios políticos\n\n"
+"Puede encontrar dificultades para abordar las necesidades de otros miniterios (ej.: desde el de ciencias o medio ambiente)\n\n"
+"2+^s|Institutos de investigación biológica o en biodiversidad\n\n"
+"|Alto potencial para el desarrollo sencillo y rápido de capacidades en informática de la biodiversidad\n\n"
+"Conocimiento completo del ámbito de investigación en biodiversidad\n\n"
+"Puede poseer un mandato institucional fuerte y claro\n\n"
+"|Puede no ser percibido como neutral por algunos grupos de interés, dependiendo de cómo encaja el instituto en el espectro general institucional del Participante (por ejemplo, si hay solapamiento o competencia por los recursos)\n\n"
+"2+^s|Agencias de investigación o comisiones de ciencia y tecnología\n\n"
+"|Excelente posición para usar el nodo Participante para coordinar, fomentar y facilitar la moviliación de datos de biodiversidad del ámbito de la investigación\n\n"
+"Facilmente alineado con políticas, estrategias y programas nacionales de biodiversidad\n\n"
+"|Puede no ser percibido como neutral por algunos grupos de interés, dependiendo de cómo encaja el instituto en el espectro general institucional del Participante (por ejemplo, si hay solapamiento o competencia por los recursos)\n\n"
+"2+^s|Organizaciones no gubernamentales\n\n"
+"|Flexibilidad y autonomía\n\n"
+"|Falta potencial de mandato, dificultar para implicar formalmente a instituciones gubernamentales\n\n"
+"Pueden ser dependientes de proyectos o financiación basada en proyectos\n\n"
+"2+^s|Departamentos de universidades o facultades\n\n"
+"|Alto potencial para el desarrollo sencillo y rápido de capacidades en informática de la biodiversidad\n\n"
+"Potencial para alinear las actividades del nodo con varias líneas de investigación en biodiversidad\n\n"
+"|Puede encarar problemas en torno a la neutralidad\n\n"
+"Pueden ser dependientes de proyectos o financiación basada en proyectos\n\n"
+"2+^s|Infraestructuras de informática nacionales fuera del dominio de la biodiversidad/biología\n\n"
+"|Apreciación de una neutralidad sólida\n\n"
+"Acceso disponible a capacidades técnicas en informática\n\n"
+"Conexiones potencialmente útiles con prioridades nacionales bien financiadas sobre innovación y tecnología\n\n"
+"|Necesita invertir en personal que aporte conocimientos científicos relevantes para poder trabajar de manera efectiva con datos de biodiversidad\n\n"
+"Necesita crear contactos y conocimiento de redes institucionales relevantes"
 
 #. type: Title ===
 #: 500.en.adoc:143
@@ -1144,7 +1180,7 @@ msgstr "¿Cuáles son las recomendaciones sobre las funciones del personal en lo
 #. type: Plain text
 #: 500.en.adoc:146
 msgid "While the specific services that nodes provide vary from one Participant to another (see <<what-do-nodes-need>>), a node’s staff need to cover a number of typical functions:"
-msgstr ""
+msgstr "A pesar de que los servicios que proporcionan los nodos pueden variar de un Participante a otro (ver <<qué-necesitan-los-nodos>>), el personal de un nodo debe cubrir una serie de funciones comunes:"
 
 #. type: Plain text
 #: 500.en.adoc:148
@@ -1230,30 +1266,30 @@ msgstr "Una persona con formación en informática, capaz de desarrollar y mante
 #: 505-box.en.adoc:2
 #, no-wrap
 msgid "Box 4. A participatory approach to establishing a Participant node"
-msgstr ""
+msgstr "Cuadro 4. Un enfoque participativo para establecer un nodo Participante"
 
 #. type: Target for macro image
 #: 505-box.en.adoc:6
 #, no-wrap
 msgid "img/box-4.png"
-msgstr ""
+msgstr "img/cuadro-4.png"
 
 #. type: Title ===
 #: 510-box.en.adoc:2
 #, no-wrap
 msgid "Box 5: Example of staff roles for a Participant node"
-msgstr ""
+msgstr "Cuadro 5. Ejemplo de roles del personal de un nodo Participante"
 
 #. type: delimited block *
 #: 510-box.en.adoc:6
 msgid "This example assumes that the administrative roles are covered by the host institution."
-msgstr ""
+msgstr "Este ejemplo asume que los roles administrativos son cubiertos por la institución hospedadora."
 
 #. type: Target for macro image
 #: 510-box.en.adoc:7
 #, no-wrap
 msgid "img/example-of-staff-roles-participant-node.en.svg"
-msgstr ""
+msgstr "img/ejemplo-de-roles-nodo-participante.en.svg"
 
 #.  insert image and make image text available for translation/language versioning //
 #. type: Title ==
@@ -1291,7 +1327,7 @@ msgstr "La fecha de creación del nodo participante, el sitio web y la informaci
 #. type: Plain text
 #: 600.en.adoc:14
 msgid "An overview of the data published from the country’s institutions, with links to the data publishers and datasets, as well as data published from anywhere in the world about biodiversity located in the country"
-msgstr ""
+msgstr "Una visión general de los datos publicados por las instituciones del país, con enlaces a los proveedores de datos y los juegos de datos, así como de los datos publicados en cualquier lugar del mundo sobre biodiversidad localizada en el país"
 
 #. type: Plain text
 #: 600.en.adoc:15
@@ -1306,27 +1342,27 @@ msgstr "Una lista de noticias relacionadas con el país del participante y publi
 #. type: Plain text
 #: 600.en.adoc:17
 msgid "Peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country, as well as articles relating to the country"
-msgstr ""
+msgstr "Artículos científicos que citan GBIF como una fuente de datos y que incluyen autores del país Participante, así como artículos relacionados con el país"
 
 #. type: Plain text
 #: 600.en.adoc:18
 msgid "Where available, validated lists of introduced and invasive species occurring in the country"
-msgstr ""
+msgstr "Donde se posible, listas validadas de especies introducidas e invasoras presentes en el país"
 
 #. type: Plain text
 #: 600.en.adoc:20
 msgid "https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website."
-msgstr ""
+msgstr "https://www.gbif.org/the-gbif-network/participant-organisations[La información sobre organizaciones Participantes] actualmente muestra información sobre estos miembros Participantes, la actividad de publicación de datos y enlaces a la página web del nodo."
 
 #. type: Plain text
 #: 600.en.adoc:22
 msgid "Participant nodes are encouraged to share https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding examples] with the community, documenting their success stories that others can learn from in establishing or developing their nodes."
-msgstr ""
+msgstr "Los nodos Participantes son alentados a compartir https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[ejemplo guiados] con la comunidad, documentando sus historias de éxitos alcanzados que pueden resultar útiles para otros a la hora de establecer o desarrollar sus nodos."
 
 #. type: Plain text
 #: 600.en.adoc:24
 msgid "Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members or https://www.gbif.org/mentors[capacity enhancement mentors] for advice in establishing a node."
-msgstr ""
+msgstr "Consultar estas páginas ayudará a identificar los ejemplos más relevantes para el contexto específico de un nuevo Participante de GBIF. Se anima a los nuevos Participantes que utilicen la información de contacto de los administradores y del personal de otros nodos para solicitar asesoramiento para el establecimiento de un nodo a otros miembros de la comunidad o a los https://www.gbif.org/mentors[mentores en mejora de capacidades] ."
 
 #. type: Title ===
 #: 600.en.adoc:26
@@ -1342,17 +1378,17 @@ msgstr "El https://www.gbif.org/es/contact-us/directory?group=nodesCommittee[Com
 #. type: Plain text
 #: 600.en.adoc:31
 msgid "The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes."
-msgstr ""
+msgstr "El https://www.gbif.org/contact-us/directory?group=nsg[Grupo de Directivo de Nodos] (NSG, por sus siglas en inglés) fue establecido en el comité de 2011, y lo compone el Presidente y Vicepresidente del Comité de Administradores de Nodos Participantes, así como representantes de cada una de las seis regiones GBIF (África, Asia, Europa, América Latina, Norte América y Oceanía). Entre sus objetivos se incluyen ofrecer a los organismos relevantes de GBIF recomendaciones especificas  basadas en los comentarios proporcionados por los nodos Participantes, y proporcionar asesoramiento relevante para los nodos sobre el Programa de Trabajo de GBIF."
 
 #. type: Plain text
 #: 600.en.adoc:33
 msgid "The Nodes Committee meets in a *Global Nodes Meeting* every other year. These meetings, often combined with training activities, provide an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize *Regional Nodes Meetings* either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region."
-msgstr ""
+msgstr "El Comité de Nodos se reúne en un *Encuentro Global de Nodos* cada dos años. Estas reuniones, a menudo combinadas con actividades de formación, proporcionan un excelente foro para interactuar con otros administradores de nodo y planificar actividades colaborativas. Además, muchos de los sub-comités regionales organizan *Encuentros Regionales de Nodos* anualmente o cada dos años. Estas reuniones avanzan el trabajo regional colaborativo entre administradores de nodos y proporciona un foro para discutir prioridades y oportunidades para la región."
 
 #. type: Plain text
 #: 600.en.adoc:35
 msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
-msgstr ""
+msgstr "En el período entre reuniones, el comité se comunica a través de listas de correos electrónicos y teleconferencias, así como haciendo uso del https://discourse.gbif.org/[foro de la comunidad GBIF] para apoyar el trabajo colaborativo. Además, se fomenta intensamente que los nuevos nodos Participantes contacten con los https://www.gbif.org/contact-us/directory?group=nodesCommittee[miembros del Comité de Nodos] para participar en sus actividades, acceder a la experiencia de la red y planificar proyectos colaborativos para apoyar el establecimiento de nodos Participantes."
 
 #. type: Title ===
 #: 600.en.adoc:37
@@ -1363,17 +1399,17 @@ msgstr "¿Cómo apoya GBIF el fortalecimiento de las capacidades de los nodos pa
 #. type: Plain text
 #: 600.en.adoc:40
 msgid "Capacity enhancement provides an essential foundation for the sustainable functioning and performance of the GBIF Participant network and all its members, regardless of their level of development."
-msgstr ""
+msgstr "La mejora de capacidades proporciona una base fundamental para el funcionamiento y desarrollo sostenible de la red del Participante de GBIF y todos sus miembros, sin importar su nivel de desarrollo."
 
 #. type: Plain text
 #: 600.en.adoc:42
 msgid "The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way. Capacity enhancement includes improving the way Participants can contribute to and benefit from GBIF, how they organize their work and how they relate to other Participants at regional and global scales. GBIF supports capacity enhancement in the network through five complementary approaches shown in <<box-6,Box 6>>."
-msgstr ""
+msgstr "Los Participantes y el Secretariado de GBIF han desarrollado una serie de actividades y programas de mejora de capacidades para empoderar a todos los miembros de la comunidad GBIF y que puedan llevar su trabajo de la forma más efectiva, estable y autosuficiente. La mejora de capacidades incluye mejorar la manera en que los Participantes pueden contribuir a y beneficiarse de GBIF, cómo organizar su trabajo y cómo relacionarse con los otros Participantes a nivel regional e internacional. GBIF apoya la mejora de capacidades en la red a través de los cinco enfoques complementarios mostrados en el <<cuadro-6;Cuadro 6>>."
 
 #. type: Plain text
 #: 600.en.adoc:44
 msgid "GBIF maintains https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment guidelines for national biodiversity information facilities] and for https://www.gbif.org/document/82785/[data holding institutions] as tools to support planning and the tracking of progress, for example through projects."
-msgstr ""
+msgstr "GBIF mantiene https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[guías de autoevaluación de capacidades para infraestructuras nacionales de información en biodiversidad] y para https://www.gbif.org/document/82785/[instituciones proveedoras] como herramientas que apoyan la planificación y seguimiento del progreso, como por ejemplo a través de proyectos."
 
 #. type: Plain text
 #: 600.en.adoc:46
@@ -1383,7 +1419,7 @@ msgstr "El https://www.gbif.org/es/programme/82219[*programa de apoyo al fortale
 #. type: Plain text
 #: 600.en.adoc:48
 msgid "GBIF also seeks *supplementary funding* to support capacity enhancement, as through the https://www.gbif.org/programme/82629/[Biodiversity Fund for Asia] (BIFA) and the https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID) programme. These programmes have support projects to mobilize biodiversity data and promote the use of accessible biodiversity data in support of research and decision-making, and provide training to project teams."
-msgstr ""
+msgstr "GBIF también busca *financiación adicional* para apoyar la mejora de capacidades, como es a través del https://www.gbif.org/programme/82629/[Fondo de la Biodiversidad para Asia] (BIFA, por sus siglas en inglés) y el programa de https://www.gbif.org/programme/82243/[Información en Biodiversidad para el Desarrollo] (BID, por sus siglas en inglés). Estos programas han apoyado proyectos para movilizar datos de biodiversidad y promover el uso de esos datos en investigación y en los procesos de toma de decisiones, además de proporcionar formación a los equipos de estos proyectos."
 
 #. type: Plain text
 #: 600.en.adoc:50
@@ -1393,7 +1429,7 @@ msgstr "GBIF ofrece también oportunidades de formación al personal y los admin
 #. type: Plain text
 #: 600.en.adoc:52
 msgid "Finally, the GBIF network acts as a *community of practice*, with many node managers and their teams volunteering as https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement mentors] and https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[biodiversity open data ambassadors] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events."
-msgstr ""
+msgstr "Finalmente, la red GBIF actúa como una *comunidad de práctica*, con muchos administradores de nodo y sus equipos trabajando voluntariamente como https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[mentores de mejora de capacidades] y https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[embajadores de datos abiertos de biodiversidad] para apoyar los posteriores desarrollos de la comunidad global. Los nuevos Participantes son invitados a contactar con el Secretariado de GBIF solicitando ayuda para identificar mentores que les asistan con el desarrollo de su nodo, por ejemplo, a través de eventos de formación."
 
 #. type: Title ===
 #: 600.en.adoc:54
@@ -1404,7 +1440,7 @@ msgstr "¿Qué otros recursos y documentación tienen a disposición los nodos p
 #. type: Plain text
 #: 600.en.adoc:57
 msgid "GBIF maintains a list of freely accessible https://www.gbif.org/article/T5SQrMJAU1OdFtHTNOWgN/[resources for nodes] including tools, presentations, manuals and documentation for anyone to use and download."
-msgstr ""
+msgstr "GBIF mantiene un listado de https://www.gbif.org/article/T5SQrMJAU1OdFtHTNOWgN/[recursos para nodos] de acceso libre y gratuito que incluye herramientas, presentaciones, manuales y documentación para su utilización y descarga por parte de cualquier persona."
 
 #. type: Title ===
 #: 600.en.adoc:59
@@ -1415,7 +1451,7 @@ msgstr "Contacto"
 #. type: Plain text
 #: 600.en.adoc:61
 msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact mailto:nodes@gbif.org[nodes@gbif.org] for further information."
-msgstr ""
+msgstr "El personal del Secretariado de GBIF está disponible para guiar y asistir a los nodos Participantes. Por favor, pónganse en contacto con mailto:nodes@gbif.org[nodes@gbif.org] para obtener más información."
 
 #. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
 #: img/example-of-staff-roles-participant-node.en.svg:49
@@ -1427,70 +1463,70 @@ msgstr ""
 #: img/example-of-staff-roles-participant-node.en.svg:82
 #, no-wrap
 msgid "Node manager"
-msgstr ""
+msgstr "Administrador del nodo"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:99
 #, no-wrap
 msgid "A person with a scientific"
-msgstr ""
+msgstr "Una persona con un perfil"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:104
 #, no-wrap
 msgid "background to motivate network"
-msgstr ""
+msgstr "científico para motivar a la red"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:109
 #, no-wrap
 msgid "of data holders, data users"
-msgstr ""
+msgstr "de proveedores y usuarios de datos"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:120
 #, no-wrap
 msgid "A person with strong data"
-msgstr ""
+msgstr "Una persona con un marcado perfil"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:125
 #, no-wrap
 msgid "management/analytics"
-msgstr ""
+msgstr "de análisis/gestión"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:130
 #, no-wrap
 msgid "background to provide"
-msgstr ""
+msgstr "de datos para proporcionar"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:135
 #, no-wrap
 msgid "technical assistance"
-msgstr ""
+msgstr "asistencia técnica"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:146
 #, no-wrap
 msgid "A person with web development/"
-msgstr ""
+msgstr "Una persona con habilidades de"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:151
 #, no-wrap
 msgid "coding skills to maintain"
-msgstr ""
+msgstr "desarrollo/programación web para mantener"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:156
 #, no-wrap
 msgid "e.g. national data portal"
-msgstr ""
+msgstr "por ejemplo un portal nacional de datos"
 
 #. type: Plain text
 #: 605-box.en.adoc:3
 msgid "Box 6. GBIF’s capacity enhancement approach"
-msgstr ""
+msgstr "Cuadro 6. El enfoque de GBIF para la mejora de capacidades"
 
