@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-05-07 18:26\n"
+"PO-Revision-Date: 2020-05-11 12:19\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -794,13 +794,13 @@ msgstr "La capacidad de iniciar y mantener asociaciones y redes."
 #: 400.en.adoc:33
 #, no-wrap
 msgid "*A collaborative framework* to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see <<node-location-selection>>). It should include community norms and relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them.  \n"
-msgstr "Un *marco de trabajo colaborativo* para formar una infraestructura de información en biodiversidad, definido y acordado por los grupos de interés y los socios relevantes en el dominio del Participante. Este marco de trabajo debería asegurar que el nodo tiene un rol bien definido en el espectro de las instituciones relacionadas con las biodiversidad, basado en fuertes asociaciones y servicios complementarios (ver <<selección-localización-nodo>>). Debería incluir normas para la comunidad y acuerdos formales relevantes en torno a la publicación y acceso a datos. También debería asegurar que el nodo reconoce y valora a las organizaciones e individuos que los constituyen, que contribuyen y utilizan sus servicios, con el fin de crear buenas relaciones con ellos."
+msgstr "Un *marco de trabajo colaborativo* para formar una infraestructura de información en biodiversidad, definido y acordado por los grupos de interés y los socios relevantes en el dominio del Participante. Este marco de trabajo debería asegurar que el nodo tiene un rol bien definido en el espectro de las instituciones relacionadas con las biodiversidad, basado en fuertes asociaciones y servicios complementarios (ver <<selección-localización-nodo>>). Debería incluir normas para la comunidad y acuerdos formales relevantes en torno a la publicación y acceso a datos. También debería asegurar que el nodo reconoce y valora a las organizaciones e individuos que los constituyen, que contribuyen y utilizan sus servicios, con el fin de crear buenas relaciones con ellos.  \n"
 
 #. type: Plain text
 #: 400.en.adoc:34
 #, no-wrap
 msgid "*Communications and outreach plans, tools and materials* to support collaborative work between the members of the node’s network and to encourage the ongoing addition of new members. Materials can include a website, newsletters, brochures, mailing lists and use of social media platforms. The https://www.gbif.org/document/80926/[GBIF communications strategy] can help identify key messages for relevant audiences, and Participants can coordinate with the Secretariat on communication activities within the wider GBIF network.\n"
-msgstr "*Comunicación y planes, herramientas y materiales de divulgación* para apoyar el trabajo colaborativo entre los miembros de la red del nodo y para fomentar la adición en curso de nuevos miembros. Los materiales pueden incluir una página web, boletines, folletos, listas de distribución de correo electrónico y el uso de plataformas de redes sociales. La https://www.gbif.org/document/80926/[estrategia de comunicación de GBIF] puede ayudar a identificar mensajes claves para audiencias relevantes, y los Participantes se pueden coordinar con el Secretariado en las actividades de comunicación dirigidas a toda la red de GBIF. "
+msgstr "*Comunicación y planes, herramientas y materiales de divulgación* para apoyar el trabajo colaborativo entre los miembros de la red del nodo y para fomentar la adición en curso de nuevos miembros. Los materiales pueden incluir una página web, boletines, folletos, listas de distribución de correo electrónico y el uso de plataformas de redes sociales. La https://www.gbif.org/document/80926/[estrategia de comunicación de GBIF] puede ayudar a identificar mensajes claves para audiencias relevantes, y los Participantes se pueden coordinar con el Secretariado en las actividades de comunicación dirigidas a toda la red de GBIF.\n"
 
 #. type: Title =====
 #: 400.en.adoc:36
@@ -817,13 +817,13 @@ msgstr "La capacidad para administrar, financiar, presupuestar, implementar y ev
 #: 400.en.adoc:42
 #, no-wrap
 msgid "*Dedicated staff members* to implement the node’s mandate and work plans (see <<node-staff-roles>>). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training.  \n"
-msgstr "*Miembros del personal dedicados* a ejecutar el mandato del nodo y los planes de trabajo (ver <<roles-personal-nodo>>). El equipo del nodo requerirá un amplio rango de habilidades, desde aquellas relacionadas con la informática de la biodiversidad hasta la coordinación de la red y serán apoyados por formación apropiada."
+msgstr "*Miembros del personal dedicados* a ejecutar el mandato del nodo y los planes de trabajo (ver <<roles-personal-nodo>>). El equipo del nodo requerirá un amplio rango de habilidades, desde aquellas relacionadas con la informática de la biodiversidad hasta la coordinación de la red y serán apoyados por formación apropiada.  \n"
 
 #. type: Plain text
 #: 400.en.adoc:43
 #, no-wrap
 msgid "*Institutional and financial support*, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds. \n"
-msgstr "Se espera que el *apoyo financiero e institucional*, en línea con los servicios del nodo, proporcione y apoye los entregables de los planes de trabajo del nodo. El apoyo institucional puede incluir asistencia administrativa, servidores y respaldo político necesario para involucrar a los socios claves, incrementar el interés y la visibilidad y conseguir financiación."
+msgstr "Se espera que el *apoyo financiero e institucional*, en línea con los servicios del nodo, proporcione y apoye los entregables de los planes de trabajo del nodo. El apoyo institucional puede incluir asistencia administrativa, servidores y respaldo político necesario para involucrar a los socios claves, incrementar el interés y la visibilidad y conseguir financiación. \n"
 
 #. type: Title ====
 #: 400.en.adoc:45
