@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-05-11 12:19\n"
+"PO-Revision-Date: 2020-05-11 12:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -883,13 +883,13 @@ msgstr "La capacidad para acceder, analizar y utilizar los datos sobre biodivers
 #: 400.en.adoc:71
 #, no-wrap
 msgid "*Tools and expertise to generate an agreed set of information products and services* including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders. \n"
-msgstr "*Herramientas y experiencia para generar un conjunto acordado de productos y servicios de información* incluyendo, por ejemplo, listas temáticas de especies a nivel nacional y sub-nacional, contribuciones a informes sobre el estado de la biodiversidad, un catálogo de metadatos, y un análisis de las necesidades y vacíos de datos de biodiversidad que complementen aquellos producidos por los grupos de interés. "
+msgstr "*Herramientas y experiencia para generar un conjunto acordado de productos y servicios de información* incluyendo, por ejemplo, listas temáticas de especies a nivel nacional y sub-nacional, contribuciones a informes sobre el estado de la biodiversidad, un catálogo de metadatos, y un análisis de las necesidades y vacíos de datos de biodiversidad que complementen aquellos producidos por los grupos de interés. \n"
 
 #. type: Plain text
 #: 400.en.adoc:72
 #, no-wrap
 msgid "A *programme to support access and use of biodiversity data* available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences. \n"
-msgstr "Un *programa para apoyar el acceso y uso de datos de biodiversidad* disponible a través de la red de GBIF, incluyendo, en la medida de las posibilidades, un portal nacional o temático de datos de biodiversidad. Esto podría incluir la organización de talleres formativos, la vinculación con programas educativos nacionales, la traducción y adaptación de documentación, y acciones para incrementar la visibilidad en conferencias científicas relevantes."
+msgstr "Un *programa para apoyar el acceso y uso de datos de biodiversidad* disponible a través de la red de GBIF, incluyendo, en la medida de las posibilidades, un portal nacional o temático de datos de biodiversidad. Esto podría incluir la organización de talleres formativos, la vinculación con programas educativos nacionales, la traducción y adaptación de documentación, y acciones para incrementar la visibilidad en conferencias científicas relevantes. \n"
 
 #. type: Title ====
 #: 400.en.adoc:74
@@ -934,7 +934,7 @@ msgstr "*Liderazgo e iniciativa*. Los nodos deben poder ser capaces de despertar
 #: 400.en.adoc:88
 #, no-wrap
 msgid "*A focus on service*. Nodes are established to assist a community of people and institutions, and should therefore seek to serve rather than dictate. As a support facility for the Participant’s network, the service-oriented approach should permeate all the activities carried out by the node.\n"
-msgstr "*Un enfoque para el servicio*. Los nodos se establecen para asistir a una comunidad de personas e instituciones y, por ello, deberían perseguir el servir en vez de el dictar. Como infraestructura de apoyo para la red del Participante, el enfoque orientado al servicio debería impregnar todas las actividades llevadas a cabo por el nodo."
+msgstr "*Un enfoque para el servicio*. Los nodos se establecen para asistir a una comunidad de personas e instituciones y, por ello, deberían perseguir el servir en vez de el dictar. Como infraestructura de apoyo para la red del Participante, el enfoque orientado al servicio debería impregnar todas las actividades llevadas a cabo por el nodo.\n"
 
 #. type: Plain text
 #: 400.en.adoc:88
@@ -982,7 +982,7 @@ msgstr "La principal recomendación es iniciar un proceso participativo a nivel 
 #: 500.en.adoc:15
 #, no-wrap
 msgid "*See <<box-4,box 4>>*\n"
-msgstr "*Ver <<cuadro-4,cuador 4>>*"
+msgstr "*Ver <<cuadro-4,cuador 4>>*\n"
 
 #. type: Plain text
 #: 500.en.adoc:17
@@ -1169,7 +1169,7 @@ msgstr "^|Ventajas potenciales\n\n"
 "Acceso disponible a capacidades técnicas en informática\n\n"
 "Conexiones potencialmente útiles con prioridades nacionales bien financiadas sobre innovación y tecnología\n\n"
 "|Necesita invertir en personal que aporte conocimientos científicos relevantes para poder trabajar de manera efectiva con datos de biodiversidad\n\n"
-"Necesita crear contactos y conocimiento de redes institucionales relevantes"
+"Necesita crear contactos y conocimiento de redes institucionales relevantes\n\n"
 
 #. type: Title ===
 #: 500.en.adoc:143
