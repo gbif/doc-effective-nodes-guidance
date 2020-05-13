@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-05-13 09:34\n"
+"PO-Revision-Date: 2020-05-13 09:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -153,7 +153,7 @@ msgstr "¿Qué es un nodo participante de GBIF?"
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "Participants in GBIF are countries, international organizations or economies having signed the GBIF https://www.gbif.org/document/80661[Memorandum of Understanding] (MOU). Signatories to this agreement express their commitment to establish a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development."
-msgstr "*Los participantes de GBIF son países, organizaciones internacionales o economías que firmaron el https://www.gbif.org/es/document/80661[Memorando de Entendimiento] (MoU). Los signatarios de este acuerdo expresan su compromiso de realizar un esfuerzo coordinado para apoyar el uso y el acceso libre de los datos sobre biodiversidad, de fomentar la investigación científica e impulsar el desarrollo sustentable y tecnológico."
+msgstr "Los participantes de GBIF son países, organizaciones internacionales o economías que firmaron el https://www.gbif.org/es/document/80661[Memorando de Entendimiento] (MoU). Los signatarios de este acuerdo expresan su compromiso de realizar un esfuerzo coordinado para apoyar el uso y el acceso libre de los datos sobre biodiversidad, de fomentar la investigación científica e impulsar el desarrollo sustentable y tecnológico."
 
 #. type: Plain text
 #: 100.en.adoc:7
@@ -164,7 +164,7 @@ msgstr "*Un nodo participante GBIF es un equipo designado por un Participante pa
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Two main roles are assigned when a Participant joins GBIF: the *Head of Delegation* and the *node manager* (see <<box-2,Box 2>>). The Head of Delegation represents the country, economy or organization on the GBIF Governing Board, and acts as the Participant’s primary focal point for all GBIF-related activity. The node manager leads the operational activities of the country or organization in coordinating the mobilization and use of open-access biodiversity data, and also represents the Participant on the https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF Participant Node Managers Committee]. A *Participant node* is typically hosted by an existing biodiversity-related institution or institutions in the Participant country, or by Participant organizations."
-msgstr "Dos roles principales se asignan cuando un Participante se une a GBIF: el *Jefe de Delegación* y el *administrador del nodo* (ver <<box-2,Cuadro 2 >>). El Jefe de Delegación representa al país, la economía o la organización en la Junta de Gobierno de GBIF, y actúa como el punto focal principal del Participante para toda actividad relacionada con GBIF. El administrador del nodo lidera las actividades operacionales del país u organización en la coordinación de la movilización y el uso de datos de biodiversidad de acceso abierto, al igual que representa al Participante en el  https://www.gbif.org/es/contact-us/directory?group= nodesCommittee[Comité de Administradores de Nodos Participantes]. Usualmente, un *nodo Participante* es alojado por una institución o instituciones relacionada(s) con biodiversidad existente(s) en el país Participante, o por organizaciones Participantes."
+msgstr "Dos roles principales se asignan cuando un Participante se une a GBIF: el *Jefe de Delegación* y el *administrador del nodo* (ver <<box-2,Cuadro 2>>). El Jefe de Delegación representa al país, la economía o la organización en la Junta de Gobierno de GBIF, y actúa como el punto focal principal del Participante para toda actividad relacionada con GBIF. El administrador del nodo lidera las actividades operacionales del país u organización en la coordinación de la movilización y el uso de datos de biodiversidad de acceso abierto, al igual que representa al Participante en el  https://www.gbif.org/es/contact-us/directory?group=nodesCommittee[Comité de Administradores de Nodos Participantes]. Usualmente, un *nodo Participante* es alojado por una institución o instituciones relacionada(s) con biodiversidad existente(s) en el país Participante, o por organizaciones Participantes."
 
 #. type: Plain text
 #: 100.en.adoc:11
