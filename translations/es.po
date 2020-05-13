@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-05-11 12:28\n"
+"PO-Revision-Date: 2020-05-13 09:08\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -922,7 +922,7 @@ msgstr "Además de los requisitos básicos, las siguientes cuatro característic
 #: 400.en.adoc:86
 #, no-wrap
 msgid "*Neutrality*. Since nodes are established to coordinate, promote and facilitate data sharing activities among multiple institutions, any perceived lack of neutrality will reduce their effectiveness. For example, other biodiversity institutions and potential partners may be reluctant to collaborate if a node institution is directly involved in generating data for its own research purposes, suggesting it is a competitor or guided by vested interests. However, institutions thus engaged may also build a reputation of trust within the community by offering resources and services—including specialized knowledge about data curation—to other institutions with similar aims. The node should be able to work with all relevant stakeholders, independently of any preferences or priorities that are not defined or agreed by the whole community. The institutional location of the node is decisive for its neutrality (see <<node-location-selection>>).\n"
-msgstr "*Neutralidad*. Debido a que los nodos son establecidos para coordinar, fomentar y facilitar actividades de intercambio de datos entre múltiples instituciones, cualquier falta de neutralidad percibida reducirá su eficiencia. Por ejemplo, algunas instituciones y potenciales socios que trabajan con biodiversidad pueden presentar reticencias a colaborar si una institución del nodo está directamente implicada en la generación de datos para sus propios propósitos de investigación, lo que sugiere que pueda ser un competidor, o esté motivada por otro tipo de intereses. Sin embargo, las instituciones implicadas pueden elaborarse una buena reputación en la comunidad si ofrecen recursos y servicios -incluyendo conocimientos especializados en la conservación de datos- a otras instituciones con objetivos similares. El nodo debería ser capaz de trabajar con todos los grupos de interés relevantes, independientemente de preferencias o prioridades que no hayan sido definidas o acordadas por toda la comunidad. La localización institucional del nodo es decisiva para su neutralidad (ver <<selección-localización-nodo>>)."
+msgstr "*Neutralidad*. Debido a que los nodos son establecidos para coordinar, fomentar y facilitar actividades de intercambio de datos entre múltiples instituciones, cualquier falta de neutralidad percibida reducirá su eficiencia. Por ejemplo, algunas instituciones y potenciales socios que trabajan con biodiversidad pueden presentar reticencias a colaborar si una institución del nodo está directamente implicada en la generación de datos para sus propios propósitos de investigación, lo que sugiere que pueda ser un competidor, o esté motivada por otro tipo de intereses. Sin embargo, las instituciones implicadas pueden elaborarse una buena reputación en la comunidad si ofrecen recursos y servicios -incluyendo conocimientos especializados en la conservación de datos- a otras instituciones con objetivos similares. El nodo debería ser capaz de trabajar con todos los grupos de interés relevantes, independientemente de preferencias o prioridades que no hayan sido definidas o acordadas por toda la comunidad. La localización institucional del nodo es decisiva para su neutralidad (ver <<selección-localización-nodo>>).\n"
 
 #. type: Plain text
 #: 400.en.adoc:87
@@ -1133,7 +1133,8 @@ msgid "\n"
 "|Need to invest in staff bringing relevant scientific domain knowledge\n"
 "to work effectively with biodiversity data\n\n"
 "Need to build contacts and knowledge of relevant institutional networks\n\n"
-msgstr "^|Ventajas potenciales\n\n"
+msgstr "\n"
+"^|Ventajas potenciales\n\n"
 "^|Desventajas potenciales\n\n"
 "2+^s|Colecciones de historia natural\n\n"
 "|Conocimiento existente de los retos y requerimientos de la digitalización y manejo de datos de historia natural\n\n"
@@ -1457,7 +1458,7 @@ msgstr "El personal del Secretariado de GBIF está disponible para guiar y asist
 #: img/example-of-staff-roles-participant-node.en.svg:49
 #, no-wrap
 msgid "image/svg+xml"
-msgstr ""
+msgstr "image/svg+xml"
 
 #. type: Content of: <svg><g><text><tspan><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:82
