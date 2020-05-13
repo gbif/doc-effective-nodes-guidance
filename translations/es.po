@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-05-13 09:08\n"
+"PO-Revision-Date: 2020-05-13 09:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1273,7 +1273,7 @@ msgstr "Cuadro 4. Un enfoque participativo para establecer un nodo Participante"
 #: 505-box.en.adoc:6
 #, no-wrap
 msgid "img/box-4.png"
-msgstr "img/cuadro-4.png"
+msgstr "img/box-4.png"
 
 #. type: Title ===
 #: 510-box.en.adoc:2
@@ -1290,7 +1290,7 @@ msgstr "Este ejemplo asume que los roles administrativos son cubiertos por la in
 #: 510-box.en.adoc:7
 #, no-wrap
 msgid "img/example-of-staff-roles-participant-node.en.svg"
-msgstr "img/ejemplo-de-roles-nodo-participante.en.svg"
+msgstr "img/example-of-staff-roles-participant-node.es.svg"
 
 #.  insert image and make image text available for translation/language versioning //
 #. type: Title ==
