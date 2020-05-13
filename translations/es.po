@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-05-13 09:42\n"
+"PO-Revision-Date: 2020-05-13 10:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -905,7 +905,7 @@ msgstr "La situación de cada Participante de GBIF es única, con diferentes for
 #. type: Plain text
 #: 400.en.adoc:79
 msgid "Once you have identified the key capacity needs, gaining access to the advice and experience of the GBIF network can help new Participants to establish effective nodes as efficiently as possible. Projects and partnerships with other Participants and their nodes can be an effective form of capacity development, for which there are many successful http://www.gbif.org/capacityenhancement/past-projects[examples]. GBIF has a http://www.gbif.org/capacityenhancement/support-programme[capacity enhancement support programme] that provides co-funding each year to support such projects. Less formal exchanges of ideas and experiences, for example, through regional meetings of GBIF nodes, also offer valuable opportunities to help nodes develop the basic capacity requirements. See <<further-support>> for more detail."
-msgstr "Una vez que se han identificado las necesidades capacidades claves, obtener acceso al asesoramiento y experiencia de la red de GBIF puede ayudar a los nuevos Participantes a establecer nodos efectivos con el mayor nivel de eficiencia posible. Los proyectos y asociaciones con otros Participantes y sus nodos pueden ser una forma efectiva de desarrollo de capacidades, para los cuales existen muchos http://www.gbif.org/es/capacityenhancement/past-projects[ejemplos] satisfactorios. GBIF posee un http://www.gbif.org/es/capacityenhancement/support-programme[programa de apoyo para la mejora de capacidades] que proporciona cada año cofinanciación para apoyar tales proyectos. Otros intercambios de ideas y experiencias menos formales, por ejemplo a través de las reuniones regionales de los nodos de GBIF, ofrecen también valiosas oportunidades para ayudar a los nodos a desarrollar los requerimientos básicos de capacidades. Ver <<further-support>> para obtener más información."
+msgstr "Una vez que se han identificado las necesidades capacidades claves, obtener acceso al asesoramiento y experiencia de la red de GBIF puede ayudar a los nuevos Participantes a establecer nodos efectivos con el mayor nivel de eficiencia posible. Los proyectos y asociaciones con otros Participantes y sus nodos pueden ser una forma efectiva de desarrollo de capacidades, para los cuales existen muchos https://www.gbif.org/es/capacityenhancement/past-projects[ejemplos] satisfactorios. GBIF posee un https://www.gbif.org/es/capacityenhancement/support-programme[programa de apoyo para la mejora de capacidades] que proporciona cada año cofinanciación para apoyar tales proyectos. Otros intercambios de ideas y experiencias menos formales, por ejemplo a través de las reuniones regionales de los nodos de GBIF, ofrecen también valiosas oportunidades para ayudar a los nodos a desarrollar los requerimientos básicos de capacidades. Ver <<further-support>> para obtener más información."
 
 #. type: Title ===
 #: 400.en.adoc:81
@@ -971,7 +971,7 @@ msgstr "Las capacidades actuales y potenciales del participante en términos de 
 #. type: Plain text
 #: 500.en.adoc:11
 msgid "While these factors vary considerably between Participants, lessons from the community can help new GBIF Participants, or those going through strategic changes in their decision-making processes. <<box-4,Box 4>> shows a simplified participatory approach towards making some of the key decisions necessary to establish an effective node."
-msgstr "Mientras que estos factores varían considerablemente entre Participantes, as lecciones de la comunidad pueden ayudar a los nuevos Participantes, o a aquellos que se estén enfrentando a cambios estratégicos en sus procesos de tomas de decisiones. El <<cuadro-4,Cuadro 4>> muestra un enfoque participativo simplificado para tomar algunas de las decisiones claves necesarias para establecer un nodo efectivo."
+msgstr "Mientras que estos factores varían considerablemente entre Participantes, as lecciones de la comunidad pueden ayudar a los nuevos Participantes, o a aquellos que se estén enfrentando a cambios estratégicos en sus procesos de tomas de decisiones. El <<box-4,Cuadro 4>> muestra un enfoque participativo simplificado para tomar algunas de las decisiones claves necesarias para establecer un nodo efectivo."
 
 #. type: Plain text
 #: 500.en.adoc:13
@@ -982,12 +982,12 @@ msgstr "La principal recomendación es iniciar un proceso participativo a nivel 
 #: 500.en.adoc:15
 #, no-wrap
 msgid "*See <<box-4,box 4>>*\n"
-msgstr "*Ver <<cuadro-4,cuador 4>>*\n"
+msgstr "*Ver <<box-4,cuadro 4>>*\n"
 
 #. type: Plain text
 #: 500.en.adoc:17
 msgid "Many tools exist to support dialogue around the establishment of a Participant node. We recommend carrying out a https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment] (see <<capacity-self-assessment>>) to identify the key capacity strengths and needs, and from which to measure progress in future. A preliminary https://www.gbif.org/document/80890[content needs assessment] conducted at the Participant level through a survey, workshop or literature analysis (possibly led by a consultant) can provide valuable information to guide the stakeholder group in formulating their recommendations. This assessment helps ensure that the needs and priorities of a broad stakeholder group are represented in the process. Stakeholder mapping can also shape an understanding how the biodiversity information facility and node will address the Participant’s needs and priorities, and complement other biodiversity-related or information-related initiatives."
-msgstr "Existen muchas herramientas para apoyar el diálogo en torno al establecimiento de un nodo Participante. Recomendamos llevar a cabo una https://www.gbif.org/es/tool/6Y2SqK8XokHUqIFUn6TLxX/[autoevaluación de capacidades] (ver <<capacity-self-allessment>>) "
+msgstr "Existen muchas herramientas para apoyar el diálogo en torno al establecimiento de un nodo Participante. Recomendamos llevar a cabo una https://www.gbif.org/es/tool/6Y2SqK8XokHUqIFUn6TLxX/[autoevaluación de capacidades] (ver <<capacity-self-assessment>>) "
 
 #. type: Plain text
 #: 500.en.adoc:19
@@ -1405,7 +1405,7 @@ msgstr "La mejora de capacidades proporciona una base fundamental para el funcio
 #. type: Plain text
 #: 600.en.adoc:42
 msgid "The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way. Capacity enhancement includes improving the way Participants can contribute to and benefit from GBIF, how they organize their work and how they relate to other Participants at regional and global scales. GBIF supports capacity enhancement in the network through five complementary approaches shown in <<box-6,Box 6>>."
-msgstr "Los Participantes y el Secretariado de GBIF han desarrollado una serie de actividades y programas de mejora de capacidades para empoderar a todos los miembros de la comunidad GBIF y que puedan llevar su trabajo de la forma más efectiva, estable y autosuficiente. La mejora de capacidades incluye mejorar la manera en que los Participantes pueden contribuir a y beneficiarse de GBIF, cómo organizar su trabajo y cómo relacionarse con los otros Participantes a nivel regional e internacional. GBIF apoya la mejora de capacidades en la red a través de los cinco enfoques complementarios mostrados en el <<cuadro-6;Cuadro 6>>."
+msgstr "Los Participantes y el Secretariado de GBIF han desarrollado una serie de actividades y programas de mejora de capacidades para empoderar a todos los miembros de la comunidad GBIF y que puedan llevar su trabajo de la forma más efectiva, estable y autosuficiente. La mejora de capacidades incluye mejorar la manera en que los Participantes pueden contribuir a y beneficiarse de GBIF, cómo organizar su trabajo y cómo relacionarse con los otros Participantes a nivel regional e internacional. GBIF apoya la mejora de capacidades en la red a través de los cinco enfoques complementarios mostrados en el <<box-6,Cuadro 6>>."
 
 #. type: Plain text
 #: 600.en.adoc:44
