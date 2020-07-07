@@ -5,9 +5,10 @@ GBIF Secretariat <nodes@gbif.org>
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 :license: https://creativecommons.org/licenses/by/4.0/
 :title-logo-image: img/_src/Apis-mellifera-thebugroomno2-iNat.jpg
+:xrefstyle: short
 
 ifdef::backend-html5[]
-_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_
+languageLinks:combined[]
 endif::backend-html5[]
 
 :sectnums!:
