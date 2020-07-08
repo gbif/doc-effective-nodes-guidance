@@ -3,7 +3,7 @@
 
 Supporting the establishment and further development of Participant nodes and their work is a priority for GBIF as a whole. This guide has introduced some important general considerations in the process of establishing a node. This section explains other opportunities available to gain from experience of the GBIF network in this area.
 
-[[participant-node-exampless]]
+[[participant-node-examples]]
 === How can I find examples of Participant nodes?
 
 The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Participants’ GBIF-related activities. They include information about:
@@ -31,7 +31,7 @@ The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (N
 
 The Nodes Committee meets in a *Global Nodes Meeting* every other year. These meetings, often combined with training activities, provide an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize *Regional Nodes Meetings* either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region.
 
-In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes.
+In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes.
 
 [[capacity-enhancement-for-nodes]]
 === How does GBIF support capacity enhancement for Participant nodes?

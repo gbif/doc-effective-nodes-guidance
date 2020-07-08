@@ -64,7 +64,7 @@ The ability to manage and curate biodiversity data, as a means of continuously i
 [[biodiversity-data-analysis-and-use]]
 ===== Biodiversity data analysis and use
 
-The ability to access, analyze and use biodiversity data.
+The ability to access, analyse and use biodiversity data.
 
 [start=11]
 . *Tools and expertise to generate an agreed set of information products and services* including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders. 
