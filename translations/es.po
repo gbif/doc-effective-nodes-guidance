@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-08 14:59+0000\n"
-"PO-Revision-Date: 2020-07-08 15:11\n"
+"PO-Revision-Date: 2020-07-09 18:22\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -30,7 +30,7 @@ msgstr "Secretaría de GBIF <nodes@gbif.org>"
 #. type: Plain text
 #: index.en.adoc:14
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:2
@@ -879,7 +879,7 @@ msgstr "Uso y análisis de los datos sobre biodiversidad"
 #. type: Plain text
 #: 400.en.adoc:68
 msgid "The ability to access, analyse and use biodiversity data."
-msgstr ""
+msgstr "La capacidad para acceder, analizar y utilizar los datos sobre biodiversidad."
 
 #. type: Plain text
 #: 400.en.adoc:71
@@ -1391,7 +1391,7 @@ msgstr "El Comité de Nodos se reúne en un *Encuentro Global de Nodos* cada dos
 #. type: Plain text
 #: 600.en.adoc:35
 msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
-msgstr ""
+msgstr "En el período entre reuniones, el comité se comunica a través de listas de correos electrónicos y teleconferencias, así como haciendo uso del https://discourse.gbif.org/[foro de la comunidad GBIF] para apoyar el trabajo colaborativo. Además, se fomenta intensamente que los nuevos nodos Participantes contacten con los https://www.gbif.org/es/contact-us/directory?group=nodesCommittee[miembros del Comité de Nodos] para participar en sus actividades, acceder a la experiencia de la red y planificar proyectos colaborativos para apoyar el establecimiento de nodos Participantes."
 
 #. type: Title ===
 #: 600.en.adoc:37
