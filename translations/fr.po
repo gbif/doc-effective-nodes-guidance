@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-08 14:59+0000\n"
-"PO-Revision-Date: 2020-07-08 15:11\n"
+"PO-Revision-Date: 2020-07-09 18:22\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -30,7 +30,7 @@ msgstr "Secrétariat GBIF <nodes@gbif.org>"
 #. type: Plain text
 #: index.en.adoc:14
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:2
@@ -879,7 +879,7 @@ msgstr "Analyse et utilisation des données sur la biodiversité"
 #. type: Plain text
 #: 400.en.adoc:68
 msgid "The ability to access, analyse and use biodiversity data."
-msgstr ""
+msgstr "Aptitude à accéder, analyser et utiliser les données sur la biodiversité."
 
 #. type: Plain text
 #: 400.en.adoc:71
@@ -1396,7 +1396,7 @@ msgstr "Le Comité des Nœuds se réunit lors de la *Réunion Mondiale des Nœud
 #. type: Plain text
 #: 600.en.adoc:35
 msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
-msgstr ""
+msgstr "Entre les réunions, le comité communique par le biais de listes de diffusion et de téléconférences, et en utilisant également le https://discourse.gbif.org/[forum de la communauté GBIF] pour soutenir le travail collaboratif. Les nouveaux nœuds Participants sont fortement encouragés à https://www.gbif.org/fr/contact-us/répertoire?group=nodesCommittee[contacter les membres du Comité des Nœuds] afin de s'impliquer dans ses activités, accéder à l'expertise du réseau et planifier des projets collaboratifs soutenant la création de noeuds Participants."
 
 #. type: Title ===
 #: 600.en.adoc:37
