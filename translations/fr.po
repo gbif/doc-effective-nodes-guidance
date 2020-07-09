@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-05-13 10:28\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2020-07-08 14:59+0000\n"
+"PO-Revision-Date: 2020-07-09 18:22\n"
+"Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -11,8 +11,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: gbif-nodes-guidance\n"
+"X-Crowdin-Project-ID: 359305\n"
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 288\n"
 
 #. type: Title =
 #: index.en.adoc:1
@@ -26,9 +28,9 @@ msgid "GBIF Secretariat <nodes@gbif.org>"
 msgstr "Secrétariat GBIF <nodes@gbif.org>"
 
 #. type: Plain text
-#: index.en.adoc:11
-msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
-msgstr "_languageLinks:pdf[Ce document est également disponible en, format PDF] et languageLinks:languages[en d'autres langues :,.]_"
+#: index.en.adoc:14
+msgid "languageLinks:combined[]"
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:2
@@ -876,7 +878,7 @@ msgstr "Analyse et utilisation des données sur la biodiversité"
 
 #. type: Plain text
 #: 400.en.adoc:68
-msgid "The ability to access, analyze and use biodiversity data."
+msgid "The ability to access, analyse and use biodiversity data."
 msgstr "Aptitude à accéder, analyser et utiliser les données sur la biodiversité."
 
 #. type: Plain text
@@ -1275,7 +1277,7 @@ msgid "Box 4. A participatory approach to establishing a Participant node"
 msgstr "Boîte 4. Une approche participative pour établir un point nodal Participant"
 
 #. type: Target for macro image
-#: 505-box.en.adoc:6
+#: 505-box.en.adoc:4
 #, no-wrap
 msgid "img/box-4.png"
 msgstr "img/box-4.png"
@@ -1287,12 +1289,12 @@ msgid "Box 5: Example of staff roles for a Participant node"
 msgstr "Box 5 : Exemple de rôles des membres du personnel pour un nœud Participant"
 
 #. type: delimited block *
-#: 510-box.en.adoc:6
+#: 510-box.en.adoc:5
 msgid "This example assumes that the administrative roles are covered by the host institution."
 msgstr "Cet exemple suppose que les rôles administratifs sont couverts par l'institution hôte."
 
 #. type: Target for macro image
-#: 510-box.en.adoc:7
+#: 510-box.en.adoc:6
 #, no-wrap
 msgid "img/example-of-staff-roles-participant-node.en.svg"
 msgstr "img/example-of-staff-roles-participant-node.fr.svg"
@@ -1393,7 +1395,7 @@ msgstr "Le Comité des Nœuds se réunit lors de la *Réunion Mondiale des Nœud
 
 #. type: Plain text
 #: 600.en.adoc:35
-msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
+msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
 msgstr "Entre les réunions, le comité communique par le biais de listes de diffusion et de téléconférences, et en utilisant également le https://discourse.gbif.org/[forum de la communauté GBIF] pour soutenir le travail collaboratif. Les nouveaux nœuds Participants sont fortement encouragés à https://www.gbif.org/fr/contact-us/répertoire?group=nodesCommittee[contacter les membres du Comité des Nœuds] afin de s'impliquer dans ses activités, accéder à l'expertise du réseau et planifier des projets collaboratifs soutenant la création de noeuds Participants."
 
 #. type: Title ===

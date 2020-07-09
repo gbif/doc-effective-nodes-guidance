@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-04-14 13:46+0000\n"
-"PO-Revision-Date: 2020-04-14 14:08\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2020-07-08 14:59+0000\n"
+"PO-Revision-Date: 2020-07-08 15:11\n"
+"Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -11,8 +11,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: gbif-nodes-guidance\n"
+"X-Crowdin-Project-ID: 359305\n"
 "X-Crowdin-Language: pt-PT\n"
 "X-Crowdin-File: /1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 288\n"
 
 #. type: Title =
 #: index.en.adoc:1
@@ -26,9 +28,9 @@ msgid "GBIF Secretariat <nodes@gbif.org>"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:11
-msgid "_languageLinks:pdf[This document is also available in,PDF format] and languageLinks:languages[in other languages:,.]_"
-msgstr "_languageLinks:pdf[Este documento também está disponível em,PDF format] e languageLinks:languages[em outros idiomas:,.]_"
+#: index.en.adoc:14
+msgid "languageLinks:combined[]"
+msgstr ""
 
 #. type: Target for macro image
 #: colophon.en.adoc:2
@@ -876,8 +878,8 @@ msgstr "Análise e utilização de dados de biodiversidade"
 
 #. type: Plain text
 #: 400.en.adoc:68
-msgid "The ability to access, analyze and use biodiversity data."
-msgstr "A capacidade de aceder, analisar e utilizar dados de biodiversidade."
+msgid "The ability to access, analyse and use biodiversity data."
+msgstr ""
 
 #. type: Plain text
 #: 400.en.adoc:71
@@ -1233,7 +1235,7 @@ msgid "Box 4. A participatory approach to establishing a Participant node"
 msgstr ""
 
 #. type: Target for macro image
-#: 505-box.en.adoc:6
+#: 505-box.en.adoc:4
 #, no-wrap
 msgid "img/box-4.png"
 msgstr ""
@@ -1245,12 +1247,12 @@ msgid "Box 5: Example of staff roles for a Participant node"
 msgstr ""
 
 #. type: delimited block *
-#: 510-box.en.adoc:6
+#: 510-box.en.adoc:5
 msgid "This example assumes that the administrative roles are covered by the host institution."
 msgstr ""
 
 #. type: Target for macro image
-#: 510-box.en.adoc:7
+#: 510-box.en.adoc:6
 #, no-wrap
 msgid "img/example-of-staff-roles-participant-node.en.svg"
 msgstr ""
@@ -1351,7 +1353,7 @@ msgstr ""
 
 #. type: Plain text
 #: 600.en.adoc:35
-msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
+msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
 msgstr ""
 
 #. type: Title ===
