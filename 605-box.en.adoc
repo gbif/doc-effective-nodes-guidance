@@ -1,6 +1,19 @@
 [[box-6]]
-Box 6. GBIF’s capacity enhancement approach
+=== Box 6. GBIF’s capacity enhancement approach
 ****
+[cols="5*^.<1a",role="approach",frame=all,grid=none,stripes=none]
+|===
+|image::img/c1.png[]
+Capacity self-assessments
+|image::img/c2.png[]
+Core capacity enhancement programme
+|image::img/c3.png[]
+Supplementary funded programmes
+|image::img/c4.png[]
+Capacity enhancement workshops
+|image::img/c5.png[]
+Community of practice
 
-//insert image; make text available for translation and language versioning//
+5+|image::img/arrow-breadth.svg[width="80%"]
+|===
 ****
