@@ -1,5 +1,44 @@
 [[box-4]]
 === Box 4. A participatory approach to establishing a Participant node
 ****
-image::img/box-4.png[]
+[cols="^.^1h,<.^2a",role="arrows",stripes=none,grid=none,frame=none]
+|===
+|*Discussions before joining GBIF*
+ifdef::backend-html5[{table-arrow}]
+|
+* Understand Participant’s *motivation* for joining GBIF
+* Understand *drivers and priorities* at highest level for establishing a biodiversity information facility
+* Assign *formal roles*: Head of Delegation and temporary node manager
+
+|*Preparation for participatory processes*
+ifdef::backend-html5[{table-arrow}]
+|
+* Agree *roles* in the process: who will lead, who will formulate final recommendations, need for consultants, etc.
+* *Preparatory studies*: capacity self-assessment, data holders, inventory, stakeholder mappings, content needs assessment, etc.
+* Identify *relevant examples* from the GBIF network
+* Identify *key stakeholders* who will be invited to contribute
+* Plan a national *stakeholder meeting*
+
+|Participatory process +
+*Scoping the biodiversity information facility and node*
+ifdef::backend-html5[{table-arrow}]
+|
+* Define *priorities* for the biodiversity information facility
+* Discuss which parts of the biodiversity information facility are *already in place*
+* Define *key roles* for the node in support of the biodiversity information facility
+
+|Participatory process +
+*Defining implementation models*
+ifdef::backend-html5[{table-arrow}]
+|
+* Define *community norms* and formal agreements to support effective collaboration
+* Discuss model for *informatics infrastructure*
+* Discuss *governance model* and representation
+* Consider *institutional location* for the node
+* Discuss a *team for the node* and the node manager role
+* Discuss *funding models* for the node
+
+2+|*Recommendation on the establishment of the node* +
+including its mandate, institutional location, governance structure and funding model.
+|===
 ****

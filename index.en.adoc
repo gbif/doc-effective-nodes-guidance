@@ -8,6 +8,9 @@ GBIF Secretariat <nodes@gbif.org>
 :license: https://creativecommons.org/licenses/by/4.0/
 :title-logo-image: img/_src/Apis-mellifera-thebugroomno2-iNat.jpg
 :xrefstyle: short
+// For Box 4, the Docinfo includes a stylesheet to style the table and the :table-arrow:
+:docinfo: shared-head
+:table-arrow: pass:[<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.42576 8.8668518"><path d="M 12.21288,8.2129266 1.6295474,0.52916664 H 22.796213 Z"/></svg>]
 
 ifdef::backend-html5[]
 languageLinks:combined[]
