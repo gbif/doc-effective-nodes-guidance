@@ -19,7 +19,7 @@ ifdef::backend-html5[{table-arrow}]
 * Identify *key stakeholders* who will be invited to contribute
 * Plan a national *stakeholder meeting*
 
-|Participatory process +
+|[.small]#Participatory process# +
 *Scoping the biodiversity information facility and node*
 ifdef::backend-html5[{table-arrow}]
 |
@@ -27,7 +27,7 @@ ifdef::backend-html5[{table-arrow}]
 * Discuss which parts of the biodiversity information facility are *already in place*
 * Define *key roles* for the node in support of the biodiversity information facility
 
-|Participatory process +
+|[.small]#Participatory process# +
 *Defining implementation models*
 ifdef::backend-html5[{table-arrow}]
 |
@@ -39,6 +39,6 @@ ifdef::backend-html5[{table-arrow}]
 * Discuss *funding models* for the node
 
 2+|*Recommendation on the establishment of the node* +
-including its mandate, institutional location, governance structure and funding model.
+[.small]#including its mandate, institutional location, governance structure and funding model.#
 |===
 ****
