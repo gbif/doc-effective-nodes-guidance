@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-07-10 10:03+0000\n"
-"PO-Revision-Date: 2020-07-10 10:22\n"
+"POT-Creation-Date: 2020-07-10 10:48+0000\n"
+"PO-Revision-Date: 2020-07-10 10:52\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1587,8 +1587,25 @@ msgstr ""
 msgid "e.g. national data portal"
 msgstr "ex.: portal de dados nacional"
 
-#. type: Plain text
-#: 605-box.en.adoc:3
+#. type: Title ===
+#: 605-box.en.adoc:2
+#, no-wrap
 msgid "Box 6. GBIF’s capacity enhancement approach"
 msgstr "Caixa 6. Abordagem do reforço da capacidade do GBIF"
+
+#. type: Table
+#: 605-box.en.adoc:18
+#, no-wrap
+msgid "|image::img/c1.png[]\n"
+"Capacity self-assessments\n"
+"|image::img/c2.png[]\n"
+"Core capacity enhancement programme\n"
+"|image::img/c3.png[]\n"
+"Supplementary funded programmes\n"
+"|image::img/c4.png[]\n"
+"Capacity enhancement workshops\n"
+"|image::img/c5.png[]\n"
+"Community of practice\n\n"
+"5+|image::img/arrow-breadth.svg[width=\"80%\"]\n"
+msgstr ""
 
