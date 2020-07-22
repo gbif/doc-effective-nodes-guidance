@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2020-07-22 12:14\n"
+"PO-Revision-Date: 2020-07-22 12:20\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -134,7 +134,7 @@ msgstr "A conservação e a utilização sustentável dos recursos biológicos d
 #. type: Plain text
 #: preface.en.adoc:7
 msgid "GBIF—the Global Biodiversity Information Facility—is https://www.gbif.org/the-gbif-network[an international network] and https://www.gbif.org[research infrastructure] that exists to enable free and open access to biodiversity data from all sources and to support biodiversity science, environmental research, and evidence-based decision-making. GBIF operates as a federated system of distributed data publishing efforts, coordinated through a global informatics infrastructure and collaborative network."
-msgstr ""
+msgstr "GBIF (Sistema Global de Informação sobre a Biodiversidade) https://www.gbif.org/the-gbif-network[uma rede internacional] e https://www.gbif.org[infraestrutura de investigação] existem para permitir um acesso livre e aberto aos dados de biodiversidade de qualquer origem e para apoiar a ciência da biodiversidade, a investigação ambiental e a tomada de decisões fundamentadas. O GBIF funciona como um sistema federado de esforços distribuídos de publicação de dados, coordenados através de uma infraestrutura global de informática e de uma rede colaborativa."
 
 #. type: Plain text
 #: preface.en.adoc:9
