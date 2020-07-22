@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2020-07-22 11:31\n"
+"PO-Revision-Date: 2020-07-22 12:14\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -53,7 +53,7 @@ msgstr "Citação sugerida"
 #. type: Plain text
 #: colophon.en.adoc:9
 msgid "GBIF Secretariat (2019) Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
-msgstr ""
+msgstr "Secretariado GBIF (2019) Estabelecimento de um nó de participante GBIF eficaz: conceitos e considerações gerais. Copenhaga. https://doi.org/10.15468/doc-z79c-sa53."
 
 #. type: Title ===
 #: colophon.en.adoc:10
@@ -64,7 +64,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid "https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn e https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
 
 #. type: Title ===
 #: colophon.en.adoc:13
@@ -86,7 +86,7 @@ msgstr "URL Persistente"
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://doi.org/10.15468/doc-z79c-sa53"
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-z79c-sa53"
 
 #. type: Title ===
 #: colophon.en.adoc:19
@@ -97,12 +97,12 @@ msgstr "Controlo do Documento"
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "Second (GitHub) edition published, April 2019."
-msgstr ""
+msgstr "Segunda edição (GitHub) publicada, abril de 2019."
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc.fm4b-6q42[Primeira edição], março de 2015, por https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] e https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 
 #. type: Plain text
 #: colophon.en.adoc:25
@@ -118,7 +118,7 @@ msgstr "Imagem de Capa"
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr ""
+msgstr "Abelha-europeia (_Apis mellifera_), Hardy County, Florida, Estados Unidos. Fotografia 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[Observações de pesquisa de iNaturalist], licenciado ao abrigo de http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: preface.en.adoc:2
