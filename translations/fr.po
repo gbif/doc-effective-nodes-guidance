@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2020-07-10 10:52\n"
+"PO-Revision-Date: 2020-08-07 11:16\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -118,7 +118,7 @@ msgstr "Image de couverture"
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr "La abeja de miel occidental (_Apis mellifera_), Hardy County, Florida, Estados Unidos. Foto 2018 thebugroomno2 vía https://www.gbif.org/fr/occurrence/1945467387[iNaturalist research-grade observations], licenciada bajo http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgstr "Abeille domestique (_Apis mellifera_), Hardy County, Florida, États Unis. Photo 2018 thebugroomno2 vía https://www.gbif.org/fr/occurrence/1945467387[iNaturalist research-grade observations], licencié sous http://creativecommons.org/licenses/by-nc/4.0/deed.fr[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: preface.en.adoc:2
