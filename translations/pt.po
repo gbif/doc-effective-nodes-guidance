@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-07-08 14:59+0000\n"
-"PO-Revision-Date: 2020-07-08 15:11\n"
+"POT-Creation-Date: 2020-07-10 10:48+0000\n"
+"PO-Revision-Date: 2020-07-22 12:20\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -25,24 +25,24 @@ msgstr "Estabelecer um Nó de Participante do GBIF Eficaz: conceitos e considera
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <nodes@gbif.org>"
-msgstr ""
+msgstr "Secretariado GBIF <nodes@gbif.org>"
 
 #. type: Plain text
-#: index.en.adoc:14
+#: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:2
 #, no-wrap
 msgid "img/Apis-mellifera-thebugroomno2-iNat.jpg"
-msgstr ""
+msgstr "img/Apis-mellifera-thebugroomno2-iNat.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:5
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Cólofon"
 
 #. type: Title ===
 #: colophon.en.adoc:7
@@ -53,7 +53,7 @@ msgstr "Citação sugerida"
 #. type: Plain text
 #: colophon.en.adoc:9
 msgid "GBIF Secretariat (2019) Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
-msgstr ""
+msgstr "Secretariado GBIF (2019) Estabelecimento de um nó de participante GBIF eficaz: conceitos e considerações gerais. Copenhaga. https://doi.org/10.15468/doc-z79c-sa53."
 
 #. type: Title ===
 #: colophon.en.adoc:10
@@ -64,7 +64,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid "https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn e https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
 
 #. type: Title ===
 #: colophon.en.adoc:13
@@ -86,7 +86,7 @@ msgstr "URL Persistente"
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://doi.org/10.15468/doc-z79c-sa53"
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-z79c-sa53"
 
 #. type: Title ===
 #: colophon.en.adoc:19
@@ -97,12 +97,12 @@ msgstr "Controlo do Documento"
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "Second (GitHub) edition published, April 2019."
-msgstr ""
+msgstr "Segunda edição (GitHub) publicada, abril de 2019."
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc.fm4b-6q42[Primeira edição], março de 2015, por https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] e https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 
 #. type: Plain text
 #: colophon.en.adoc:25
@@ -118,7 +118,7 @@ msgstr "Imagem de Capa"
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr ""
+msgstr "Abelha-europeia (_Apis mellifera_), Hardy County, Florida, Estados Unidos. Fotografia 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[Observações de pesquisa de iNaturalist], licenciado ao abrigo de http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: preface.en.adoc:2
@@ -134,7 +134,7 @@ msgstr "A conservação e a utilização sustentável dos recursos biológicos d
 #. type: Plain text
 #: preface.en.adoc:7
 msgid "GBIF—the Global Biodiversity Information Facility—is https://www.gbif.org/the-gbif-network[an international network] and https://www.gbif.org[research infrastructure] that exists to enable free and open access to biodiversity data from all sources and to support biodiversity science, environmental research, and evidence-based decision-making. GBIF operates as a federated system of distributed data publishing efforts, coordinated through a global informatics infrastructure and collaborative network."
-msgstr ""
+msgstr "GBIF (Sistema Global de Informação sobre a Biodiversidade) https://www.gbif.org/the-gbif-network[uma rede internacional] e https://www.gbif.org[infraestrutura de investigação] existem para permitir um acesso livre e aberto aos dados de biodiversidade de qualquer origem e para apoiar a ciência da biodiversidade, a investigação ambiental e a tomada de decisões fundamentadas. O GBIF funciona como um sistema federado de esforços distribuídos de publicação de dados, coordenados através de uma infraestrutura global de informática e de uma rede colaborativa."
 
 #. type: Plain text
 #: preface.en.adoc:9
@@ -1234,10 +1234,106 @@ msgstr "Uma pessoa com formação em informática, capaz de desenvolver e manter
 msgid "Box 4. A participatory approach to establishing a Participant node"
 msgstr ""
 
-#. type: Target for macro image
-#: 505-box.en.adoc:4
+#. type: Table
+#: 505-box.en.adoc:7
 #, no-wrap
-msgid "img/box-4.png"
+msgid "|*Discussions before joining GBIF*\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:9 505-box.en.adoc:16 505-box.en.adoc:26 505-box.en.adoc:34
+msgid "|"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:10
+msgid "Understand Participant’s *motivation* for joining GBIF"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:11
+msgid "Understand *drivers and priorities* at highest level for establishing a biodiversity information facility"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:14
+msgid "Assign *formal roles*: Head of Delegation and temporary node manager |*Preparation for participatory processes*"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:17
+msgid "Agree *roles* in the process: who will lead, who will formulate final recommendations, need for consultants, etc."
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:18
+#, no-wrap
+msgid "*Preparatory studies*: capacity self-assessment, data holders, inventory, stakeholder mappings, content needs assessment, etc.\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:19
+#, no-wrap
+msgid "Identify *relevant examples* from the GBIF network\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:20
+#, no-wrap
+msgid "Identify *key stakeholders* who will be invited to contribute\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:24
+#, no-wrap
+msgid "Plan a national *stakeholder meeting*\n\n"
+"|[.small]#Participatory process# +\n"
+"*Scoping the biodiversity information facility and node*\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:27
+msgid "Define *priorities* for the biodiversity information facility"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:28
+msgid "Discuss which parts of the biodiversity information facility are *already in place*"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:32
+msgid "Define *key roles* for the node in support of the biodiversity information facility |[.small]#Participatory process# + *Defining implementation models*"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:35
+msgid "Define *community norms* and formal agreements to support effective collaboration"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:36
+msgid "Discuss model for *informatics infrastructure*"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:37
+msgid "Discuss *governance model* and representation"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:38
+msgid "Consider *institutional location* for the node"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:39
+msgid "Discuss a *team for the node* and the node manager role"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:43
+msgid "Discuss *funding models* for the node 2+|*Recommendation on the establishment of the node* + [.small]#including its mandate, institutional location, governance structure and funding model.#"
 msgstr ""
 
 #. type: Title ===
@@ -1491,8 +1587,25 @@ msgstr ""
 msgid "e.g. national data portal"
 msgstr "ex.: portal de dados nacional"
 
-#. type: Plain text
-#: 605-box.en.adoc:3
+#. type: Title ===
+#: 605-box.en.adoc:2
+#, no-wrap
 msgid "Box 6. GBIF’s capacity enhancement approach"
 msgstr "Caixa 6. Abordagem do reforço da capacidade do GBIF"
+
+#. type: Table
+#: 605-box.en.adoc:18
+#, no-wrap
+msgid "|image::img/c1.png[]\n"
+"Capacity self-assessments\n"
+"|image::img/c2.png[]\n"
+"Core capacity enhancement programme\n"
+"|image::img/c3.png[]\n"
+"Supplementary funded programmes\n"
+"|image::img/c4.png[]\n"
+"Capacity enhancement workshops\n"
+"|image::img/c5.png[]\n"
+"Community of practice\n\n"
+"5+|image::img/arrow-breadth.svg[width=\"80%\"]\n"
+msgstr ""
 
