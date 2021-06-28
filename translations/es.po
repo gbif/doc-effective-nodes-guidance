@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-06-28 14:27\n"
+"PO-Revision-Date: 2021-06-28 14:39\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -260,7 +260,7 @@ msgstr "*Participante*: un país, economía u organización que se une a GBIF fi
 #: 105-box.en.adoc:10
 #, no-wrap
 msgid "*Biodiversity information facility*: Variously described as a ‘BIF’, a system or a network, a broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders.\n"
-msgstr "*Infraestructura de información en biodiversidad*: descrita de diversos modos como BIF, un sistema o una red, una estructura más amplia de personas e instituciones, coordinada por el nodo, que constituye conjuntamente una infraestructura para brindar información sobre biodiversidad a las correspondientes partes interesadas.\n"
+msgstr "*Infraestructura de información en biodiversidad*: descripta de diversos modos como BIF, un sistema o una red, una estructura más amplia de personas e instituciones, coordinada por el nodo, que constituye conjuntamente una infraestructura para brindar información sobre biodiversidad a las correspondientes partes interesadas.\n"
 
 #. type: delimited block *
 #: 105-box.en.adoc:12
@@ -272,7 +272,7 @@ msgstr "*Nodo participante*: un equipo de coordinación, designado por el Partic
 #: 105-box.en.adoc:16
 #, no-wrap
 msgid "Key Roles"
-msgstr "Funciones principales"
+msgstr "Roles clave"
 
 #. type: delimited block *
 #: 105-box.en.adoc:19
