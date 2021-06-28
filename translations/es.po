@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-06-28 14:18\n"
+"PO-Revision-Date: 2021-06-28 14:27\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1348,32 +1348,32 @@ msgstr "Defina *roles clave* para el nodo en soporte de las instalaciones de inf
 #. type: Table
 #: 505-box.en.adoc:35
 msgid "Define *community norms* and formal agreements to support effective collaboration"
-msgstr ""
+msgstr "Definir *normas comunitarias* y acuerdos formales para apoyar una colaboración efectiva"
 
 #. type: Table
 #: 505-box.en.adoc:36
 msgid "Discuss model for *informatics infrastructure*"
-msgstr ""
+msgstr "Discutir modelo para *infraestructura informática*"
 
 #. type: Table
 #: 505-box.en.adoc:37
 msgid "Discuss *governance model* and representation"
-msgstr ""
+msgstr "Discutir *modelo de gobernanza* y representación"
 
 #. type: Table
 #: 505-box.en.adoc:38
 msgid "Consider *institutional location* for the node"
-msgstr ""
+msgstr "Consideremos la *ubicación institucional* del nodo"
 
 #. type: Table
 #: 505-box.en.adoc:39
 msgid "Discuss a *team for the node* and the node manager role"
-msgstr ""
+msgstr "Discuta un *equipo para el nodo* y el rol del administrador de nodo"
 
 #. type: Table
 #: 505-box.en.adoc:43
 msgid "Discuss *funding models* for the node 2+|*Recommendation on the establishment of the node* + [.small]#including its mandate, institutional location, governance structure and funding model.#"
-msgstr ""
+msgstr "Discuta *modelos de financiación* para el nodo 2+|*Recomendación sobre el establecimiento del nodo* + [.small]#incluyendo su obligación, ubicación institucional, estructura de gobernanza y modelo de financiación.#"
 
 #. type: Title ===
 #: 510-box.en.adoc:2
@@ -1646,5 +1646,15 @@ msgid "|image::img/c1.png[]\n"
 "|image::img/c5.png[]\n"
 "Community of practice\n\n"
 "5+|image::img/arrow-breadth.svg[width=\"80%\"]\n"
-msgstr ""
+msgstr "|image::img/c1.png[]\n"
+"auto-evaluaciones de capacidad\n"
+"|image::img/c2.png[]\n"
+"Programa principal de mejora de capacidad\n"
+"|image::img/c3.png[]\n"
+"Programas financiados por proveedores\n"
+"|image::img/c4. ng[]\n"
+"Talleres de mejora de capacidad\n"
+"|image::img/c5.png[]\n"
+"Comunidad de práctica\n\n"
+"5+|image::img/arrow-breadth.svg[width=\"80%\"]\n"
 
