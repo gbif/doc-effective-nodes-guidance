@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2020-07-10 10:52\n"
+"PO-Revision-Date: 2021-06-28 14:18\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1275,50 +1275,50 @@ msgstr "Cuadro 4. Un enfoque participativo para establecer un nodo Participante"
 #: 505-box.en.adoc:7
 #, no-wrap
 msgid "|*Discussions before joining GBIF*\n"
-msgstr ""
+msgstr "|*Discusiones antes de unirse a GBIF*\n"
 
 #. type: Table
 #: 505-box.en.adoc:9 505-box.en.adoc:16 505-box.en.adoc:26 505-box.en.adoc:34
 msgid "|"
-msgstr ""
+msgstr "|"
 
 #. type: Table
 #: 505-box.en.adoc:10
 msgid "Understand Participant’s *motivation* for joining GBIF"
-msgstr ""
+msgstr "Comprender la *motivación* del Participante para unirse a GBIF"
 
 #. type: Table
 #: 505-box.en.adoc:11
 msgid "Understand *drivers and priorities* at highest level for establishing a biodiversity information facility"
-msgstr ""
+msgstr "Comprender *conductores y prioridad* al más alto nivel para establecer un centro de información sobre biodiversidad"
 
 #. type: Table
 #: 505-box.en.adoc:14
 msgid "Assign *formal roles*: Head of Delegation and temporary node manager |*Preparation for participatory processes*"
-msgstr ""
+msgstr "Asignar *roles formales*: Jefe de Delegación y administrador temporal de nodos |*Preparación para procesos participativos*"
 
 #. type: Table
 #: 505-box.en.adoc:17
 msgid "Agree *roles* in the process: who will lead, who will formulate final recommendations, need for consultants, etc."
-msgstr ""
+msgstr "Aceptar *roles* en el proceso: quién dirigirá, quién formulará recomendaciones finales, necesidad de consultores, etc."
 
 #. type: Table
 #: 505-box.en.adoc:18
 #, no-wrap
 msgid "*Preparatory studies*: capacity self-assessment, data holders, inventory, stakeholder mappings, content needs assessment, etc.\n"
-msgstr ""
+msgstr "*Estudios preparatorios*: autoevaluación de capacidad, proveedores de datos, inventario, mapeo de partes interesadas, evaluación de contenido que necesita evaluación, etc.\n"
 
 #. type: Table
 #: 505-box.en.adoc:19
 #, no-wrap
 msgid "Identify *relevant examples* from the GBIF network\n"
-msgstr ""
+msgstr "Identificar *ejemplos relevantes* de la red GBIF\n"
 
 #. type: Table
 #: 505-box.en.adoc:20
 #, no-wrap
 msgid "Identify *key stakeholders* who will be invited to contribute\n"
-msgstr ""
+msgstr "Identificar a *interesados clave* que serán invitados a contribuir con\n"
 
 #. type: Table
 #: 505-box.en.adoc:24
@@ -1326,22 +1326,24 @@ msgstr ""
 msgid "Plan a national *stakeholder meeting*\n\n"
 "|[.small]#Participatory process# +\n"
 "*Scoping the biodiversity information facility and node*\n"
-msgstr ""
+msgstr "Planifica una *reunión de partes interesadas* nacional\n\n"
+"|[.small]#Proceso participativo# +\n"
+"*Ámbito de las instalaciones de información sobre biodiversidad y nodo*\n"
 
 #. type: Table
 #: 505-box.en.adoc:27
 msgid "Define *priorities* for the biodiversity information facility"
-msgstr ""
+msgstr "Definir *prioridad* para la instalación de información sobre biodiversidad"
 
 #. type: Table
 #: 505-box.en.adoc:28
 msgid "Discuss which parts of the biodiversity information facility are *already in place*"
-msgstr ""
+msgstr "Discutir qué partes de las instalaciones de información sobre biodiversidad están *ya en funcionamiento*"
 
 #. type: Table
 #: 505-box.en.adoc:32
 msgid "Define *key roles* for the node in support of the biodiversity information facility |[.small]#Participatory process# + *Defining implementation models*"
-msgstr ""
+msgstr "Defina *roles clave* para el nodo en soporte de las instalaciones de información sobre biodiversidad |[.small]#Procesos participativos# + *Definición de modelos de implementación*"
 
 #. type: Table
 #: 505-box.en.adoc:35
