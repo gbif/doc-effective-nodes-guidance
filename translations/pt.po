@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2020-07-22 12:20\n"
+"PO-Revision-Date: 2021-09-15 12:32\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -314,7 +314,7 @@ msgstr ""
 #: 110-box.en.adoc:5
 #, no-wrap
 msgid "Head of Delegation"
-msgstr ""
+msgstr "Chefe de Delegação"
 
 #. type: delimited block *
 #: 110-box.en.adoc:8
@@ -370,7 +370,7 @@ msgstr ""
 #: 110-box.en.adoc:23
 #, no-wrap
 msgid "Node Manager"
-msgstr ""
+msgstr "Coordenador do Nó"
 
 #. type: delimited block *
 #: 110-box.en.adoc:26
@@ -1519,7 +1519,7 @@ msgstr ""
 #: img/example-of-staff-roles-participant-node.en.svg:49
 #, no-wrap
 msgid "image/svg+xml"
-msgstr ""
+msgstr "image/svg+xml"
 
 #. type: Content of: <svg><g><text><tspan><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:82
