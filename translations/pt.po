@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 18:24\n"
+"PO-Revision-Date: 2021-09-19 18:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -236,13 +236,13 @@ msgstr "A *estrutura de governanção* de cada nó participante varia mas geralm
 #. type: Plain text
 #: 100.en.adoc:30
 msgid "Participant nodes provide the technical expertise to *support the publication of biodiversity data of the highest possible quality by data holders*. This involves using informatics infrastructure, and many implementation models are available, from using hosted data publication services to maintaining a distributed network of data publishers and a centralized index of the data. The node may also support a range of other *information products and services*, for example, by maintaining a biodiversity data portal and online tools for data analysis."
-msgstr ""
+msgstr "Os nós dos participantes fornecem a especialização técnica para *apoiar a publicação de dados de biodiversidade com a mais alta qualidade possível por parte dos titulares de dados*. Isto implica a utilização de infra-estruturas informáticas e existem muitos modelos de implementação, desde o uso de serviços de publicação de dados hospedados para manter uma rede distribuída de editores de dados até um índice centralizado dos dados. O nó também pode suportar um conjunto de outros *produtos e serviços de informação*, por exemplo, manter um portal de dados sobre biodiversidade e ferramentas online para análise de dados."
 
 #. type: Title ===
 #: 105-box.en.adoc:2
 #, no-wrap
 msgid "Box 1. Definitions of key structures and roles in the GBIF network at the level of Participant country"
-msgstr ""
+msgstr "Caixa 1. Definições de estruturas fundamentais e funções na rede GBIF ao nível do país participante"
 
 #. type: Title ====
 #: 105-box.en.adoc:5
@@ -254,7 +254,7 @@ msgstr "Principais Estruturas"
 #: 105-box.en.adoc:8
 #, no-wrap
 msgid "*Participant*: a country, economy or organization that joins GBIF by signing a https://www.gbif.org/document/80661[Memorandum of Understanding] and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development. \n"
-msgstr ""
+msgstr "*Participante*: um país, uma economia ou uma organização que se junte ao GBIF através da assinatura de um https://www.gbif. rg/document/80661[Memorando de Entendimento] e estabelecendo um esforço coordenado para apoiar o acesso aberto e a utilização de dados de biodiversidade, promover a investigação científica e promover o desenvolvimento tecnológico e sustentável. \n"
 
 #. type: delimited block *
 #: 105-box.en.adoc:10
@@ -266,7 +266,7 @@ msgstr "*Sistema de Informação sobre a Biodiversidade*: Variadamente descrito 
 #: 105-box.en.adoc:12
 #, no-wrap
 msgid "*Participant node*: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.\n"
-msgstr ""
+msgstr "*Nó de participante*: uma equipa de coordenação designada pelo Participante para coordenar uma rede de pessoas e instituições que produzem, gerem e utilizam dados de biodiversidade, construindo colectivamente uma infra-estrutura para fornecer informação de biodiversidade.\n"
 
 #. type: Title ====
 #: 105-box.en.adoc:16
@@ -308,7 +308,7 @@ msgstr "*Partes Interessadas do Sistema de Informação sobre a Biodiversidade*:
 #: 110-box.en.adoc:2
 #, no-wrap
 msgid "Box 2. GBIF Head of Delegation and Node Manager: roles and responsibilities"
-msgstr ""
+msgstr "Caixa 2. Chefe de Delegação do GBIF e Coordenador de Nó: funções e responsabilidades"
 
 #. type: Title ====
 #: 110-box.en.adoc:5
@@ -319,37 +319,37 @@ msgstr "Chefe de Delegação"
 #. type: delimited block *
 #: 110-box.en.adoc:8
 msgid "Following signature of the Memorandum of Understanding (MoU), new GBIF Participants are requested to nominate a Head of Delegation (HoD), to represent the country, economy or organization on the Governing Board, and to act as the Participant’s primary focal point for all GBIF-related activity."
-msgstr ""
+msgstr "Após a assinatura do Memorando de Entendimento (MoU), novos participantes do GBIF são solicitados a nomear um Chefe de Delegação (HoD), representar o país, a economia ou a organização no Conselho Director e agir como o principal ponto focal do Participante para todas as atividades relacionadas com o GBIF."
 
 #. type: delimited block *
 #: 110-box.en.adoc:10
 msgid "The specific responsibilities of the HoD include:"
-msgstr ""
+msgstr "As responsabilidades específicas do HoD incluem:"
 
 #. type: delimited block *
 #: 110-box.en.adoc:12
 msgid "Attending Governing Board meetings held annually, usually in September or October. If the HoD is not able to attend, he/she can appoint a temporary HoD to attend the meeting."
-msgstr ""
+msgstr "Participar nas reuniões do Conselho Director que se realizam anualmente, normalmente em Setembro ou Outubro. Se o HoD não for capaz de assistir, pode nomear um HoD temporário para participar da reunião."
 
 #. type: delimited block *
 #: 110-box.en.adoc:13
 msgid "Nominating additional delegates to attend Governing Board meetings (a maximum of two additional delegates may attend each meeting, ideally including the Node Manager); informing the Secretariat prior to each meeting about the composition of the delegation."
-msgstr ""
+msgstr "Nomear delegados adicionais para participar nas reuniões do Conselho Director (um máximo de dois delegados adicionais poderão participar de cada reunião, de preferência incluindo o Coordenador do Nó); informar o Secretariado antes de cada reunião sobre a composição da delegação."
 
 #. type: delimited block *
 #: 110-box.en.adoc:14
 msgid "Preparing for such meetings by reading and consulting as appropriate on key documents submitted for approval by the Governing Board, such as the work programme, budget and strategic decisions. All documentation is distributed one month in advance of the meeting."
-msgstr ""
+msgstr "Preparando essas reuniões, lendo e consultando, se apropriado, os documentos chave submetidos à aprovação do Conselho Director, como o programa de trabalhos, o orçamento e as decisões estratégicas. Toda a documentação é distribuída um mês antes da reunião."
 
 #. type: delimited block *
 #: 110-box.en.adoc:15
 msgid "Responding to intersessional communications from the Secretariat and Governing Board Chair between Governing Board meetings, including consultations, calls for award nominations and other requests for which actions or views are sought from Participants."
-msgstr ""
+msgstr "Respondendo às comunicações intersessionais do Secretariado e do Presidente do Conselho Director entre as reuniões do Conselho Director, incluindo consultas, convites à apresentação de candidaturas e outros pedidos para os quais se solicitam acções ou opiniões aos participantes."
 
 #. type: delimited block *
 #: 110-box.en.adoc:16
 msgid "In the case of Voting Participants, exercising the Participant’s vote at Governing Board meetings, including in elections for chairs and vice-chairs of the Governing Board and advisory committees; and responding to calls for nominations for such posts."
-msgstr ""
+msgstr "No caso dos participantes nas votações, exercendo o voto dos participantes nas reuniões do Conselho Director, incluindo nas eleições para presidentes e vice-presidentes do Conselho Director e comités consultivos; e respondendo aos apelos a nomeações para esses postos."
 
 #. type: delimited block *
 #: 110-box.en.adoc:17
