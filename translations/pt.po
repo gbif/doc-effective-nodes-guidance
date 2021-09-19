@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 18:54\n"
+"PO-Revision-Date: 2021-09-19 19:05\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -411,22 +411,22 @@ msgstr "Por que são necessários os nós de Participantes?"
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "Participant nodes and biodiversity information facilities help GBIF Participants *increase the return from their past, current, and future investments* in biodiversity research and data collection. They help *make the publication of primary data part of the scientific mainstream*, as much part of culture and practice as publication of the results in research itself. In their facilitating role, nodes help data holders publish their data using common standards and protocols to ensure interoperability and open access and *make data available for the widest possible reuse*. They also contribute to commitments that *promote transparency and open access* to scientific data, helping data holders comply with open data regulations and requirements."
-msgstr ""
+msgstr "Os Nós dos Participantes e as infraestruturas de informação sobre biodiversidade ajudam os Participantes do GBIF *a aumentar o retorno de seus investimentos passados, atuais e futuros* em investigação sobre biodiversidade e colheita de dados. Eles ajudam a *tornar a publicação de dados primários parte fundamental da actividade científica*, tanto em termos de cultura e prática, como na publicação dos próprios resultados da investigação. No seu papel facilitador, os nós ajudam os detentores de dados a publicar os seus dados usando padrões e protocolos comuns para garantir a interoperabilidade e acesso aberto e *tornar os dados disponíveis para a mais ampla reutilização possível*. Eles também contribuem para compromissos que *promovem a transparência e o acesso aberto* dos dados científicos, ajudando os detentores de dados a cumprir os requisitos e regulamentos de dados abertos."
 
 #. type: Plain text
 #: 200.en.adoc:7
 msgid "Nodes play a valuable role in promoting data management practices and in encouraging the community of biodiversity knowledge-holders to pool their expertise. This work can in turn continuously *improve the quality* and fitness-for-use of available biodiversity data and provide a platform for *taxonomy and collaborative collection management*."
-msgstr ""
+msgstr "Os nós desempenham um papel valioso na promoção de práticas de gestão de dados e no incentivo à comunidade de detentores de conhecimentos da biodiversidade para reunir os seus conhecimentos. Esse trabalho pode, por sua vez, *melhorar continuamente a qualidade* e o ajuste para o uso dos dados disponíveis sobre biodiversidade e fornecer uma plataforma para a *gestão colaborativa da taxonomia de colecções*."
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "By coordinating biodiversity information facilities, nodes are well positioned to assess biodiversity data availability and gaps (taxonomic, spatial and temporal) at the Participant level, to understand data and information use and needs, and to implement strategies in response. Thus, nodes can contribute to *setting biodiversity research priorities*."
-msgstr ""
+msgstr "Ao coordenar infraestruturas de informação sobre biodiversidade, os nós estão bem posicionados para avaliar a disponibilidade e as lacunas de dados da biodiversidade (taxonómico, espacial e temporal) ao nível dos Participantes, para avaliar o uso de dados e as necessidades da informação e para implementar estratégias de resposta. Assim, os nós podem contribuir para *definir prioridades de investigação sobre biodiversidade*."
 
 #. type: Plain text
 #: 200.en.adoc:11
 msgid "Nodes play a role in coordinating the broad landscape of biodiversity informatics initiatives by engaging new communities and making international connections through GBIF. This coordination helps to create strong *partnerships and alignment of efforts*, complementing other biodiversity-related initiatives by providing the data foundations and infrastructure for a wide range of applications."
-msgstr ""
+msgstr "Os nós desempenham um papel na coordenação da vasto panorama das iniciativas de informação sobre biodiversidade, envolvendo novas comunidades e fazendo ligações internacionais através do GBIF. Esta coordenação ajuda a criar *parcerias e alinhamento de esforços*  fortes, complementando outras iniciativas relacionadas com a biodiversidade, fornecendo as bases de dados e a infra-estrutura para uma vasta gama de aplicações."
 
 #. type: Plain text
 #: 200.en.adoc:13
