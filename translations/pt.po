@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 18:44\n"
+"PO-Revision-Date: 2021-09-19 18:54\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -390,17 +390,17 @@ msgstr "Colaboração com outros coordenadores de nó e o Secretariado para gara
 #. type: delimited block *
 #: 110-box.en.adoc:30
 msgid "As a member of the GBIF Nodes Committee, attending global nodes meetings (held every two years) and regional nodes meetings (held either annually or every two years) as well as technical workshops and training events."
-msgstr ""
+msgstr "Como membro do Comité de Nós do GBIF, assistir a reuniões de nós globais (realizadas a cada dois anos) e reuniões regionais de nós (realizadas anualmente ou de dois em dois anos), bem como workshops técnicos e eventos de formação."
 
 #. type: delimited block *
 #: 110-box.en.adoc:31
 msgid "Paying close attention to communications from the GBIF Secretariat, including webinars and newsletters, on technical developments and opportunities such as capacity enhancement support calls, and keeping the Secretariat informed about node activities that may be of interest to the wider community"
-msgstr ""
+msgstr "Dar elevada atenção às comunicações do Secretariado do GBIF, incluindo webinars e boletins informativos, sobre desenvolvimentos técnicos e oportunidades como chamadas de reforço de capacidade, e manter o Secretariado informado sobre atividades do nó que possam ser do interesse de toda a comunidade"
 
 #. type: delimited block *
 #: 110-box.en.adoc:32
 msgid "Establishing a close working relationship with the HoD to ensure he/she is well informed about the needs and performance of the node, and ideally attending Governing Board meetings as an additional delegate"
-msgstr ""
+msgstr "Estabelecendo uma relação de trabalho próxima com o HoD para garantir que ele esteja bem informado sobre as necessidades e o desempenho do nó, e, idealmente, participar das reuniões do Conselho Director como um delegado adicional"
 
 #. type: Title ==
 #: 200.en.adoc:2
@@ -984,7 +984,7 @@ msgstr "A principal recomendação é iniciar um processo participativo ao níve
 #: 500.en.adoc:15
 #, no-wrap
 msgid "*See <<box-4,box 4>>*\n"
-msgstr ""
+msgstr "*Ver <<box-4,box 4>>*\n"
 
 #. type: Plain text
 #: 500.en.adoc:17
@@ -1243,7 +1243,7 @@ msgstr ""
 #. type: Table
 #: 505-box.en.adoc:9 505-box.en.adoc:16 505-box.en.adoc:26 505-box.en.adoc:34
 msgid "|"
-msgstr ""
+msgstr "|"
 
 #. type: Table
 #: 505-box.en.adoc:10
@@ -1531,37 +1531,37 @@ msgstr "Coordenador do Nó"
 #: img/example-of-staff-roles-participant-node.en.svg:99
 #, no-wrap
 msgid "A person with a scientific"
-msgstr ""
+msgstr "Uma pessoa com uma base"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:104
 #, no-wrap
 msgid "background to motivate network"
-msgstr ""
+msgstr "científica para motivar a rede"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:109
 #, no-wrap
 msgid "of data holders, data users"
-msgstr ""
+msgstr "detentores de dados, utilziadores de dados"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:120
 #, no-wrap
 msgid "A person with strong data"
-msgstr ""
+msgstr "Uma pessoa com uma forte base"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:125
 #, no-wrap
 msgid "management/analytics"
-msgstr ""
+msgstr "de gestão/análise"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:130
 #, no-wrap
 msgid "background to provide"
-msgstr ""
+msgstr "de dados para fornecer"
 
 #. type: Content of: <svg><g><text><tspan>
 #: img/example-of-staff-roles-participant-node.en.svg:135
@@ -1607,5 +1607,15 @@ msgid "|image::img/c1.png[]\n"
 "|image::img/c5.png[]\n"
 "Community of practice\n\n"
 "5+|image::img/arrow-breadth.svg[width=\"80%\"]\n"
-msgstr ""
+msgstr "|image::img/c1.png[]\n"
+"Auto-avaliação da capacidade \n"
+"|image::img/c2.png[]\n"
+"Programa niclear de aumento de capacidade\n"
+"|image::img/c3.png[]\n"
+"Programas de financiamento suplementar\n"
+"|image::img/c4.png[]\n"
+"Workshops de aumento de capacidade\n"
+"|image::img/c5.png[]\n"
+"Cpomunidade de prática\n\n"
+"5+|image::img/arrow-breadth.svg[width=\"80%\"]\n"
 
