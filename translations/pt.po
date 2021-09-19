@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 20:03\n"
+"PO-Revision-Date: 2021-09-19 20:19\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1493,7 +1493,7 @@ msgstr "O GBIF dá também acesso a *oportunidades de formação* para coordenad
 #. type: Plain text
 #: 600.en.adoc:52
 msgid "Finally, the GBIF network acts as a *community of practice*, with many node managers and their teams volunteering as https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement mentors] and https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[biodiversity open data ambassadors] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events."
-msgstr ""
+msgstr "Finalmente, a rede GBIF funciona como uma *comunidade de práticas*, com muitos coordenadores de nóa e suas equipas voluntariando-se como https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[mentores de capacitação] e https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[embaixadores de dados abertos de biodiversidade] para apoiar o desenvolvimento futuro da comunidade global. Os novos participantes são convidados a entrar em contacto com o Secretariado do GBIF para obter assistência na identificação de mentores para ajudar no desenvolvimento dos seus nós, por exemplo, através de eventos de formação."
 
 #. type: Title ===
 #: 600.en.adoc:54
@@ -1504,7 +1504,7 @@ msgstr "Que outra documentação e recursos estão disponíveis para os nós de 
 #. type: Plain text
 #: 600.en.adoc:57
 msgid "GBIF maintains a list of freely accessible https://www.gbif.org/article/T5SQrMJAU1OdFtHTNOWgN/[resources for nodes] including tools, presentations, manuals and documentation for anyone to use and download."
-msgstr ""
+msgstr "O GBIF mantém uma lista de https://www.gbif.org/article/T5SQrMJAU1OdFtHTNOWgN/[recursos para nós] incluindo ferramentas, apresentações, manuais e documentação para qualquer pessoa usar e transferir."
 
 #. type: Title ===
 #: 600.en.adoc:59
@@ -1515,7 +1515,7 @@ msgstr "Contacto para apoio complementar"
 #. type: Plain text
 #: 600.en.adoc:61
 msgid "Staff from the GBIF Secretariat are available to provide guidance and assistance to Participant nodes. Please contact mailto:nodes@gbif.org[nodes@gbif.org] for further information."
-msgstr ""
+msgstr "A equipa do Secretariado GBIF está disponível para dar orientação e apoio aos nós de Participantes. Para mais informações, contacte mailto:nodes@gbif.org[nodes@gbif.org]."
 
 #. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
 #: img/example-of-staff-roles-participant-node.en.svg:49
