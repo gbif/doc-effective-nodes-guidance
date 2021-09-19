@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 18:05\n"
+"PO-Revision-Date: 2021-09-19 18:13\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -161,17 +161,17 @@ msgstr "Os Participantes no GBIF são países, organizações internacionais ou 
 #: 100.en.adoc:7
 #, no-wrap
 msgid "*A GBIF Participant node is a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making. For countries, these networks aresometimes referred to as a biodiversity information facility* (see <<box-1,Box 1>>).\n"
-msgstr ""
+msgstr "*Um nó de participante GBIF é uma equipa designada por um Participante para coordenar uma rede de pessoas e instituições que produzem, gerem e usam dados de biodiversidade, construindo colectivamente uma infra-estrutura para fornecer informação de biodiversidade. São apoiados por disposições de organização e soluções informáticas, trabalhando para melhorar a disponibilidade e a utilidade dos dados sobre a biodiversidade para a investigação, a política e a tomada de decisões. Para os países, essas redes são referidas como infraestrutura de informação de biodiversidade* (ver <<box-1,Box 1>>).\n"
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Two main roles are assigned when a Participant joins GBIF: the *Head of Delegation* and the *node manager* (see <<box-2,Box 2>>). The Head of Delegation represents the country, economy or organization on the GBIF Governing Board, and acts as the Participant’s primary focal point for all GBIF-related activity. The node manager leads the operational activities of the country or organization in coordinating the mobilization and use of open-access biodiversity data, and also represents the Participant on the https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF Participant Node Managers Committee]. A *Participant node* is typically hosted by an existing biodiversity-related institution or institutions in the Participant country, or by Participant organizations."
-msgstr ""
+msgstr "Dois papéis principais são atribuídos quando um participante adere ao GBIF: o *Chefe de Delegação* e o *coordenador do nó* (ver <<box-2,Box 2>>). O Chefe de Delegação representa o país, a economia ou a organização no Conselho Director do GBIF, e atua como principal ponto focal do participante para todas as atividades relacionadas com o GBIF. O coordenador do nó lidera as atividades operacionais do país ou organização na coordenação da mobilização e uso dos dados de biodiversidade de acesso aberto e também representa o Participante na https://www. bif. rg/contact-us/directory?group=nodesCommittee[Comité de Coordenadores de Nós de Participantes]. Um *nó de participante* é tipicamente hospedado por uma instituição ou instituições relacionadas com a biodiversidade existente no País Participante, ou por Organizações Participantes."
 
 #. type: Plain text
 #: 100.en.adoc:11
 msgid "A broad range of *stakeholders* are involved in GBIF-related activities at the Participant level, including data holders, biodiversity knowledge experts, data users, and decision-makers <<box-3,Box 3>>). Participant nodes have the role of connecting each of these audiences’ needs and interests, enabling them to contribute to and benefit from participation in the GBIF network."
-msgstr ""
+msgstr "Uma ampla variedade de *partes interessadas* estão envolvidas em atividades relacionadas com o GBIF, ao nível do Participante, incluindo detentores de dados, especialistas em conhecimento sobre biodiversidade, utilizadores de dados e decisores <<box-3,Box 3>>). Os nós dos participantes têm o papel de ligar as necessidades e interesses de cada uma dessas audiências, permitindo que contribuam e beneficiem da participação na rede GBIF."
 
 #. type: Plain text
 #: 100.en.adoc:13
