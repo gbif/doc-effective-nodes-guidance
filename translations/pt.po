@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 18:13\n"
+"PO-Revision-Date: 2021-09-19 18:24\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -176,12 +176,12 @@ msgstr "Uma ampla variedade de *partes interessadas* estão envolvidas em ativid
 #. type: Plain text
 #: 100.en.adoc:13
 msgid "Participant nodes typically have four main functions (see also <<node-services>>):"
-msgstr ""
+msgstr "Geralmente, os nós de Participantes têm quatro funções principais (ver também <<node-services>>):"
 
 #. type: Plain text
 #: 100.en.adoc:15
 msgid "Coordinating a community of initiatives relating to biodiversity, including making connections to the international GBIF network"
-msgstr ""
+msgstr "Coordenar uma comunidade de iniciativas relacionadas com a biodiversidade, incluindo a criação de ligações com a rede internacional GBIF"
 
 #. type: Plain text
 #: 100.en.adoc:16
@@ -191,17 +191,17 @@ msgstr "Promover e apoiar a mobilização de dados de biodiversidade no âmbito 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Encouraging the reuse of the available data to support biodiversity-related science and support decision-making for sustainable development"
-msgstr ""
+msgstr "Incentivando a reutilização dos dados disponíveis para apoiar a ciência relacionada com a biodiversidade e apoiar a tomada de decisões para o desenvolvimento sustentável"
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "Providing expertise on biodiversity data management and improving data quality to support users' needs"
-msgstr ""
+msgstr "Proporcionar experiência na gestão de dados sobre biodiversidade e melhorar a qualidade de dados para atender às necessidades dos utilizadores."
 
 #. type: Plain text
 #: 100.en.adoc:20
 msgid "Participant nodes are thus *knowledge hubs* both for biodiversity data and broader GBIF-related activities. They not only guide stakeholders to relevant sources of biodiversity information but also to such things as:"
-msgstr ""
+msgstr "Os nós dos participantes são, portanto, *centros de conhecimento* tanto para os dados da biodiversidade como para atividades relacionadas com o GBIF. Eles não só orientam as partes interessadas para fontes relevantes de informação sobre biodiversidade, como também para coisas como:"
 
 #. type: Plain text
 #: 100.en.adoc:22
@@ -226,12 +226,12 @@ msgstr "Informação mais vasta sobre o panorama de iniciativas de biodiversidad
 #. type: Plain text
 #: 100.en.adoc:27
 msgid "Most Participant nodes develop a *collaborative framework* of policies, agreements, community norms and standards, which are adopted by their stakeholders to guide the publication, management and use of biodiversity data."
-msgstr ""
+msgstr "A maioria dos nós dos participantes desenvolve um *quadro de cooperação* de políticas, contratos, normas e padrões da comunidade que são adoptadas pelas suas partes interessadas para orientar a publicação, a gestão e a utilização dos dados da biodiversidade."
 
 #. type: Plain text
 #: 100.en.adoc:29
 msgid "The *governance structure* of each Participant node varies but often takes the form of a board or steering committee. This configuration enables data holders, users and other stakeholders to take collective decisions concerning the publishing and reuse of biodiversity data while providing the node with priorities and guidance on the implementation of its work."
-msgstr ""
+msgstr "A *estrutura de governanção* de cada nó participante varia mas geralmente assume a forma de um conselho ou comité directivo. Esta configuração possibilita que os detentores de dados, utilizadores e outras partes interessadas possam tomar decisões colectivas sobre a publicação e reutilização dos dados da biodiversidade, fornecendo ao nó prioridades e orientações sobre a implementação do seu trabalho."
 
 #. type: Plain text
 #: 100.en.adoc:30
