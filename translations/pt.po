@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 19:25\n"
+"PO-Revision-Date: 2021-09-19 19:33\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1347,13 +1347,13 @@ msgstr "Caixa 5: Exemplo de funções dos membros da equipa de um nó de partici
 #. type: delimited block *
 #: 510-box.en.adoc:5
 msgid "This example assumes that the administrative roles are covered by the host institution."
-msgstr ""
+msgstr "Este exemplo parte do princípio de que os papéis administrativos são cobertos pela instituição anfitriã."
 
 #. type: Target for macro image
 #: 510-box.en.adoc:6
 #, no-wrap
 msgid "img/example-of-staff-roles-participant-node.en.svg"
-msgstr ""
+msgstr "img/example-of-staff-roles-participant-node.en.svg"
 
 #.  insert image and make image text available for translation/language versioning //
 #. type: Title ==
@@ -1391,7 +1391,7 @@ msgstr "A data de estabelecimento, website e as informações de contacto do Par
 #. type: Plain text
 #: 600.en.adoc:14
 msgid "An overview of the data published from the country’s institutions, with links to the data publishers and datasets, as well as data published from anywhere in the world about biodiversity located in the country"
-msgstr ""
+msgstr "Uma visão geral dos dados publicados pelas instituições do país, com ligações aos editores de dados e conjuntos de dados, bem como dados publicados por uma instituição a partir de qualquer parte do mundo sobre a biodiversidade localizada no país"
 
 #. type: Plain text
 #: 600.en.adoc:15
@@ -1406,22 +1406,22 @@ msgstr "Uma lista de novos itens ligados ao país Participante e publicados pelo
 #. type: Plain text
 #: 600.en.adoc:17
 msgid "Peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country, as well as articles relating to the country"
-msgstr ""
+msgstr "Artigos de investigação científica analisados por pares citando o GBIF como fonte de dados que envolve autores do país participante, bem como artigos relacionados ao país"
 
 #. type: Plain text
 #: 600.en.adoc:18
 msgid "Where available, validated lists of introduced and invasive species occurring in the country"
-msgstr ""
+msgstr "Quando disponível, listas validadas de espécies introduzidas e invasivas que ocorrem no país"
 
 #. type: Plain text
 #: 600.en.adoc:20
 msgid "https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website."
-msgstr ""
+msgstr "https://www.gbif.org/the-gbif-network/participant-organisations[Informação sobre Organizações Participantes] mostra actualmente informação sobre a adesão destes Participantes, a actividade de publicaçaõ de dados, e ligações para o website do nó."
 
 #. type: Plain text
 #: 600.en.adoc:22
 msgid "Participant nodes are encouraged to share https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding examples] with the community, documenting their success stories that others can learn from in establishing or developing their nodes."
-msgstr ""
+msgstr "Os nós dos participantes são encorajados a partilhar https://www.gbif. RSS/recurso/pesquisa? =%22Nodes%20guidance%22[exemplos de orientação] com a comunidade, documentando as suas histórias de sucesso de que outros podem aprender ao criar ou desenvolver os seus nós."
 
 #. type: Plain text
 #: 600.en.adoc:24
