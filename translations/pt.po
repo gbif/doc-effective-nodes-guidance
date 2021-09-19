@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 19:33\n"
+"PO-Revision-Date: 2021-09-19 19:43\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1238,7 +1238,7 @@ msgstr ""
 #: 505-box.en.adoc:7
 #, no-wrap
 msgid "|*Discussions before joining GBIF*\n"
-msgstr ""
+msgstr "|*Discussões antes da adesão ao GBIF*\n"
 
 #. type: Table
 #: 505-box.en.adoc:9 505-box.en.adoc:16 505-box.en.adoc:26 505-box.en.adoc:34
@@ -1248,7 +1248,7 @@ msgstr "|"
 #. type: Table
 #: 505-box.en.adoc:10
 msgid "Understand Participant’s *motivation* for joining GBIF"
-msgstr ""
+msgstr "Compreender a *motivação* do participante para aderir ao GBIF"
 
 #. type: Table
 #: 505-box.en.adoc:11
@@ -1447,7 +1447,7 @@ msgstr ""
 #. type: Plain text
 #: 600.en.adoc:33
 msgid "The Nodes Committee meets in a *Global Nodes Meeting* every other year. These meetings, often combined with training activities, provide an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize *Regional Nodes Meetings* either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region."
-msgstr ""
+msgstr "O Comité dos Nós reúne numa *Reunião Global de Nós* de dois em dois anos. Essas reuniões, muitas vezes combinadas com actividades de formação, fornecem um excelente fórum para interagir com outros coordenadores de nós e planear actividades de colaboração. Além disso, muitos dos sub-comités regionais organizam *Reuniões Regionais de Nós* anualmente ou em cada dois anos. Essas reuniões promovem o trabalho colaborativo regional entre os coordenadores de nós e fornecem um fórum para discutir prioridades e oportunidades dentro da região."
 
 #. type: Plain text
 #: 600.en.adoc:35
