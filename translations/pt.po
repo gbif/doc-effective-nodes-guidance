@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 19:05\n"
+"PO-Revision-Date: 2021-09-19 19:15\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1253,35 +1253,35 @@ msgstr ""
 #. type: Table
 #: 505-box.en.adoc:11
 msgid "Understand *drivers and priorities* at highest level for establishing a biodiversity information facility"
-msgstr ""
+msgstr "Entender *os impulsos e prioridades* ao mais alto nível para estabelecer uma infraestrutura de informação sobre biodiversidade"
 
 #. type: Table
 #: 505-box.en.adoc:14
 msgid "Assign *formal roles*: Head of Delegation and temporary node manager |*Preparation for participatory processes*"
-msgstr ""
+msgstr "Atribuir *papeis formais*: Chefe de Delegação e coordenador de nó temporário |*Preparação para processos participativos*"
 
 #. type: Table
 #: 505-box.en.adoc:17
 msgid "Agree *roles* in the process: who will lead, who will formulate final recommendations, need for consultants, etc."
-msgstr ""
+msgstr "Concordar com as *funções* no processo: quem irá liderar, quem formulará recomendações finais, necessidade de consultores, etc."
 
 #. type: Table
 #: 505-box.en.adoc:18
 #, no-wrap
 msgid "*Preparatory studies*: capacity self-assessment, data holders, inventory, stakeholder mappings, content needs assessment, etc.\n"
-msgstr ""
+msgstr "*Estudos preparatórios*: auto-avaliação de capacidades, detentores de dados, inventário, mapeamento de partes interessadas, avaliação de necessidades de conteúdos, etc.\n"
 
 #. type: Table
 #: 505-box.en.adoc:19
 #, no-wrap
 msgid "Identify *relevant examples* from the GBIF network\n"
-msgstr ""
+msgstr "Identificar *exemplos relevantes* da rede GBIF\n"
 
 #. type: Table
 #: 505-box.en.adoc:20
 #, no-wrap
 msgid "Identify *key stakeholders* who will be invited to contribute\n"
-msgstr ""
+msgstr "Identificar *as partes interessadas chave* que serão convidadas a contribuir\n"
 
 #. type: Table
 #: 505-box.en.adoc:24
