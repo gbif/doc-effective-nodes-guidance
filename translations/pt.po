@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 19:43\n"
+"PO-Revision-Date: 2021-09-19 20:03\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1452,7 +1452,7 @@ msgstr "O Comité dos Nós reúne numa *Reunião Global de Nós* de dois em dois
 #. type: Plain text
 #: 600.en.adoc:35
 msgid "In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes."
-msgstr ""
+msgstr "Entre reuniões, o comité comunica através de listas de discussão e de teleconferências, fazendo também uso do https://discourse.gbif.org/[fórum da comunidade GBIF] para apoiar o trabalho colaborativo. Os Nós de novos participantes são fortemente encorajados a https://www.gbif.org/contact-us/directory?group=nodesCommittee[contactar com os membros do Comité de Nós] para envolver-se nas suas actividades, aceder ao conhecimento da rede e planear projetos colaborativos para apoiar a criação de nós de Participantes."
 
 #. type: Title ===
 #: 600.en.adoc:37
@@ -1463,17 +1463,17 @@ msgstr "Como é que o GBIF apoia o aumento da capacidade nos nós de Participant
 #. type: Plain text
 #: 600.en.adoc:40
 msgid "Capacity enhancement provides an essential foundation for the sustainable functioning and performance of the GBIF Participant network and all its members, regardless of their level of development."
-msgstr ""
+msgstr "O reforço de capacidade dá uma base essencial para o funcionamento sustentável e o desempenho da rede de participantes do GBIF e todos os seus membros, independentemente do seu nível de desenvolvimento."
 
 #. type: Plain text
 #: 600.en.adoc:42
 msgid "The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way. Capacity enhancement includes improving the way Participants can contribute to and benefit from GBIF, how they organize their work and how they relate to other Participants at regional and global scales. GBIF supports capacity enhancement in the network through five complementary approaches shown in <<box-6,Box 6>>."
-msgstr ""
+msgstr "Os participantes no GBIF e o Secretariado desenvolveram uma série de actividades e programas de reforço de capacidade para capacitar todos os membros da comunidade GBIF a realizarem o seu trabalho da forma mais eficaz, auto-sustentável e estável possível. O aumento da capacidade inclui melhorar a forma como os participantes podem contribuir e beneficiar do GBIF, como organizam o seu trabalho e como se relacionam com outros participantes à escala regional e global. O GBIF suporta o aumento de capacidade na rede através de cinco abordagens complementares mostradas na <<box-6,Box 6>>."
 
 #. type: Plain text
 #: 600.en.adoc:44
 msgid "GBIF maintains https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment guidelines for national biodiversity information facilities] and for https://www.gbif.org/document/82785/[data holding institutions] as tools to support planning and the tracking of progress, for example through projects."
-msgstr ""
+msgstr "O GBIF mantém https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[guia de auto-avaliação de capacidade para infraestruturas nacionais de informação de biodiversidade] e para https://www.gbif.org/document/82785/[instituições detentoras de dados] como ferramentas para apoiar o planeamento e o acompanhamento do progresso, por exemplo, através de projectos."
 
 #. type: Plain text
 #: 600.en.adoc:46
@@ -1483,7 +1483,7 @@ msgstr "Um https://www.gbif.org/pt/programme/82219[*programa de apoio de aumento
 #. type: Plain text
 #: 600.en.adoc:48
 msgid "GBIF also seeks *supplementary funding* to support capacity enhancement, as through the https://www.gbif.org/programme/82629/[Biodiversity Fund for Asia] (BIFA) and the https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID) programme. These programmes have support projects to mobilize biodiversity data and promote the use of accessible biodiversity data in support of research and decision-making, and provide training to project teams."
-msgstr ""
+msgstr "O GBIF procura também *financiamento complementar* para apoiar o aumento de capacidade, por meio do programa https://www.gbif.org/programme/82629/[Biodiversity Fund for Asia] (BIFA) e do programa https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID). Estes programas apoiam projectos que visam mobilizar dados sobre a biodiversidade e promover a utilização de dados sobre biodiversidade acessível no apoio à investigação e tomada de decisões, e fornecer formação para equipas de projetos."
 
 #. type: Plain text
 #: 600.en.adoc:50
