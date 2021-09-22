@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-22 21:45\n"
+"PO-Revision-Date: 2021-09-22 21:54\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -698,7 +698,7 @@ msgstr "Aumentar a qualidade dos dados sobre biodiversidade disponível para reu
 #. type: Plain text
 #: 300.en.adoc:52
 msgid "Assisting data holders with data management, using appropriate tools and practices, such as the https://www.gbif.org/tools/data-validator[GBIF data validator], and through capacity development programmes focused on biodiversity informatics"
-msgstr ""
+msgstr "Assistindo os detentores de dados na gestão de dados, usando ferramentas e práticas apropriadas, como https://www.gbif.org/tools/validata-data-validator[validador de dados GBIF], e através de programas de desenvolvimento de capacidades focados em informáticos sobre a biodiversidade."
 
 #. type: Plain text
 #: 300.en.adoc:53
@@ -708,12 +708,12 @@ msgstr "Atuar como um repositório permanente de dados de biodiversidade na áre
 #. type: Plain text
 #: 300.en.adoc:54
 msgid "Providing https://www.gbif.org/endorsement-guidelines[endorsement of biodiversity data publishers] to be added to the GBIF network"
-msgstr ""
+msgstr "Fornecendo https://www.gbif.org/endorsement-guidelines[o aval aos publicadores de dados de biodiversidade] para serem adicionados à rede GBIF"
 
 #. type: Plain text
 #: 300.en.adoc:54
 msgid "Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types"
-msgstr ""
+msgstr "Coordenando com outras iniciativas relacionadas com a biodiversidade para garantir a máxima interoperabilidade entre os tipos de dados da biodiversidade"
 
 #. type: Title ==
 #: 400.en.adoc:2
@@ -730,7 +730,7 @@ msgstr "Requisitos básicos"
 #. type: Plain text
 #: 400.en.adoc:8
 msgid "The capacities required by Participant nodes can be broadly divided into two categories (see the https://www.gbif.org/document/80954/[GBIF capacity enhancement framework]):"
-msgstr ""
+msgstr "As capacidades exigidas pelos nós dos Participantes podem ser genericamente divididas em duas categorias (veja https://www.gbif.org/document/80954/[Quadro de aumento da capacidade do GBIF]):"
 
 #. type: Plain text
 #: 400.en.adoc:10
