@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-22 21:24\n"
+"PO-Revision-Date: 2021-09-22 21:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -495,7 +495,7 @@ msgstr "Este grupo inclui os zoólogos, botânicos, micólogos e outro tipo de e
 #. type: delimited block *
 #: 205-box.en.adoc:26
 msgid "The key focus of engaging with biodiversity knowledge holders is to *support biodiversity data management and curation*: continuously improving the quality and fitness-for-use of the data mobilized by the GBIF network, and demonstrating that the work of these groups benefits from strong biodiversity information facilities, at national and global levels."
-msgstr ""
+msgstr "O principal foco do envolvimento com os detentores de conhecimentos sobre biodiversidade é *apoiar a gestão e curadoria de dados da biodiversidade*: melhorar continuamente a qualidade e a capacidade de utilização dos dados mobilizados pela rede GBIF. e demonstrando que o trabalho destes grupos beneficia com robustas infraestruturas de informação sobre biodiversidade, ao nível nacional e global."
 
 #. type: Title =====
 #: 205-box.en.adoc:28
@@ -511,7 +511,7 @@ msgstr "Este grupo inclui os ecólogos, onde se integram os macroecólogos e os 
 #. type: delimited block *
 #: 205-box.en.adoc:33
 msgid "The key focus of engaging with species occurrence data users is to *support biodiversity data use*: reusing the data accessible through GBIF to support biodiversity-related sciences and environmental research, ultimately to support evidence-based decision making."
-msgstr ""
+msgstr "O principal foco de envolvimento com os utilizadores de dados de ocorrência de espécies é *apoiar o uso de dados da biodiversidade*: reutilizar os dados acessíveis através do GBIF para apoiar as ciências relacionadas com a biodiversidade e investigação ambiental, com a finalidade de apoiar a tomada de decisão baseada em evidências."
 
 #. type: Title =====
 #: 205-box.en.adoc:35
@@ -527,7 +527,7 @@ msgstr "Este grupo inclui o ministério do governo central e os funcionários de
 #. type: delimited block *
 #: 205-box.en.adoc:40
 msgid "The key focus of engaging with funders and executive decision makers is to *build support for all GBIF-related activities*."
-msgstr ""
+msgstr "O principal foco de envolvimento com financiadores e decisores executivos é *aumentar o suporte para todas as actividades relacionadas com o GBIF*."
 
 #. type: Title =====
 #: 205-box.en.adoc:42
@@ -570,7 +570,7 @@ msgstr "Os exemplos de serviços incluem:"
 #. type: Plain text
 #: 300.en.adoc:12
 msgid "Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], https://www.ipbes.net[IPBES], https://iucn.org[IUCN], https://obis.org[OBIS] and others, including close liaison or joint working with relevant nodes or focal points for these initiatives"
-msgstr ""
+msgstr "Promover sinergias com atividades nacionais e regionais que envolvem outras iniciativas em matéria de biodiversidade global, como o http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], https://www.ipbes.net[IPBES], https://iucn.org[IUCN], https://obis.org[OBIS] e outros, incluindo a ligação estreita ou trabalho conjunto com nós relevantes ou pontos focais para essas iniciativas"
 
 #. type: Plain text
 #: 300.en.adoc:13
@@ -611,7 +611,7 @@ msgstr "Promover e coordenar o investimento nacional na digitalização e mobili
 #. type: Plain text
 #: 300.en.adoc:25
 msgid "Providing a technical infrastructure and support to enable biodiversity data to be published on the Internet and through the GBIF network (including https://www.gbif.org/dataset-classes[sampling-event metadata, occurrence data, checklist data and collections metadata])"
-msgstr ""
+msgstr "Fornecer uma infraestrutura e suporte técnicos para permitir que os dados da biodiversidade sejam publicados na Internet e através da rede GBIF (incluindo https://www. bif.org/dataset-classes[metadados de evento de amostragem, dados de ocorrência, dados de checklists e metadados de coleções])"
 
 #. type: Plain text
 #: 300.en.adoc:26
@@ -631,12 +631,12 @@ msgstr "Manter uma estrutura colaborativa entre os detentores de dados e os resp
 #. type: Plain text
 #: 300.en.adoc:29
 msgid "Promoting public engagement in biodiversity issues, for example, by supporting citizen science initiatives that mobilize observational data"
-msgstr ""
+msgstr "Promover o envolvimento público em questões de biodiversidade, por exemplo, apoiando iniciativas de ciência cidadã que mobilizam dados de observação"
 
 #. type: Plain text
 #: 300.en.adoc:30
 msgid "Developing strategies, materials and activities to engage private companies to publish and reuse biodiversity data"
-msgstr ""
+msgstr "Desenvolver estratégias, materiais e atividades para envolver empresas privadas na publicação e reutilização os dados da biodiversidade"
 
 #. type: Title ===
 #: 300.en.adoc:32
@@ -652,7 +652,7 @@ msgstr "Fomentar o acesso a dados de biodiversidade, promovendo a utilização d
 #. type: Plain text
 #: 300.en.adoc:38
 msgid "Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices] for data accessed through the GBIF network"
-msgstr ""
+msgstr "Promover o uso correto de https://www.gbif.org/citation-guidelines[práticas de citação] para dados acedidos através da rede GBIF"
 
 #. type: Plain text
 #: 300.en.adoc:39
@@ -662,7 +662,7 @@ msgstr "Atuar como uma instituição de referência para informação sobre biod
 #. type: Plain text
 #: 300.en.adoc:40
 msgid "Providing support for biodiversity research, through evaluation of data needs and data gaps"
-msgstr ""
+msgstr "Fornecer apoio à pesquisa sobre biodiversidade, através da avaliação das necessidades de dados e das lacunas de dados"
 
 #. type: Plain text
 #: 300.en.adoc:41
