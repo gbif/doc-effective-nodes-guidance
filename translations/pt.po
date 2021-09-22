@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-19 20:19\n"
+"PO-Revision-Date: 2021-09-22 21:24\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -431,18 +431,18 @@ msgstr "Os nós desempenham um papel na coordenação da vasto panorama das inic
 #. type: Plain text
 #: 200.en.adoc:13
 msgid "Nodes can also *increase the efficiency* of implementing a biodiversity information facility by making use of the common tools, practices, information resources and opportunities for collaborative capacity enhancement available through the GBIF network. By making the connection to GBIF, nodes enable the *integration of data* mobilized at the Participant level with relevant data published by other countries and organizations. Data mobilized through a Participant biodiversity information facility to serve national needs also become available for reuse by the broader international audience, *raising the visibility* of the Participant’s data publishing institutions and mobilization efforts."
-msgstr ""
+msgstr "Os nós também podem *aumentar a eficiência* de implementação uma infraestrutura de informação sobre biodiversidade fazendo uso das ferramentas comuns, práticas, recursos de informação e oportunidades de melhoria de capacidade colaborativa disponíveis através da rede GBIF. Ao fazer uma ligação com o GBIF, os nós permitem a *integração de dados* mobilizados ao nível do Participante, com dados relevantes publicados por outros países e organizações. Os dados mobilizados através de uma infraestrutura de informação sobre biodiversidade dos participantes para servir às necessidades nacionais também se tornam disponíveis para reutilização pelo público internacional mais amplo, *aumentando a visibilidade* das instituições de publicação de dados e dos esforços de mobilização do participante."
 
 #. type: Plain text
 #: 200.en.adoc:14
 msgid "Finally, Participant nodes help develop capacity in the *use of collective biodiversity data resources*. Their efforts support both basic and applied research relevant to policy decisions across a range of issues of primary economic and social importance, including food security, agricultural livelihoods, disease risk and the impacts of climate change.  This also supports information requirements for meeting *national and global commitments* including biodiversity-related conventions and sustainable development goals. Thus, fully functional Participant nodes and biodiversity information facilities are instrumental in helping Participants achieve their own biodiversity data-related goals and targets."
-msgstr ""
+msgstr "Finalmente, os nós dos participantes ajudam a desenvolver a capacidade no *uso de recursos de dados de biodiversidade colectivos*. Os seus esforços apoiam tanto a investigação fundamental como a investigação aplicada relevante para decisões políticas numa série de questões de importância económica e social primárias, incluindo a segurança alimentar, a subsistência agrícola, o risco de doença e os impactos das alterações climáticas. Isto também apoia os requisitos de informação para o cumprimento dos *compromissos nacionais e globais*, incluindo as convenções relacionadas com a biodiversidade e os objectivos de desenvolvimento sustentável. Assim, nós dos Participantes totalmente funcionais e as infraestruturas de informação sobre biodiversidade são fundamentais para ajudar os participantes a alcançarem os seus próprios objectivos e metas relacionados com os dados da biodiversidade."
 
 #. type: Title ===
 #: 205-box.en.adoc:2
 #, no-wrap
 msgid "Box 3. Stakeholders involved in GBIF activities at the Participant level"
-msgstr ""
+msgstr "Caixa 3. Partes interessadas envolvidas nas atividades do GBIF ao nível do participante"
 
 #. type: delimited block *
 #: 205-box.en.adoc:5
@@ -463,7 +463,7 @@ msgstr "Este grupo inclui os coordenadores dos nós, a equipa e os membros de go
 #. type: delimited block *
 #: 205-box.en.adoc:12
 msgid "The key focus of this group is to *support participation in the GBIF network* through engagement with the other audiences, to support biodiversity data mobilization, management, curation, and use."
-msgstr ""
+msgstr "O foco principal deste grupo é a *participação de suporte na rede GBIF* através de envolvimento com os outros públicos, para apoiar a mobilização de dados da biodiversidade, gestão, curadoria e utilização."
 
 #. type: Title =====
 #: 205-box.en.adoc:14
@@ -479,7 +479,7 @@ msgstr "Este grupo inclui, entre outros, os publicadores de dados atuais do GBIF
 #. type: delimited block *
 #: 205-box.en.adoc:19
 msgid "The key focus of engaging with data holders is to *encourage and support biodiversity data mobilization*: data digitization, data collection and ultimately publication of their data through the GBIF network."
-msgstr ""
+msgstr "O principal foco de envolvimento com os detentores dos dados é *incentivar e apoiar a mobilização de dados da biodiversidade*: digitalização de dados, recolha de dados e publicação final dos seus dados através da rede GBIF."
 
 #. type: Title =====
 #: 205-box.en.adoc:21
