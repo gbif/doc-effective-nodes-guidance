@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-22 21:34\n"
+"PO-Revision-Date: 2021-09-22 21:45\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -667,7 +667,7 @@ msgstr "Fornecer apoio à pesquisa sobre biodiversidade, através da avaliação
 #. type: Plain text
 #: 300.en.adoc:41
 msgid "Encouraging interdisciplinary cooperation between scientists, by sharing https://www.gbif.org/resource/search?contentType=dataUse[relevant examples of data use] and through capacity development activities"
-msgstr ""
+msgstr "Incentivando a cooperação interdisciplinar entre cientistas, partilhando https://www.gbif.org/resource/search?contentType=dataUse[exemplos relevantes de uso de dados] e por meio de atividades de desenvolvimento de capacidade"
 
 #. type: Plain text
 #: 300.en.adoc:42
@@ -677,7 +677,7 @@ msgstr "Dar apoio à compilação, manutenção e publicação de inventários e
 #. type: Plain text
 #: 300.en.adoc:43
 msgid "Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, spatial planning, biosecurity, conservation and protected area management"
-msgstr ""
+msgstr "Prestar apoio à política oferecendo, por exemplo, conselhos sobre a designação das prioridades de investigação em matéria de biodiversidade. e ajudando a integrar a utilização dos dados e da informação sobre biodiversidade na tomada de decisões, no ordenamento do território, na biossegurança, na conservação e na gestão de áreas protegidas."
 
 #. type: Plain text
 #: 300.en.adoc:44
@@ -693,7 +693,7 @@ msgstr "Apoiar a gestão e curadoria de dados de biodiversidade"
 #. type: Plain text
 #: 300.en.adoc:51
 msgid "Increasing the quality of available biodiversity data to meet https://www.gbif.org/data-quality-requirements[GBIF data quality requirements], for example, through the standardization and documentation of existing data sources with metadata"
-msgstr ""
+msgstr "Aumentar a qualidade dos dados sobre biodiversidade disponível para reunir os https://www.gbif. rg/data-quality-requirements[requisitos de qualidade de dados GBIF], por exemplo, através da padronização e documentação de fontes de dados existentes com metadados"
 
 #. type: Plain text
 #: 300.en.adoc:52
