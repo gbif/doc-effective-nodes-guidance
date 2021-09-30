@@ -201,7 +201,7 @@ msgstr "Proporcionar experiencia en gestión de datos de biodiversidad y mejorar
 #. type: Plain text
 #: 100.en.adoc:20
 msgid "Participant nodes are thus *knowledge hubs* both for biodiversity data and broader GBIF-related activities. They not only guide stakeholders to relevant sources of biodiversity information but also to such things as:"
-msgstr "Los nodos participantes son, por lo tanto, *centros de conocimiento*,  tanto para los datos de biodiversidad, como para las actividades más amplias relacionadas con GBIF. No sólo orientan a las partes interesadas hacia fuentes relevantes de información sobre biodiversidad, sino también a cosas como:"
+msgstr "Los nodos participantes son, por lo tanto, *centros de conocimiento*,  tanto para los datos de biodiversidad, como para las actividades más amplias relacionadas con GBIF. No solo orientan a las partes interesadas hacia fuentes relevantes de información sobre biodiversidad, sino también a cosas como:"
 
 #. type: Plain text
 #: 100.en.adoc:22
@@ -231,12 +231,12 @@ msgstr "La mayoría de los nodos participantes desarrollan un *marco colaborativ
 #. type: Plain text
 #: 100.en.adoc:29
 msgid "The *governance structure* of each Participant node varies but often takes the form of a board or steering committee. This configuration enables data holders, users and other stakeholders to take collective decisions concerning the publishing and reuse of biodiversity data while providing the node with priorities and guidance on the implementation of its work."
-msgstr "La *estructura de gobernanza* de cada nodo Participante varía, pero a menudo toma la forma de una junta directiva o un comité directivo. Esta configuración habilita a los provedores de datos, usuarios y otras partes interesadas, a tomar decisiones colectivas relativas a la publicación y reutilización de los datos de la biodiversidad, al tiempo que proporcionan al nodo prioridades y orientación sobre la implementación de su trabajo."
+msgstr "La *estructura de gobernanza* de cada nodo Participante varía, pero a menudo toma la forma de una junta directiva o un comité directivo. Esta configuración habilita a los proveedores de datos, usuarios y otras partes interesadas, a tomar decisiones colectivas relativas a la publicación y reutilización de los datos de la biodiversidad, al tiempo que proporcionan al nodo prioridades y orientación sobre la implementación de su trabajo."
 
 #. type: Plain text
 #: 100.en.adoc:30
 msgid "Participant nodes provide the technical expertise to *support the publication of biodiversity data of the highest possible quality by data holders*. This involves using informatics infrastructure, and many implementation models are available, from using hosted data publication services to maintaining a distributed network of data publishers and a centralized index of the data. The node may also support a range of other *information products and services*, for example, by maintaining a biodiversity data portal and online tools for data analysis."
-msgstr "Los nodos Participantes proporcionan la experiencia técnica necesaria para *apoyar la publicación de datos sobre biodiversidad de la más alta calidad posible por parte de los provedores de datos*. Esto implica el uso de infraestructura informática,  muchos modelos de implementación están disponibles, desde el uso de servicios de publicación de datos alojados hasta el mantenimiento de una red distribuida de editores de datos y un índice centralizado de los datos. El nodo también puede soportar otros *productos y servicios de información*, por ejemplo, mediante el mantenimiento de un portal de datos sobre biodiversidad y herramientas en línea para el análisis de datos."
+msgstr "Los nodos Participantes proporcionan la experiencia técnica necesaria para *apoyar la publicación de datos sobre biodiversidad de la más alta calidad posible por parte de los proveedores de datos*. Esto implica el uso de infraestructura informática,  muchos modelos de implementación están disponibles, desde el uso de servicios de publicación de datos alojados hasta el mantenimiento de una red distribuida de editores de datos y un índice centralizado de los datos. El nodo también puede soportar otros *productos y servicios de información*, por ejemplo, mediante el mantenimiento de un portal de datos sobre biodiversidad y herramientas en línea para el análisis de datos."
 
 #. type: Title ===
 #: 105-box.en.adoc:2
@@ -375,17 +375,17 @@ msgstr "Responsable del Nodo"
 #. type: delimited block *
 #: 110-box.en.adoc:26
 msgid "After joining GBIF, Participants are also encouraged as soon as possible to appoint a Node Manager, to lead the operational activities of the country or organization in coordinating the mobilization and use of open-access biodiversity data. Detailed guidance is available in this document, but in summary the responsibilities of the Node Manager include:"
-msgstr "Tras unirse a GBIF, se fomenta que los Participantes designen un Administrador del Nodo, tan pronto como sea posible, para liderar las actividades operacionales del país u organización en coordinación con la movilización y utilización de datos abiertos de biodiversidad. En este documento se incluye una guía detallada pero, en resumen, las responsabilidades del Administrador del Nodo incluyen: "
+msgstr "Tras unirse a GBIF, se fomenta que los Participantes designen un Administrador del Nodo, tan pronto como sea posible, para liderar las actividades operacionales del país u organización en coordinación con la movilización y utilización de datos abiertos de biodiversidad. En este documento se incluye una guía detallada, pero en resumen, las responsabilidades del Administrador del Nodo incluyen: "
 
 #. type: delimited block *
 #: 110-box.en.adoc:28
 msgid "Managing the node team that will coordinate biodiversity data mobilization, access and use among relevant stakeholders in the country or organization."
-msgstr "Gestionar el equipo del nodo que coordinará la movilización, acceso y uso de de datos de biodiversidad entre los grupos de interés relevantes en el país u organización."
+msgstr "Gestionar el equipo del nodo que coordinará la movilización, acceso y uso de datos de biodiversidad entre los grupos de interés relevantes en el país u organización."
 
 #. type: delimited block *
 #: 110-box.en.adoc:29
 msgid "Collaborating with other node managers and the Secretariat to ensure that the country or organization benefits fully from GBIF participation, including through mentoring arrangements and guidance to share skills and best practices in biodiversity informatics."
-msgstr "Colaborar con otros administradores de nodos y con el Secretariado para asegurar que el país u organización de beneficia completamente de su participación en GBIF, incluyendo actividades de tutoría y guía que permitan compartir habilidades y buenas prácticas en el ámbito de la informática de la biodiversidad."
+msgstr "Colaborar con otros administradores de nodos y con el Secretariado para asegurar que el país u organización se beneficia completamente de su participación en GBIF, incluyendo actividades de tutoría y guía que permitan compartir habilidades y buenas prácticas en el ámbito de la informática de la biodiversidad."
 
 #. type: delimited block *
 #: 110-box.en.adoc:30
@@ -747,7 +747,7 @@ msgstr "*Capacidades técnicas*: se refieren a las habilidades, el conocimiento 
 #. type: Plain text
 #: 400.en.adoc:13
 msgid "The following **basic requirements** need to be considered when establishing a Participant node. The lack of any of these will reduce the overall effectiveness of the node."
-msgstr "Los siguientes **requerimientos básicos** deben ser considerados cuando de establezca un nodo Participante. La falta de alguno de ellos reducirá la efectividad general del nodo."
+msgstr "Los siguientes **requerimientos básicos** deben ser considerados cuando se establezca un nodo Participante. La falta de alguno de ellos reducirá la efectividad general del nodo."
 
 #. type: Title ====
 #: 400.en.adoc:15
@@ -779,7 +779,7 @@ msgstr "Una *estructura de gobierno* que represente a la mayor número posible d
 #. type: Plain text
 #: 400.en.adoc:25
 msgid "A clearly stated *long-term purpose* with plans for the medium and short term. The node needs a readily understood vision and mission that motivate the node’s team, governance and broader stakeholders. The node needs to be able to formulate a general strategy and regular *work plans* in line with priorities at the Participant level. These plans should define expectations about what the node will deliver in a given time frame and will help evaluate the node’s performance."
-msgstr "Una *propuesta a largo plazo* claramente establecida con planes a corto y medio plazo. El nodo necesita una visión y misión fácilmente comprensibles que motiven al equipo del nodo, al gobierno y a las partes interesadas más amplias. El nodo necesita ser capaz de formular una estrategia general y regular *planes de trabajo* en línea con las prioridades al nivel del Participante. Estos planes deberían definir las expectativas sobre lo que el nodo entregará en una plazo de tiempo determinado y ayudarán a evaluar el rendimiento del nodo."
+msgstr "Una *propuesta a largo plazo* claramente establecida con planes a corto y medio plazo. El nodo necesita una visión y misión fácilmente comprensibles que motiven al equipo del nodo, al gobierno y a las partes interesadas más amplias. El nodo necesita ser capaz de formular una estrategia general y regular *planes de trabajo* en línea con las prioridades al nivel del Participante. Estos planes deberían definir las expectativas sobre lo que el nodo entregará en un plazo de tiempo determinado y ayudarán a evaluar el rendimiento del nodo."
 
 #. type: Title =====
 #: 400.en.adoc:27
@@ -796,7 +796,7 @@ msgstr "La capacidad de iniciar y mantener asociaciones y redes."
 #: 400.en.adoc:33
 #, no-wrap
 msgid "*A collaborative framework* to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see <<node-location-selection>>). It should include community norms and relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them.  \n"
-msgstr "Un *marco de trabajo colaborativo* para formar una infraestructura de información en biodiversidad, definido y acordado por los grupos de interés y los socios relevantes en el dominio del Participante. Este marco de trabajo debería asegurar que el nodo tiene un rol bien definido en el espectro de las instituciones relacionadas con las biodiversidad, basado en fuertes asociaciones y servicios complementarios (ver <<node-location-selection>>). Debería incluir normas para la comunidad y acuerdos formales relevantes en torno a la publicación y acceso a datos. También debería asegurar que el nodo reconoce y valora a las organizaciones e individuos que los constituyen, que contribuyen y utilizan sus servicios, con el fin de crear buenas relaciones con ellos.  \n"
+msgstr "Un *marco de trabajo colaborativo* para formar una infraestructura de información en biodiversidad, definido y acordado por los grupos de interés y los socios relevantes en el dominio del Participante. Este marco de trabajo debería asegurar que el nodo tiene un rol bien definido en el espectro de las instituciones relacionadas con la biodiversidad, basado en fuertes asociaciones y servicios complementarios (ver <<node-location-selection>>). Debería incluir normas para la comunidad y acuerdos formales relevantes en torno a la publicación y acceso a datos. También debería asegurar que el nodo reconoce y valora a las organizaciones e individuos que los constituyen, que contribuyen y utilizan sus servicios, con el fin de crear buenas relaciones con ellos.  \n"
 
 #. type: Plain text
 #: 400.en.adoc:34
@@ -936,7 +936,7 @@ msgstr "*Liderazgo e iniciativa*. Los nodos deben poder ser capaces de despertar
 #: 400.en.adoc:88
 #, no-wrap
 msgid "*A focus on service*. Nodes are established to assist a community of people and institutions, and should therefore seek to serve rather than dictate. As a support facility for the Participant’s network, the service-oriented approach should permeate all the activities carried out by the node.\n"
-msgstr "*Un enfoque para el servicio*. Los nodos se establecen para asistir a una comunidad de personas e instituciones y, por ello, deberían perseguir el servir en vez de el dictar. Como infraestructura de apoyo para la red del Participante, el enfoque orientado al servicio debería impregnar todas las actividades llevadas a cabo por el nodo.\n"
+msgstr "*Un enfoque para el servicio*. Los nodos se establecen para asistir a una comunidad de personas e instituciones y, por ello, deberían perseguir el servir en vez del dictar. Como infraestructura de apoyo para la red del Participante, el enfoque orientado al servicio debería impregnar todas las actividades llevadas a cabo por el nodo.\n"
 
 #. type: Plain text
 #: 400.en.adoc:88
@@ -1060,7 +1060,7 @@ msgstr "¿Cómo debería seleccionar un participante de GBIF la ubicación insti
 #. type: Plain text
 #: 500.en.adoc:40
 msgid "As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. <<examples-of-node-hosts>> summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to all countries or host institutions."
-msgstr "Como ya se ha mencionado, la ubicación institucional para el nodo es una decisión crítica que probablemente tenga impactos a largo plazo en su efectividad a la hora de coordinar la información en biodiversidad para el país. <<examples-of-node-hosts>> resumen los tipos de instituciones anteriormente designadas como hospedadoras de nodos Participantes de GBIF, así como algunas de las potenciales ventajas y desventajas asociadas con cada tipo de hospedador. Centrada más en países que en organizaciones, la tabla no proporciona una única recomendación sobre dónde ubicar un nodo pero puede ser de utilidad como referencia cuando se están considerando las opciones. Estos ejemplos son generales y variarán enormemente dependiendo de la situación específica de cada Participante. Las desventajas potenciales en la columna de la derecha pueden nos ser de aplicación a todos los países o instituciones hospedadoras."
+msgstr "Como ya se ha mencionado, la ubicación institucional para el nodo es una decisión crítica que probablemente tenga impactos a largo plazo en su efectividad a la hora de coordinar la información en biodiversidad para el país. <<examples-of-node-hosts>> resumen los tipos de instituciones anteriormente designadas como hospedadoras de nodos Participantes de GBIF, así como algunas de las potenciales ventajas y desventajas asociadas con cada tipo de hospedador. Centrada más en países que en organizaciones, la tabla no proporciona una única recomendación sobre dónde ubicar un nodo, pero puede ser de utilidad como referencia cuando se están considerando las opciones. Estos ejemplos son generales y variarán enormemente dependiendo de la situación específica de cada Participante. Las desventajas potenciales en la columna de la derecha pueden no ser de aplicación a todos los países o instituciones hospedadoras."
 
 #. type: Plain text
 #: 500.en.adoc:42
@@ -1145,22 +1145,22 @@ msgstr "\n"
 "El nodo puede encontrar dificultades para cubrir las necesidades de algunos grupos de interés (ej.: tomadores de decisiones)\n\n"
 "2+^s|Ministerios de ciencia, medio ambiente, u otros.\n\n"
 "|Mandato muy sólido y capacidad para influir y apoyar la elaboración de políticas y la toma de decisiones\n\n"
-"Facilmente alineado con políticas, estrategias y programas nacionales de biodiversidad\n\n"
+"Fácilmente alineado con políticas, estrategias y programas nacionales de biodiversidad\n\n"
 "|Operar a nivel técnico y proporcionar apoyo técnico (ej.: a la comunidad científica) puede resultar un reto\n\n"
-"Facilmente afectado por cambios políticos\n\n"
-"Puede encontrar dificultades para abordar las necesidades de otros miniterios (ej.: desde el de ciencias o medio ambiente)\n\n"
+"Fácilmente afectado por cambios políticos\n\n"
+"Puede encontrar dificultades para abordar las necesidades de otros ministerios (ej.: desde el de ciencias o medio ambiente)\n\n"
 "2+^s|Institutos de investigación biológica o en biodiversidad\n\n"
 "|Alto potencial para el desarrollo sencillo y rápido de capacidades en informática de la biodiversidad\n\n"
 "Conocimiento completo del ámbito de investigación en biodiversidad\n\n"
 "Puede poseer un mandato institucional fuerte y claro\n\n"
 "|Puede no ser percibido como neutral por algunos grupos de interés, dependiendo de cómo encaja el instituto en el espectro general institucional del Participante (por ejemplo, si hay solapamiento o competencia por los recursos)\n\n"
 "2+^s|Agencias de investigación o comisiones de ciencia y tecnología\n\n"
-"|Excelente posición para usar el nodo Participante para coordinar, fomentar y facilitar la moviliación de datos de biodiversidad del ámbito de la investigación\n\n"
-"Facilmente alineado con políticas, estrategias y programas nacionales de biodiversidad\n\n"
+"|Excelente posición para usar el nodo Participante para coordinar, fomentar y facilitar la movilización de datos de biodiversidad del ámbito de la investigación\n\n"
+"Fácilmente alineado con políticas, estrategias y programas nacionales de biodiversidad\n\n"
 "|Puede no ser percibido como neutral por algunos grupos de interés, dependiendo de cómo encaja el instituto en el espectro general institucional del Participante (por ejemplo, si hay solapamiento o competencia por los recursos)\n\n"
 "2+^s|Organizaciones no gubernamentales\n\n"
 "|Flexibilidad y autonomía\n\n"
-"|Falta potencial de mandato, dificultar para implicar formalmente a instituciones gubernamentales\n\n"
+"|Falta potencial de mandato, dificultad para implicar formalmente a instituciones gubernamentales\n\n"
 "Pueden ser dependientes de proyectos o financiación basada en proyectos\n\n"
 "2+^s|Departamentos de universidades o facultades\n\n"
 "|Alto potencial para el desarrollo sencillo y rápido de capacidades en informática de la biodiversidad\n\n"
@@ -1350,7 +1350,7 @@ msgstr "Artículos científicos que citan GBIF como una fuente de datos y que in
 #. type: Plain text
 #: 600.en.adoc:18
 msgid "Where available, validated lists of introduced and invasive species occurring in the country"
-msgstr "Donde se posible, listas validadas de especies introducidas e invasoras presentes en el país"
+msgstr "Donde es posible, listas validadas de especies introducidas e invasoras presentes en el país"
 
 #. type: Plain text
 #: 600.en.adoc:20
@@ -1360,7 +1360,7 @@ msgstr "https://www.gbif.org/es/the-gbif-network/participant-organisations[La in
 #. type: Plain text
 #: 600.en.adoc:22
 msgid "Participant nodes are encouraged to share https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding examples] with the community, documenting their success stories that others can learn from in establishing or developing their nodes."
-msgstr "Los nodos Participantes son alentados a compartir https://www.gbif.org/es/resource/search?q=%22Nodes%20guidance%22[ejemplo guiados] con la comunidad, documentando sus historias de éxitos alcanzados que pueden resultar útiles para otros a la hora de establecer o desarrollar sus nodos."
+msgstr "Los nodos Participantes son alentados a compartir https://www.gbif.org/es/resource/search?q=%22Nodes%20guidance%22[ejemplos guiados] con la comunidad, documentando sus historias de éxitos alcanzados que pueden resultar útiles para otros a la hora de establecer o desarrollar sus nodos."
 
 #. type: Plain text
 #: 600.en.adoc:24
@@ -1376,12 +1376,12 @@ msgstr "¿Cómo puede el Comité de Administradores de Nodos Participantes de GB
 #. type: Plain text
 #: 600.en.adoc:29
 msgid "The https://www.gbif.org/contact-us/directory?group=nodesCommittee[Participant Node Managers Committee] is a forum for sharing information and best practices between Participant nodes. It also https://www.gbif.org/document/80571[acts as an advisory committee] making recommendations to the other GBIF governing bodies. The committee comprises all Participant node managers, so as soon as a GBIF Participant has appointed a node manager, he or she is invited to take part in the committee’s activities."
-msgstr "El https://www.gbif.org/es/contact-us/directory?group=nodesCommittee[Comité de Administradores de Nodos Participantes] es un foro para compartir información y buenas prácticas entre los nodos participantes. Asimismo, actúa como un comité asesor que ofrece recomendaciones al resto de los órganos de gobierno de GBIF. El comité está conformado por todos los administradores de los nodos participantes, por lo tanto, cuando un participante de GBIF elije a su administrador de nodo, este recibe la invitación a formar parte de las actividades del comité."
+msgstr "El https://www.gbif.org/es/contact-us/directory?group=nodesCommittee[Comité de Administradores de Nodos Participantes] es un foro para compartir información y buenas prácticas entre los nodos participantes. Asimismo, actúa como un comité asesor que ofrece recomendaciones al resto de los órganos de gobierno de GBIF. El comité está conformado por todos los administradores de los nodos participantes, por lo tanto, cuando un participante de GBIF elige a su administrador de nodo, este recibe la invitación a formar parte de las actividades del comité."
 
 #. type: Plain text
 #: 600.en.adoc:31
 msgid "The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes."
-msgstr "El https://www.gbif.org/es/contact-us/directory?group=nsg[Grupo de Directivo de Nodos] (NSG, por sus siglas en inglés) fue establecido en el comité de 2011, y lo compone el Presidente y Vicepresidente del Comité de Administradores de Nodos Participantes, así como representantes de cada una de las seis regiones GBIF (África, Asia, Europa, América Latina, Norte América y Oceanía). Entre sus objetivos se incluyen ofrecer a los organismos relevantes de GBIF recomendaciones especificas  basadas en los comentarios proporcionados por los nodos Participantes, y proporcionar asesoramiento relevante para los nodos sobre el Programa de Trabajo de GBIF."
+msgstr "El https://www.gbif.org/es/contact-us/directory?group=nsg[Grupo de Directivo de Nodos] (NSG, por sus siglas en inglés) fue establecido en el comité de 2011, y lo compone el Presidente y Vicepresidente del Comité de Administradores de Nodos Participantes, así como representantes de cada una de las seis regiones GBIF (África, Asia, Europa, América Latina, Norte América y Oceanía). Entre sus objetivos se incluyen ofrecer a los organismos relevantes de GBIF recomendaciones específicas  basadas en los comentarios proporcionados por los nodos Participantes, y proporcionar asesoramiento relevante para los nodos sobre el Programa de Trabajo de GBIF."
 
 #. type: Plain text
 #: 600.en.adoc:33
