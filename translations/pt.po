@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-07-10 10:48+0000\n"
-"PO-Revision-Date: 2021-09-22 21:54\n"
+"POT-Creation-Date: 2021-10-04 14:39+0000\n"
+"PO-Revision-Date: 2021-10-04 14:47\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1081,8 +1081,7 @@ msgstr "Exemplos generalizados dos tipos de instituições designadas como anfit
 #. type: Table
 #: 500.en.adoc:140
 #, no-wrap
-msgid "\n"
-"^|Potential advantages\n\n"
+msgid "^|Potential advantages\n\n"
 "^|Potential disadvantages\n\n"
 "2+^s|Natural history collections\n\n"
 "|Existing knowledge of the challenges and requirements of digitizing and managing natural history data\n\n"
