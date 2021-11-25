@@ -1,0 +1,50 @@
+<style>
+.arrows {
+    border: none;
+    background: none;
+    border-collapse: separate;
+    border-spacing: 0.5em;
+}
+
+.arrows th {
+    font-size: 1.3em;
+    border-radius: 1ex;
+    position: relative;
+    color: white;
+    background: #94cef0;
+    padding: 1.5em 0.75em 1.5em 0.75em;
+}
+.arrows tbody tr th p { color: white; }
+
+.arrows th div.aside {
+    font-size: calc(1em/1.3);
+    font-weight: normal;
+}
+
+.arrows td {
+    background: none;
+}
+
+.arrows svg {
+    display: block;
+    position: absolute;
+    margin: 0 auto;
+    width: 5em;
+    left: calc(50% - 2.5em);
+    bottom: -0.9em;
+    z-index: 1;
+    fill: white;
+    stroke-width: 1px;
+}
+
+.arrows tr:nth-child(1) th { background: #94cef0; }
+.arrows tr:nth-child(2) th { background: #58bbea; }
+.arrows tr:nth-child(3) th { background: #8b9bc9; }
+.arrows tr:nth-child(4) th { background: #5978b4; }
+.arrows tr:nth-child(5) th { background: #145da3; }
+
+.arrows tr:nth-child(1) th svg path { stroke: #94cef0; }
+.arrows tr:nth-child(2) th svg path { stroke: #58bbea; }
+.arrows tr:nth-child(3) th svg path { stroke: #8b9bc9; }
+.arrows tr:nth-child(4) th svg path { stroke: #5978b4; }
+</style>
