@@ -1327,6 +1327,7 @@ msgstr ""
 #. type: Table
 #: 505-box.en.adoc:24
 #, no-wrap
+
 msgid "Plan a national *stakeholder meeting*\n\n"
 "|[.small]#Participatory process# +\n"
 "*Scoping the biodiversity information facility and node*\n"
