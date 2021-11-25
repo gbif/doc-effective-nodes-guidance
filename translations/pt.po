@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2021-11-25 15:54+0000\n"
-"PO-Revision-Date: 2021-11-25 15:59\n"
+"PO-Revision-Date: 2021-11-25 16:22\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -747,7 +747,7 @@ msgstr "*Capacidades técnicas*: as aptidões, o conhecimento e as competências
 #. type: Plain text
 #: 400.en.adoc:13
 msgid "The following **basic requirements** need to be considered when establishing a Participant node. The lack of any of these will reduce the overall effectiveness of the node."
-msgstr ""
+msgstr "Utilizando esta estrutura, deve considerar-se os *requisitos básicos* seguintes ao estabelecer um nó de Participantes. A falta de qualquer um destes requisitos reduzirá a eficácia global do nó."
 
 #. type: Title ====
 #: 400.en.adoc:15
@@ -769,17 +769,17 @@ msgstr "A capacidade de formular estratégias, planos e políticas com base nas 
 #. type: Plain text
 #: 400.en.adoc:23
 msgid "A *clear mandate* (official; institutional) through which the node is given formal responsibility for promoting, coordinating and facilitating the management and use of biodiversity data among the relevant stakeholder institutions within the Participant’s domain."
-msgstr ""
+msgstr "Um *mandato claro* (oficial; institucional) através do qual se atribui ao nó responsabilidade formal por promover, coordenar e fomentar a gestão e utilização de dados de biodiversidade entre as instituições de partes interessadas relevantes na área do Participante."
 
 #. type: Plain text
 #: 400.en.adoc:24
 msgid "A *governance structure* that is representative of the major stakeholders within the Participant's domain. An actively engaged governing body that guides and supports the node’s work helps to ensure that the relevant actors feel ownership of the node’s work."
-msgstr ""
+msgstr "Uma *estrutura de governação* que seja representativa das principais partes interessadas na área do Participante. Um órgão diretivo ativamente envolvido que oriente e apoie o trabalho do nó ajuda a assegurar que os agentes relevantes sentem como seu o trabalho do nó."
 
 #. type: Plain text
 #: 400.en.adoc:25
 msgid "A clearly stated *long-term purpose* with plans for the medium and short term. The node needs a readily understood vision and mission that motivate the node’s team, governance and broader stakeholders. The node needs to be able to formulate a general strategy and regular *work plans* in line with priorities at the Participant level. These plans should define expectations about what the node will deliver in a given time frame and will help evaluate the node’s performance."
-msgstr ""
+msgstr "Uma *finalidade a longo prazo* claramente definida e com planos a curto e médio prazo. O nó necessita de uma visão e missão facilmente compreensíveis que motivem a equipa, a governação e as principais partes interessadas do nó. O nó deve ser capaz de formular uma estratégia geral e *planos de trabalho* regulares, em conformidade com as prioridades ao nível do Participante. Esses planos devem definir as expectativas sobre o que o nó irá produzir em determinado prazo, ajudando a avaliar o desempenho do nó."
 
 #. type: Title =====
 #: 400.en.adoc:27
@@ -796,13 +796,13 @@ msgstr "A capacidade de iniciar e manter parcerias e redes."
 #: 400.en.adoc:33
 #, no-wrap
 msgid "*A collaborative framework* to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see <<node-location-selection>>). It should include community norms and relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them.  \n"
-msgstr ""
+msgstr "*Uma estrutura colaborativa* para formar um sistema de informação sobre a biodiversidade, definida e acordada pelas partes interessadas e parceiros relevantes na área do Participante. Esta estrutura deve assegurar que o nó tem uma função bem definida no panorama das instituições associadas à biodiversidade, com base em parcerias fortes e serviços complementares (consultar a <<node-location-selection>>). Deve incluir acordos formais relevantes acerca da publicação de dados e acesso aos mesmos. Deve também assegurar que o nó reconhece e valoriza as suas organizações e indivíduos constituintes - que contribuem para os seus serviços e utilizam os mesmos - com vista a criar um bom relacionamento com estes.\n"
 
 #. type: Plain text
 #: 400.en.adoc:34
 #, no-wrap
 msgid "*Communications and outreach plans, tools and materials* to support collaborative work between the members of the node’s network and to encourage the ongoing addition of new members. Materials can include a website, newsletters, brochures, mailing lists and use of social media platforms. The https://www.gbif.org/document/80926/[GBIF communications strategy] can help identify key messages for relevant audiences, and Participants can coordinate with the Secretariat on communication activities within the wider GBIF network.\n"
-msgstr ""
+msgstr "*Comunicações e planos, ferramentas e materiais de intervenção* para dar apoio ao trabalho colaborativo entre os membros da rede do nó e incentivar a adição contínua de novos membros. Os materiais podem incluir um website, folhas informativas, brochuras, listas de correio e a utilização de plataformas de redes sociais. A https://www.gbif.org/document/80926[estratégia de comunicações do GBIF] pode ajudar a identificar as principais mensagens para os públicos relevantes e os Participantes podem trabalhar em coordenação com o Secretariado em atividades de comunicação na Rede GBIF mais ampla.\n"
 
 #. type: Title =====
 #: 400.en.adoc:36
@@ -819,13 +819,13 @@ msgstr "A capacidade de gerir, financiar, orçamentar, implementar e avaliar pro
 #: 400.en.adoc:42
 #, no-wrap
 msgid "*Dedicated staff members* to implement the node’s mandate and work plans (see <<node-staff-roles>>). The node team will require a broad range of skills, ranging from biodiversity informatics to network coordination and supported by appropriate training.  \n"
-msgstr ""
+msgstr "*Membros de equipa dedicados* para implementar o mandato e os planos de trabalho do nó (consultar a <<node-staff-roles>>). A equipa do nó irá requerer um vasto leque de aptidões, variando desde a informática da biodiversidade à coordenação de redes e deverá ter como base a devida formação.\n"
 
 #. type: Plain text
 #: 400.en.adoc:43
 #, no-wrap
 msgid "*Institutional and financial support*, in line with services the node is expected to provide and to support the delivery of the node’s work plans. Institutional support can include administrative assistance, hosting facilities, and political endorsement necessary to engage key partners, raise interest and visibility, and mobilize funds. \n"
-msgstr ""
+msgstr "*Apoio institucional e financeiro*, em conformidade com os serviços que se espera que o nó venha a prestar e para apoiar a realização dos planos de trabalho do nó. O apoio institucional pode incluir a assistência administrativa, sistemas anfitriões e o aval político necessário para envolver os principais parceiros, aumentar o interesse e a visibilidade e mobilizar fundos.\n"
 
 #. type: Title ====
 #: 400.en.adoc:45
@@ -847,12 +847,12 @@ msgstr "A capacidade de recolher, digitalizar e publicar dados de biodiversidade
 #. type: Plain text
 #: 400.en.adoc:54
 msgid "Access to *infrastructure to support the mobilization of biodiversity data*. https://www.gbif.org/ipt[Existing tools] support a range of implementation models, from using hosted data publication tools to maintaining a distributed network of data publishers and a centralized index of data."
-msgstr ""
+msgstr "Uma *infraestrutura informática* para apoiar a mobilização de dados de biodiversidade. As ferramentas existentes, por exemplo o https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)], suportam uma série de modelos de implementação, desde a utilização de ferramentas de publicação de dados alojados até à manutenção de uma rede distribuída de publicadores de dados e um índice centralizado dos mesmos."
 
 #. type: Plain text
 #: 400.en.adoc:55
 msgid "A *programme to encourage and support data holders in mobilizing their data*, including, for example, promotion of incentives for data sharing and publication, technical helpdesk assistance, the translation or adaptation of documentation and manuals, the organization of training workshops and an e-learning platform."
-msgstr ""
+msgstr "Um *programa para incentivar e apoiar os detentores de dados na mobilização dos seus dados*, incluindo, por exemplo, a promoção de incentivos para a partilha e publicação de dados, o serviço de assistência técnica, a tradução ou adaptação de documentação e manuais, a organização de workshops de formação e uma plataforma de aprendizagem online."
 
 #. type: Title =====
 #: 400.en.adoc:57
@@ -879,19 +879,19 @@ msgstr "Análise e utilização de dados de biodiversidade"
 #. type: Plain text
 #: 400.en.adoc:68
 msgid "The ability to access, analyse and use biodiversity data."
-msgstr ""
+msgstr "A capacidade de aceder, analisar e utilizar dados de biodiversidade."
 
 #. type: Plain text
 #: 400.en.adoc:71
 #, no-wrap
 msgid "*Tools and expertise to generate an agreed set of information products and services* including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders. \n"
-msgstr ""
+msgstr "*Ferramentas e especialização para gerar um conjunto consensual de produtos e serviços de informação*, incluindo, por exemplo, listas nacionais, subnacionais e temáticas de espécies, contribuições para o relatório de estado da biodiversidade, um catálogo de metadados e uma análise das necessidades e lacunas dos dados de biodiversidade que complementa as produzidas por outras partes interessadas.\n"
 
 #. type: Plain text
 #: 400.en.adoc:72
 #, no-wrap
 msgid "A *programme to support access and use of biodiversity data* available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences. \n"
-msgstr ""
+msgstr "Um *programa para dar apoio ao acesso e utilização dos dados de biodiversidade* disponíveis através da Rede GBIF, incluindo possivelmente um portal nacional ou temático de dados de biodiversidade. Isto pode incluir a organização de workshops de formação, a associação a programas nacionais de ensino, a tradução e adaptação de documentação e ainda ações para aumentar a visibilidade em conferências científicas relevantes.\n"
 
 #. type: Title ====
 #: 400.en.adoc:74
@@ -1134,7 +1134,41 @@ msgid "^|Potential advantages\n\n"
 "|Need to invest in staff bringing relevant scientific domain knowledge\n"
 "to work effectively with biodiversity data\n\n"
 "Need to build contacts and knowledge of relevant institutional networks\n\n"
-msgstr ""
+msgstr "^|Potenciais vantagens\n\n"
+"^|Potenciais desvantagens\n\n"
+"2+^s|Coleções de história natural\n\n"
+"|Conhecimento existente sobre os desafios e requisitos de digitalizar e gerir dados de história natural\n\n"
+"|Pode ter de envidar um esforço significativo para demonstrar neutralidade (ex.: se é uma coleção zoológica, demonstrar que é capaz de trabalhar com outros tipos de coleções), ou que não está a competir por fundos de digitalização\n\n"
+"Pode ter dificuldade em envolver-se noutras comunidades detentoras de outros tipos de dados de biodiversidade (ex.: observações, dados ecológicos, etc.)\n\n"
+"Pode ser difícil para o nó servir as necessidades de algumas partes interessadas (ex.: decisores)\n\n"
+"2+^s|Ministérios da ciência, do ambiente e outros\n\n"
+"|Mandato muito forte e capacidade de influenciar e dar apoio à política e tomada de decisões\n\n"
+"Facilmente alinhado com as políticas, estratégias e programa de biodiversidade\n\n"
+"|Desafios para operar ao nível técnico e prestar assistência técnica (ex.: à comunidade científica).\n\n"
+"Facilmente afetado por alterações políticas\n\n"
+"Pode ter dificuldade em suprir as necessidades de outros ministérios (ex.: da ciência ou do ambiente)\n\n"
+"2+^s|Institutos de biodiversidade ou investigação biológica\n\n"
+"|Alto potencial para desenvolver, rápida e facilmente, capacidades na informática da biodiversidade\n\n"
+"Total conhecimento sobre a esfera da investigação em biodiversidade\n\n"
+"Podem ter um mandato institucional forte e claro\n\n"
+"|Podem não ser encarados como neutros por todas as partes interessadas, dependendo da forma como o instituto se adequa ao panorama institucional global do Participante (por exemplo, se existe sobreposição ou concorrência nos recursos).\n\n"
+"2+^s|Conselhos de investigação ou comissões de ciência e tecnologia\n\n"
+"|Posição excelente para utilizar o nó de Participantes para coordenar, promover e fomentar a mobilização de dados de biodiversidade provenientes da investigação\n\n"
+"Facilmente alinhado com as políticas de investigação, estratégias e programas nacionais\n\n"
+"2+^s|Organizações não governamentais\n\n"
+"|Flexibility and autonomy\n\n"
+"|Flexibilidade e autonomia\n\n"
+"|Potencial falta de mandato, dificuldade em envolver-se formalmente com instituições governamentais\n\n"
+"Pode vir a depender de projetos e do financiamento baseado nos mesmos\n\n"
+"2+^s|Departamentos ou faculdades de universidades\n\n"
+"Potencial para alinhar as atividades do nó com vários programas de investigação em biodiversidade\n\n"
+"|Pode enfrentar problemas de neutralidade\n\n"
+"2+^s|Centros de informática nacionais fora da área biológica/de diversidade\n\n"
+"|Forte posição de neutralidade\n\n"
+"Acesso imediato à capacidade técnica na informática\n\n"
+"Ligações potencialmente úteis, com prioridades nacionais bem financiadas na inovação e tecnologia\n\n"
+"|Necessidade de investir numa equipa dotada de um conhecimento relevante na área científica, para trabalhar eficazmente com dados de biodiversidade\n\n"
+"Necessidade de criar contactos e conhecimento de redes institucionais relevante\n\n"
 
 #. type: Title ===
 #: 500.en.adoc:143
