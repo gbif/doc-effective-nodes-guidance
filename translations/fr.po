@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2021-11-25 15:54+0000\n"
-"PO-Revision-Date: 2021-11-25 15:59\n"
+"PO-Revision-Date: 2021-11-25 16:33\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1327,7 +1327,6 @@ msgstr ""
 #. type: Table
 #: 505-box.en.adoc:24
 #, no-wrap
-
 msgid "Plan a national *stakeholder meeting*\n\n"
 "|[.small]#Participatory process# +\n"
 "*Scoping the biodiversity information facility and node*\n"
