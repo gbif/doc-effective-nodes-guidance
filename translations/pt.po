@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2021-11-25 15:54+0000\n"
-"PO-Revision-Date: 2021-11-25 16:22\n"
+"PO-Revision-Date: 2021-11-25 16:32\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -924,7 +924,7 @@ msgstr "Para além dos requisitos básicos, as quatro características seguintes
 #: 400.en.adoc:86
 #, no-wrap
 msgid "*Neutrality*. Since nodes are established to coordinate, promote and facilitate data sharing activities among multiple institutions, any perceived lack of neutrality will reduce their effectiveness. For example, other biodiversity institutions and potential partners may be reluctant to collaborate if a node institution is directly involved in generating data for its own research purposes, suggesting it is a competitor or guided by vested interests. However, institutions thus engaged may also build a reputation of trust within the community by offering resources and services—including specialized knowledge about data curation—to other institutions with similar aims. The node should be able to work with all relevant stakeholders, independently of any preferences or priorities that are not defined or agreed by the whole community. The institutional location of the node is decisive for its neutrality (see <<node-location-selection>>).\n"
-msgstr ""
+msgstr "*Neutralidade*. Dado que os nós são estabelecidos para coordenar, promover e fomentar atividades de partilha de dados entre várias instituições, qualquer falta de neutralidade detetada irá reduzir a sua eficácia. Por exemplo, outras instituições de biodiversidade e potenciais parceiros poderão ficar relutantes em colaborar, se uma instituição nó estiver diretamente envolvida na geração de dados para os seus próprios fins de investigação, sugerindo que se trata de um concorrente ou de alguém orientado por interesses particulares. Porém, as instituições envolvidas dessa forma podem também criar uma reputação de confiança na comunidade, fornecendo recursos e serviços – incluindo conhecimento especializado sobre a curadoria de dados – a outras instituições com objetivos semelhantes (ex.: as instituições no sistema de nós que compõem o GBIF Alemanha). O nó deve ser capaz de trabalhar com todas as partes interessadas relevantes, independentemente de quaisquer preferências ou prioridades que não estejam definidas ou não tenham sido acordadas por toda a comunidade. O local institucional do nó é decisivo para a sua neutralidade (consultar a <<node-location-selection>>).\n"
 
 #. type: Plain text
 #: 400.en.adoc:87
@@ -936,7 +936,7 @@ msgstr "*Liderança e iniciativa*. Os nós devem ser capazes de estimular o inte
 #: 400.en.adoc:88
 #, no-wrap
 msgid "*A focus on service*. Nodes are established to assist a community of people and institutions, and should therefore seek to serve rather than dictate. As a support facility for the Participant’s network, the service-oriented approach should permeate all the activities carried out by the node.\n"
-msgstr ""
+msgstr "*Um enfoque no serviço*. Os nós são estabelecidos para auxiliar uma comunidade de pessoas e instituições e, por conseguinte, devem procurar servir, ao invés de impor. Como sistema de apoio da rede de Participantes do GBIF, a abordagem orientada para o serviço deve aplicar-se a todas as atividades realizadas pelo nó.\n"
 
 #. type: Plain text
 #: 400.en.adoc:88
@@ -973,7 +973,7 @@ msgstr "A capacidade atual e potencial do Participante em termos de financiament
 #. type: Plain text
 #: 500.en.adoc:11
 msgid "While these factors vary considerably between Participants, lessons from the community can help new GBIF Participants, or those going through strategic changes in their decision-making processes. <<box-4,Box 4>> shows a simplified participatory approach towards making some of the key decisions necessary to establish an effective node."
-msgstr ""
+msgstr "Embora estes fatores variem significativamente entre os Participantes, as lições da comunidade podem ajudar os novos Participantes do GBIF, ou os que estão a atravessar alterações estratégicas nos seus processos de tomada de decisões. <<box-4,Caixa 4>> mostra uma abordagem participativa simplificada para tomar algumas das principais decisões necessárias para estabelecer um nó eficaz."
 
 #. type: Plain text
 #: 500.en.adoc:13
@@ -1009,7 +1009,7 @@ msgstr "Quais das necessidades identificadas devem ser tratadas pelo nó e quais
 #. type: Plain text
 #: 500.en.adoc:24
 msgid "Which type of agreements (e.g., data sharing/use agreements, community norms, a formal mandate for the node) are needed to support effective collaboration between stakeholders?"
-msgstr ""
+msgstr "Que tipo de acordos formais (ex.: acordos de partilha/utilização de dados, um mandato formal para o nó) são necessários para servir de apoio a uma colaboração eficaz entre as partes interessadas?"
 
 #. type: Plain text
 #: 500.en.adoc:25
@@ -1034,7 +1034,7 @@ msgstr "Que local institucional daria ao nó a melhor combinação possível de 
 #. type: Plain text
 #: 500.en.adoc:29
 msgid "Which institutional location would provide the node with the greatest institutional and financial support, as well as the maximum long-term stability? (See <<node-location-selection>>)."
-msgstr ""
+msgstr "Que local institucional daria ao nó o maior apoio institucional e financeiro, bem como a máxima estabilidade a longo prazo? (Consultar a <<node-location-selection>>)."
 
 #. type: Plain text
 #: 500.en.adoc:31
@@ -1060,7 +1060,7 @@ msgstr "Como é que um Participante do GBIF deve selecionar o local instituciona
 #. type: Plain text
 #: 500.en.adoc:40
 msgid "As discussed above, the institutional location for the node is a critical decision likely to have long-term impacts on its effectiveness in coordinating biodiversity information for the country. <<examples-of-node-hosts>> summarizes the types of institutions previously designated as hosts of GBIF Participant nodes, as well as some of the potential advantages and disadvantages associated with each type of host. Focused mainly on countries rather than organizations, the table does not provide a single recommendation on where to locate a node but can serve as a reference while considering options. These examples are generalized and will vary greatly depending on the specific situation of the Participant. The potential disadvantages in the right-hand column may not be applicable to all countries or host institutions."
-msgstr ""
+msgstr "Conforme é discutido acima, o local institucional para o nó é uma decisão crucial suscetível de provocar impacto na sua eficácia, no que respeita à coordenação da informação de biodiversidade do país. A <<examples-of-node-hosts>> resume os tipos de instituições previamente designadas como anfitriãs dos nós de Participantes do GBIF, bem como algumas das potenciais vantagens e desvantagens associadas a cada tipo de anfitrião. Centrada mais em países do que organizações, a tabela não fornece uma recomendação única sobre onde localizar o nó, mas pode servir como referência enquanto se consideram as opções. Estes exemplos são generalizados e irão variar muito, consoante a situação específica do Participante. As potenciais desvantagens na coluna da direita podem não ser aplicáveis a muitos países ou instituições anfitriãs."
 
 #. type: Plain text
 #: 500.en.adoc:42
@@ -1179,7 +1179,7 @@ msgstr "Quais são as recomendações para as funções da equipa nos nós?"
 #. type: Plain text
 #: 500.en.adoc:146
 msgid "While the specific services that nodes provide vary from one Participant to another (see <<what-do-nodes-need>>), a node’s staff need to cover a number of typical functions:"
-msgstr ""
+msgstr "Embora os serviços específicos prestados pelos nós variem consoante o Participante (consultar a <<what-do-nodes-need>>), a equipa de um nó deve desempenhar várias funções típicas:"
 
 #. type: Plain text
 #: 500.en.adoc:148
@@ -1265,7 +1265,7 @@ msgstr "Uma pessoa com formação em informática, capaz de desenvolver e manter
 #: 505-box.en.adoc:2
 #, no-wrap
 msgid "Box 4. A participatory approach to establishing a Participant node"
-msgstr ""
+msgstr "Caixa 4. Uma abordagem participativa para estabelecer um nó de Participantes"
 
 #. type: Table
 #: 505-box.en.adoc:7
@@ -1475,7 +1475,7 @@ msgstr "O https://www.gbif.org/pt/contact-us/directory?group=nodesCommittee[Comi
 #. type: Plain text
 #: 600.en.adoc:31
 msgid "The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes."
-msgstr ""
+msgstr "O Comité de Orientação dos Nós (NSG) foi estabelecido no comité em 2011, sendo formado pelo Presidente e Vice-Presidentes do Comité de Coordenadores dos Nós de Participantes e por representantes regionais de cada uma das seis regiões do GBIF (África, Ásia, Europa, América Latina, América do Norte e Oceânia). Os seus objetivos incluem dar recomendações específicas aos órgãos relevantes do GBIF com base no feedback recebido pelos nós de Participantes e dar aconselhamento sobre o Programa de Trabalho do GBIF relevante para os nós."
 
 #. type: Plain text
 #: 600.en.adoc:33
