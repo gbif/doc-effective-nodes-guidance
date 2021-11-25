@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2020-07-08 14:59+0000\n"
-"PO-Revision-Date: 2020-07-09 18:22\n"
+"POT-Creation-Date: 2021-10-04 14:39+0000\n"
+"PO-Revision-Date: 2021-10-04 14:47\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -28,7 +28,7 @@ msgid "GBIF Secretariat <nodes@gbif.org>"
 msgstr "Secrétariat GBIF <nodes@gbif.org>"
 
 #. type: Plain text
-#: index.en.adoc:14
+#: index.en.adoc:17
 msgid "languageLinks:combined[]"
 msgstr "languageLinks:combined[]"
 
@@ -118,7 +118,7 @@ msgstr "Image de couverture"
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr "La abeja de miel occidental (_Apis mellifera_), Hardy County, Florida, Estados Unidos. Foto 2018 thebugroomno2 vía https://www.gbif.org/fr/occurrence/1945467387[iNaturalist research-grade observations], licenciada bajo http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgstr "Abeille domestique (_Apis mellifera_), Hardy County, Florida, États Unis. Photo 2018 thebugroomno2 vía https://www.gbif.org/fr/occurrence/1945467387[iNaturalist research-grade observations], licencié sous http://creativecommons.org/licenses/by-nc/4.0/deed.fr[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: preface.en.adoc:2
@@ -1081,8 +1081,7 @@ msgstr "Exemples généralisés des types d’institutions désignées comme hô
 #. type: Table
 #: 500.en.adoc:140
 #, no-wrap
-msgid "\n"
-"^|Potential advantages\n\n"
+msgid "^|Potential advantages\n\n"
 "^|Potential disadvantages\n\n"
 "2+^s|Natural history collections\n\n"
 "|Existing knowledge of the challenges and requirements of digitizing and managing natural history data\n\n"
@@ -1135,49 +1134,7 @@ msgid "\n"
 "|Need to invest in staff bringing relevant scientific domain knowledge\n"
 "to work effectively with biodiversity data\n\n"
 "Need to build contacts and knowledge of relevant institutional networks\n\n"
-msgstr "\n"
-"^|Avantages potentiels\n\n"
-"^|Désavantages potentiels\n\n"
-"2+^s|Collections d'Histoire Naturelle\n\n"
-"|Défis et exigences connus de la numérisation et la gestion des données d'histoires naturelles\n\n"
-"|Pourrait demander des efforts significatifs afin de démontrer sa neutralité (e.g., si c'est une collection zoologique, qu'elle peut travailler avec d'autre types de collections), ou qu'il n'y a pas de compétitions pour les fonds liés à la numérisation, etc.\n\n"
-"Pourrait trouver difficile de travailler avec d'autres communautés possédant d'autres types de données de biodiversité (e.g., observations, données écologiques, etc.)\n\n"
-"Pourrait être difficile pour le noeud de répondre aux besoins de certaines parties prenantes\n"
-"(e.g., décideurs politiques)\n\n"
-"2+^s|Ministères de la science, de l'environment, et al.\n\n"
-"|Mandat fort et capacités d'influencer et soutenir les décideurs politiques\n\n"
-"Harmonisation facile avec les politiques, stratégies et programmes nationaux en lien avec la biodiversité\n\n"
-"|Défis opérationnels au niveau technique et au niveau du soutien technique (e.g., pour la communauté scientifique)\n\n"
-"Facilement affectés par les changements politiques\n\n"
-"Pourrait rencontrer des difficultés à répondre aux besoins d'autres ministères (e.g.,\n"
-"de la Science ou de l'Environnement)\n\n"
-"2+^s|Instituts de recherche en Biologie ou en Biodiversité\n\n"
-"|Haut potentiel de développement facile et rapide des compétences en Informatique de la Biodiversité\n\n"
-"Connaissance exhaustive du domaine de la recherche en Biodiversité\n\n"
-"Appuyés par un mandat institutionnel fort et clair\n\n"
-"|Pourraient ne pas être perçus comme neutres par toutes les parties prenantes, tout dépendant de la manière dont l'institut correspond au paysage institutionnel général du Participant\n"
-"(par exemple, si il y a un chevauchement ou de la compétition au niveau des ressources)\n\n"
-"2+^s|Conseils de recherche ou commissions de Sciences & Technologies\n\n"
-"|Excellente position du noeud Participant pour coordonner, promouvoir\n"
-"et faciliter la mobilisation des données de biodiversité provenant de la recherche\n\n\n"
-"Harmonisation facile avec les politiques, stratégies et programmes nationaux de recherche\n\n"
-"|Pourraient ne pas être perçus comme neutres par toutes les parties prenantes, tout dépendant de la manière dont l'institut correspond au paysage institutionnel général du Participant\n"
-"(par exemple, si il y a un chevauchement ou de la compétition au niveau des ressources)\n\n"
-"2+^s|Organisations non-gouvernementales\n\n"
-"|Flexibilité et autonomie\n\n"
-"|Manque potentiel de mandat, difficulté à développer des engagements formels avec les institutions gouvernementales\n\n"
-"Pourraient devenir dépendants des projets et du financement alloués à ceux-ci\n\n"
-"2+^s|Départements ou facultés universitaires\n\n"
-"|Haut potentiel de développement facile et rapide des compétences en Informatique de la Biodiversité\n\n"
-"Possibilités potentielles d'aligner les activités du noeud avec divers agenda de recherche en biodiversité\n\n"
-"|Pourraient faire face à des problématiques de neutralité\n\n"
-"Pourraient devenir dépendants des projets et du financement alloués à ceux-ci\n\n"
-"2+^s|Structures informatiques nationales en dehors des domaines de la biodiversité et de la biologie\n\n"
-"|Forte neutralité\n\n"
-"Accès rapide à des compétences techniques en informatique\n\n"
-"Connections utiles potentielles avec des priorités nationales hautement financées pour l'innovation et la technologie\n\n"
-"|Besoin d'investissement dans du personnel apportant des connaissances scientifiques pertinentes afin de travailler avec les données de biodiversité \n\n"
-"Besoin de développer des contacts et des connaissances sur les réseaux institutionnels pertinents\n\n"
+msgstr ""
 
 #. type: Title ===
 #: 500.en.adoc:143
@@ -1276,11 +1233,107 @@ msgstr "Une personne qui a une formation en informatique, capable de développer
 msgid "Box 4. A participatory approach to establishing a Participant node"
 msgstr "Boîte 4. Une approche participative pour établir un point nodal Participant"
 
-#. type: Target for macro image
-#: 505-box.en.adoc:4
+#. type: Table
+#: 505-box.en.adoc:7
 #, no-wrap
-msgid "img/box-4.png"
-msgstr "img/box-4.png"
+msgid "|*Discussions before joining GBIF*\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:9 505-box.en.adoc:16 505-box.en.adoc:26 505-box.en.adoc:34
+msgid "|"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:10
+msgid "Understand Participant’s *motivation* for joining GBIF"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:11
+msgid "Understand *drivers and priorities* at highest level for establishing a biodiversity information facility"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:14
+msgid "Assign *formal roles*: Head of Delegation and temporary node manager |*Preparation for participatory processes*"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:17
+msgid "Agree *roles* in the process: who will lead, who will formulate final recommendations, need for consultants, etc."
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:18
+#, no-wrap
+msgid "*Preparatory studies*: capacity self-assessment, data holders, inventory, stakeholder mappings, content needs assessment, etc.\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:19
+#, no-wrap
+msgid "Identify *relevant examples* from the GBIF network\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:20
+#, no-wrap
+msgid "Identify *key stakeholders* who will be invited to contribute\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:24
+#, no-wrap
+msgid "Plan a national *stakeholder meeting*\n\n"
+"|[.small]#Participatory process# +\n"
+"*Scoping the biodiversity information facility and node*\n"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:27
+msgid "Define *priorities* for the biodiversity information facility"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:28
+msgid "Discuss which parts of the biodiversity information facility are *already in place*"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:32
+msgid "Define *key roles* for the node in support of the biodiversity information facility |[.small]#Participatory process# + *Defining implementation models*"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:35
+msgid "Define *community norms* and formal agreements to support effective collaboration"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:36
+msgid "Discuss model for *informatics infrastructure*"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:37
+msgid "Discuss *governance model* and representation"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:38
+msgid "Consider *institutional location* for the node"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:39
+msgid "Discuss a *team for the node* and the node manager role"
+msgstr ""
+
+#. type: Table
+#: 505-box.en.adoc:43
+msgid "Discuss *funding models* for the node 2+|*Recommendation on the establishment of the node* + [.small]#including its mandate, institutional location, governance structure and funding model.#"
+msgstr ""
 
 #. type: Title ===
 #: 510-box.en.adoc:2
@@ -1533,8 +1586,25 @@ msgstr "développement / codage Web à maintenir,"
 msgid "e.g. national data portal"
 msgstr "par exemple. portail de données national"
 
-#. type: Plain text
-#: 605-box.en.adoc:3
+#. type: Title ===
+#: 605-box.en.adoc:2
+#, no-wrap
 msgid "Box 6. GBIF’s capacity enhancement approach"
 msgstr "Boite 6. Approche du GBIF pour le renforcement des capacités"
+
+#. type: Table
+#: 605-box.en.adoc:18
+#, no-wrap
+msgid "|image::img/c1.png[]\n"
+"Capacity self-assessments\n"
+"|image::img/c2.png[]\n"
+"Core capacity enhancement programme\n"
+"|image::img/c3.png[]\n"
+"Supplementary funded programmes\n"
+"|image::img/c4.png[]\n"
+"Capacity enhancement workshops\n"
+"|image::img/c5.png[]\n"
+"Community of practice\n\n"
+"5+|image::img/arrow-breadth.svg[width=\"80%\"]\n"
+msgstr ""
 
