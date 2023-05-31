@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-05-31 13:08+0000\n"
+"POT-Creation-Date: 2023-05-31 13:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -878,7 +878,8 @@ msgid ""
 "GBIF. Furthermore, some GBIF Participant nodes provide services that are "
 "delivered by separate biodiversity-related institutions in other countries "
 "and organizations. Nevertheless, the services and responsibilities of nodes "
-"can be broadly grouped into four main categories:"
+"can be broadly grouped into four main categories that align with GBIF's "
+"strategic plan and work programme:"
 msgstr ""
 
 #. type: Title ===
