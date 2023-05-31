@@ -3,52 +3,59 @@
 
 The specific responsibilities and services provided by each node vary considerably, depending in part on the Participant’s priorities for joining GBIF. Furthermore, some GBIF Participant nodes provide services that are delivered by separate biodiversity-related institutions in other countries and organizations. Nevertheless, the services and responsibilities of nodes can be broadly grouped into four main categories:
 
-[[coordinating-initiatives]]
-=== Coordinating the landscape of biodiversity-related initiatives including participating in the GBIF network
+[[science-and-research]]
+=== Support for science and research
+
+***Improving biodiversity evidence for scientific research and understanding***
 
 Examples of services include:
 
-* Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism], https://www.ipbes.net[IPBES], https://iucn.org[IUCN], https://obis.org[OBIS] and others, including close liaison or joint working with relevant nodes or focal points for these initiatives
-* Coordinating communication activities relating to biodiversity information and informatics activities, sharing communications with the wider GBIF community through the Secretariat, and disseminating relevant global information to stakeholder networks within the node’s country or organization
-* Benefiting from and contributing to capacity development activities across the network, such as mentoring, training, sharing of expertise through task groups, participation in collaborative projects, testing and advising on new developments from other Participants and the GBIF Secretariat
-* Taking part in the GBIF Participant Node Managers Committee and regional sub-committees, by providing guidance on and contributing to the implementation of GBIF work programmes in line with Participant priorities
-* Promoting the expansion of GBIF participation to other countries and organizations
-
-[[data-mobilization]]
-=== Supporting biodiversity data mobilization
-
-Examples of services include:
-
-* Organizing biodiversity data within the Participant’s domain to ensure open access to all digitally available biodiversity data
-* Promoting and coordinating national investment in the digitization and mobilization of biodiversity information
-* Providing a technical infrastructure and support to enable biodiversity data to be published on the Internet and through the GBIF network (including https://www.gbif.org/dataset-classes[sampling-event metadata, occurrence data, checklist data and collections metadata])
-* Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers] as a mechanism to gain recognition for sharing of datasets
-* Developing a culture of open access and supporting open data requirements mandated, for example, through grant conditions
-* Maintaining a collaborative framework between data holders and users, for example, through data sharing agreements that enable data sharing to occur according to agreed terms and encourage data reuse
-* Promoting public engagement in biodiversity issues, for example, by supporting citizen science initiatives that mobilize observational data
-* Developing strategies, materials and activities to engage private companies to publish and reuse biodiversity data
-
-[[data-analysis-and-use]]
-=== Supporting biodiversity data analysis and use
-
-Examples of services include:
-
+* Supporting the development and implementation of national policies on open science and data in line with the FAIR and CARE data principles
+* Engaging local researchers in the https://www.gbif.org/composition/6iHKXo8pUyRPJ2Ut0683Z8/ambassadors[biodiversity open data ambassadors^] programme to promote the use of GBIF-mediated data at conferences and other relevant fora
 * Facilitating access to biodiversity data by promoting the use of the GBIF infrastructure and/or by maintaining a national or thematic biodiversity data portal
-* Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices] for data accessed through the GBIF network
-* Acting as a reference institution for biodiversity information
-* Providing support for biodiversity research, through evaluation of data needs and data gaps
-* Encouraging interdisciplinary cooperation between scientists, by sharing https://www.gbif.org/resource/search?contentType=dataUse[relevant examples of data use] and through capacity development activities
-* Providing support for the compilation, maintenance and publishing of national, sub-national and thematic species inventories and checklists, and the use of these lists to underpin other activities (e.g., conservation work, national reporting)
+* Consulting with research users of GBIF’s infrastructure for ongoing evaluation of data needs and data gaps
+* Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices^] for data accessed through the GBIF network
+* Engaging with national graduate schools, universities and other key partners in higher education towards making data skills and GBIF-related training an essential part of university curricula
+* Promoting the https://www.gbif.org/data-use-club[Data Use Club^] within research and student communities as a means to develop data literacy skills, for example, by organizing a national/thematic team 
+
+[[policy-and-decisions]]
+=== Support for policy and decisions
+
+***Developing partnerships that benefit policy and society***
+
+Examples of services include:
+
+* Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism^], https://www.ipbes.net/[IPBES^], https://iucn.org/[IUCN^], https://obis.org/[OBIS^], https://geobon.org/[GEO BON^], and others, including close liaison or joint working with relevant nodes or focal points for these initiatives
 * Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, spatial planning, biosecurity, conservation and protected area management
 * Providing support for national reporting on biodiversity, for example under the Convention on Biological Diversity and other multilateral biodiversity-related agreements
+* Promoting open biodiversity approaches within the business and finance sectors
 
-[[data-management-and-curation]]
-=== Supporting biodiversity data management and curation
+[[engaging-and-enabling]]
+=== Engaging and enabling the community
+
+***Developing the GBIF network to meet future needs and challenges***
 
 Examples of services include:
 
-* Increasing the quality of available biodiversity data to meet https://www.gbif.org/data-quality-requirements[GBIF data quality requirements], for example, through the standardization and documentation of existing data sources with metadata
-* Assisting data holders with data management, using appropriate tools and practices, such as the https://www.gbif.org/tools/data-validator[GBIF data validator], and through capacity development programmes focused on biodiversity informatics
+* Benefiting from and contributing to capacity development activities across the network, such as mentoring, training, sharing of expertise through task groups, participation in collaborative projects, testing and advising on new developments from other Participants and the GBIF Secretariat
+* Promoting and coordinating national investment in the digitization and mobilization of biodiversity information
+* Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers^] as a mechanism to gain recognition for sharing of datasets
+* Developing a culture of open access and supporting open data requirements mandated, for example, through grant conditions
+* Promoting public engagement in biodiversity issues, for example, by supporting citizen science initiatives that mobilize observational data
+* Supporting the development of emerging projects and initiatives to ensure that they are well aligned with existing data standards and tools, and can make use of existing infrastructure or contribute to further developments
+
+[[technical-services]]
+=== Technical services for biodiversity data management
+
+***Maintain and evolve infrastructure to advance biodiversity-related knowledge***
+
+Examples of services include:
+
+* Increasing the quality of available biodiversity data to meet https://www.gbif.org/data-quality-requirements[GBIF data quality requirements^], for example, through the standardization and documentation of existing data sources with metadata
+* Contribute actively to updating GRSciColl and engaging institutions with collections in data mobilization
+* Providing technical helpdesk support and assisting data holders with data management, using appropriate tools and practices, such as the https://www.gbif.org/tools/data-validator[GBIF data validator^]
+* Providing https://www.gbif.org/endorsement-guidelines[endorsement of biodiversity data publishers^] to be added to the GBIF network
+* Assisting with the development of data management plans within the development of new projects and initiatives
 * Acting as a permanent repository for biodiversity data within the Participant’s domain for data holders that do not have the capacity to maintain their own permanent records
-* Providing https://www.gbif.org/endorsement-guidelines[endorsement of biodiversity data publishers] to be added to the GBIF network
+* Supporting data rescue initiatives by mobilizing historical biodiversity data
 * Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types
