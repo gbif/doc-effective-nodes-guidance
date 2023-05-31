@@ -1,7 +1,7 @@
 [[node-services]]
 == What services do Participant nodes provide?
 
-The specific responsibilities and services provided by each node vary considerably, depending in part on the Participant’s priorities for joining GBIF. Furthermore, some GBIF Participant nodes provide services that are delivered by separate biodiversity-related institutions in other countries and organizations. Nevertheless, the services and responsibilities of nodes can be broadly grouped into four main categories:
+The specific responsibilities and services provided by each node vary considerably, depending in part on the Participant’s priorities for joining GBIF. Furthermore, some GBIF Participant nodes provide services that are delivered by separate biodiversity-related institutions in other countries and organizations. Nevertheless, the services and responsibilities of nodes can be broadly grouped into four main categories that align with GBIF's strategic plan and work programme:
 
 [[science-and-research]]
 === Support for science and research
