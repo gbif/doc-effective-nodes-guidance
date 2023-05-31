@@ -6,7 +6,7 @@ The specific responsibilities and services provided by each node vary considerab
 [[science-and-research]]
 === Support for science and research
 
-***Improving biodiversity evidence for scientific research and understanding***
+*_Improving biodiversity evidence for scientific research and understanding_*
 
 Examples of services include:
 
@@ -21,7 +21,7 @@ Examples of services include:
 [[policy-and-decisions]]
 === Support for policy and decisions
 
-***Developing partnerships that benefit policy and society***
+*_Developing partnerships that benefit policy and society_*
 
 Examples of services include:
 
@@ -33,7 +33,7 @@ Examples of services include:
 [[engaging-and-enabling]]
 === Engaging and enabling the community
 
-***Developing the GBIF network to meet future needs and challenges***
+*_Developing the GBIF network to meet future needs and challenges_*
 
 Examples of services include:
 
@@ -47,7 +47,7 @@ Examples of services include:
 [[technical-services]]
 === Technical services for biodiversity data management
 
-***Maintain and evolve infrastructure to advance biodiversity-related knowledge***
+*_Maintain and evolve infrastructure to advance biodiversity-related knowledge_*
 
 Examples of services include:
 
