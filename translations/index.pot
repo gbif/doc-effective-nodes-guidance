@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-05-31 13:05+0000\n"
+"POT-Creation-Date: 2023-05-31 13:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -891,8 +891,8 @@ msgstr ""
 #: 300.en.adoc:10
 #, no-wrap
 msgid ""
-"***Improving biodiversity evidence for scientific research and "
-"understanding***\n"
+"*_Improving biodiversity evidence for scientific research and "
+"understanding_*\n"
 msgstr ""
 
 #. type: Plain text
@@ -964,7 +964,7 @@ msgstr ""
 #. type: Plain text
 #: 300.en.adoc:25
 #, no-wrap
-msgid "***Developing partnerships that benefit policy and society***\n"
+msgid "*_Developing partnerships that benefit policy and society_*\n"
 msgstr ""
 
 #. type: Plain text
@@ -1012,7 +1012,7 @@ msgstr ""
 #. type: Plain text
 #: 300.en.adoc:37
 #, no-wrap
-msgid "***Developing the GBIF network to meet future needs and challenges***\n"
+msgid "*_Developing the GBIF network to meet future needs and challenges_*\n"
 msgstr ""
 
 #. type: Plain text
@@ -1071,8 +1071,8 @@ msgstr ""
 #: 300.en.adoc:51
 #, no-wrap
 msgid ""
-"***Maintain and evolve infrastructure to advance biodiversity-related "
-"knowledge***\n"
+"*_Maintain and evolve infrastructure to advance biodiversity-related "
+"knowledge_*\n"
 msgstr ""
 
 #. type: Plain text
