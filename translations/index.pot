@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-25 15:54+0000\n"
+"POT-Creation-Date: 2024-01-22 19:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2064,9 +2064,12 @@ msgstr ""
 
 #. type: Table
 #: 505-box.en.adoc:32
+#, no-wrap
 msgid ""
 "Define *key roles* for the node in support of the biodiversity information "
-"facility |[.small]#Participatory process# + *Defining implementation models*"
+"facility \n"
+"|[.small]#Participatory process#\n"
+"*Defining implementation models*"
 msgstr ""
 
 #. type: Table
@@ -2098,10 +2101,12 @@ msgstr ""
 
 #. type: Table
 #: 505-box.en.adoc:43
+#, no-wrap
 msgid ""
-"Discuss *funding models* for the node 2+|*Recommendation on the "
-"establishment of the node* + [.small]#including its mandate, institutional "
-"location, governance structure and funding model.#"
+"Discuss *funding models* for the node \n"
+"2+|*Recommendation on the establishment of the node*\n"
+"[.small]#including its mandate, institutional location, governance structure "
+"and funding model.#"
 msgstr ""
 
 #. type: Title ===
