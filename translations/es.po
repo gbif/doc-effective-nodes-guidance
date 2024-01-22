@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2023-05-31 13:42+0000\n"
-"PO-Revision-Date: 2023-05-31 14:13\n"
+"PO-Revision-Date: 2024-01-22 19:47\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -97,7 +97,7 @@ msgstr "Control de documentos"
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "Second (GitHub) edition published, April 2019. Last revised: 31 May 2023."
-msgstr ""
+msgstr "Segunda edición (GitHub) publicada en abril de 2029. Última revisión: 31 de mayo de 2023."
 
 #. type: Plain text
 #: colophon.en.adoc:23
@@ -560,13 +560,13 @@ msgstr ""
 #: 300.en.adoc:7
 #, no-wrap
 msgid "Support for science and research"
-msgstr ""
+msgstr "Apoyo a la ciencia y la investigación"
 
 #. type: Plain text
 #: 300.en.adoc:10
 #, no-wrap
 msgid "*_Improving biodiversity evidence for scientific research and understanding_*\n"
-msgstr ""
+msgstr "*_Mejorar evidencia de biodiversidad para investigación científica y entendimiento_*\n"
 
 #. type: Plain text
 #: 300.en.adoc:12 300.en.adoc:27 300.en.adoc:39 300.en.adoc:53
@@ -576,12 +576,12 @@ msgstr "Entre los servicios, podemos mencionar los siguientes:"
 #. type: Plain text
 #: 300.en.adoc:14
 msgid "Supporting the development and implementation of national policies on open science and data in line with the FAIR and CARE data principles"
-msgstr ""
+msgstr "Apoyar el desarrollo e implementación de políticas nacionales sobre ciencia abierta y datos en línea con los principios de datos FAIR y CARE"
 
 #. type: Plain text
 #: 300.en.adoc:15
 msgid "Engaging local researchers in the https://www.gbif.org/composition/6iHKXo8pUyRPJ2Ut0683Z8/ambassadors[biodiversity open data ambassadors^] programme to promote the use of GBIF-mediated data at conferences and other relevant fora"
-msgstr ""
+msgstr "Involucrar a los investigadores locales en el programa https://www.gbif.org/composition/6iHKXo8pUyRPJ2Ut0683Z8/ambassadors [embajadores de datos abiertos sobre biodiversidad^] para promover el uso de datos mediados por GBIF en conferencias y otros foros relevantes"
 
 #. type: Plain text
 #: 300.en.adoc:16
@@ -591,17 +591,17 @@ msgstr "Facilitar el acceso a los datos sobre biodiversidad impulsando el uso de
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "Consulting with research users of GBIF’s infrastructure for ongoing evaluation of data needs and data gaps"
-msgstr ""
+msgstr "Consulta con los usuarios de investigación de la infraestructura de GBIF para la evaluación continua de las necesidades de datos y vacíos en los datos"
 
 #. type: Plain text
 #: 300.en.adoc:18
 msgid "Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices^] for data accessed through the GBIF network"
-msgstr ""
+msgstr "Fomentar el uso de adecuadas https://www.gbif.org/es/citation-guidelines[prácticas para citar^] los datos disponibles a través de la red de GBIF"
 
 #. type: Plain text
 #: 300.en.adoc:19
 msgid "Engaging with national graduate schools, universities and other key partners in higher education towards making data skills and GBIF-related training an essential part of university curricula"
-msgstr ""
+msgstr "Participar con las escuelas de postgrado nacionales, universidades y otros socios clave en la educación superior para hacer de las habilidades de datos y la formación relacionada con GBIF, una parte esencial de los planes de estudios universitarios"
 
 #. type: Plain text
 #: 300.en.adoc:20
