@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2023-05-31 13:42+0000\n"
-"PO-Revision-Date: 2023-05-31 14:13\n"
+"POT-Creation-Date: 2024-07-18 07:32+0000\n"
+"PO-Revision-Date: 2024-07-18 07:51\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -160,8 +160,8 @@ msgstr "Os Participantes no GBIF são países, organizações internacionais ou 
 #. type: Plain text
 #: 100.en.adoc:7
 #, no-wrap
-msgid "*A GBIF Participant node is a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making. For countries, these networks aresometimes referred to as a biodiversity information facility* (see <<box-1,Box 1>>).\n"
-msgstr "*Um nó de participante GBIF é uma equipa designada por um Participante para coordenar uma rede de pessoas e instituições que produzem, gerem e usam dados de biodiversidade, construindo colectivamente uma infra-estrutura para fornecer informação de biodiversidade. São apoiados por disposições de organização e soluções informáticas, trabalhando para melhorar a disponibilidade e a utilidade dos dados sobre a biodiversidade para a investigação, a política e a tomada de decisões. Para os países, essas redes são referidas como infraestrutura de informação de biodiversidade* (ver <<box-1,Box 1>>).\n"
+msgid "*A GBIF Participant node is a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making. For countries, these networks are sometimes referred to as a biodiversity information facility* (see <<box-1,Box 1>>).\n"
+msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:9
@@ -1357,8 +1357,11 @@ msgstr "Discutir quais as partes da infraestrutura de informação sobre biodive
 
 #. type: Table
 #: 505-box.en.adoc:32
-msgid "Define *key roles* for the node in support of the biodiversity information facility |[.small]#Participatory process# + *Defining implementation models*"
-msgstr "Definir as *funções chave* para o nó em apoio à infraestrutura de informação sobre biodiversidade |[.small]#Processo participativo# + *Definindo modelos de implementação*"
+#, no-wrap
+msgid "Define *key roles* for the node in support of the biodiversity information facility \n"
+"|[.small]#Participatory process#\n"
+"*Defining implementation models*"
+msgstr ""
 
 #. type: Table
 #: 505-box.en.adoc:35
@@ -1387,8 +1390,11 @@ msgstr "Discutir uma *equipe para o nó* e a função de coordenador do nó"
 
 #. type: Table
 #: 505-box.en.adoc:43
-msgid "Discuss *funding models* for the node 2+|*Recommendation on the establishment of the node* + [.small]#including its mandate, institutional location, governance structure and funding model.#"
-msgstr "Discutir *modelos de financiamento* para o nó 2+|*Recomendação sobre a criação do nó* + [.small]#incluindo o seu mandato, localização institucional, estrutura de governação e modelo de financiamento.#"
+#, no-wrap
+msgid "Discuss *funding models* for the node \n"
+"2+|*Recommendation on the establishment of the node*\n"
+"[.small]#including its mandate, institutional location, governance structure and funding model.#"
+msgstr ""
 
 #. type: Title ===
 #: 510-box.en.adoc:2
