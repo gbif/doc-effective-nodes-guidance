@@ -15,7 +15,7 @@ The https://www.gbif.org/the-gbif-network[country pages] on GBIF.org provide a s
 * Peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country, along with other articles relating to the country
 * Where available, validated lists of introduced and invasive species occurring in the country
 
-https://www.gbif.org/the-gbif-network/participant-organisations[Organization Participants' pages] display information about these Participants’ membership, data publishing activity and links to the node’s website.
+Participant Organization https://www.gbif.org/the-gbif-network/participant-organisations[pages] on GBIF.org display information about these Participants’ membership, data publishing activity and links to the node’s website.
 
 Participant nodes are encouraged to share https://www.gbif.org/nodes#_guiding-examples[guiding examples] with the community to document their success stories so others can learn from the experience.
 
