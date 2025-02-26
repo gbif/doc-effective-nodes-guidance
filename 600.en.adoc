@@ -1,26 +1,25 @@
 [[further-support]]
 == Further support for establishing a Participant node
 
-Supporting the establishment and further development of Participant nodes and their work is a priority for GBIF as a whole. This guide has introduced some important general considerations in the process of establishing a node. This section explains other opportunities available to gain from experience of the GBIF network in this area.
+Supporting the establishment and further development of Participant nodes and their work is a priority for GBIF as a whole. This guide has introduced some important general considerations in the process of establishing a node. This section explains additional resources for further support.
 
 [[participant-node-examples]]
 === How can I find examples of Participant nodes?
 
-The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Participants’ GBIF-related activities. They include information about:
+The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Voting and Associate Participants’ GBIF-related activities. They include information about:
 
 * The Participant’s membership status and date of joining GBIF
 * The Participant node’s date of establishment, website and contact information
 * An overview of the data published from the country’s institutions, with links to the data publishers and datasets, as well as data published from anywhere in the world about biodiversity located in the country
-* Information on the node’s history, vision and mission, structure and national funding
-* A list of news items relating to the Participant country and published by the Participant node, as well as links to social media channels operated by the node
-* Peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country, as well as articles relating to the country
+* A list of news items relating to the Participant country and published by the Participant node and links to social media channels operated by the node
+* Peer-reviewed research articles citing GBIF as a data source involving authors from the Participant country, along with other articles relating to the country
 * Where available, validated lists of introduced and invasive species occurring in the country
 
-https://www.gbif.org/the-gbif-network/participant-organisations[Information about organization Participants] currently displays information about these Participants’ membership, data publishing activity, and links to the node’s website.
+https://www.gbif.org/the-gbif-network/participant-organisations[Organization Participants' pages] display information about these Participants’ membership, data publishing activity and links to the node’s website.
 
-Participant nodes are encouraged to share https://www.gbif.org/resource/search?q=%22Nodes%20guidance%22[guiding examples] with the community, documenting their success stories that others can learn from in establishing or developing their nodes.
+Participant nodes are encouraged to share https://www.gbif.org/nodes#_guiding-examples[guiding examples] with the community to document their success stories so others can learn from the experience.
 
-Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the contact information for the node managers and staff to ask other network members or https://www.gbif.org/mentors[capacity enhancement mentors] for advice in establishing a node.
+Consulting these pages will help to identify the most relevant examples for the specific context of a new GBIF Participant. New Participants are encouraged to use the https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact information] for the node managers to ask for advice in establishing a node.
 
 [[nodes-committee-assistance]]
 === How can the GBIF Participant Node Managers Committee assist in establishing Participant nodes?
@@ -29,7 +28,7 @@ The https://www.gbif.org/contact-us/directory?group=nodesCommittee[Participant N
 
 The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes.
 
-The Nodes Committee meets in a *Global Nodes Meeting* every other year. These meetings, often combined with training activities, provide an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize *Regional Nodes Meetings* either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region.
+The Nodes Committee meets every other year for a https://globalnodes.gbif.org/[*global event*]. This meeting, often combined with training activities, provides an excellent forum for interacting with other node managers and planning collaborative activities. In addition, many of the regional subcommittees organize *Regional Nodes Meetings* either annually or every other year. These meetings advance regional collaborative work between node managers and provide a forum for discussing priorities and opportunities within the region.
 
 In between meetings, the committee communicates via mailing lists and teleconferences, also making use of the https://discourse.gbif.org/[GBIF community forum] to support collaborative work. New Participant nodes are strongly encouraged to https://www.gbif.org/contact-us/directory?group=nodesCommittee[contact members of the Nodes Committee] to get involved in its activities, access the expertise of the network and plan collaborative projects to support the establishment of Participant nodes.
 
@@ -38,22 +37,29 @@ In between meetings, the committee communicates via mailing lists and teleconfer
 
 Capacity enhancement provides an essential foundation for the sustainable functioning and performance of the GBIF Participant network and all its members, regardless of their level of development. 
 
-The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way. Capacity enhancement includes improving the way Participants can contribute to and benefit from GBIF, how they organize their work and how they relate to other Participants at regional and global scales. GBIF supports capacity enhancement in the network through five complementary approaches shown in <<box-6,Box 6>>.
+The GBIF Participants and Secretariat have developed a range of capacity enhancement activities and programmes to empower all members of the GBIF community to carry out their work in the most effective, self-sustained and stable way.
 
-GBIF maintains https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/[capacity self-assessment guidelines for national biodiversity information facilities] and for https://www.gbif.org/document/82785/[data holding institutions] as tools to support planning and the tracking of progress, for example through projects.
+The GBIF https://docs.gbif.org/capacity-development-framework[Capacity Development Framework] provides a detailed overview of GBIF’s work in this area, setting out objectives and goals for embedding capacity on the individual, institutional, national and regional levels. The framework describes capacity development tools and approaches in four areas:
 
-A https://www.gbif.org/programme/82219[*capacity enhancement support programme*] with an annual call for project proposals provides GBIF Participants with co-funding to address self-identified capacity needs through collaborative regional and international projects. These projects can combine a range of actions, including mentoring between Participant nodes, the organization of regional events and training workshops, the development or adaptation of documentation, GBIF advocacy actions and actions to promote data use. Participants are encouraged to consider developing project proposals to support the establishment and consolidation of their nodes in collaboration with experts from the GBIF network. Reviewing https://www.gbif.org/programme/82219/[past projects] can provide some useful examples of how to structure collaborative actions aiming to establish new Participant nodes.
+. Supporting node development through collaboration
+. Capacity development programmes
+. Community of practice support and development
+. Training strategy and learning resources
 
-GBIF also seeks *supplementary funding* to support capacity enhancement, as through the https://www.gbif.org/programme/82629/[Biodiversity Fund for Asia] (BIFA) and the https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID) programme. These programmes have support projects to mobilize biodiversity data and promote the use of accessible biodiversity data in support of research and decision-making, and provide training to project teams.
+Of particular relevance to establishing new nodes, GBIF operates an onboarding programme for new node managers. This programme provides a series of support activities designed to welcome newly appointed node managers to the GBIF community and promote tools and benefits open to them. It aims to enable their active participation in the network.
 
-GBIF also provides access to *training opportunities* for node managers and staff. GBIF-related training events are held all over the world and are displayed on the https://www.gbif.org/resource/search?contentType=event[events section] of GBIF.org.
+The https://www.gbif.org/programme/82219[*capacity enhancement support programme*] with an annual call for project proposals provides GBIF Participants with co-funding to address self-identified capacity needs through collaborative regional and international projects. These projects can combine a range of actions, including mentoring between Participant nodes, the organization of regional events and training workshops, the development or adaptation of documentation, and other capacity development collaborations. Participants are encouraged to consider developing project proposals to support the establishment and consolidation of their nodes in collaboration with experts from the GBIF network. Reviewing https://www.gbif.org/composition/4R5Ot70guupksCkTNbq1oe/cesp-all-projects[past projects] can provide some useful examples of how to structure collaborative actions aiming to establish new Participant nodes.
 
-Finally, the GBIF network acts as a *community of practice*, with many node managers and their teams volunteering as https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/[capacity enhancement mentors] and https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/[biodiversity open data ambassadors] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events.
+GBIF also seeks *supplementary funding* to support capacity enhancement, such as through the https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID) programme. This programme has supported projects to mobilize biodiversity data and promote the use of accessible biodiversity data in support of research and decision-making and provide training to project teams.
+
+The GBIF network acts as a *community of practice*, with many node managers and their teams https://www.survey-xact.dk/LinkCollector?key=4S38YXU4U1CK[volunteering] as https://www.gbif.org/mentors[capacity enhancement mentors], https://www.gbif.org/ambassadors[biodiversity open data ambassadors], programme reviewers, and https://www.gbif.org/translators[resource translators] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events.
+
+Finally, GBIF provides access to https://www.gbif.org/training[*training courses*] and reusable training materials for node managers and staff. *Training opportunities* and GBIF-related training events are displayed on the https://www.gbif.org/resource/search?contentType=event[events section] of GBIF.org.
 
 [[other-resources]]
 === What other documentation and resources are available for Participant nodes?
 
-GBIF maintains a list of freely accessible https://www.gbif.org/article/T5SQrMJAU1OdFtHTNOWgN/[resources for nodes] including tools, presentations, manuals and documentation for anyone to use and download.
+GBIF maintains a list of https://www.gbif.org/nodes#_resources-for-the-nodes[resources for nodes] including tools, presentations, manuals and documentation for anyone to use and download.
 
 [[contact]]
 === Contact for further support

@@ -17,7 +17,7 @@ _Establishing an Effective GBIF Participant Node_ is licensed under https://crea
 https://doi.org/10.15468/doc-z79c-sa53
 
 === Document Control
-Second (GitHub) edition published, April 2019.
+Second (GitHub) edition published, April 2019. Last revised: 31 May 2023.
 
 https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern].
 

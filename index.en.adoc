@@ -58,7 +58,3 @@ include::510-box.en.adoc[]
 :sectnums:
 
 include::600.en.adoc[]
-
-:sectnums!:
-
-include::605-box.en.adoc[]
