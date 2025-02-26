@@ -6,7 +6,7 @@ Supporting the establishment and further development of Participant nodes and th
 [[participant-node-examples]]
 === How can I find examples of Participant nodes?
 
-The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Voting and Associate Participants’ GBIF-related activities. They include information about:
+The https://www.gbif.org/the-gbif-network[country pages] on GBIF.org provide a summarized view of the Voting and Associate Participants’ GBIF-related activities. They include information about:
 
 * The Participant’s membership status and date of joining GBIF
 * The Participant node’s date of establishment, website and contact information
@@ -52,7 +52,7 @@ The https://www.gbif.org/programme/82219[*capacity enhancement support programme
 
 GBIF also seeks *supplementary funding* to support capacity enhancement, such as through the https://www.gbif.org/programme/82243/[Biodiversity Information for Development] (BID) programme. This programme has supported projects to mobilize biodiversity data and promote the use of accessible biodiversity data in support of research and decision-making and provide training to project teams.
 
-The GBIF network acts as a *community of practice*, with many node managers and their teams https://www.survey-xact.dk/LinkCollector?key=4S38YXU4U1CK[volunteering] as https://www.gbif.org/mentors[capacity enhancement mentors], https://www.gbif.org/ambassadors[biodiversity open data ambassadors], programme reviewers, and https://www.gbif.org/translators[resource translators] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events.
+The GBIF network acts as a *community of practice*, with many node managers and their teams https://www.survey-xact.dk/LinkCollector?key=4S38YXU4U1CK[volunteering] as https://www.gbif.org/mentors[capacity enhancement mentors], https://www.gbif.org/ambassadors[biodiversity open data ambassadors], programme reviewers and https://www.gbif.org/translators[resource translators] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events.
 
 Finally, GBIF provides access to https://www.gbif.org/training[*training courses*] and reusable training materials for node managers and staff. *Training opportunities* and GBIF-related training events are displayed on the https://www.gbif.org/resource/search?contentType=event[events section] of GBIF.org.
 
