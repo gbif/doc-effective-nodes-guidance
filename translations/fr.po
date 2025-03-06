@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-02-26 13:23+0000\n"
-"PO-Revision-Date: 2025-02-26 13:44\n"
+"POT-Creation-Date: 2025-02-26 15:45+0000\n"
+"PO-Revision-Date: 2025-02-26 16:29\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1438,7 +1438,7 @@ msgstr "Comment trouver des exemples de points nodaux ?"
 
 #. type: Plain text
 #: 600.en.adoc:10
-msgid "The https://www.gbif.org/the-gbif-network[country pages on GBIF.org] provide a summarized view of the Voting and Associate Participants’ GBIF-related activities. They include information about:"
+msgid "The https://www.gbif.org/the-gbif-network[country pages] on GBIF.org provide a summarized view of the Voting and Associate Participants’ GBIF-related activities. They include information about:"
 msgstr ""
 
 #. type: Plain text
@@ -1473,7 +1473,7 @@ msgstr "Lorsque disponibles, des listes validées d'espèces introduites et enva
 
 #. type: Plain text
 #: 600.en.adoc:19
-msgid "https://www.gbif.org/the-gbif-network/participant-organisations[Organization Participants' pages] display information about these Participants’ membership, data publishing activity and links to the node’s website."
+msgid "Participant Organization https://www.gbif.org/the-gbif-network/participant-organisations[pages] on GBIF.org display information about these Participants’ membership, data publishing activity and links to the node’s website."
 msgstr ""
 
 #. type: Plain text
@@ -1499,8 +1499,8 @@ msgstr "Le https://www.gbif.org/fr/contact-us/directory?group=nodesCommittee[Com
 
 #. type: Plain text
 #: 600.en.adoc:30
-msgid "The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe, Latin America, North America and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes."
-msgstr "Le https://www.gbif.org/fr/contact-us/répertoire?group=nsg[Comité Directeur des Nœuds] (NSG) a été créé au sein du comité en 2011, composé du président et des vice-présidents du comité des gestionnaires des noeuds Participants, et des représentants régionaux de chacune des six régions du GBIF (Afrique, Asie, Europe, Amérique latine, Amérique du Nord et Océanie). Ses objectifs incluent la présentation de recommandations spécifiques aux organes pertinents du GBIF sur la base des commentaires fournis par les noeuds Participants, et de fournir des conseils sur le plan de travail du GBIF relatif aux nœuds."
+msgid "The https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group] (NSG) was established within the committee in 2011, consisting of the Chair and Vice Chairs of the Participant Node Managers Committee, and regional representatives from each of the six GBIF regions (Africa, Asia, Europe and Central Asia, Latin America and the Caribbean, North America, and Oceania). Its objectives include offering specific recommendations to the relevant GBIF bodies based on feedback provided by Participant nodes, and to provide advice on the GBIF Work Programme relevant to nodes."
+msgstr ""
 
 #. type: Plain text
 #: 600.en.adoc:32
@@ -1570,7 +1570,7 @@ msgstr ""
 
 #. type: Plain text
 #: 600.en.adoc:56
-msgid "The GBIF network acts as a *community of practice*, with many node managers and their teams https://www.survey-xact.dk/LinkCollector?key=4S38YXU4U1CK[volunteering] as https://www.gbif.org/mentors[capacity enhancement mentors], https://www.gbif.org/ambassadors[biodiversity open data ambassadors], programme reviewers, and https://www.gbif.org/translators[resource translators] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events."
+msgid "The GBIF network acts as a *community of practice*, with many node managers and their teams https://www.survey-xact.dk/LinkCollector?key=4S38YXU4U1CK[volunteering] as https://www.gbif.org/mentors[capacity enhancement mentors], https://www.gbif.org/ambassadors[biodiversity open data ambassadors], programme reviewers and https://www.gbif.org/translators[resource translators] to support the further development of the global community. New Participants are invited to contact the GBIF Secretariat for assistance in identifying mentors to assist with the development of their node, for example, through training events."
 msgstr ""
 
 #. type: Plain text
