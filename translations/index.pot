@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-04-28 11:55+0000\n"
+"POT-Creation-Date: 2025-05-27 10:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,8 +56,8 @@ msgstr ""
 #: colophon.en.adoc:9
 msgid ""
 "GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: "
-"Concepts and general "
-"considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
+"Concepts and general considerations. GBIF Secretariat: "
+"Copenhagen. https://doi.org/10.35035/doc-d601-d695."
 msgstr ""
 
 #. type: Title ===
@@ -69,13 +69,13 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid ""
-"https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], "
-"https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen], "
-"https://orcid.org/0000-0002-1920-5298[Laura Anne Russell], "
-"https://orcid.org/0000-0002-6590-599X[Kyle Copas], "
-"https://orcid.org/0000-0002-5015-5807[Tim Hirsch], "
-"https://orcid.org/0000-0003-3918-4065[Andrea Hahn] and "
-"https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
+"https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], "
+"https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], "
+"https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^], "
+"https://orcid.org/0000-0002-6590-599X[Kyle Copas^], "
+"https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], "
+"https://orcid.org/0000-0003-3918-4065[Andrea Hahn^] and "
+"https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]"
 msgstr ""
 
 #. type: Title ===
@@ -88,8 +88,8 @@ msgstr ""
 #: colophon.en.adoc:15
 msgid ""
 "_Establishing an Effective GBIF Participant Node_ is licensed under "
-"https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 "
-"Unported License]."
+"https://creativecommons.org/licenses/by-sa/4.0[Creative Commons "
+"Attribution-ShareAlike 4.0 Unported License^]."
 msgstr ""
 
 #. type: Title ===
@@ -100,7 +100,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:18
-msgid "https://doi.org/10.15468/doc-z79c-sa53"
+msgid "https://doi.org/10.35035/doc-d601-d695"
 msgstr ""
 
 #. type: Title ===
@@ -111,36 +111,47 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:21
-msgid "Third (GitHub) edition published, March 2025. Last revised: 28 Apr 2025."
+msgid "Third (GitHub) edition published, May 2025."
 msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:23
+msgid "Originally based on earlier publications,"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:25
 msgid ""
-"https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by "
-"https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], "
+"_Establishing an Effective GBIF Participant Node: Concepts and general "
+"considerations_. https://doi.org/10.15468/doc-z79c-sa53[Version 2^] (2019) "
+"by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], "
+"https://orcid.org/0000-0002-6590-599X[Kyle Copas^], "
+"https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], "
+"https://orcid.org/0000-0003-3918-4065[Andrea Hahn^] and "
+"https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:26
+msgid ""
+"_Towards establishing a functional GBIF Participant Node (Part I): "
+"definitions and general "
+"considerations_. https://doi.org/10.15468/doc.fm4b-6q42[First edition^] "
+"(2015) by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], "
 "https://orcid.org/0000-0001-6197-9951[Olaf Bánki], "
 "https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, "
 "https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and "
 "https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 msgstr ""
 
-#. type: Plain text
-#: colophon.en.adoc:25
-msgid ""
-"Originally based on an earlier publication, _Towards establishing a "
-"functional GBIF Participant Node (Part I): definitions and general "
-"considerations_."
-msgstr ""
-
 #. type: Title ===
-#: colophon.en.adoc:26
+#: colophon.en.adoc:27
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:27
+#: colophon.en.adoc:28
 msgid ""
 "Western honey bee (_Apis mellifera_), Hardy County, Florida, United "
 "States. Photo 2018 thebugroomno2 via "
