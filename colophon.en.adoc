@@ -1,5 +1,5 @@
 ifdef::backend-html5[]
-image::img/Apis-mellifera-thebugroomno2-iNat.jpg[]
+image::img/nodes-guidance.png[]
 endif::backend-html5[]
 
 == Colophon
