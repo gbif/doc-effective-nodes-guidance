@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-05-27 11:12+0000\n"
-"PO-Revision-Date: 2025-05-27 13:01\n"
+"POT-Creation-Date: 2025-06-03 12:17+0000\n"
+"PO-Revision-Date: 2025-06-03 12:32\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -35,8 +35,8 @@ msgstr "languageLinks:combined[]"
 #. type: Target for macro image
 #: colophon.en.adoc:2
 #, no-wrap
-msgid "img/Apis-mellifera-thebugroomno2-iNat.jpg"
-msgstr "img/Apis-mellifera-thebugroomno2-iNat.jpg"
+msgid "img/nodes-guidance.png"
+msgstr ""
 
 #. type: Title ==
 #: colophon.en.adoc:5
