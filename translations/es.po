@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-02-26 15:45+0000\n"
-"PO-Revision-Date: 2025-02-26 16:29\n"
+"POT-Creation-Date: 2025-06-03 12:46+0000\n"
+"PO-Revision-Date: 2025-06-03 14:24\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -35,8 +35,8 @@ msgstr "languageLinks:combined[]"
 #. type: Target for macro image
 #: colophon.en.adoc:2
 #, no-wrap
-msgid "img/Apis-mellifera-thebugroomno2-iNat.jpg"
-msgstr "img/Apis-mellifera-thebugroomno2-iNat.jpg"
+msgid "img/nodes-guidance.png"
+msgstr ""
 
 #. type: Title ==
 #: colophon.en.adoc:5
@@ -52,8 +52,8 @@ msgstr "Cita bibliográfica sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:9
-msgid "GBIF Secretariat (2019) Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen. https://doi.org/10.15468/doc-z79c-sa53."
-msgstr "Secretariado de GBIF (2019) Estableciendo un Nodo Participante de GBIF efectivo: Conceptos y consideraciones generales. Copenhague. https://doi.org/10.15468/doc-z79c-sa53."
+msgid "GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: Concepts and general considerations. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-d601-d695."
+msgstr ""
 
 #. type: Title ===
 #: colophon.en.adoc:10
@@ -63,8 +63,8 @@ msgstr "Colaboradores"
 
 #. type: Plain text
 #: colophon.en.adoc:12
-msgid "https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn and https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
-msgstr "Mélianie Raymond, https://orcid.org/0000-0002-6590-599X[Kyle Copas], https://orcid.org/0000-0002-5015-5807[Tim Hirsch], Andrea Hahn y https://orcid.org/0000-0002-2685-8078[Marie Grosjean]"
+msgid "https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^] and https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]"
+msgstr ""
 
 #. type: Title ===
 #: colophon.en.adoc:13
@@ -74,8 +74,8 @@ msgstr "Licencia"
 
 #. type: Plain text
 #: colophon.en.adoc:15
-msgid "_Establishing an Effective GBIF Participant Node_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr "El documento Creación de un nodo participante eficaz de GBIF se publica bajo una licencia https://creativecommons.org/licenses/by/4.0[Creative Commons Atribución 4.0 Internacional]."
+msgid "_Establishing an Effective GBIF Participant Node_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
+msgstr ""
 
 #. type: Title ===
 #: colophon.en.adoc:16
@@ -85,8 +85,8 @@ msgstr "URI persistente"
 
 #. type: Plain text
 #: colophon.en.adoc:18
-msgid "https://doi.org/10.15468/doc-z79c-sa53"
-msgstr "https://doi.org/10.15468/doc-z79c-sa53"
+msgid "https://doi.org/10.35035/doc-d601-d695"
+msgstr ""
 
 #. type: Title ===
 #: colophon.en.adoc:19
@@ -96,29 +96,39 @@ msgstr "Control de documentos"
 
 #. type: Plain text
 #: colophon.en.adoc:21
-msgid "Second (GitHub) edition published, April 2019. Last revised: 31 May 2023."
-msgstr "Segunda edición (GitHub) publicada en abril de 2029. Última revisión: 31 de mayo de 2023."
+msgid "Third edition published, May 2025."
+msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:23
-msgid "https://doi.org/10.15468/doc.fm4b-6q42[First edition], March 2015, by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
-msgstr "https://doi.org/10.15468/doc-z79c-sa53[First edition], Marzo 2015, por Mélianie Raymond, https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] y https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
+msgid "Originally based on earlier publications:"
+msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:25
-msgid "Originally based on an earlier publication, _Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_."
-msgstr "Este documento se basa en una publicación anterior, _Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_."
-
-#. type: Title ===
-#: colophon.en.adoc:26
-#, no-wrap
-msgid "Cover image"
-msgstr "Imagen de la portada"
+msgid "_Establishing an Effective GBIF Participant Node: Concepts and general considerations_. https://doi.org/10.15468/doc-z79c-sa53[Version 2^] (2019) by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^] and https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]"
+msgstr ""
 
 #. type: Plain text
+#: colophon.en.adoc:26
+msgid "_Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_. https://doi.org/10.15468/doc.fm4b-6q42[First edition^] (2015) by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
+msgstr ""
+
+#. type: Title ===
 #: colophon.en.adoc:27
-msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr "La abeja de miel occidental (_Apis mellifera_), Hardy County, Florida, Estados Unidos. Foto 2018 thebugroomno2 vía https://www.gbif.org/es/ocurrence/1945467387[iNaturalist research-grade observations], licenciada bajo http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+#, no-wrap
+msgid "Cover image"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:30
+msgid "Illustration by Javier Gamboa, GBIF secretariat 2025, licensed under https://creativecommons.org/licenses/by/4.0/[CC BY]"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:31
+msgid "<<<"
+msgstr ""
 
 #. type: Title ==
 #: preface.en.adoc:2
