@@ -12,13 +12,13 @@ https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], https://orcid.org/000
 
 === Translators
 
-==== ../fr[French]
+==== link:../fr[French]
 https://orcid.org/0000-0002-6718-6669[Carole Sinou^], https://orcid.org/0000-0002-7839-5300[André Heughebaert^], https://orcid.org/0000-0001-6597-8438[Pierre Radji^] and https://orcid.org/0000-0003-4736-7419[Sophie Pamerlon^]
 
-==== ../pt[Portuguese]
+==== link:../pt[Portuguese]
 https://orcid.org/0000-0002-8351-4028[Rui Figueira^] and Joao Nicolau 
 
-==== ../es[Spanish]
+==== link:../es[Spanish]
 Miguel Vega, https://orcid.org/0000-0003-3877-7408[Anabela Plos^], Patricia Ramos, https://orcid.org/0000-0003-2863-2491[William Ulate^] and https://orcid.org/0000-0001-9244-399X[Cristina Villaverde^]
 
 === Licence
