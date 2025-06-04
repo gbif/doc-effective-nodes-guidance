@@ -6,7 +6,7 @@ GBIF Secretariat <nodes@gbif.org>
 :revnumber: {git-metadata-branch}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 :license: https://creativecommons.org/licenses/by-sa/4.0/
-:title-logo-image: img/nodes-guidance.png
+:title-page-background-image: image::img/nodes-guidance.png[position=top center]
 :xrefstyle: short
 // For Box 4, the Docinfo includes a stylesheet to style the table and the :table-arrow:
 :docinfo: shared-head
