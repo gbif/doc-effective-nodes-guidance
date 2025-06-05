@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-06-04 13:22+0000\n"
+"POT-Creation-Date: 2025-06-05 12:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,20 +78,21 @@ msgid ""
 "https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]"
 msgstr ""
 
+#. /
 #. type: Title ===
-#: colophon.en.adoc:13
+#: colophon.en.adoc:14
 #, no-wrap
 msgid "Translators"
 msgstr ""
 
 #. type: Title ====
-#: colophon.en.adoc:15
+#: colophon.en.adoc:16
 #, no-wrap
 msgid "link:../fr[French]"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:17
+#: colophon.en.adoc:18
 msgid ""
 "https://orcid.org/0000-0002-6718-6669[Carole Sinou^], "
 "https://orcid.org/0000-0002-7839-5300[André Heughebaert^], "
@@ -100,24 +101,25 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: colophon.en.adoc:18
+#: colophon.en.adoc:19
 #, no-wrap
 msgid "link:../pt[Portuguese]"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:20
+#: colophon.en.adoc:21
 msgid "https://orcid.org/0000-0002-8351-4028[Rui Figueira^] and Joao Nicolau"
 msgstr ""
 
 #. type: Title ====
-#: colophon.en.adoc:21
+#: colophon.en.adoc:22
 #, no-wrap
 msgid "link:../es[Spanish]"
 msgstr ""
 
+#. /
 #. type: Plain text
-#: colophon.en.adoc:23
+#: colophon.en.adoc:24
 msgid ""
 "Miguel Vega, https://orcid.org/0000-0003-3877-7408[Anabela Plos^], Patricia "
 "Ramos, https://orcid.org/0000-0003-2863-2491[William Ulate^] and "
@@ -125,13 +127,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:24
+#: colophon.en.adoc:25
 #, no-wrap
 msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:26
+#: colophon.en.adoc:27
 msgid ""
 "_Establishing an Effective GBIF Participant Node_ is licensed under "
 "https://creativecommons.org/licenses/by-sa/4.0[Creative Commons "
@@ -139,34 +141,34 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:27
+#: colophon.en.adoc:28
 #, no-wrap
 msgid "Persistent URI"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:29
+#: colophon.en.adoc:30
 msgid "https://doi.org/10.35035/doc-d601-d695"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:30
+#: colophon.en.adoc:31
 #, no-wrap
 msgid "Document Control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:32
+#: colophon.en.adoc:33
 msgid "Third edition published, May 2025."
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:34
+#: colophon.en.adoc:35
 msgid "Originally based on earlier publications:"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:36
+#: colophon.en.adoc:37
 msgid ""
 "_Establishing an Effective GBIF Participant Node: Concepts and general "
 "considerations_. https://doi.org/10.15468/doc-z79c-sa53[Version 2^] (2019) "
@@ -178,7 +180,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:37
+#: colophon.en.adoc:38
 msgid ""
 "_Towards establishing a functional GBIF Participant Node (Part I): "
 "definitions and general "
@@ -191,20 +193,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:38
+#: colophon.en.adoc:39
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:41
+#: colophon.en.adoc:42
 msgid ""
-"Illustration by Javier Gamboa, GBIF secretariat 2025, licensed under "
-"https://creativecommons.org/licenses/by/4.0/[CC BY]"
+"Illustration by Javier Gamboa, GBIF Secretariat (2025), licensed under "
+"https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:42
+#: colophon.en.adoc:43
 msgid "<<<"
 msgstr ""
 
