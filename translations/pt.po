@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-06-04 13:22+0000\n"
-"PO-Revision-Date: 2025-06-04 13:25\n"
+"POT-Creation-Date: 2025-06-05 12:16+0000\n"
+"PO-Revision-Date: 2025-06-05 12:17\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -69,103 +69,64 @@ msgstr ""
 #. type: Title ===
 #: colophon.en.adoc:13
 #, no-wrap
-msgid "Translators"
-msgstr ""
-
-#. type: Title ====
-#: colophon.en.adoc:15
-#, no-wrap
-msgid "link:../fr[French]"
-msgstr ""
-
-#. type: Plain text
-#: colophon.en.adoc:17
-msgid "https://orcid.org/0000-0002-6718-6669[Carole Sinou^], https://orcid.org/0000-0002-7839-5300[André Heughebaert^], https://orcid.org/0000-0001-6597-8438[Pierre Radji^] and https://orcid.org/0000-0003-4736-7419[Sophie Pamerlon^]"
-msgstr ""
-
-#. type: Title ====
-#: colophon.en.adoc:18
-#, no-wrap
-msgid "link:../pt[Portuguese]"
-msgstr ""
-
-#. type: Plain text
-#: colophon.en.adoc:20
-msgid "https://orcid.org/0000-0002-8351-4028[Rui Figueira^] and Joao Nicolau"
-msgstr ""
-
-#. type: Title ====
-#: colophon.en.adoc:21
-#, no-wrap
-msgid "link:../es[Spanish]"
-msgstr ""
-
-#. type: Plain text
-#: colophon.en.adoc:23
-msgid "Miguel Vega, https://orcid.org/0000-0003-3877-7408[Anabela Plos^], Patricia Ramos, https://orcid.org/0000-0003-2863-2491[William Ulate^] and https://orcid.org/0000-0001-9244-399X[Cristina Villaverde^]"
-msgstr ""
-
-#. type: Title ===
-#: colophon.en.adoc:24
-#, no-wrap
 msgid "Licence"
 msgstr "Licença"
 
 #. type: Plain text
-#: colophon.en.adoc:26
+#: colophon.en.adoc:15
 msgid "_Establishing an Effective GBIF Participant Node_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:27
+#: colophon.en.adoc:16
 #, no-wrap
 msgid "Persistent URI"
 msgstr "URL Persistente"
 
 #. type: Plain text
-#: colophon.en.adoc:29
+#: colophon.en.adoc:18
 msgid "https://doi.org/10.35035/doc-d601-d695"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:30
+#: colophon.en.adoc:19
 #, no-wrap
 msgid "Document Control"
 msgstr "Controlo do Documento"
 
 #. type: Plain text
-#: colophon.en.adoc:32
+#: colophon.en.adoc:21
 msgid "Third edition published, May 2025."
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:34
+#: colophon.en.adoc:23
 msgid "Originally based on earlier publications:"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:36
+#: colophon.en.adoc:25
 msgid "_Establishing an Effective GBIF Participant Node: Concepts and general considerations_. https://doi.org/10.15468/doc-z79c-sa53[Version 2^] (2019) by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^] and https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:37
+#: colophon.en.adoc:26
 msgid "_Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_. https://doi.org/10.15468/doc.fm4b-6q42[First edition^] (2015) by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:38
+#: colophon.en.adoc:27
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:41
-msgid "Illustration by Javier Gamboa, GBIF secretariat 2025, licensed under https://creativecommons.org/licenses/by/4.0/[CC BY]"
+#: colophon.en.adoc:30
+msgid "Illustration by Javier Gamboa, GBIF Secretariat (2025), licensed under https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:42
+#: colophon.en.adoc:31
 msgid "<<<"
 msgstr ""
 
