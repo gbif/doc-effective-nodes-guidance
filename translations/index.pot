@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-06-05 12:19+0000\n"
+"POT-Creation-Date: 2025-06-05 12:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,7 +56,7 @@ msgstr ""
 #: colophon.en.adoc:9
 msgid ""
 "GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: "
-"Concepts and general considerations. Copenhagen: GBIF "
+"Concepts and general considerations. 3rd edn. Copenhagen: GBIF "
 "Secretariat. https://doi.org/10.35035/doc-d601-d695."
 msgstr ""
 
@@ -157,7 +157,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:32
-msgid "Third edition published, May 2025."
+msgid "Third edition published, June 2025."
 msgstr ""
 
 #. type: Plain text
