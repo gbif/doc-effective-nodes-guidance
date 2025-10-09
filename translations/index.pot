@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-10-09 09:50+0000\n"
+"POT-Creation-Date: 2025-10-09 10:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1413,10 +1413,14 @@ msgstr ""
 #. type: Plain text
 #: 400.en.adoc:24
 msgid ""
-"A *governance structure* that is representative of the major stakeholders "
-"within the Participant's domain. An actively engaged governing body that "
-"guides and supports the node’s work helps to ensure that the relevant actors "
-"feel ownership of the node’s work."
+"A *governance structure or mechanism* that enables connections between the "
+"node and its work and the relevant audiences within the Participant country "
+"or organization. For national nodes, an actively engaged governing body "
+"should guide and support the node, helping to ensure that the relevant "
+"actors feel ownership of the node’s work. For organizational nodes, a "
+"mechanism should be in place for the node to connect with the organization’s "
+"broader governance to enable appropriate planning and steering of activities "
+"relating to open biodiversity data and GBIF."
 msgstr ""
 
 #. type: Plain text
