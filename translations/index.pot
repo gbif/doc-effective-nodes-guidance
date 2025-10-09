@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-10-09 11:47+0000\n"
+"POT-Creation-Date: 2025-10-09 11:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1914,7 +1914,9 @@ msgstr ""
 #. type: Title ===
 #: 500.en.adoc:37
 #, no-wrap
-msgid "How should a GBIF Participant select the institutional location for a node?"
+msgid ""
+"How should a GBIF Participant country select the institutional location for "
+"a node?"
 msgstr ""
 
 #. type: Plain text
