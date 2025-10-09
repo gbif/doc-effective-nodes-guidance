@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-10-09 08:49+0000\n"
+"POT-Creation-Date: 2025-10-09 09:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -297,12 +297,21 @@ msgid ""
 "biodiversity information. They are supported by organizational arrangements "
 "and informatics solutions, working to improve the availability and "
 "usefulness of biodiversity data for research, policy and "
-"decision-making. For countries, these networks are sometimes referred to as "
-"a biodiversity information facility* (see <<box-1,Box 1>>).\n"
+"decision-making. These networks are sometimes referred to as a biodiversity "
+"information facility.* \n"
 msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:9
+msgid ""
+"GBIF Participant nodes can broadly be grouped into two categories: *national "
+"nodes*, established by Participant countries, and *organizational nodes*, "
+"established by associate Participant organizations that have signed the GBIF "
+"MOU (see <<box-1,Box 1>>)."
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:11
 msgid ""
 "Two main roles are assigned when a Participant joins GBIF: the *Head of "
 "Delegation* and the *node manager* (see <<box-2,Box 2>>). The Head of "
@@ -312,108 +321,113 @@ msgid ""
 "the country or organization in coordinating the mobilization and use of "
 "open-access biodiversity data, and also represents the Participant on the "
 "https://www.gbif.org/contact-us/directory?group=nodesCommittee[GBIF "
-"Participant Node Managers Committee]. A *Participant node* is typically "
-"hosted by an existing biodiversity-related institution or institutions in "
-"the Participant country, or by Participant organizations."
-msgstr ""
-
-#. type: Plain text
-#: 100.en.adoc:11
-msgid ""
-"A broad range of *stakeholders* are involved in GBIF-related activities at "
-"the Participant level, including data holders, biodiversity knowledge "
-"experts, data users, and decision-makers <<box-3,Box 3>>). Participant nodes "
-"have the role of connecting each of these audiences’ needs and interests, "
-"enabling them to contribute to and benefit from participation in the GBIF "
-"network."
+"Participant Node Managers Committee]. A *national node* is typically hosted "
+"by an existing biodiversity-related institution or institutions in the "
+"Participant country, while *organizational nodes* are embedded within "
+"Participant organizations."
 msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:13
+msgid ""
+"A broad range of *audiences* are involved in GBIF-related activities at the "
+"Participant level, including data holders, biodiversity knowledge experts, "
+"data users, and decision-makers <<box-3,Box 3>>). Participant nodes have the "
+"role of connecting each of these audiences’ needs and interests, enabling "
+"them to contribute to and benefit from participation in the GBIF network."
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:15
 msgid ""
 "Participant nodes typically have four main functions (see also "
 "<<node-services>>):"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:15
+#: 100.en.adoc:17
 msgid ""
-"Coordinating a community of initiatives relating to biodiversity, including "
-"making connections to the international GBIF network"
+"Coordinating a community of initiatives and individuals relating to "
+"biodiversity, including making connections to the international GBIF network"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:16
+#: 100.en.adoc:18
 msgid ""
 "Promoting and supporting the mobilization of biodiversity data within the "
 "country or organization’s scope"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:17
+#: 100.en.adoc:19
 msgid ""
 "Encouraging the reuse of the available data to support biodiversity-related "
 "science and support decision-making for sustainable development"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:18
+#: 100.en.adoc:20
 msgid ""
 "Providing expertise on biodiversity data management and improving data "
 "quality to support users' needs"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:20
+#: 100.en.adoc:22
 msgid ""
 "Participant nodes are thus *knowledge hubs* both for biodiversity data and "
-"broader GBIF-related activities. They not only guide stakeholders to "
-"relevant sources of biodiversity information but also to such things as:"
+"broader GBIF-related activities. They not only guide audiences to relevant "
+"sources of biodiversity information but also to such things as:"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:22
+#: 100.en.adoc:24
 msgid "Policies relating to biodiversity and open access"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:23
+#: 100.en.adoc:25
 msgid ""
 "Expertise on how to run digitization programmes, to organize data management "
 "and to implement data quality practices"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:24
+#: 100.en.adoc:26
 msgid "Individual experts in different aspects of biodiversity"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:25
+#: 100.en.adoc:27
 msgid "Broader information about the landscape of biodiversity initiatives"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:27
-msgid ""
-"Most Participant nodes develop a *collaborative framework* of policies, "
-"agreements, community norms and standards, which are adopted by their "
-"stakeholders to guide the publication, management and use of biodiversity "
-"data."
+#: 100.en.adoc:28
+msgid "Opportunities to secure funding and other resources through partnerships"
 msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:29
-msgid ""
-"The *governance structure* of each Participant node varies but often takes "
-"the form of a board or steering committee. This configuration enables data "
-"holders, users and other stakeholders to take collective decisions "
-"concerning the publishing and reuse of biodiversity data while providing the "
-"node with priorities and guidance on the implementation of its work."
+msgid "Partnerships for planning and delivery of biodiversity projects"
 msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:30
+msgid "Activities to raise awareness and promote the value of biodiversity data"
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:32
+msgid ""
+"Most Participant nodes develop a *collaborative framework* of policies, "
+"agreements, community norms and standards, which are adopted by their "
+"network members to guide the publication, management and use of biodiversity "
+"data."
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:33
 msgid ""
 "Participant nodes provide the technical expertise to *support the "
 "publication of biodiversity data of the highest possible quality by data "
