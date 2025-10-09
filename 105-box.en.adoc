@@ -8,7 +8,11 @@
 
 *Biodiversity information facility*: Variously described as a ‘BIF’, a system or a network, a broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders.
 
-*Participant node*: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.
+*Participant node*: a coordinating team designated by the Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. National nodes and Organizational nodes are types of Participants nodes, distinguished by whether the Participant is a country or an eligible organization.
+
+*National nodes*: the Participant node of a country having joined GBIF as either a Voting or Associate Participant.
+
+*Organizational node*: the Participant node of an Other Associate Participant organization having joined GBIF through signature of the Memorandum of Understanding. Such organizations must be either an intergovernmental or international organization, or an organization with an international scope. Their areas of collaboration with GBIF, including the scope of their node's activities, are often detailed in a Memorandum of Cooperation.
 ****
 
 ****
