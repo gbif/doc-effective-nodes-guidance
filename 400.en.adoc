@@ -20,7 +20,7 @@ The following **basic requirements** need to be considered when establishing a P
 The ability to formulate strategies, plans and policies based on relevant assessments.
 
 . A *clear mandate* (official; institutional) through which the node is given formal responsibility for promoting, coordinating and facilitating the management and use of biodiversity data among the relevant stakeholder institutions within the Participant’s domain.  
-. A *governance structure* that is representative of the major stakeholders within the Participant's domain. An actively engaged governing body that guides and supports the node’s work helps to ensure that the relevant actors feel ownership of the node’s work. 
+. A *governance structure or mechanism* that enables connections between the node and its work and the relevant audiences within the Participant country or organization. For national nodes, an actively engaged governing body should guide and support the node, helping to ensure that the relevant actors feel ownership of the node’s work. For organizational nodes, a mechanism should be in place for the node to connect with the organization’s broader governance to enable appropriate planning and steering of activities relating to open biodiversity data and GBIF. 
 . A clearly stated *long-term purpose* with plans for the medium and short term. The node needs a readily understood vision and mission that motivate the node’s team, governance and broader stakeholders. The node needs to be able to formulate a general strategy and regular *work plans* in line with priorities at the Participant level. These plans should define expectations about what the node will deliver in a given time frame and will help evaluate the node’s performance.
 
 [[engagement-capacity]]
