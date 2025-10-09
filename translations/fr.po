@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-10-09 10:23+0000\n"
-"PO-Revision-Date: 2025-10-09 10:30\n"
+"POT-Creation-Date: 2025-10-09 11:50+0000\n"
+"PO-Revision-Date: 2025-10-09 12:52\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -938,8 +938,8 @@ msgstr "Aptitude à initier et à maintenir des partenariats et des réseaux."
 #. type: Plain text
 #: 400.en.adoc:33
 #, no-wrap
-msgid "*A collaborative framework* to form a biodiversity information facility, defined and agreed to by the relevant stakeholders and partners within the Participant’s domain. This framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see <<node-location-selection>>). It should include community norms and relevant formal agreements around data publishing and data access. It should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them.  \n"
-msgstr "*Un cadre collaboratif* pour former un système d’information sur la biodiversité, défini et accepté par les parties prenantes et partenaires concernés dans le réseau du Participant. Ce cadre devrait garantir au point nodal un rôle bien défini dans le paysage des institutions liées à la biodiversité, basé sur des partenariats forts et des services complémentaires (voir <<node-location-selection>>). Il devrait inclure des normes communautaires et des accords formels pertinents concernant la publication et l'accès aux données. Il devrait également permettre de s'assurer que le nœud reconnaisse et valorise les organisations et les individus qui y contribuent et utilisent ses services, afin de construire de bonnes relations avec eux.  \n"
+msgid "*A collaborative framework* to form a biodiversity information facility, defined and agreed to by the relevant audiences and partners within the Participant’s domain. For national nodes, this framework should ensure that the node has a well-defined role within the landscape of biodiversity-related institutions, based on strong partnerships and complementary services (see <<node-location-selection>>). For organizational nodes, the framework should establish how the node will collaborate across the organization’s network, including any internal agreements to facilitate collaboration across departments or network members. Such frameworks should include community norms and relevant formal agreements around data publishing and data access. They should also ensure that the node recognizes and values its constituent organizations and individuals that contribute to and use its services, in order to build good relationships with them.  \n"
+msgstr ""
 
 #. type: Plain text
 #: 400.en.adoc:34
@@ -1027,14 +1027,14 @@ msgstr "Aptitude à accéder, analyser et utiliser les données sur la biodivers
 #. type: Plain text
 #: 400.en.adoc:71
 #, no-wrap
-msgid "*Tools and expertise to generate an agreed set of information products and services* including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a metadata catalogue, and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders. \n"
-msgstr "*Outils et expertise pour générer un ensemble convenu de produits et de services d'information* incluant, par exemple, des listes d'espèces nationales, sous-nationales et thématiques, des contributions au rapport sur l'état de la biodiversité, un catalogue de métadonnées et une analyse des besoins et des lacunes en matière de données de biodiversité qui complètent ceux produits par les parties prenantes. \n"
+msgid "*Tools and expertise to generate an agreed set of information products and services* including, for example, national, sub-national and thematic species lists, contributions to biodiversity status reporting, a joint collections registry (in collaboration with GRSciColl), and an analysis of biodiversity data needs and gaps that complement those produced by other stakeholders. \n"
+msgstr ""
 
 #. type: Plain text
 #: 400.en.adoc:72
 #, no-wrap
-msgid "A *programme to support access and use of biodiversity data* available through the GBIF network, possibly including a national or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences. \n"
-msgstr "Un *programme de soutien d'accès et d'utilisation des données sur la biodiversité* disponibles via le réseau GBIF, incluant éventuellement un portail national ou thématique de données de biodiversité. Cela pourrait inclure l'organisation d'ateliers de formation, le lien avec des programmes nationaux d'éducation, la traduction et l'adaptation de la documentation, ainsi que des actions visant à accroître la visibilité lors de conférences scientifiques jugées pertinentes. \n"
+msgid "A *programme to support access and use of biodiversity data* available through the GBIF network, possibly including a national, regional, or thematic biodiversity data portal. This could include organizing training workshops, linking to national education programmes, translating and adapting documentation, and actions to raise visibility at relevant scientific conferences. \n"
+msgstr ""
 
 #. type: Title ====
 #: 400.en.adoc:74
@@ -1197,8 +1197,8 @@ msgstr "La mise en place d’un point nodal de participants et d’un système d
 #. type: Title ===
 #: 500.en.adoc:37
 #, no-wrap
-msgid "How should a GBIF Participant select the institutional location for a node?"
-msgstr "Comment un participant au GBIF devrait-il choisir la position institutionnelle d’un point nodal ?"
+msgid "How should a GBIF Participant country select the institutional location for a node?"
+msgstr ""
 
 #. type: Plain text
 #: 500.en.adoc:40
