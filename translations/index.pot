@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-10-09 09:33+0000\n"
+"POT-Creation-Date: 2025-10-09 09:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1011,21 +1011,87 @@ msgstr ""
 msgid ""
 "The specific responsibilities and services provided by each node vary "
 "considerably, depending in part on the Participant’s priorities for joining "
-"GBIF. Furthermore, some GBIF Participant nodes provide services that are "
-"delivered by separate biodiversity-related institutions in other countries "
-"and organizations. Nevertheless, the services and responsibilities of nodes "
-"can be broadly grouped into four main categories that align with GBIF's "
-"strategic plan and work programme:"
+"GBIF. There are also important differences in the scope and areas of "
+"responsibility of national and organizational nodes."
+msgstr ""
+
+#. type: Plain text
+#: 300.en.adoc:7
+#, no-wrap
+msgid ""
+"*National nodes* are designated entities in Participant countries "
+"responsible for coordinating and facilitating biodiversity data sharing at "
+"the national level. They typically operate under a national mandate and are "
+"supported by a governance structure, such as a board or steering "
+"committee. This configuration allows data holders, users, and other "
+"stakeholders to make collective decisions about the publication and reuse of "
+"biodiversity data, while also providing strategic direction and priorities "
+"for the node’s work.\n"
+msgstr ""
+
+#. type: Plain text
+#: 300.en.adoc:9
+msgid ""
+"The scope of *organizational nodes* varies in line with the scope of the "
+"Participant organization, but typically involves engagement of regional or "
+"thematic networks and communities.  Their relationship with GBIF is "
+"formalized through a Memorandum of Cooperation (MoC), which outlines their "
+"role in advancing biodiversity data mobilization and collaboration within "
+"their respective focus areas. Organizational nodes complement and interact "
+"with national nodes, broadening the network’s reach into regions, themes, "
+"and communities that individual countries may not cover on their "
+"own. National nodes can also benefit from and engage with organizational "
+"nodes by drawing on their thematic expertise, regional coordination "
+"capacity, and shared infrastructures. In some contexts, organizational nodes "
+"may even provide much of the operational and financial work, while the "
+"national node serves primarily as the recognized point of contact and "
+"representative in GBIF governance. This flexible model underscores the "
+"complementary nature of the two node types and the different ways they can "
+"strengthen the network together."
+msgstr ""
+
+#. type: Plain text
+#: 300.en.adoc:11
+#, no-wrap
+msgid ""
+"*Regional and sub-regional organizational nodes* focus on coordinating and "
+"promoting biodiversity data sharing across geographic areas. They support "
+"national nodes within their regions, encourage non-member countries to join "
+"GBIF, and may establish regional data platforms—either by building on GBIF "
+"infrastructure or integrating existing systems. They also help embed "
+"GBIF-related activities into regional processes such as biodiversity "
+"reporting.\n"
+msgstr ""
+
+#. type: Plain text
+#: 300.en.adoc:13
+#, no-wrap
+msgid ""
+"*Thematic organizational nodes* represent communities with a more targeted "
+"expertise—for example, natural history collections, ecosystems, organism "
+"groups, data types, or data standards. These nodes provide technical "
+"knowledge, standards, and capacity-building in their domains. For "
+"coordination, they are assigned to the regional sub-committee of the GBIF "
+"Participant Node Managers Committee corresponding to their headquarters or "
+"primary area of activity.\n"
+msgstr ""
+
+#. type: Plain text
+#: 300.en.adoc:15
+msgid ""
+"Broadly, however, the services and responsibilities of all nodes can be "
+"broadly grouped into four main categories that align with GBIF’s strategic "
+"plan and work programme:"
 msgstr ""
 
 #. type: Title ===
-#: 300.en.adoc:7
+#: 300.en.adoc:17
 #, no-wrap
 msgid "Support for science and research"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:10
+#: 300.en.adoc:20
 #, no-wrap
 msgid ""
 "*_Improving biodiversity evidence for scientific research and "
@@ -1033,19 +1099,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:12 300.en.adoc:27 300.en.adoc:39 300.en.adoc:53
+#: 300.en.adoc:22 300.en.adoc:37 300.en.adoc:49 300.en.adoc:63
 msgid "Examples of services include:"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:14
+#: 300.en.adoc:24
 msgid ""
 "Supporting the development and implementation of national policies on open "
 "science and data in line with the FAIR and CARE data principles"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:15
+#: 300.en.adoc:25
 msgid ""
 "Engaging local researchers in the "
 "https://www.gbif.org/composition/6iHKXo8pUyRPJ2Ut0683Z8/ambassadors[biodiversity "
@@ -1054,7 +1120,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:16
+#: 300.en.adoc:26
 msgid ""
 "Facilitating access to biodiversity data by promoting the use of the GBIF "
 "infrastructure and/or by maintaining a national or thematic biodiversity "
@@ -1062,14 +1128,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:17
+#: 300.en.adoc:27
 msgid ""
 "Consulting with research users of GBIF’s infrastructure for ongoing "
 "evaluation of data needs and data gaps"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:18
+#: 300.en.adoc:28
 msgid ""
 "Promoting the use of correct "
 "https://www.gbif.org/citation-guidelines[citation practices^] for data "
@@ -1077,7 +1143,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:19
+#: 300.en.adoc:29
 msgid ""
 "Engaging with national graduate schools, universities and other key partners "
 "in higher education towards making data skills and GBIF-related training an "
@@ -1085,7 +1151,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:20
+#: 300.en.adoc:30
 msgid ""
 "Promoting the https://www.gbif.org/data-use-club[Data Use Club^] within "
 "research and student communities as a means to develop data literacy skills, "
@@ -1093,19 +1159,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 300.en.adoc:22
+#: 300.en.adoc:32
 #, no-wrap
 msgid "Support for policy and decisions"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:25
+#: 300.en.adoc:35
 #, no-wrap
 msgid "*_Developing partnerships that benefit policy and society_*\n"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:29
+#: 300.en.adoc:39
 msgid ""
 "Promoting synergies with national and regional activities involving other "
 "global biodiversity initiatives, such as the "
@@ -1117,7 +1183,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:30
+#: 300.en.adoc:40
 msgid ""
 "Providing support for policy by, for example, offering advice on the "
 "designation of biodiversity research priorities, and helping to mainstream "
@@ -1126,7 +1192,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:31
+#: 300.en.adoc:41
 msgid ""
 "Providing support for national reporting on biodiversity, for example under "
 "the Convention on Biological Diversity and other multilateral "
@@ -1134,26 +1200,26 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:32
+#: 300.en.adoc:42
 msgid ""
 "Promoting open biodiversity approaches within the business and finance "
 "sectors"
 msgstr ""
 
 #. type: Title ===
-#: 300.en.adoc:34
+#: 300.en.adoc:44
 #, no-wrap
 msgid "Engaging and enabling the community"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:37
+#: 300.en.adoc:47
 #, no-wrap
 msgid "*_Developing the GBIF network to meet future needs and challenges_*\n"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:41
+#: 300.en.adoc:51
 msgid ""
 "Benefiting from and contributing to capacity development activities across "
 "the network, such as mentoring, training, sharing of expertise through task "
@@ -1162,14 +1228,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:42
+#: 300.en.adoc:52
 msgid ""
 "Promoting and coordinating national investment in the digitization and "
 "mobilization of biodiversity information"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:43
+#: 300.en.adoc:53
 msgid ""
 "Promoting the benefits of data publishing, for example, through the use of "
 "https://www.gbif.org/data-papers[data papers^] as a mechanism to gain "
@@ -1177,21 +1243,21 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:44
+#: 300.en.adoc:54
 msgid ""
 "Developing a culture of open access and supporting open data requirements "
 "mandated, for example, through grant conditions"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:45
+#: 300.en.adoc:55
 msgid ""
 "Promoting public engagement in biodiversity issues, for example, by "
 "supporting citizen science initiatives that mobilize observational data"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:46
+#: 300.en.adoc:56
 msgid ""
 "Supporting the development of emerging projects and initiatives to ensure "
 "that they are well aligned with existing data standards and tools, and can "
@@ -1199,13 +1265,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 300.en.adoc:48
+#: 300.en.adoc:58
 #, no-wrap
 msgid "Technical services for biodiversity data management"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:51
+#: 300.en.adoc:61
 #, no-wrap
 msgid ""
 "*_Maintain and evolve infrastructure to advance biodiversity-related "
@@ -1213,7 +1279,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:55
+#: 300.en.adoc:65
 msgid ""
 "Increasing the quality of available biodiversity data to meet "
 "https://www.gbif.org/data-quality-requirements[GBIF data quality "
@@ -1222,14 +1288,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:56
+#: 300.en.adoc:66
 msgid ""
 "Contribute actively to updating GRSciColl and engaging institutions with "
 "collections in data mobilization"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:57
+#: 300.en.adoc:67
 msgid ""
 "Providing technical helpdesk support and assisting data holders with data "
 "management, using appropriate tools and practices, such as the "
@@ -1237,21 +1303,21 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:58
+#: 300.en.adoc:68
 msgid ""
 "Providing https://www.gbif.org/endorsement-guidelines[endorsement of "
 "biodiversity data publishers^] to be added to the GBIF network"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:59
+#: 300.en.adoc:69
 msgid ""
 "Assisting with the development of data management plans within the "
 "development of new projects and initiatives"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:60
+#: 300.en.adoc:70
 msgid ""
 "Acting as a permanent repository for biodiversity data within the "
 "Participant’s domain for data holders that do not have the capacity to "
@@ -1259,14 +1325,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:61
+#: 300.en.adoc:71
 msgid ""
 "Supporting data rescue initiatives by mobilizing historical biodiversity "
 "data"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:61
+#: 300.en.adoc:71
 msgid ""
 "Coordinating with other biodiversity-related initiatives to ensure maximum "
 "interoperability across biodiversity data types"
