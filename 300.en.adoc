@@ -1,7 +1,17 @@
 [[node-services]]
 == What services do Participant nodes provide?
 
-The specific responsibilities and services provided by each node vary considerably, depending in part on the Participant’s priorities for joining GBIF. Furthermore, some GBIF Participant nodes provide services that are delivered by separate biodiversity-related institutions in other countries and organizations. Nevertheless, the services and responsibilities of nodes can be broadly grouped into four main categories that align with GBIF's strategic plan and work programme:
+The specific responsibilities and services provided by each node vary considerably, depending in part on the Participant’s priorities for joining GBIF. There are also important differences in the scope and areas of responsibility of national and organizational nodes. 
+
+*National nodes* are designated entities in Participant countries responsible for coordinating and facilitating biodiversity data sharing at the national level. They typically operate under a national mandate and are supported by a governance structure, such as a board or steering committee. This configuration allows data holders, users, and other stakeholders to make collective decisions about the publication and reuse of biodiversity data, while also providing strategic direction and priorities for the node’s work.
+
+The scope of *organizational nodes* varies in line with the scope of the Participant organization, but typically involves engagement of regional or thematic networks and communities.  Their relationship with GBIF is formalized through a Memorandum of Cooperation (MoC), which outlines their role in advancing biodiversity data mobilization and collaboration within their respective focus areas. Organizational nodes complement and interact with national nodes, broadening the network’s reach into regions, themes, and communities that individual countries may not cover on their own. National nodes can also benefit from and engage with organizational nodes by drawing on their thematic expertise, regional coordination capacity, and shared infrastructures. In some contexts, organizational nodes may even provide much of the operational and financial work, while the national node serves primarily as the recognized point of contact and representative in GBIF governance. This flexible model underscores the complementary nature of the two node types and the different ways they can strengthen the network together.
+
+*Regional and sub-regional organizational nodes* focus on coordinating and promoting biodiversity data sharing across geographic areas. They support national nodes within their regions, encourage non-member countries to join GBIF, and may establish regional data platforms—either by building on GBIF infrastructure or integrating existing systems. They also help embed GBIF-related activities into regional processes such as biodiversity reporting.
+
+*Thematic organizational nodes* represent communities with a more targeted expertise—for example, natural history collections, ecosystems, organism groups, data types, or data standards. These nodes provide technical knowledge, standards, and capacity-building in their domains. For coordination, they are assigned to the regional sub-committee of the GBIF Participant Node Managers Committee corresponding to their headquarters or primary area of activity.
+
+Broadly, however, the services and responsibilities of all nodes can be broadly grouped into four main categories that align with GBIF’s strategic plan and work programme:
 
 [[science-and-research]]
 === Support for science and research
