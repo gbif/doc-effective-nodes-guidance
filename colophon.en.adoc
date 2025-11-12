@@ -5,7 +5,7 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: Concepts and general considerations. 3rd edn. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-d601-d695.
+GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: Concepts and general considerations. {revnumber}. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-d601-d695.
 
 === Contributors
 https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^] and https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]
