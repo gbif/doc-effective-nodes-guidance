@@ -28,7 +28,8 @@ _Establishing an Effective GBIF Participant Node_ is licensed under https://crea
 https://doi.org/10.35035/doc-d601-d695
 
 === Document Control
-Third edition published, June 2025.
+//Third edition published, June 2025.
+{revnumber}, published {revdate}.
 
 Originally based on earlier publications: 
 
