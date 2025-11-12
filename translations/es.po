@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-11-12 11:16+0000\n"
-"PO-Revision-Date: 2025-11-12 11:17\n"
+"POT-Creation-Date: 2025-11-12 11:19+0000\n"
+"PO-Revision-Date: 2025-11-12 13:28\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -52,7 +52,7 @@ msgstr "Cita bibliográfica sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:9
-msgid "GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: Concepts and general considerations. 3rd edn. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-d601-d695."
+msgid "GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: Concepts and general considerations. {revnumber}. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-d601-d695."
 msgstr ""
 
 #. type: Title ===
