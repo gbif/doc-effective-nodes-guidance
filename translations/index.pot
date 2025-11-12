@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-11-12 11:14+0000\n"
+"POT-Creation-Date: 2025-11-12 11:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,18 +155,19 @@ msgstr ""
 msgid "Document Control"
 msgstr ""
 
+#. Third edition published, June 2025.
 #. type: Plain text
-#: colophon.en.adoc:32
-msgid "Third edition published, June 2025."
+#: colophon.en.adoc:33
+msgid "{revnumber}, published {revdate}."
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:34
+#: colophon.en.adoc:35
 msgid "Originally based on earlier publications:"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:36
+#: colophon.en.adoc:37
 msgid ""
 "_Establishing an Effective GBIF Participant Node: Concepts and general "
 "considerations_. https://doi.org/10.15468/doc-z79c-sa53[Version 2^] (2019) "
@@ -178,7 +179,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:37
+#: colophon.en.adoc:38
 msgid ""
 "_Towards establishing a functional GBIF Participant Node (Part I): "
 "definitions and general "
@@ -191,20 +192,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:38
+#: colophon.en.adoc:39
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:41
+#: colophon.en.adoc:42
 msgid ""
 "Illustration by Javier Gamboa, GBIF Secretariat (2025), licensed under "
 "https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:42
+#: colophon.en.adoc:43
 msgid "<<<"
 msgstr ""
 
