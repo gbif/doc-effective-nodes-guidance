@@ -153,7 +153,7 @@ While the specific services that nodes provide vary from one Participant to anot
 * ICT support, webmaster & database management
 * Software development (data capture and cleaning tools, data visualization tools, data portal & web interfaces, web services, etc.)
 * Data analysis & modelling
-* Scientific liaison and promotion of data use in relevant research communities
+* Scientific liaison and promotion of data use in relevant research communities and policy areas
 
 This diversity of functions makes it clear that nodes require staff with a wide range of skills ranging from administrative support to expertise in biodiversity informatics. Deciding how to staff a node will, of course, depend on its expected roles, the level of financial support and the hosting agreement or institutional location of the node. In cases where nodes are integrated into larger institutions, functions like administrative tasks are often provided through in-kind support from the host. The institutional landscape at the Participant level will affect the importance given to particular skills: for example, where a node is coordinating a large number of biodiversity-related institutions, it will need greater emphasis on outreach and networking skills.
 
