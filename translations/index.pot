@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-11-12 13:49+0000\n"
+"POT-Creation-Date: 2025-11-13 11:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2149,7 +2149,7 @@ msgstr ""
 #: 500.en.adoc:157
 msgid ""
 "Scientific liaison and promotion of data use in relevant research "
-"communities"
+"communities and policy areas"
 msgstr ""
 
 #. type: Plain text
