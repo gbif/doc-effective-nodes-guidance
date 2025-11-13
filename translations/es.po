@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-11-12 13:49+0000\n"
-"PO-Revision-Date: 2025-11-12 14:44\n"
+"POT-Creation-Date: 2025-11-13 11:22+0000\n"
+"PO-Revision-Date: 2025-11-13 11:39\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1302,8 +1302,8 @@ msgstr "Delineación de modelos y análisis de datos"
 
 #. type: Plain text
 #: 500.en.adoc:157
-msgid "Scientific liaison and promotion of data use in relevant research communities"
-msgstr "Coordinación científica y promoción del uso de datos en comunidades relevantes de investigación"
+msgid "Scientific liaison and promotion of data use in relevant research communities and policy areas"
+msgstr ""
 
 #. type: Plain text
 #: 500.en.adoc:159
