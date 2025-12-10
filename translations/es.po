@@ -182,7 +182,7 @@ msgstr "La conservación y el uso sostenible de los recursos biológicos depende
 
 #. type: Plain text
 #: preface.en.adoc:7
-msgid "GBIF—the Global Biodiversity Information Facility—is https://www.gbif.org/the-gbif-network[an international network] and https://www.gbif.org[research infrastructure] that exists to enable free and open access to biodiversity data from all sources and to support biodiversity science, environmental research, and evidence-based decision-making. GBIF operates as a federated system of distributed data publishing efforts, coordinated through a global informatics infrastructure and collaborative network."
+msgid "GBIF—the Global Biodiversity Information Facility—is https://www.gbif.org/the-gbif-network[an international network] and https://www.gbif.org[data infrastructure] that exists to enable free and open access to biodiversity data from all sources and to support biodiversity science, environmental research, and evidence-based decision-making. GBIF operates as a federated system of distributed data publishing efforts, coordinated through a global informatics infrastructure and collaborative network."
 msgstr "GBIF—la Infraestructura Mundial de Información en Biodiversidad—es https://www.gbif.org/es/the-gbif-network[una red internacional] e https://www.gbif.org/es/[infraestructura de investigación] que existe para permitir el acceso libre y abierto a los datos de biodiversidad de todas las fuentes y apoyar la ciencia de la biodiversidad, la investigación ambiental y la toma de decisiones basada en pruebas. GBIF opera como un sistema federado de esfuerzos de publicación de datos distribuidos, coordinado a través de una infraestructura de información global y una red de colaboración."
 
 #. type: Plain text
