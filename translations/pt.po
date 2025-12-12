@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-10-09 11:50+0000\n"
-"PO-Revision-Date: 2025-10-09 12:52\n"
+"POT-Creation-Date: 2025-11-13 11:22+0000\n"
+"PO-Revision-Date: 2025-11-13 11:39\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -28,7 +28,7 @@ msgid "GBIF Secretariat <nodes@gbif.org>"
 msgstr "Secretariado GBIF <nodes@gbif.org>"
 
 #. type: Plain text
-#: index.en.adoc:18
+#: index.en.adoc:19
 msgid "languageLinks:combined[]"
 msgstr "languageLinks:combined[]"
 
@@ -52,7 +52,7 @@ msgstr "Citação sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:9
-msgid "GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: Concepts and general considerations. 3rd edn. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-d601-d695."
+msgid "GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: Concepts and general considerations. {revnumber}. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-d601-d695."
 msgstr ""
 
 #. type: Title ===
@@ -63,7 +63,7 @@ msgstr "Colaboradores"
 
 #. type: Plain text
 #: colophon.en.adoc:12
-msgid "https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^] and https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]"
+msgid "https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0001-8056-2385[Hilary Goodson^], https://orcid.org/0000-0002-2685-8078[Marie Grosjean^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^] and https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^]"
 msgstr ""
 
 #. type: Title ===
@@ -133,39 +133,40 @@ msgstr ""
 msgid "Document Control"
 msgstr "Controlo do Documento"
 
+#. Third edition published, June 2025.
 #. type: Plain text
-#: colophon.en.adoc:32
-msgid "Third edition published, June 2025."
+#: colophon.en.adoc:33
+msgid "{revnumber}, published {revdate}."
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:34
+#: colophon.en.adoc:35
 msgid "Originally based on earlier publications:"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:36
+#: colophon.en.adoc:37
 msgid "_Establishing an Effective GBIF Participant Node: Concepts and general considerations_. https://doi.org/10.15468/doc-z79c-sa53[Version 2^] (2019) by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^] and https://orcid.org/0000-0002-2685-8078[Marie Grosjean^]"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:37
+#: colophon.en.adoc:38
 msgid "_Towards establishing a functional GBIF Participant Node (Part I): definitions and general considerations_. https://doi.org/10.15468/doc.fm4b-6q42[First edition^] (2015) by https://orcid.org/0000-0002-6158-8202[Mélianie Raymond], https://orcid.org/0000-0001-6197-9951[Olaf Bánki], https://orcid.org/0000-0002-6590-599X[Kyle Copas], Alberto González-Talaván, https://orcid.org/0000-0002-5015-5807[Tim Hirsch] and https://orcid.org/0000-0001-6492-4016[Donald Hobern]."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:38
+#: colophon.en.adoc:39
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:41
+#: colophon.en.adoc:42
 msgid "Illustration by Javier Gamboa, GBIF Secretariat (2025), licensed under https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:42
+#: colophon.en.adoc:43
 msgid "<<<"
 msgstr ""
 
@@ -693,170 +694,98 @@ msgid "*_Improving biodiversity evidence for scientific research and understandi
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:22 300.en.adoc:37 300.en.adoc:49 300.en.adoc:63
+#: 300.en.adoc:22 300.en.adoc:42 300.en.adoc:59 300.en.adoc:79
 msgid "Examples of services include:"
 msgstr "Os exemplos de serviços incluem:"
 
-#. type: Plain text
-#: 300.en.adoc:24
-msgid "Supporting the development and implementation of national policies on open science and data in line with the FAIR and CARE data principles"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:25
-msgid "Engaging local researchers in the https://www.gbif.org/composition/6iHKXo8pUyRPJ2Ut0683Z8/ambassadors[biodiversity open data ambassadors^] programme to promote the use of GBIF-mediated data at conferences and other relevant fora"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:26
-msgid "Facilitating access to biodiversity data by promoting the use of the GBIF infrastructure and/or by maintaining a national or thematic biodiversity data portal"
-msgstr "Fomentar o acesso a dados de biodiversidade, promovendo a utilização da infraestrutura do GBIF e/ou mantendo um portal nacional ou temático de dados de biodiversidade"
-
-#. type: Plain text
-#: 300.en.adoc:27
-msgid "Consulting with research users of GBIF’s infrastructure for ongoing evaluation of data needs and data gaps"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:28
-msgid "Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices^] for data accessed through the GBIF network"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:29
-msgid "Engaging with national graduate schools, universities and other key partners in higher education towards making data skills and GBIF-related training an essential part of university curricula"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:30
-msgid "Promoting the https://www.gbif.org/data-use-club[Data Use Club^] within research and student communities as a means to develop data literacy skills, for example, by organizing a national/thematic team"
+#. type: Table
+#: 300.en.adoc:34
+#, no-wrap
+msgid "| *For national nodes*                                                                                                                                                                            | *For organizational nodes*                                                                                                                                                               \n"
+"| Coordinating national scientific networks focused on biodiversity data use; supporting publication of biodiversity data from national research outputs.                                         | Coordinating scientific networks in specific domains (e.g., freshwater, agriculture, marine); supporting institutions in publishing datasets aligned with domain-specific needs         \n"
+"| Supporting development and implementation of national policies on open science and data, aligned with FAIR and CARE principles                                                                  | Integrating data management policies into organizational or project-level frameworks supporting open science and FAIR/CARE-aligned practices                                            \n"
+"| Engaging local researchers in the https://www.gbif.org/composition/6iHKXo8pUyRPJ2Ut0683Z8/ambassadors[biodiversity open data ambassadors^] programme to promote the use of GBIF-mediated data at conferences and other national events                                | Engaging researchers within the organization’s network in the https://www.gbif.org/composition/6iHKXo8pUyRPJ2Ut0683Z8/ambassadors[biodiversity open data ambassadors^] programme and promoting GBIF data use at events supported or hosted by the organization\n"
+"| Facilitating access to biodiversity data by promoting the use of the GBIF infrastructure and/or by maintaining a national biodiversity data portal                                              | Promoting the use of the GBIF infrastructure and APIs to ensure access to GBIF-mediated data by the organization’s network and through its tools and platforms                          \n"
+"| Consulting with national research users of GBIF’s infrastructure for ongoing evaluation of data needs and data gaps                                                                             | Consulting with thematic or regional user communities to assess evolving data needs and gaps                                                                                            \n"
+"| Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices^] for data accessed through the GBIF network (shared role)                                                                                        | Promoting the use of correct https://www.gbif.org/citation-guidelines[citation practices^] for data accessed through the GBIF network (shared role)                                                                                \n"
+"| Engaging with national graduate schools, universities and other key partners in higher education towards making data skills and GBIF-related training an essential part of university curricula | Provide advanced support and training on GBIF tools and infrastructure, tailored for thematic or regional use cases                                                                     \n"
+"| Promoting the https://www.gbif.org/data-use-club[Data Use Club^] within research and student communities as a means to develop data literacy skills, for example, by organizing a national team                                      | Promoting the https://www.gbif.org/data-use-club[Data Use Club^] in thematic or regional contexts; e.g., organizing a domain-specific team                                                                                   \n"
 msgstr ""
 
 #. type: Title ===
-#: 300.en.adoc:32
+#: 300.en.adoc:37
 #, no-wrap
 msgid "Support for policy and decisions"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:35
+#: 300.en.adoc:40
 #, no-wrap
 msgid "*_Developing partnerships that benefit policy and society_*\n"
 msgstr ""
 
-#. type: Plain text
-#: 300.en.adoc:39
-msgid "Promoting synergies with national and regional activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism^], https://www.ipbes.net/[IPBES^], https://iucn.org/[IUCN^], https://obis.org/[OBIS^], https://geobon.org/[GEO BON^], and others, including close liaison or joint working with relevant nodes or focal points for these initiatives"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:40
-msgid "Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, spatial planning, biosecurity, conservation and protected area management"
-msgstr "Prestar apoio à política oferecendo, por exemplo, conselhos sobre a designação das prioridades de investigação em matéria de biodiversidade. e ajudando a integrar a utilização dos dados e da informação sobre biodiversidade na tomada de decisões, no ordenamento do território, na biossegurança, na conservação e na gestão de áreas protegidas."
-
-#. type: Plain text
-#: 300.en.adoc:41
-msgid "Providing support for national reporting on biodiversity, for example under the Convention on Biological Diversity and other multilateral biodiversity-related agreements"
-msgstr "Dar apoio aos relatórios nacionais sobre a biodiversidade, como por exemplo ao abrigo da Convenção sobre a Diversidade Biológica e de outros acordos multilaterais associados à biodiversidade"
-
-#. type: Plain text
-#: 300.en.adoc:42
-msgid "Promoting open biodiversity approaches within the business and finance sectors"
+#. type: Table
+#: 300.en.adoc:51
+#, no-wrap
+msgid "| *For national nodes*                                                                                                                                                                                                                                                                           | *For organizational nodes*                                                                                                                                                 \n"
+"| Promoting synergies with national activities involving other global biodiversity initiatives, such as the http://www.cbd.int/chm/default.shtml[CBD Clearing-House Mechanism, IPBES, IUCN, OBIS, GEO BON^], and others, including close liaison or joint working with relevant nodes or focal points for these initiatives            | Serving as liaison between GBIF Participants and intergovernmental or sectoral policy platforms (e.g., agriculture, forestry, marine) relevant to the organization’s scope\n"
+"| Providing support for policy by, for example, offering advice on the designation of biodiversity research priorities, and helping to mainstream the use of of biodiversity data and information in decision-making, spatial planning, biosecurity, conservation and protected area management | Coordinating inputs to regional or thematic policy frameworks, aligning them with biodiversity data priorities                                                            \n"
+"| Providing support for national reporting on biodiversity, for example under the Convention on Biological Diversity and other multilateral biodiversity-related agreements                                                                                                                     | Supporting integration of biodiversity data into cross-border initiatives and regional or domain-specific reporting mechanisms                                            \n"
+"| Promoting open biodiversity approaches within the business and finance sectors                                                                                                                                                                                                                | Facilitating domain-specific partnerships or tools that encourage private sector engagement with biodiversity data                                                        \n"
+"| Contributing to resource mobilization efforts for national-level biodiversity initiatives and cross-ministry cooperation                                                                                                                                                                      | Mobilizing resources for multi-country, regional, or domain-wide biodiversity data projects                                                                               \n"
 msgstr ""
 
 #. type: Title ===
-#: 300.en.adoc:44
+#: 300.en.adoc:54
 #, no-wrap
 msgid "Engaging and enabling the community"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:47
+#: 300.en.adoc:57
 #, no-wrap
 msgid "*_Developing the GBIF network to meet future needs and challenges_*\n"
 msgstr ""
 
-#. type: Plain text
-#: 300.en.adoc:51
-msgid "Benefiting from and contributing to capacity development activities across the network, such as mentoring, training, sharing of expertise through task groups, participation in collaborative projects, testing and advising on new developments from other Participants and the GBIF Secretariat"
-msgstr "Beneficiar de e contribuir para as atividades de desenvolvimento de capacidades em toda a rede, tais como a orientação, formação, partilha de conhecimento através de grupos de tarefas, participação em projetos colaborativos, teste e aconselhamento sobre novos desenvolvimentos de outros Participantes e do Secretariado GBIF"
-
-#. type: Plain text
-#: 300.en.adoc:52
-msgid "Promoting and coordinating national investment in the digitization and mobilization of biodiversity information"
-msgstr "Promover e coordenar o investimento nacional na digitalização e mobilização de informação sobre a biodiversidade"
-
-#. type: Plain text
-#: 300.en.adoc:53
-msgid "Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers^] as a mechanism to gain recognition for sharing of datasets"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:54
-msgid "Developing a culture of open access and supporting open data requirements mandated, for example, through grant conditions"
-msgstr "Desenvolver uma cultura de acesso aberto e apoiar os requisitos de dados abertos impostos através, por exemplo, de condições de subvenção"
-
-#. type: Plain text
-#: 300.en.adoc:55
-msgid "Promoting public engagement in biodiversity issues, for example, by supporting citizen science initiatives that mobilize observational data"
-msgstr "Promover o envolvimento público em questões de biodiversidade, por exemplo, apoiando iniciativas de ciência cidadã que mobilizam dados de observação"
-
-#. type: Plain text
-#: 300.en.adoc:56
-msgid "Supporting the development of emerging projects and initiatives to ensure that they are well aligned with existing data standards and tools, and can make use of existing infrastructure or contribute to further developments"
+#. type: Table
+#: 300.en.adoc:71
+#, no-wrap
+msgid "| *For national nodes*                                                                                                                                                                                                             | *For organizational nodes*                                                                                                                                                                                                      \n"
+"| Benefiting from and contributing to capacity development activities across the network (e.g., mentoring, training, task groups, collaborative projects, testing and advising on new tools)                                     | Supporting training and peer exchange opportunities for data-holding institutions, engaging with GBIF’s trainer network to embed data skills and GBIF tools within the organization’s training or capacity-building programmes\n"
+"| Promoting and coordinating national investment in the digitization and mobilization of biodiversity information                                                                                                                | Encouraging and coordinating investment in biodiversity data management and publication across the organization’s networks or activities                                                                                      \n"
+"| Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers^] as a mechanism to gain recognition for sharing of datasets (shared role)                                                                | Promoting the benefits of data publishing, for example, through the use of https://www.gbif.org/data-papers[data papers^] as a mechanism to gain recognition for sharing of datasets (shared role)                                                               \n"
+"| Developing a culture of open access and supporting open data requirements mandated, for example, through grant conditions                                                                                                      | Encouraging open data practices within the organization, aligned with institutional policies and funding requirements                                                                                                         \n"
+"|                                                                                                                                                                                                                                | Facilitating structured dialogue in collaboration with the GBIF Secretariat—through meetings with audiences via regional forums, communities of practice, or thematic working groups                                          \n"
+"| Promoting citizen science and other public participation initiatives that help mobilize biodiversity observations and raise awareness nationally                                                                               | Promoting citizen science initiatives within thematic or regional contexts relevant to the organization’s scope                                                                                                               \n"
+"| Supporting the development of emerging projects and initiatives to ensure that they are well aligned with existing data standards and tools, and can make use of existing infrastructure or contribute to further developments | Supporting emerging organizational or collaborative projects to align with  standards and GBIF infrastructure, contributing to innovation and network-wide development                                                        \n"
+"| Organizing or co-hosting national or regional meetings and/or workshops in collaboration with the GBIF Secretariat and other Participant nodes                                                                                 | Organizing or co-hosting regional or thematic meetings and/or workshops in collaboration with the GBIF Secretariat and other Participant nodes                                                                                \n"
 msgstr ""
 
 #. type: Title ===
-#: 300.en.adoc:58
+#: 300.en.adoc:74
 #, no-wrap
 msgid "Technical services for biodiversity data management"
 msgstr ""
 
 #. type: Plain text
-#: 300.en.adoc:61
+#: 300.en.adoc:77
 #, no-wrap
 msgid "*_Maintain and evolve infrastructure to advance biodiversity-related knowledge_*\n"
 msgstr ""
 
-#. type: Plain text
-#: 300.en.adoc:65
-msgid "Increasing the quality of available biodiversity data to meet https://www.gbif.org/data-quality-requirements[GBIF data quality requirements^], for example, through the standardization and documentation of existing data sources with metadata"
+#. type: Table
+#: 300.en.adoc:91
+#, no-wrap
+msgid "| *For national nodes*                                                                                                                                                                              | *For organizational nodes*                                                                                                                          \n"
+"| Increasing the quality of available biodiversity data to meet GBIF https://www.gbif.org/data-quality-requirements[data quality requirements^], for example, through the standardization and documentation of existing data sources with metadata | Improving the quality of data from the organization’s network, ensuring alignment with GBIF standards and technical requirements                  \n"
+"| Contribute actively to updating GRSciColl and engaging national institutions with collections in data mobilization                                                                              | Facilitating mobilization of collections across the organization’s affiliated institutions; contributing to GRSciColl with domain-specific updates\n"
+"| Providing technical helpdesk support and assisting data holders with data management, using appropriate tools and practices, such as the https://www.gbif.org/tools/data-validator[GBIF data validator^]                                    | Offering technical assistance and training to data publishers within the organization's domain or region                                          \n"
+"| Providing https://www.gbif.org/endorsement-guidelines[endorsement of biodiversity data publishers^] from the country to be added to the GBIF network                                                                                          | Serving as the endorsing node for data publishers affiliated with the organization and/or aligned with the organization’s scope as appropriate    \n"
+"| Supporting integration of data management planning into national research projects and institutional strategies                                                                                 | Assisting project teams and organizational partners in developing data management plans that support open biodiversity data sharing               \n"
+"| Providing long-term hosting or storage solutions for national biodiversity datasets when publishers lack capacity                                                                               | Offering hosting services for biodiversity datasets within the organizational network or where capacity gaps exist                                \n"
+"| Leading or coordinating national data rescue efforts, including mobilization of historical or non-digital biodiversity data                                                                     | Supporting domain-specific or organizational data rescue initiatives to recover and digitize legacy biodiversity information                      \n"
+"| Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types                                                                      | Fostering interoperability between GBIF infrastructure and specialized platforms or information systems used within the organization’s domain     \n"
 msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:66
-msgid "Contribute actively to updating GRSciColl and engaging institutions with collections in data mobilization"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:67
-msgid "Providing technical helpdesk support and assisting data holders with data management, using appropriate tools and practices, such as the https://www.gbif.org/tools/data-validator[GBIF data validator^]"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:68
-msgid "Providing https://www.gbif.org/endorsement-guidelines[endorsement of biodiversity data publishers^] to be added to the GBIF network"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:69
-msgid "Assisting with the development of data management plans within the development of new projects and initiatives"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:70
-msgid "Acting as a permanent repository for biodiversity data within the Participant’s domain for data holders that do not have the capacity to maintain their own permanent records"
-msgstr "Atuar como um repositório permanente de dados de biodiversidade na área do Participante para detentores de dados que não tenham capacidade para manter os seus próprios registos permanentes"
-
-#. type: Plain text
-#: 300.en.adoc:71
-msgid "Supporting data rescue initiatives by mobilizing historical biodiversity data"
-msgstr ""
-
-#. type: Plain text
-#: 300.en.adoc:71
-msgid "Coordinating with other biodiversity-related initiatives to ensure maximum interoperability across biodiversity data types"
-msgstr "Coordenando com outras iniciativas relacionadas com a biodiversidade para garantir a máxima interoperabilidade entre os tipos de dados da biodiversidade"
 
 #. type: Title ==
 #: 400.en.adoc:2
@@ -1371,8 +1300,8 @@ msgstr "Análise e modelação de dados"
 
 #. type: Plain text
 #: 500.en.adoc:157
-msgid "Scientific liaison and promotion of data use in relevant research communities"
-msgstr "Ligação científica e promoção da utilização de dados nas comunidades de investigação relevantes"
+msgid "Scientific liaison and promotion of data use in relevant research communities and policy areas"
+msgstr ""
 
 #. type: Plain text
 #: 500.en.adoc:159
