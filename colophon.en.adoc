@@ -8,7 +8,7 @@ endif::backend-html5[]
 GBIF Secretariat (2025) Establishing an Effective GBIF Participant Node: Concepts and general considerations. {revnumber}. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-d601-d695.
 
 === Contributors
-https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0001-8056-2385[Hilary Goodson^], https://orcid.org/0000-0002-2685-8078[Marie Grosjean^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^] and https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^]
+https://orcid.org/0000-0003-1273-1807[David Bloom^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0001-8056-2385[Hilary Goodson^], https://orcid.org/0000-0002-2685-8078[Marie Grosjean^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-0520-6983[David Jennings^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^] and https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^]
 
 === Translators
 
