@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
-"POT-Creation-Date: 2025-11-13 11:22+0000\n"
-"PO-Revision-Date: 2025-12-12 08:53\n"
+"POT-Creation-Date: 2026-03-16 14:05+0000\n"
+"PO-Revision-Date: 2026-03-16 16:42\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -63,7 +63,7 @@ msgstr "Contributeurs"
 
 #. type: Plain text
 #: colophon.en.adoc:12
-msgid "https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0001-8056-2385[Hilary Goodson^], https://orcid.org/0000-0002-2685-8078[Marie Grosjean^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^] and https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^]"
+msgid "https://orcid.org/0000-0003-1273-1807[David Bloom^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0001-8056-2385[Hilary Goodson^], https://orcid.org/0000-0002-2685-8078[Marie Grosjean^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-0520-6983[David Jennings^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^] and https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^]"
 msgstr ""
 
 #. type: Title ===
