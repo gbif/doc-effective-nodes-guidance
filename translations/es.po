@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-nodes-guidance\n"
 "POT-Creation-Date: 2026-03-16 14:05+0000\n"
-"PO-Revision-Date: 2026-03-16 16:42\n"
+"PO-Revision-Date: 2026-05-27 14:53\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -36,7 +36,7 @@ msgstr "languageLinks:combined[]"
 #: colophon.en.adoc:2
 #, no-wrap
 msgid "img/nodes-guidance.png"
-msgstr ""
+msgstr "img/nodes-guidance.png"
 
 #. type: Title ==
 #: colophon.en.adoc:5
@@ -64,7 +64,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid "https://orcid.org/0000-0003-1273-1807[David Bloom^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0001-8056-2385[Hilary Goodson^], https://orcid.org/0000-0002-2685-8078[Marie Grosjean^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-0520-6983[David Jennings^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^] and https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^]"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-1273-1807[David Bloom^], https://orcid.org/0000-0002-6590-599X[Kyle Copas^], https://orcid.org/0000-0001-8056-2385[Hilary Goodson^], https://orcid.org/0000-0002-2685-8078[Marie Grosjean^], https://orcid.org/0000-0003-3918-4065[Andrea Hahn^], https://orcid.org/0000-0002-5015-5807[Tim Hirsch^], https://orcid.org/0000-0003-0520-6983[David Jennings^], https://orcid.org/0009-0004-6438-6536[Maheva Bagard Laursen^], https://orcid.org/0000-0002-6158-8202[Mélianie Raymond^] and https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^]"
 
 #. type: Title ===
 #: colophon.en.adoc:13
@@ -76,29 +76,29 @@ msgstr ""
 #: colophon.en.adoc:15
 #, no-wrap
 msgid "link:../fr[French]"
-msgstr ""
+msgstr "link:../fr[French]"
 
 #. type: Plain text
 #: colophon.en.adoc:17
 msgid "https://orcid.org/0000-0002-6718-6669[Carole Sinou^], https://orcid.org/0000-0002-7839-5300[André Heughebaert^], https://orcid.org/0000-0001-6597-8438[Pierre Radji^] and https://orcid.org/0000-0003-4736-7419[Sophie Pamerlon^]"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-6718-6669[Carole Sinou^], https://orcid.org/0000-0002-7839-5300[André Heughebaert^], https://orcid.org/0000-0001-6597-8438[Pierre Radji^] and https://orcid.org/0000-0003-4736-7419[Sophie Pamerlon^]"
 
 #. type: Title ====
 #: colophon.en.adoc:18
 #, no-wrap
 msgid "link:../pt[Portuguese]"
-msgstr ""
+msgstr "link:../pt[Portuguese]"
 
 #. type: Plain text
 #: colophon.en.adoc:20
 msgid "https://orcid.org/0000-0002-8351-4028[Rui Figueira^] and Joao Nicolau"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-8351-4028[Rui Figueira^] and Joao Nicolau"
 
 #. type: Title ====
 #: colophon.en.adoc:21
 #, no-wrap
 msgid "link:../es[Spanish]"
-msgstr ""
+msgstr "link:../es[Spanish]"
 
 #. type: Plain text
 #: colophon.en.adoc:23
@@ -137,7 +137,7 @@ msgstr "Control de documentos"
 #. type: Plain text
 #: colophon.en.adoc:33
 msgid "{revnumber}, published {revdate}."
-msgstr ""
+msgstr "{revnumber}, publicado {revdate}."
 
 #. type: Plain text
 #: colophon.en.adoc:35
@@ -158,7 +158,7 @@ msgstr ""
 #: colophon.en.adoc:39
 #, no-wrap
 msgid "Cover image"
-msgstr ""
+msgstr "Imagen de portada"
 
 #. type: Plain text
 #: colophon.en.adoc:42
@@ -168,7 +168,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:43
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: preface.en.adoc:2
@@ -1416,7 +1416,7 @@ msgstr "Discutir qué partes de las instalaciones de información sobre biodiver
 msgid "Define *key roles* for the node in support of the biodiversity information facility \n"
 "|[.small]#Participatory process#\n"
 "*Defining implementation models*"
-msgstr ""
+msgstr "Defina *roles clave* para el nodo en soporte de las instalaciones de información sobre biodiversidad |[.small]#Procesos participativos# + *Definición de modelos de implementación*"
 
 #. type: Table
 #: 505-box.en.adoc:35
