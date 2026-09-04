@@ -4,11 +4,11 @@
 [discrete]
 ==== Head of Delegation
 
-Following signature of the Memorandum of Understanding (MoU), new GBIF Participants are requested to nominate a Head of Delegation (HoD), to represent the country, economy or organization on the Governing Board, and to act as the Participant’s primary focal point for all GBIF-related activity.
+Following signature of the Memorandum of Understanding (MOU), new GBIF Participants are requested to nominate a Head of Delegation (HOD), to represent the country, economy or organization on the Governing Board, and to act as the Participant’s primary focal point for all GBIF-related activity.
 
-The specific responsibilities of the HoD include:
+The specific responsibilities of the HOD include:
 
-* Attending Governing Board meetings held annually, usually in September or October. If the HoD is not able to attend, he/she can appoint a temporary HoD to attend the meeting.
+* Attending Governing Board meetings held annually, usually in September or October. If the HOD is not able to attend, he/she can appoint a temporary HOD to attend the meeting.
 * Nominating additional delegates to attend Governing Board meetings (a maximum of two additional delegates may attend each meeting, ideally including the Node Manager); informing the Secretariat prior to each meeting about the composition of the delegation.
 * Preparing for such meetings by reading and consulting as appropriate on key documents submitted for approval by the Governing Board, such as the work programme, budget and strategic decisions. All documentation is distributed one month in advance of the meeting.
 * Responding to intersessional communications from the Secretariat and Governing Board Chair between Governing Board meetings, including consultations, calls for award nominations and other requests for which actions or views are sought from Participants.
@@ -31,7 +31,7 @@ After joining GBIF, Participants are also encouraged as soon as possible to appo
 * Collaborating with other node managers and the Secretariat to ensure that the country or organization benefits fully from GBIF participation, including through mentoring arrangements and guidance to share skills and best practices in biodiversity informatics.
 * As a member of the GBIF Nodes Committee, attending global nodes meetings (held every two years) and regional nodes meetings (held either annually or every two years) as well as technical workshops and training events.
 * Paying close attention to communications from the GBIF Secretariat, including webinars and newsletters, on technical developments and opportunities such as capacity enhancement support calls, and keeping the Secretariat informed about node activities that may be of interest to the wider community.
-* Establishing a close working relationship with the HoD to ensure he/she is well informed about the needs and performance of the node, and ideally attending Governing Board meetings as an additional delegate.
+* Establishing a close working relationship with the HOD to ensure he/she is well informed about the needs and performance of the node, and ideally attending Governing Board meetings as an additional delegate.
 * For Node Managers of organizational nodes, coordinating with national nodes within regional and/or thematic communities to ensure that efforts are aligned and mutually supportive.
 
 ****
