@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-03-16 14:05+0000\n"
+"POT-Creation-Date: 2026-09-04 08:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -578,8 +578,8 @@ msgstr ""
 #. type: delimited block *
 #: 110-box.en.adoc:8
 msgid ""
-"Following signature of the Memorandum of Understanding (MoU), new GBIF "
-"Participants are requested to nominate a Head of Delegation (HoD), to "
+"Following signature of the Memorandum of Understanding (MOU), new GBIF "
+"Participants are requested to nominate a Head of Delegation (HOD), to "
 "represent the country, economy or organization on the Governing Board, and "
 "to act as the Participant’s primary focal point for all GBIF-related "
 "activity."
@@ -587,15 +587,15 @@ msgstr ""
 
 #. type: delimited block *
 #: 110-box.en.adoc:10
-msgid "The specific responsibilities of the HoD include:"
+msgid "The specific responsibilities of the HOD include:"
 msgstr ""
 
 #. type: delimited block *
 #: 110-box.en.adoc:12
 msgid ""
 "Attending Governing Board meetings held annually, usually in September or "
-"October. If the HoD is not able to attend, he/she can appoint a temporary "
-"HoD to attend the meeting."
+"October. If the HOD is not able to attend, he/she can appoint a temporary "
+"HOD to attend the meeting."
 msgstr ""
 
 #. type: delimited block *
@@ -745,7 +745,7 @@ msgstr ""
 #. type: delimited block *
 #: 110-box.en.adoc:35
 msgid ""
-"Establishing a close working relationship with the HoD to ensure he/she is "
+"Establishing a close working relationship with the HOD to ensure he/she is "
 "well informed about the needs and performance of the node, and ideally "
 "attending Governing Board meetings as an additional delegate."
 msgstr ""
